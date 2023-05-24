@@ -21,7 +21,7 @@
 - Configure sound:
   - Select Digital: **Sound Blaster 16/AWE32**; Port: **220**; DMA: **1**; IRQ: **7**.
   - Select MIDI: **MPU-401**; Port: **330**.
-- Proceed with patching the game, press **Y** to confirm all the prompts.
+- Proceed with patching the game by pressing `Y` to confirm all the questions.
 
 ![](Montage.png 'The Elder Scrolls II: Daggerfall')
 

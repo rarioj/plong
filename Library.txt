@@ -1,8 +1,8 @@
 # vim: filetype=ini:syntax=dosini
 #
 ###### Library properties
-## library-source: <url>
-# library-version: 23.5a
+# library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
+# library-version: 23.5b
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -10,9 +10,10 @@
 # name: Personal Library of Nostalgic Games
 # name: PLoNG
 # info: PLoNG is an attempt to preserve the memory of my gaming youth.
-# tag: Type = SDC Library
-# tag: Name = PLoNG
-# tag: SDC Version = ###script-version###
+# tag: Script Version = ###script-version###
+# tag: Type = Library
+# tag: Library Version = ###library-version###
+# tag: Library Name = PLoNG
 # site: [Simple DOSBox Client](https://github.com/rarioj/sdc)
 # site: Cover Arts = [MobyGames](https://www.mobygames.com/)
 # site: Program Assets = [Archive.org](https://archive.org/)
@@ -194,6 +195,139 @@
 # file: Template-Program-DOS.txt = # code: echo "Hello, World!"
 #
 #
+# file: Template-Program-Win31.txt = # vim: filetype=ini:syntax=dosini
+# file: Template-Program-Win31.txt = #
+# file: Template-Program-Win31.txt = ###### Program properties
+# file: Template-Program-Win31.txt = # asset-verify: 1
+# file: Template-Program-Win31.txt = # thumbnail-file: Thumbnail.png
+# file: Template-Program-Win31.txt = # thumbnail-source: Assets/coverart.jpg
+# file: Template-Program-Win31.txt = # thumbnail-width: 250
+# file: Template-Program-Win31.txt = # montage-file: Montage.png
+# file: Template-Program-Win31.txt = # montage-grid: 5
+# file: Template-Program-Win31.txt = # montage-width: 1000
+# file: Template-Program-Win31.txt = #
+# file: Template-Program-Win31.txt = ###### DOSBox variant compatibility
+# file: Template-Program-Win31.txt = ### 🟩 Fully supported
+# file: Template-Program-Win31.txt = ### 🟨 Runnable with issues
+# file: Template-Program-Win31.txt = ### 🟥 Unsupported, unplayable, or broken
+# file: Template-Program-Win31.txt = ### ⬜ Untested
+# file: Template-Program-Win31.txt = # dosbox: DOSBox = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win31.txt = # dosbox: DOSBox Staging = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win31.txt = # dosbox: DOSBox-X = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win31.txt = #
+# file: Template-Program-Win31.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: Template-Program-Win31.txt = # name: Program Name
+# file: Template-Program-Win31.txt = # name: <alias>
+# file: Template-Program-Win31.txt = # info: This is a program configuration file template. Enter program description here.
+# file: Template-Program-Win31.txt = # tag: Year = YYYY
+# file: Template-Program-Win31.txt = # tag: Genre = Action • Adventure • Educational • Gambling • Idle • Puzzle • Racing • Role-playing • Simulation • Sports • Strategy
+# file: Template-Program-Win31.txt = # tag: Platform = Windows 3.1x
+# file: Template-Program-Win31.txt = # tag: License = Abandonware / Shareware / Freeware / Demo / Unlicensed / Discontinued / Proprietary
+# file: Template-Program-Win31.txt = # tag: Category = <Perspective> • <Pacing> • <Gameplay> • <Sports> • <Educational> • <Vehicular> • <Setting> • <Narrative> • <Other>
+# file: Template-Program-Win31.txt = # tag: Media = Compressed Package / CD-ROM / Floppy Disk
+# file: Template-Program-Win31.txt = # tag: Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command
+# file: Template-Program-Win31.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+# file: Template-Program-Win31.txt = # site: [MobyGames](https://www.mobygames.com/)
+# file: Template-Program-Win31.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/)
+# file: Template-Program-Win31.txt = # site: [MyAbandonware](https://www.myabandonware.com/)
+# file: Template-Program-Win31.txt = # site: [Where to buy? 💰🆓](https://)
+# file: Template-Program-Win31.txt = #
+# file: Template-Program-Win31.txt = # text: ## Host Requirements
+# file: Template-Program-Win31.txt = # text: - Requirements on the host operating system (e.g. installing 7zip, md2iso).
+# file: Template-Program-Win31.txt = # text:
+# file: Template-Program-Win31.txt = # text: ## Installation Notes
+# file: Template-Program-Win31.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: Template-Program-Win31.txt = # text: - Things to do at installation (e.g. setting up audio/video configuration).
+# file: Template-Program-Win31.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: Template-Program-Win31.txt = # text:
+# file: Template-Program-Win31.txt = # text: ## Additional Notes
+# file: Template-Program-Win31.txt = # text: - Things to do after installation or during the program run (e.g. in-game settings, post-installation tasks, etc).
+# file: Template-Program-Win31.txt = # text:
+# file: Template-Program-Win31.txt = # text: ## Known Issues
+# file: Template-Program-Win31.txt = # text: - Issues encountered when running the program on a specific DOSBox variant.
+# file: Template-Program-Win31.txt = # text:
+# file: Template-Program-Win31.txt = # text: ## Licensing Information
+# file: Template-Program-Win31.txt = # text: - Things to note regarding the program license or release.
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [sdl]
+# file: Template-Program-Win31.txt = #fullscreen = true
+# file: Template-Program-Win31.txt = #fullresolution = original
+# file: Template-Program-Win31.txt = #windowresolution = 1024x768
+# file: Template-Program-Win31.txt = #windowposition = ,
+# file: Template-Program-Win31.txt = #output = opengl
+# file: Template-Program-Win31.txt = autolock = true
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [dosbox]
+# file: Template-Program-Win31.txt = #machine = vesa_nolfb
+# file: Template-Program-Win31.txt = memsize = 256
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [render]
+# file: Template-Program-Win31.txt = #aspect = true
+# file: Template-Program-Win31.txt = #aspect_ratio = -1:-1
+# file: Template-Program-Win31.txt = scaler = none
+# file: Template-Program-Win31.txt = #autofit = false
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [video]
+# file: Template-Program-Win31.txt = vmemsize = 4
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [cpu]
+# file: Template-Program-Win31.txt = core = normal
+# file: Template-Program-Win31.txt = cputype = pentium_slow
+# file: Template-Program-Win31.txt = cycles = max
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [dos]
+# file: Template-Program-Win31.txt = hard drive data rate limit = 0
+# file: Template-Program-Win31.txt = floppy drive data rate limit = 0
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [ide, primary]
+# file: Template-Program-Win31.txt = int13fakeio = true
+# file: Template-Program-Win31.txt = int13fakev86io = false
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = [autoexec]
+# file: Template-Program-Win31.txt = @ECHO OFF
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = MOUNT C "./drive"
+# file: Template-Program-Win31.txt = #IMGMOUNT A "./Assets/disk.img" -t floppy
+# file: Template-Program-Win31.txt = #IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: Template-Program-Win31.txt = #MOUNT X "./Assets"
+# file: Template-Program-Win31.txt = GOTO F_DEBUG
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = IF NOT EXIST C:\APP\APP.EXE GOTO F_INSTALL
+# file: Template-Program-Win31.txt = IF EXIST C:\APP\APP.EXE GOTO F_START
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = :F_INSTALL
+# file: Template-Program-Win31.txt = C:
+# file: Template-Program-Win31.txt = CALL C:\AUTOEXEC.BAT
+# file: Template-Program-Win31.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: Template-Program-Win31.txt = COPY C:\RUNEXIT.EXE C:\APP
+# file: Template-Program-Win31.txt = GOTO F_EXIT
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = :F_START
+# file: Template-Program-Win31.txt = C:
+# file: Template-Program-Win31.txt = CALL C:\AUTOEXEC.BAT
+# file: Template-Program-Win31.txt = C:\WINDOWS\WIN.COM C:\APP\RUNEXIT.EXE C:\APP\APP.EXE
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = :F_EXIT
+# file: Template-Program-Win31.txt = EXIT
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = :F_DEBUG
+# file: Template-Program-Win31.txt
+# file: Template-Program-Win31.txt = # asset: coverart.jpg = https://cdn.mobygames.com/
+# file: Template-Program-Win31.txt = # check: coverart.jpg = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win31.txt = # asset: cdrom.bin = https://archive.org/
+# file: Template-Program-Win31.txt = # check: cdrom.bin = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win31.txt = # asset: manual.pdf = https://archive.org/
+# file: Template-Program-Win31.txt = # check: manual.pdf = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win31.txt = # asset: patch.zip = https://archive.org/
+# file: Template-Program-Win31.txt = # check: patch.zip = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win31.txt = #
+# file: Template-Program-Win31.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: Template-Program-Win31.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: Template-Program-Win31.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: Template-Program-Win31.txt = #
+# file: Template-Program-Win31.txt = # code: echo "Hello, World!"
+#
+#
 # file: All Programs/Games/Abuse/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Abuse/Program.txt = #
 # file: All Programs/Games/Abuse/Program.txt = # name: Abuse
@@ -209,7 +343,7 @@
 # file: All Programs/Games/Abuse/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Abuse_(video_game))
 # file: All Programs/Games/Abuse/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/389/abuse/)
 # file: All Programs/Games/Abuse/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Abuse&gid=2839)
-# file: All Programs/Games/Abuse/Program.txt = # site: Game Manual = [MyAbandonware](https://www.myabandonware.com/game/abuse-1ne)
+# file: All Programs/Games/Abuse/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/abuse-1ne)
 # file: All Programs/Games/Abuse/Program.txt = # site: [ModDB](https://www.moddb.com/games/abuse)
 # file: All Programs/Games/Abuse/Program.txt = #
 # file: All Programs/Games/Abuse/Program.txt = # text: ## Installation Notes
@@ -248,6 +382,8 @@
 # file: All Programs/Games/Abuse/Program.txt = # check: coverart.jpg = 2303b80749ff5e878918cd0fa796806968c043054895643bb7e7b7af59266fde
 # file: All Programs/Games/Abuse/Program.txt = # asset: cdrom.iso = https://archive.org/download/abusedosisoen/Abuse_DOS_ISO_EN.zip/Abuse_DOS_ISO_EN%2FGame%20Files%2Fabuse.iso
 # file: All Programs/Games/Abuse/Program.txt = # check: cdrom.iso = 7bc0ba22664b256f93737562d98db52384ad532b4bade3a83f480a12093c7353
+# file: All Programs/Games/Abuse/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/kjj-abuse
+# file: All Programs/Games/Abuse/Program.txt = # check: manual.pdf = 70628e82242eed1e1bb1a4fa35a928369c590351f7dc5f8033ef63700f185094
 #
 #
 # file: All Programs/Games/Alien Carnage/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -271,7 +407,7 @@
 # file: All Programs/Games/Alien Carnage/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Alien Carnage/Program.txt = # text: - Press `S` to select Sound Blaster.
 # file: All Programs/Games/Alien Carnage/Program.txt = # text: - Press `M` to enable Music.
-# file: All Programs/Games/Alien Carnage/Program.txt = # text: - Press `K` to calibrate keyboard.
+# file: All Programs/Games/Alien Carnage/Program.txt = # text: - Press `K` to calibrate the keyboard.
 # file: All Programs/Games/Alien Carnage/Program.txt = # text: - Press `ESC` or `ENTER` to complete the configuration.
 # file: All Programs/Games/Alien Carnage/Program.txt
 # file: All Programs/Games/Alien Carnage/Program.txt = [cpu]
@@ -334,8 +470,8 @@
 # file: All Programs/Games/Ascendancy/Program.txt = # text:
 # file: All Programs/Games/Ascendancy/Program.txt = # text: ## Additional Notes
 # file: All Programs/Games/Ascendancy/Program.txt = # text: - Version 1.6.5 add-on is the official Ascendancy patch.
-# file: All Programs/Games/Ascendancy/Program.txt = # text: - Version 1.6.10 add-on is the official Ascendancy Antagonizer AI module as released by The Logic Factory (more challenging computer opponents).
-# file: All Programs/Games/Ascendancy/Program.txt = # text: - You can toggle **Cheat** and/or **Autoplay** features before running the game.
+# file: All Programs/Games/Ascendancy/Program.txt = # text: - Version 1.6.10 add-on is the official Ascendancy Antagonizer AI module released by The Logic Factory (more challenging computer opponents).
+# file: All Programs/Games/Ascendancy/Program.txt = # text: - You can toggle **Cheat** and **Autoplay** features before running the game.
 # file: All Programs/Games/Ascendancy/Program.txt
 # file: All Programs/Games/Ascendancy/Program.txt = [sdl]
 # file: All Programs/Games/Ascendancy/Program.txt = autolock = true
@@ -616,7 +752,7 @@
 # file: All Programs/Games/Blackthorne/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Blackthorne)
 # file: All Programs/Games/Blackthorne/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1445/blackthorne/)
 # file: All Programs/Games/Blackthorne/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Blackthorne&gid=1645)
-# file: All Programs/Games/Blackthorne/Program.txt = # site: Game Manual = [MyAbandonware](https://www.myabandonware.com/game/blackthorne-2p8)
+# file: All Programs/Games/Blackthorne/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/blackthorne-2p8)
 # file: All Programs/Games/Blackthorne/Program.txt = #
 # file: All Programs/Games/Blackthorne/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Blackthorne/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
@@ -641,30 +777,9 @@
 # file: All Programs/Games/Blackthorne/Program.txt = INST.EXE
 # file: All Programs/Games/Blackthorne/Program.txt
 # file: All Programs/Games/Blackthorne/Program.txt = :F_START
-# file: All Programs/Games/Blackthorne/Program.txt = CLS
-# file: All Programs/Games/Blackthorne/Program.txt = ECHO Blackthorne
-# file: All Programs/Games/Blackthorne/Program.txt = ECHO.
-# file: All Programs/Games/Blackthorne/Program.txt = ECHO 1. Play Blackthorne
-# file: All Programs/Games/Blackthorne/Program.txt = ECHO 2. Read Manual
-# file: All Programs/Games/Blackthorne/Program.txt = ECHO 3. Exit Program
-# file: All Programs/Games/Blackthorne/Program.txt = ECHO.
-# file: All Programs/Games/Blackthorne/Program.txt = CHOICE /C:123 /N "Please select:"
-# file: All Programs/Games/Blackthorne/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
-# file: All Programs/Games/Blackthorne/Program.txt = IF ERRORLEVEL==2 GOTO F_MANUAL
-# file: All Programs/Games/Blackthorne/Program.txt = IF ERRORLEVEL==1 GOTO F_BTHORNE
-# file: All Programs/Games/Blackthorne/Program.txt = GOTO F_EXIT
-# file: All Programs/Games/Blackthorne/Program.txt
-# file: All Programs/Games/Blackthorne/Program.txt = :F_BTHORNE
 # file: All Programs/Games/Blackthorne/Program.txt = C:
 # file: All Programs/Games/Blackthorne/Program.txt = CD C:\BTHORNE
 # file: All Programs/Games/Blackthorne/Program.txt = BTHORNE.EXE
-# file: All Programs/Games/Blackthorne/Program.txt = GOTO F_START
-# file: All Programs/Games/Blackthorne/Program.txt
-# file: All Programs/Games/Blackthorne/Program.txt = :F_MANUAL
-# file: All Programs/Games/Blackthorne/Program.txt = D:
-# file: All Programs/Games/Blackthorne/Program.txt = CD D:\BTMANUAL
-# file: All Programs/Games/Blackthorne/Program.txt = VIEW.EXE
-# file: All Programs/Games/Blackthorne/Program.txt = GOTO F_START
 # file: All Programs/Games/Blackthorne/Program.txt
 # file: All Programs/Games/Blackthorne/Program.txt = :F_EXIT
 # file: All Programs/Games/Blackthorne/Program.txt = EXIT
@@ -675,6 +790,8 @@
 # file: All Programs/Games/Blackthorne/Program.txt = # check: coverart.jpg = 483e966c5396680bd6210935f3006e2da313167fc1e831dc03b8db084299fbf7
 # file: All Programs/Games/Blackthorne/Program.txt = # asset: cdrom.bin = https://archive.org/download/blackthorneusarerelease/Blackthorne%20%28USA%29%20%28Rerelease%29.zip/Blackthorne%20%28USA%29%20%28Rerelease%29.bin
 # file: All Programs/Games/Blackthorne/Program.txt = # check: cdrom.bin = f6174c8d6af6f0125070d19d881a585f7edf8231ca86fa1b226fc257ea691d0b
+# file: All Programs/Games/Blackthorne/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/3ke-blackthorne
+# file: All Programs/Games/Blackthorne/Program.txt = # check: manual.pdf = b6e59c1a6564522f431cc60dd9f56aca9b7cb820d2ef364e7e300e608be97f95
 # file: All Programs/Games/Blackthorne/Program.txt = #
 # file: All Programs/Games/Blackthorne/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Blackthorne/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
@@ -759,7 +876,7 @@
 # file: All Programs/Games/Cadaver/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Category = Diagonal-down • Puzzle elements • Fantasy
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Media = Floppy Disk
-# file: All Programs/Games/Cadaver/Program.txt = # tag: Add-on • No Manual
+# file: All Programs/Games/Cadaver/Program.txt = # tag: Add-on
 # file: All Programs/Games/Cadaver/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Cadaver_(video_game))
 # file: All Programs/Games/Cadaver/Program.txt = # site: [MobyGames - Cadaver](https://www.mobygames.com/game/1980/cadaver/)
 # file: All Programs/Games/Cadaver/Program.txt = # site: [MobyGames - Cadaver: The Payoff](https://www.mobygames.com/game/10198/cadaver-the-payoff/)
@@ -767,11 +884,12 @@
 # file: All Programs/Games/Cadaver/Program.txt = # site: [AbandonwareDOS - Cadaver: The Payoff](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Cadaver%3A+The+Payoff&gid=889)
 # file: All Programs/Games/Cadaver/Program.txt = # site: [MyAbandonware - Cadaver](https://www.myabandonware.com/game/cadaver-13x)
 # file: All Programs/Games/Cadaver/Program.txt = # site: [MyAbandonware - Cadaver: The Payoff](https://www.myabandonware.com/game/cadaver-the-payoff-258)
+# file: All Programs/Games/Cadaver/Program.txt = # site: [OldGames.sk](https://www.oldgames.sk/docs/cadaver/index.php)
 # file: All Programs/Games/Cadaver/Program.txt = #
 # file: All Programs/Games/Cadaver/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Cadaver/Program.txt = # text: - Audio options: **Sound Blaster**.
 # file: All Programs/Games/Cadaver/Program.txt = # text: - Video options: **Colour VGA**.
-# file: All Programs/Games/Cadaver/Program.txt = # text: - Control method: *Configure control keys here*.
+# file: All Programs/Games/Cadaver/Program.txt = # text: - Control method: *Configure the control keys here*.
 # file: All Programs/Games/Cadaver/Program.txt = # text: - Hard disk install:
 # file: All Programs/Games/Cadaver/Program.txt = # text:   - Install from drive A? Press `Y`.
 # file: All Programs/Games/Cadaver/Program.txt = # text:   - Copy files to drive C? Press `Y`.
@@ -807,6 +925,8 @@
 # file: All Programs/Games/Cadaver/Program.txt = # check: coverart.jpg = 8e417c6b7708aaa979c0180d6a1be4c725dc5a2a5b203eeef94f94bcafef6bf3
 # file: All Programs/Games/Cadaver/Program.txt = # asset: disk.img = https://archive.org/download/001755-CadaverThePayoff/001755_cadaver_the_payoff.7z/001755_cadaver_the_payoff%2Fdisk01.img
 # file: All Programs/Games/Cadaver/Program.txt = # check: disk.img = 7945c17351940ba58d27d1f663a0f23a24f6f5716a84e77cecf90f3df434c856
+# file: All Programs/Games/Cadaver/Program.txt = # asset: manual.txt = https://www.oldgames.sk/downloads/oldgames/rpg/Cadaver/docs/cadaver-manual.txt
+# file: All Programs/Games/Cadaver/Program.txt = # check: manual.txt = ce14e07d3de6cfadaa0053c0adf394d06047f7c22beb831b323332fae173ec22
 #
 #
 # file: All Programs/Games/Civilization/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -882,6 +1002,147 @@
 # file: All Programs/Games/Civilization/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Civilization II/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Civilization II/Program.txt = #
+# file: All Programs/Games/Civilization II/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Civilization II/Program.txt = # name: Civilization II
+# file: All Programs/Games/Civilization II/Program.txt = # name: Sid Meier's Civilization II
+# file: All Programs/Games/Civilization II/Program.txt = # name: Civilization 2000
+# file: All Programs/Games/Civilization II/Program.txt = # name: Civilization II: Conflicts in Civilization
+# file: All Programs/Games/Civilization II/Program.txt = # name: Civilization II: Fantastic Worlds
+# file: All Programs/Games/Civilization II/Program.txt = # info: Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully.
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Year = 1996 (Original & Conflicts in Civilization)
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Year = 1997 (Fantastic Worlds)
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Civilization II/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Category = Diagonal-down • Turn-based • 4X • Managerial • Turn-based strategy • Historical events • Post-apocalyptic • Sci-fi • Fantasy • Steampunk
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Compilation
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia - Civilization II: Conflicts in Civilization](https://en.wikipedia.org/wiki/Civilization_II:_Conflicts_in_Civilization)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))
+# file: All Programs/Games/Civilization II/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/15/sid-meiers-civilization-ii/)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [MobyGames - Civilization II: Conflicts in Civilization](https://www.mobygames.com/game/1509/sid-meiers-civilization-ii-scenarios-conflicts-in-civilization/)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [MobyGames - Civilization II: Fantastic Worlds](https://www.mobygames.com/game/1593/civilization-ii-fantastic-worlds/)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization+2&gid=1894)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-453)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [MyAbandonware - Civilization II: Conflicts in Civilization](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-scenarios-conflicts-in-civilization-c45)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [MyAbandonware - Civilization II: Fantastic Worlds](https://www.myabandonware.com/game/civilization-ii-fantastic-worlds-dvr)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Civilization Fandom](https://civilization.fandom.com/wiki/Civilization_II)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Civilization Fandom - Civilization II: Conflicts in Civilization](https://civilization.fandom.com/wiki/Civilization_II:_Conflicts_in_Civilization)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Civilization Fandom - Civilization II: Fantastic Worlds](https://civilization.fandom.com/wiki/Civ_II:_Fantastic_Worlds)
+# file: All Programs/Games/Civilization II/Program.txt = #
+# file: All Programs/Games/Civilization II/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Civilization II/Program.txt = # text:   - Select **Full Install**.
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Install **Video for Windows 1.1e** when prompted. It adds Indeo interactive features to the existing Video for Windows runtime.
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Install both **Conflicts in Civilization** and **Fantastic Worlds** add-ons. Open **Main > File Manager** and go to the `E:` drive. Double-click on each of these filenames listed:
+# file: All Programs/Games/Civilization II/Program.txt = # text:   - `E:\CIVSCEN\SETUP.EXE` to install *Civilization II: Conflicts in Civilization*.
+# file: All Programs/Games/Civilization II/Program.txt = # text:   - `E:\CIVFANT\SETUP.EXE` to install *Civilization II: Fantastic Worlds*.
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Civilization II/Program.txt = # text:
+# file: All Programs/Games/Civilization II/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Civilization II/Program.txt = # text: - When starting the game for the first time, select **Turn ON Heralds. I have at least 16 megabytes of RAM.**
+# file: All Programs/Games/Civilization II/Program.txt = # text:
+# file: All Programs/Games/Civilization II/Program.txt = # text: ### How to play this game on a larger display resolution?
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Select **2. Run Windows Setup** at program start-up.
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Change **Display** settings to _**S3 ... [width]x[height] 256 colors SF.**_
+# file: All Programs/Games/Civilization II/Program.txt = # text:   - Replace *[width]x[height]* with your desired screen resolution, e.g. 800x600 or 1024x768.
+# file: All Programs/Games/Civilization II/Program.txt = # text:   - Only select a display option that ends with *256 colors SF* as it is the most widely used format in games.
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Accept the configuration shown above.
+# file: All Programs/Games/Civilization II/Program.txt = # text: - Press `ENTER` when prompted to **Keep Driver**.
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [sdl]
+# file: All Programs/Games/Civilization II/Program.txt = autolock = true
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [dosbox]
+# file: All Programs/Games/Civilization II/Program.txt = memsize = 256
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [render]
+# file: All Programs/Games/Civilization II/Program.txt = scaler = none
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [video]
+# file: All Programs/Games/Civilization II/Program.txt = vmemsize = 4
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [cpu]
+# file: All Programs/Games/Civilization II/Program.txt = core = normal
+# file: All Programs/Games/Civilization II/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Civilization II/Program.txt = cycles = max
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [dos]
+# file: All Programs/Games/Civilization II/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Civilization II/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [ide, primary]
+# file: All Programs/Games/Civilization II/Program.txt = int13fakeio = true
+# file: All Programs/Games/Civilization II/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = [autoexec]
+# file: All Programs/Games/Civilization II/Program.txt = @ECHO OFF
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Civilization II/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Civilization II/Program.txt = IMGMOUNT E "./Assets/cdexp.cue" -t iso
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = IF NOT EXIST C:\MPS\CIV2\CIV2.EXE GOTO F_INSTALL
+# file: All Programs/Games/Civilization II/Program.txt = IF EXIST C:\MPS\CIV2\CIV2.EXE GOTO F_START
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = :F_INSTALL
+# file: All Programs/Games/Civilization II/Program.txt = C:
+# file: All Programs/Games/Civilization II/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Civilization II/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Civilization II/Program.txt = COPY C:\RUNEXIT.EXE C:\MPS\CIV2
+# file: All Programs/Games/Civilization II/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = :F_START
+# file: All Programs/Games/Civilization II/Program.txt = CLS
+# file: All Programs/Games/Civilization II/Program.txt = ECHO Civilization II
+# file: All Programs/Games/Civilization II/Program.txt = ECHO.
+# file: All Programs/Games/Civilization II/Program.txt = ECHO 1. Play Civilization II
+# file: All Programs/Games/Civilization II/Program.txt = ECHO 2. Run Windows Setup
+# file: All Programs/Games/Civilization II/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Games/Civilization II/Program.txt = ECHO.
+# file: All Programs/Games/Civilization II/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/Civilization II/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/Civilization II/Program.txt = IF ERRORLEVEL==2 GOTO F_SETUP
+# file: All Programs/Games/Civilization II/Program.txt = IF ERRORLEVEL==1 GOTO F_MAIN
+# file: All Programs/Games/Civilization II/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = :F_MAIN
+# file: All Programs/Games/Civilization II/Program.txt = C:
+# file: All Programs/Games/Civilization II/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Civilization II/Program.txt = C:\WINDOWS\WIN.COM C:\MPS\CIV2\RUNEXIT.EXE C:\MPS\CIV2\CIV2.EXE
+# file: All Programs/Games/Civilization II/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = :F_SETUP
+# file: All Programs/Games/Civilization II/Program.txt = C:
+# file: All Programs/Games/Civilization II/Program.txt = CD C:\WINDOWS
+# file: All Programs/Games/Civilization II/Program.txt = SETUP.EXE
+# file: All Programs/Games/Civilization II/Program.txt = GOTO F_START
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = :F_EXIT
+# file: All Programs/Games/Civilization II/Program.txt = EXIT
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = :F_DEBUG
+# file: All Programs/Games/Civilization II/Program.txt
+# file: All Programs/Games/Civilization II/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4022192-sid-meiers-civilization-ii-windows-3x-front-cover.jpg
+# file: All Programs/Games/Civilization II/Program.txt = # check: coverart.jpg = 0db690327547b0e6df4b58702bca5176a668eccf114771e2ecbb41f02b0299bb
+# file: All Programs/Games/Civilization II/Program.txt = # asset: cdrom.bin = https://archive.org/download/Sid_Meier_s_Civilization_II_ENG/Sid_Meier_s_Civilization_II_ENG.bin
+# file: All Programs/Games/Civilization II/Program.txt = # check: cdrom.bin = 0e45ab2e2e04ee98bb49ecfa54e09be656de5ebc9b8218804dd44ff1070a08bd
+# file: All Programs/Games/Civilization II/Program.txt = # asset: cdexp.bin = https://archive.org/download/civ-2-scenfangetpc/CIV2SCENFANGETPC.BIN
+# file: All Programs/Games/Civilization II/Program.txt = # check: cdexp.bin = 54c019c03f716566bbe0d8ed63431d0aa0432437d4eb2f98f40ba3f3af97bda3
+# file: All Programs/Games/Civilization II/Program.txt = # asset: manual.pdf = https://archive.org/download/civilization-2-manual/Civilization%202_%20Manual.pdf
+# file: All Programs/Games/Civilization II/Program.txt = # check: manual.pdf = 840cc15ad5defd21333b97789be30f42b05932bd1c949c24f4e673ebb483b4d0
+# file: All Programs/Games/Civilization II/Program.txt = #
+# file: All Programs/Games/Civilization II/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Civilization II/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Civilization II/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Civilization II/Program.txt = # file: Assets/cdexp.cue = FILE "cdexp.bin" BINARY
+# file: All Programs/Games/Civilization II/Program.txt = # file: Assets/cdexp.cue =   TRACK 01 MODE2/2352
+# file: All Programs/Games/Civilization II/Program.txt = # file: Assets/cdexp.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Command & Conquer/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Command & Conquer/Program.txt = #
 # file: All Programs/Games/Command & Conquer/Program.txt = # name: Command & Conquer
@@ -922,10 +1183,11 @@
 # file: All Programs/Games/Command & Conquer/Program.txt = # text: - CD-ROM images will be mounted based on the selected game:
 # file: All Programs/Games/Command & Conquer/Program.txt = # text:   1. Command & Conquer Disc #1 (GDI) and Disc #2 (Nod)
 # file: All Programs/Games/Command & Conquer/Program.txt = # text:   2. Command & Conquer: The Covert Operations (New Missions)
-# file: All Programs/Games/Command & Conquer/Program.txt = # text: - How to swap CD-ROM images?
-# file: All Programs/Games/Command & Conquer/Program.txt = # text:   - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
-# file: All Programs/Games/Command & Conquer/Program.txt = # text:   - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-# file: All Programs/Games/Command & Conquer/Program.txt = # text:   - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Command & Conquer/Program.txt = # text:
+# file: All Programs/Games/Command & Conquer/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Command & Conquer/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Command & Conquer/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Command & Conquer/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 # file: All Programs/Games/Command & Conquer/Program.txt
 # file: All Programs/Games/Command & Conquer/Program.txt = [sdl]
 # file: All Programs/Games/Command & Conquer/Program.txt = autolock = true
@@ -1071,7 +1333,7 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - Select Vocal & Sound Communication: **SND BLASTER ASP/16/AWE-32**.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - Confirm and Test Port: **220**, IRQ: **7**, and DMA: **5**.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - **IMPORTANT:** Installation may crash at the *PLEASE STANDBY...* screen. Force DOSBox to quit and relaunch to continue the next step.
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - **IMPORTANT:** Installation may crash at the *PLEASE STANDBY...* screen. Force quit DOSBox and relaunch to continue the next step.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: - Installing **Command & Conquer: Red Alert - Counterstrike**:
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: - Installing **Command & Conquer: Red Alert - The Aftermath**:
@@ -1082,10 +1344,11 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   1. Command & Conquer: Red Alert Disc #1 (Allied) and  Disc #2 (Soviet)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   2. Command & Conquer: Red Alert - Counterstrike (New Missions)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   3. Command & Conquer: Red Alert - The Aftermath (New Missions)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: - How to swap CD-ROM images?
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:   - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text:
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = [sdl]
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = autolock = true
@@ -1252,7 +1515,7 @@
 # file: All Programs/Games/D-Generation/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
 # file: All Programs/Games/D-Generation/Program.txt = # text:
 # file: All Programs/Games/D-Generation/Program.txt = # text: ## Additional Notes
-# file: All Programs/Games/D-Generation/Program.txt = # text: - A keyboard with *numeric keypad* is recommended.
+# file: All Programs/Games/D-Generation/Program.txt = # text: - A keyboard with *a numeric keypad* is preferred to play this game.
 # file: All Programs/Games/D-Generation/Program.txt
 # file: All Programs/Games/D-Generation/Program.txt = [autoexec]
 # file: All Programs/Games/D-Generation/Program.txt = @ECHO OFF
@@ -1281,6 +1544,122 @@
 # file: All Programs/Games/D-Generation/Program.txt = # check: coverart.jpg = 4afc032cc4c4852ecd45046cea81ca16a2a920573afe1b67c0867173cadccae6
 # file: All Programs/Games/D-Generation/Program.txt = # asset: cdrom.iso = https://archive.org/download/D-Generation_-_MS-DOS_Game_-_MinscapeEng/DGENERATION.iso
 # file: All Programs/Games/D-Generation/Program.txt = # check: cdrom.iso = 3a7aac90048749663e9acc792a940eb4f425d04e922b5e8d02597edce730ac96
+#
+#
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = #
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # name: Deadlock: Planetary Conquest
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # name: Deadlock
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # name: XenoSphere
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # info: Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Genre = Simulation • Strategy
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Category = Diagonal-down • Turn-based • 4X • Managerial • Sci-fi
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Deadlock:_Planetary_Conquest)
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/696/deadlock-planetary-conquest/)
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Deadlock%3A+Planetary+Conquest&gid=2393)
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/deadlock-planetary-conquest-3in)
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest)
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/)
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = #
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text:
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: ### How to play this game on a larger display resolution?
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Select **2. Run Windows Setup** at program start-up.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Change **Display** settings to _**S3 ... [width]x[height] 256 colors SF.**_
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text:   - Replace *[width]x[height]* with your desired screen resolution, e.g. 800x600 or 1024x768.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text:   - Only select a display option that ends with *256 colors SF* as it is the most widely used format in games.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Accept the configuration shown above.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Press `ENTER` when prompted to **Keep Driver**.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text:
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: ## Licensing Information
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/).
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [sdl]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = autolock = true
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [dosbox]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = memsize = 256
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [render]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = scaler = none
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [video]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = vmemsize = 4
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [cpu]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [dos]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [ide, primary]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = int13fakeio = true
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [autoexec]
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = @ECHO OFF
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF NOT EXIST C:\PROGRAMF\ACCOLADE\DEADLOCK\DEADLOCK.EXE GOTO F_INSTALL
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF EXIST C:\PROGRAMF\ACCOLADE\DEADLOCK\DEADLOCK.EXE GOTO F_START
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = :F_INSTALL
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = C:
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = COPY C:\RUNEXIT.EXE C:\PROGRAMF\ACCOLADE\DEADLOCK
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF NOT EXIST X:\MANUAL.PDF COPY D:\DOCS\MANUAL.PDF X:\MANUAL.PDF
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF NOT EXIST X:\GUIDE.PDF COPY D:\DOCS\GUIDE.PDF X:\GUIDE.PDF
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF NOT EXIST X:\TECHTREE.PDF COPY D:\DOCS\TECHTREE.PDF X:\TECHTREE.PDF
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = :F_START
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = CLS
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = ECHO Deadlock: Planetary Conquest
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = ECHO.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = ECHO 1. Play Deadlock
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = ECHO 2. Run Windows Setup
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = ECHO.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF ERRORLEVEL==2 GOTO F_SETUP
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = IF ERRORLEVEL==1 GOTO F_MAIN
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = :F_MAIN
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = C:
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = C:\WINDOWS\WIN.COM C:\PROGRAMF\ACCOLADE\DEADLOCK\RUNEXIT.EXE C:\PROGRAMF\ACCOLADE\DEADLOCK\DEADLOCK.EXE
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = :F_SETUP
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = C:
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = CD C:\WINDOWS
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = SETUP.EXE
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = GOTO F_START
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = :F_EXIT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = EXIT
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = :F_DEBUG
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3941609-deadlock-planetary-conquest-windows-front-cover.jpg
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # check: coverart.jpg = 2476200bd2e077b42b35ac5f411a3c660a4da9277861edd383f2eebca38a7a64
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # asset: cdrom.iso = https://archive.org/download/deadlock_202201/DEADLOCK.ISO
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # check: cdrom.iso = 168489d0f4e3c65ecd2ee149ba372c61244412a8f77c2f6e468c5e104bc8bda1
 #
 #
 # file: All Programs/Games/Electroman/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1338,6 +1717,144 @@
 # file: All Programs/Games/Electroman/Program.txt = # check: game.zip = b9cac8edc0708625c70e992f62ed8adacf9013b82eb3b149ecd0b2504dbeac47
 # file: All Programs/Games/Electroman/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Electroman/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Fade to Black/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Fade to Black/Program.txt = #
+# file: All Programs/Games/Fade to Black/Program.txt = # name: Fade to Black
+# file: All Programs/Games/Fade to Black/Program.txt = # name: Flashback 3D
+# file: All Programs/Games/Fade to Black/Program.txt = # name: Crossfire
+# file: All Programs/Games/Fade to Black/Program.txt = # name: Project Morphs
+# file: All Programs/Games/Fade to Black/Program.txt = # info: Lock and load as you jump into this adrenaline rush. Conrad, the hero from "Flashback", awakes from his cryogenic sleep to find himself in the clutches of his old enemies, the Morphs. With your heart in your throat, battle through the solar system in a three-dimensional environment. Know how to win the confidence of the Ancients, these mysterious people, and discover the powers of the Pyramid. Overcome the terror which invades you in these mazes infested with danger, and exhaust your limits to conquer the Morph invaders.
+# file: All Programs/Games/Fade to Black/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Fade to Black/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Fade to Black/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Fade to Black/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Fade to Black/Program.txt = # tag: Category = 3rd-person • Puzzle elements • Shooter • Sci-fi
+# file: All Programs/Games/Fade to Black/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Fade to Black/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Fade_to_Black_(video_game))
+# file: All Programs/Games/Fade to Black/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3015/fade-to-black/)
+# file: All Programs/Games/Fade to Black/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fade+to+Black&gid=1559)
+# file: All Programs/Games/Fade to Black/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/fade-to-black-2ro)
+# file: All Programs/Games/Fade to Black/Program.txt = #
+# file: All Programs/Games/Fade to Black/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Fade to Black/Program.txt = # text: - Installation of the game: **Maximum Installation**.
+# file: All Programs/Games/Fade to Black/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Fade to Black/Program.txt = # text: - Sound card selection:
+# file: All Programs/Games/Fade to Black/Program.txt = # text:   - SFX card selection: **Creative Labs Sound Blaster 16 or AWE32** (automatic configuration).
+# file: All Programs/Games/Fade to Black/Program.txt = # text:   - MIDI card selection: **Creative Labs Sound Blaster(TM) 16** (automatic configuration).
+# file: All Programs/Games/Fade to Black/Program.txt = # text: - Resolution selection: **640x400**.
+# file: All Programs/Games/Fade to Black/Program.txt = # text: - Controls selection: **Mouse and Keyboard**.
+# file: All Programs/Games/Fade to Black/Program.txt = # text:
+# file: All Programs/Games/Fade to Black/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Fade to Black/Program.txt = # text: - A desktop keyboard with right-hand Ctrl, Shift, and Alt keys is preferred to play this game.
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = [sdl]
+# file: All Programs/Games/Fade to Black/Program.txt = autolock = true
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = [cpu]
+# file: All Programs/Games/Fade to Black/Program.txt = core = dynamic
+# file: All Programs/Games/Fade to Black/Program.txt = cputype = pentium
+# file: All Programs/Games/Fade to Black/Program.txt = cycles = max
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = [autoexec]
+# file: All Programs/Games/Fade to Black/Program.txt = @ECHO OFF
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Fade to Black/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = IF NOT EXIST C:\F2B\F2B.BAT GOTO F_INSTALL
+# file: All Programs/Games/Fade to Black/Program.txt = IF EXIST C:\F2B\F2B.BAT GOTO F_START
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = :F_INSTALL
+# file: All Programs/Games/Fade to Black/Program.txt = D:
+# file: All Programs/Games/Fade to Black/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = :F_START
+# file: All Programs/Games/Fade to Black/Program.txt = C:
+# file: All Programs/Games/Fade to Black/Program.txt = CD C:\F2B
+# file: All Programs/Games/Fade to Black/Program.txt = CALL F2B.BAT -2
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = :F_EXIT
+# file: All Programs/Games/Fade to Black/Program.txt = EXIT
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = :F_DEBUG
+# file: All Programs/Games/Fade to Black/Program.txt
+# file: All Programs/Games/Fade to Black/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4087454-fade-to-black-dos-front-cover.jpg
+# file: All Programs/Games/Fade to Black/Program.txt = # check: coverart.jpg = c28938d41e6c2a0989727f9e7d715ecc4badfc3cf1a3d1c1b7fcad97999821e9
+# file: All Programs/Games/Fade to Black/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Fade_to_Black_1995/Fade_to_Black_1995.zip/FadetoBl%2Fcd%2FFadeToBlack.img
+# file: All Programs/Games/Fade to Black/Program.txt = # check: cdrom.iso = 1caf291f427769e1bbfde1a06cf9d772abb9a5605b962473f3947f78b2c71cc1
+# file: All Programs/Games/Fade to Black/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/c64-flashback-the-quest-for-identity
+# file: All Programs/Games/Fade to Black/Program.txt = # check: manual.pdf = ab9aa7f1c8670d7afa8f50069241f4aa95f9f93c0f4cf73ab8a1b9b21966d296
+#
+#
+# file: All Programs/Games/Flashback/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Flashback/Program.txt = #
+# file: All Programs/Games/Flashback/Program.txt = # name: Flashback
+# file: All Programs/Games/Flashback/Program.txt = # name: Flashback: The Quest for Identity
+# file: All Programs/Games/Flashback/Program.txt = # info: You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans.
+# file: All Programs/Games/Flashback/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Flashback/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Flashback/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Flashback/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Flashback/Program.txt = # tag: Category = Side view • Platform • Puzzle elements • Shooter • Cyberpunk
+# file: All Programs/Games/Flashback/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Flashback/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Flashback_(1992_video_game))
+# file: All Programs/Games/Flashback/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/555/flashback-the-quest-for-identity/)
+# file: All Programs/Games/Flashback/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Flashback%3A+The+Quest+for+Identity&gid=1501)
+# file: All Programs/Games/Flashback/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/flashback-the-quest-for-identity-1lr)
+# file: All Programs/Games/Flashback/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/flashback)
+# file: All Programs/Games/Flashback/Program.txt = #
+# file: All Programs/Games/Flashback/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Flashback/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Flashback/Program.txt = # text: - Sound FX: **Sound Blaster**
+# file: All Programs/Games/Flashback/Program.txt = # text: - Music: **Ad-Lib / Sound Blaster**
+# file: All Programs/Games/Flashback/Program.txt = # text:
+# file: All Programs/Games/Flashback/Program.txt = # text: ## Licensing Information
+# file: All Programs/Games/Flashback/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback).
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = [cpu]
+# file: All Programs/Games/Flashback/Program.txt = cycles = 8000
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = [autoexec]
+# file: All Programs/Games/Flashback/Program.txt = @ECHO OFF
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Flashback/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = IF NOT EXIST C:\FB\GO.BAT GOTO F_INSTALL
+# file: All Programs/Games/Flashback/Program.txt = IF EXIST C:\FB\GO.BAT GOTO F_START
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = :F_INSTALL
+# file: All Programs/Games/Flashback/Program.txt = D:
+# file: All Programs/Games/Flashback/Program.txt = MD C:\FB
+# file: All Programs/Games/Flashback/Program.txt = COPY INSTALL.PRG C:\FB\INSTALL.EXE
+# file: All Programs/Games/Flashback/Program.txt = COPY READ.ME C:\FB\READ.ME
+# file: All Programs/Games/Flashback/Program.txt = MAKEBAT.EXE C:\FB\GO.BAT
+# file: All Programs/Games/Flashback/Program.txt = C:
+# file: All Programs/Games/Flashback/Program.txt = CD C:\FB
+# file: All Programs/Games/Flashback/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = :F_START
+# file: All Programs/Games/Flashback/Program.txt = C:
+# file: All Programs/Games/Flashback/Program.txt = CD C:\FB
+# file: All Programs/Games/Flashback/Program.txt = CALL GO.BAT
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = :F_EXIT
+# file: All Programs/Games/Flashback/Program.txt = EXIT
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = :F_DEBUG
+# file: All Programs/Games/Flashback/Program.txt
+# file: All Programs/Games/Flashback/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/45946-flashback-the-quest-for-identity-dos-front-cover.jpg
+# file: All Programs/Games/Flashback/Program.txt = # check: coverart.jpg = 4c4a8f0bf76c193c35275236b94dfe35770cb8d1d180c78f6f72522524d8e0af
+# file: All Programs/Games/Flashback/Program.txt = # asset: cdrom.bin = https://archive.org/download/flashback-collection/IBM%20PC.7z/Flashback%20CD.bin
+# file: All Programs/Games/Flashback/Program.txt = # check: cdrom.bin = 3326ae0e8823e307f660e80371f360357bc1f4d15d1839b078d368fbcf80db32
+# file: All Programs/Games/Flashback/Program.txt = # asset: manual.pdf = https://www.starehry.eu/download/action/docs/Flashback-Manual.pdf
+# file: All Programs/Games/Flashback/Program.txt = # check: manual.pdf = bfa8b05de858aec3b69ba40e45d896b6e96993e60c9ba1b3f4e9d92ba27f6b09
+# file: All Programs/Games/Flashback/Program.txt = #
+# file: All Programs/Games/Flashback/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Flashback/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Flashback/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1476,7 +1993,7 @@
 # file: All Programs/Games/Hi-Octane/Program.txt = # text: - When prompted to install the introduction, press `Y`.
 # file: All Programs/Games/Hi-Octane/Program.txt = # text:
 # file: All Programs/Games/Hi-Octane/Program.txt = # text: ## Additional Notes
-# file: All Programs/Games/Hi-Octane/Program.txt = # text: - For high resolution graphics, go to *Options > Detail Options > Screen Resolution*, and select **640 x 480 256 Colours**.
+# file: All Programs/Games/Hi-Octane/Program.txt = # text: - For high-resolution graphics, go to *Options > Detail Options > Screen Resolution*, and select **640 x 480 256 Colours**.
 # file: All Programs/Games/Hi-Octane/Program.txt
 # file: All Programs/Games/Hi-Octane/Program.txt = [cpu]
 # file: All Programs/Games/Hi-Octane/Program.txt = core = dynamic
@@ -1525,6 +2042,68 @@
 # file: All Programs/Games/Hi-Octane/Program.txt = # check: hioctane.zip = 9457fdd0b70abb37672f3406ca8ba2f37e22e9a7c05106a7ef9220bdc847a1d8
 # file: All Programs/Games/Hi-Octane/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Hi-Octane/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/It Came from the Desert/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/It Came from the Desert/Program.txt = #
+# file: All Programs/Games/It Came from the Desert/Program.txt = # name: It Came from the Desert
+# file: All Programs/Games/It Came from the Desert/Program.txt = # info: A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction becomes fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl!
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Year = 1990
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Genre = Action • Adventure
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Category = 1st-person • Top-down • Sci-fi • Detective
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/It Came from the Desert/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/It_Came_from_the_Desert)
+# file: All Programs/Games/It Came from the Desert/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/610/it-came-from-the-desert/)
+# file: All Programs/Games/It Came from the Desert/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=It+Came+from+the+Desert&gid=2310)
+# file: All Programs/Games/It Came from the Desert/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/it-came-from-the-desert-x4)
+# file: All Programs/Games/It Came from the Desert/Program.txt = # site: Game Manual = [OldGames.sk](https://www.oldgames.sk/en/game/it-came-from-the-desert/)
+# file: All Programs/Games/It Came from the Desert/Program.txt = #
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Full function video modes: **VGA 16 color (PS/2 above model 30)**.
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Joystick selection: **Keyboard only**.
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Music: **Sound Blaster**.
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Sound Effects: **Sound Blaster**.
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Acknowledgment click: **Click noise on**.
+# file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Installation: **Save selections to hard disc then run game**.
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = [cpu]
+# file: All Programs/Games/It Came from the Desert/Program.txt = core = dynamic
+# file: All Programs/Games/It Came from the Desert/Program.txt = cputype = pentium
+# file: All Programs/Games/It Came from the Desert/Program.txt = cycles = max
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = [autoexec]
+# file: All Programs/Games/It Came from the Desert/Program.txt = @ECHO OFF
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/It Came from the Desert/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = IF NOT EXIST C:\DESERT\HUGE.INI GOTO F_INSTALL
+# file: All Programs/Games/It Came from the Desert/Program.txt = IF EXIST C:\DESERT\HUGE.INI GOTO F_START
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = :F_INSTALL
+# file: All Programs/Games/It Came from the Desert/Program.txt = D:
+# file: All Programs/Games/It Came from the Desert/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/It Came from the Desert/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = :F_START
+# file: All Programs/Games/It Came from the Desert/Program.txt = D:
+# file: All Programs/Games/It Came from the Desert/Program.txt = CALL GO.BAT
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = :F_EXIT
+# file: All Programs/Games/It Came from the Desert/Program.txt = EXIT
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = :F_DEBUG
+# file: All Programs/Games/It Came from the Desert/Program.txt
+# file: All Programs/Games/It Came from the Desert/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/9963111-it-came-from-the-desert-dos-front-cover.jpg
+# file: All Programs/Games/It Came from the Desert/Program.txt = # check: coverart.jpg = 069e4b5513582d6314fb25b78eef8bd7882f341c5b40c931671c19a78af58a4a
+# file: All Programs/Games/It Came from the Desert/Program.txt = # asset: cdrom.iso = https://archive.org/download/PrismLeisureItCameFromTheDesert/PrismLeisure_ItCameFromTheDesert.iso
+# file: All Programs/Games/It Came from the Desert/Program.txt = # check: cdrom.iso = e956c1947de6c75eba3faa34773fbee192252a39cb1e9a2a009790aad9093aab
+# file: All Programs/Games/It Came from the Desert/Program.txt = # asset: manual.pdf = https://www.oldgames.sk/downloads/oldgames/adventure/It.Came.from.the.Desert/Docs/It-Came-from-the-Desert_Manual.pdf
+# file: All Programs/Games/It Came from the Desert/Program.txt = # check: manual.pdf = df56eab0a47849a5d7dc1efcb9e34fe0936ca64f1e17b41817781e3bc12ee2c1
+# file: All Programs/Games/It Came from the Desert/Program.txt = # asset: map.pdf = https://archive.org/download/extras_msdos_It_Came_from_the_Desert_1990/It%20came%20from%20the%20Desert%20-%20Map.pdf
+# file: All Programs/Games/It Came from the Desert/Program.txt = # check: map.pdf = e1966ffd0670952aafdc576ef7944736517ae56707cb37783ef01e3e44892851
 #
 #
 # file: All Programs/Games/Jetpack/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1609,6 +2188,90 @@
 # file: All Programs/Games/Jetpack/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = #
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # name: Lode Runner: The Legend Returns
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # info: You're Jake Peril, the ultimate bounty hunter and all-around hero type, racing underground through the Evil Empire to regain the world's stolen treasures. If you do the job right, you'll be rich and famous - if not, you'll be ripped to bits by the deadly Mad Monks. Zap traps for these masters of murder and mayhem with your trusty laser pistol, or foil them with transporters, gas, ooze, and even bombs!
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # tag: Genre = Action • Puzzle
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # tag: Category = Side view • Platform
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Lode_Runner:_The_Legend_Returns)
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/)
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Lode+Runner%3A+The+Legend+Returns&gid=1835)
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy)
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = #
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text: - Select **SoundBlaster® or AdLib® (OPL 2)** for the music device.
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text:
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text: - A keyboard with *a numeric keypad* is preferred to play this game.
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # text:   - You can re-calibrate the keyboard keys from the in-game menu.
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [sdl]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = autolock = true
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [dosbox]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = memsize = 256
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [render]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = scaler = none
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [video]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = vmemsize = 4
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [cpu]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = core = normal
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = cycles = max
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [dos]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [ide, primary]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = int13fakeio = true
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = [autoexec]
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = @ECHO OFF
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = IF NOT EXIST C:\SIERRA\LODERUNN\LODERUNN.EXE GOTO F_INSTALL
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = IF EXIST C:\SIERRA\LODERUNN\LODERUNN.EXE GOTO F_START
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = :F_INSTALL
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = C:
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = COPY C:\RUNEXIT.EXE C:\SIERRA\LODERUNN
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = :F_START
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = C:
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = C:\WINDOWS\WIN.COM C:\SIERRA\LODERUNN\RUNEXIT.EXE C:\SIERRA\LODERUNN\LODERUNN.EXE
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = :F_EXIT
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = EXIT
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = :F_DEBUG
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4249763-lode-runner-the-legend-returns-windows-3x-front-cover.jpg
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # check: coverart.jpg = 62298c77febbf8d01312cd42066693fc69094bdf8978e064d046c88d89e8837e
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # asset: cdrom.iso = https://archive.org/download/lode-runner-the-legend-returns-win3x/Lode%20Runner%20-%20The%20Legend%20Returns%20%281994%29%28Sierra%29.iso
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # check: cdrom.iso = 100317cdfb0b61b26fbb20c52d42e0dc925abdd14cec790e539ee6105daf72e1
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # asset: manual.pdf = https://archive.org/download/pkmm_Lode_Runner_the_Legend_Returns/Lode_Runner_the_Legend_Returns.pdf
+# file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # check: manual.pdf = 5dfb8c3f76b15752ca1cba26381324f2264b4267d2cb2f80d79e4a5912c2d28c
+#
+#
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Lure of the Temptress/Program.txt = #
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # name: Lure of the Temptress
@@ -1657,7 +2320,7 @@
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # name: One Must Fall: 2097
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # name: OMF
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # name: OMF:2097
-# file: All Programs/Games/One Must Fall 2097/Program.txt = # info: Governments are puppets to big corporations - and the largest corporation being "World Aeronautics and Robotics" (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era.
+# file: All Programs/Games/One Must Fall 2097/Program.txt = # info: Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots’ purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter’s moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era.
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # info: Wikipedia = In February 1999, the game was declared freeware by the developers.
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # tag: Year = 1994
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # tag: Genre = Action
@@ -1735,8 +2398,8 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MobyGames - Prince of Persia CD Collection (1995)](https://www.mobygames.com/game/16597/prince-of-persia-cd-collection/)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [AbandonwareDOS - Prince of Persia](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia&gid=551)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [AbandonwareDOS - Prince of Persia 2: The Shadow and the Flame](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia+2%3A+The+Shadow+and+the+Flame&gid=1156)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Game Manual = [MyAbandonware - Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Game Manual = [MyAbandonware - Prince of Persia 2: The Shadow and the Flame](https://www.myabandonware.com/game/prince-of-persia-2-the-shadow-the-flame-29j)
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MyAbandonware - Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MyAbandonware - Prince of Persia 2: The Shadow and the Flame](https://www.myabandonware.com/game/prince-of-persia-2-the-shadow-the-flame-29j)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Prince of Persia Fandom - Prince of Persia](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_(1989))
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Prince of Persia Fandom - Prince of Persia 2: The Shadow and the Flame](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = #
@@ -1814,12 +2477,206 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # check: coverart.jpg = 6b0a9919ba4ec8fd7f8159f72944ee59af6f1dbdd74016f22b6e0fb43ea48f01
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # asset: cdrom.bin = https://archive.org/download/pop-pc-redump/POP-PC-REDUMP/Prince%20of%20Persia%20CD%20Collection%20%28USA%29.zip/Prince%20of%20Persia%20CD%20Collection%20%28USA%29.bin
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # check: cdrom.bin = 29e5350c014e7da0fa1c8329f0cc9e532476e185f9995133a915751c7a322605
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # asset: manual-pop1.pdf = https://www.myabandonware.com/download/4ra-prince-of-persia
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # check: manual-pop1.pdf = 6f50f384385f4c0ec5f97addd2520fbaab2a0ce87b4c8b159fd71f1d4ef5359e
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # asset: manual-pop2.pdf = https://www.myabandonware.com/download/4bp-prince-of-persia-2-the-shadow-the-flame
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # check: manual-pop2.pdf = 6b1e1921a2e08ed5456cf843f45e16ca20d9cf65e1d234ffea68384c41b56ec6
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # asset: code.jpg = https://ia904608.us.archive.org/24/items/prince-of-persia-1-2-pc-spiele-power-1995-mds.-7z/Front-Inside.jpg
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # check: code.jpg = 82b8ff05d8c863870c4be67a810509751c50b7d5617daf07c90745d937c549f7
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = #
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/SimCity/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/SimCity/Program.txt = #
+# file: All Programs/Games/SimCity/Program.txt = # name: SimCity
+# file: All Programs/Games/SimCity/Program.txt = # name: Micropolis
+# file: All Programs/Games/SimCity/Program.txt = # name: SimCity Classic
+# file: All Programs/Games/SimCity/Program.txt = # name: SimCity: The City Simulator
+# file: All Programs/Games/SimCity/Program.txt = # info: Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. Then see if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences — so get to work!
+# file: All Programs/Games/SimCity/Program.txt = # info: Wikipedia = In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins.
+# file: All Programs/Games/SimCity/Program.txt = # tag: Year = 1989
+# file: All Programs/Games/SimCity/Program.txt = # tag: Genre = Simulation
+# file: All Programs/Games/SimCity/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/SimCity/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/SimCity/Program.txt = # tag: Category = Top-down • City building • Managerial • Contemporary
+# file: All Programs/Games/SimCity/Program.txt = # tag: Media = Compressed Package
+# file: All Programs/Games/SimCity/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
+# file: All Programs/Games/SimCity/Program.txt = # site: [Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)
+# file: All Programs/Games/SimCity/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/848/simcity/)
+# file: All Programs/Games/SimCity/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity&gid=2662)
+# file: All Programs/Games/SimCity/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/simcity-ri)
+# file: All Programs/Games/SimCity/Program.txt = # site: [SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_(1989))
+# file: All Programs/Games/SimCity/Program.txt = #
+# file: All Programs/Games/SimCity/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/SimCity/Program.txt = # text: - Choose Video Display Mode: **VGA/MCGA 256 Color (320x200)** or **VGA 16 Color (640x480)**.
+# file: All Programs/Games/SimCity/Program.txt = # text: - Please choose a sound source for MUSIC: **Sound Blaster 16**, **CONTINUE**.
+# file: All Programs/Games/SimCity/Program.txt = # text: - Please choose a sound source for SOUND EFFECTS: **Sound Blaster 16**, **CONTINUE**.
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = [sdl]
+# file: All Programs/Games/SimCity/Program.txt = autolock = true
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = [cpu]
+# file: All Programs/Games/SimCity/Program.txt = cycles = 16000
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = [autoexec]
+# file: All Programs/Games/SimCity/Program.txt = @ECHO OFF
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/SimCity/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = IF NOT EXIST C:\SIMCITYC\SIMCITY.EXE GOTO F_INSTALL
+# file: All Programs/Games/SimCity/Program.txt = IF EXIST C:\SIMCITYC\SIMCITY.EXE GOTO F_START
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = :F_INSTALL
+# file: All Programs/Games/SimCity/Program.txt = C:
+# file: All Programs/Games/SimCity/Program.txt = CD C:\
+# file: All Programs/Games/SimCity/Program.txt = MD UNZIP
+# file: All Programs/Games/SimCity/Program.txt = CD UNZIP
+# file: All Programs/Games/SimCity/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/SimCity/Program.txt = CD C:\
+# file: All Programs/Games/SimCity/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\GAME.ZIP
+# file: All Programs/Games/SimCity/Program.txt = CD SIMCITYC
+# file: All Programs/Games/SimCity/Program.txt = SETTINGS.EXE
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = :F_START
+# file: All Programs/Games/SimCity/Program.txt = C:
+# file: All Programs/Games/SimCity/Program.txt = CD C:\SIMCITYC
+# file: All Programs/Games/SimCity/Program.txt = SIMCITY.EXE
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = :F_EXIT
+# file: All Programs/Games/SimCity/Program.txt = EXIT
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = :F_DEBUG
+# file: All Programs/Games/SimCity/Program.txt
+# file: All Programs/Games/SimCity/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4210901-simcity-dos-front-cover.jpg
+# file: All Programs/Games/SimCity/Program.txt = # check: coverart.jpg = 024cbbe5c0eb8cd95b66bdc9d203f98414734d48a65bcda58d87c1c63ea16296
+# file: All Programs/Games/SimCity/Program.txt = # asset: game.zip = https://archive.org/download/msdos_SimCity_Classic_1994/SimCity_Classic_1994.zip
+# file: All Programs/Games/SimCity/Program.txt = # check: game.zip = fe618cc766cc937212e2db33c368b150e4a6ab80dbd70e415fcfeb3d65e382a9
+# file: All Programs/Games/SimCity/Program.txt = # asset: manual.pdf = https://archive.org/download/simcity-classic-manual/SimCity%20Classic%20-%20Manual.pdf
+# file: All Programs/Games/SimCity/Program.txt = # check: manual.pdf = afa93b9c7068bb1d55eb9061d4082c62d4e22e248e2541566be0faff92152e68
+# file: All Programs/Games/SimCity/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/SimCity/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/SimTower/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/SimTower/Program.txt = #
+# file: All Programs/Games/SimTower/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/SimTower/Program.txt = # name: SimTower
+# file: All Programs/Games/SimTower/Program.txt = # name: SimTower: The Vertical Empire
+# file: All Programs/Games/SimTower/Program.txt = # name: The Tower = Japan
+# file: All Programs/Games/SimTower/Program.txt = # info: Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough).
+# file: All Programs/Games/SimTower/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/SimTower/Program.txt = # tag: Genre = Simulation
+# file: All Programs/Games/SimTower/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/SimTower/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/SimTower/Program.txt = # tag: Category = Side view • Managerial
+# file: All Programs/Games/SimTower/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/SimTower/Program.txt = # tag: Patched
+# file: All Programs/Games/SimTower/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SimTower)
+# file: All Programs/Games/SimTower/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/312/simtower-the-vertical-empire/)
+# file: All Programs/Games/SimTower/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimTower&gid=1941)
+# file: All Programs/Games/SimTower/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/simtower-the-vertical-empire-3f2)
+# file: All Programs/Games/SimTower/Program.txt = #
+# file: All Programs/Games/SimTower/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/SimTower/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/SimTower/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/SimTower/Program.txt = # text:
+# file: All Programs/Games/SimTower/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/SimTower/Program.txt = # text: ### How to play this game on a larger display resolution?
+# file: All Programs/Games/SimTower/Program.txt = # text: - Select **2. Run Windows Setup** at program start-up.
+# file: All Programs/Games/SimTower/Program.txt = # text: - Change **Display** settings to _**S3 ... [width]x[height] 256 colors SF.**_
+# file: All Programs/Games/SimTower/Program.txt = # text:   - Replace *[width]x[height]* with your desired screen resolution, e.g. 800x600 or 1024x768.
+# file: All Programs/Games/SimTower/Program.txt = # text:   - Only select a display option that ends with *256 colors SF* as it is the most widely used format in games.
+# file: All Programs/Games/SimTower/Program.txt = # text: - Accept the configuration shown above.
+# file: All Programs/Games/SimTower/Program.txt = # text: - Press `ENTER` when prompted to **Keep Driver**.
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [sdl]
+# file: All Programs/Games/SimTower/Program.txt = autolock = true
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [dosbox]
+# file: All Programs/Games/SimTower/Program.txt = memsize = 256
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [render]
+# file: All Programs/Games/SimTower/Program.txt = scaler = none
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [video]
+# file: All Programs/Games/SimTower/Program.txt = vmemsize = 4
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [cpu]
+# file: All Programs/Games/SimTower/Program.txt = core = normal
+# file: All Programs/Games/SimTower/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/SimTower/Program.txt = cycles = max
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [dos]
+# file: All Programs/Games/SimTower/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/SimTower/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [ide, primary]
+# file: All Programs/Games/SimTower/Program.txt = int13fakeio = true
+# file: All Programs/Games/SimTower/Program.txt = int13fakev86io = false
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = [autoexec]
+# file: All Programs/Games/SimTower/Program.txt = @ECHO OFF
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/SimTower/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/SimTower/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = IF NOT EXIST C:\SIMTOWER\SIMTOWER.EXE GOTO F_INSTALL
+# file: All Programs/Games/SimTower/Program.txt = IF EXIST C:\SIMTOWER\SIMTOWER.EXE GOTO F_START
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = :F_INSTALL
+# file: All Programs/Games/SimTower/Program.txt = C:
+# file: All Programs/Games/SimTower/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SimTower/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/SimTower/Program.txt = COPY C:\RUNEXIT.EXE C:\SIMTOWER
+# file: All Programs/Games/SimTower/Program.txt = CD C:\SIMTOWER
+# file: All Programs/Games/SimTower/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/SimTower/Program.txt = PATCH.EXE
+# file: All Programs/Games/SimTower/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = :F_START
+# file: All Programs/Games/SimTower/Program.txt = CLS
+# file: All Programs/Games/SimTower/Program.txt = ECHO SimTower
+# file: All Programs/Games/SimTower/Program.txt = ECHO.
+# file: All Programs/Games/SimTower/Program.txt = ECHO 1. Play SimTower
+# file: All Programs/Games/SimTower/Program.txt = ECHO 2. Run Windows Setup
+# file: All Programs/Games/SimTower/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Games/SimTower/Program.txt = ECHO.
+# file: All Programs/Games/SimTower/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/SimTower/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/SimTower/Program.txt = IF ERRORLEVEL==2 GOTO F_SETUP
+# file: All Programs/Games/SimTower/Program.txt = IF ERRORLEVEL==1 GOTO F_MAIN
+# file: All Programs/Games/SimTower/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = :F_MAIN
+# file: All Programs/Games/SimTower/Program.txt = C:
+# file: All Programs/Games/SimTower/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SimTower/Program.txt = C:\WINDOWS\WIN.COM C:\SIMTOWER\RUNEXIT.EXE C:\SIMTOWER\SIMTOWER.EXE
+# file: All Programs/Games/SimTower/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = :F_SETUP
+# file: All Programs/Games/SimTower/Program.txt = C:
+# file: All Programs/Games/SimTower/Program.txt = CD C:\WINDOWS
+# file: All Programs/Games/SimTower/Program.txt = SETUP.EXE
+# file: All Programs/Games/SimTower/Program.txt = GOTO F_START
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = :F_EXIT
+# file: All Programs/Games/SimTower/Program.txt = EXIT
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = :F_DEBUG
+# file: All Programs/Games/SimTower/Program.txt
+# file: All Programs/Games/SimTower/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4028030-simtower-the-vertical-empire-windows-3x-front-cover.jpg
+# file: All Programs/Games/SimTower/Program.txt = # check: coverart.jpg = 7da8e546bf9783b2ce0ec65df1d50ae655cadabc84709447146108e9b9edec5a
+# file: All Programs/Games/SimTower/Program.txt = # asset: cdrom.iso = https://archive.org/download/simtower_202301/SIMTOWER.ISO
+# file: All Programs/Games/SimTower/Program.txt = # check: cdrom.iso = 79191e3785cae4b2bbea94c9d14eacca79cd65226e99534088dcb146daff5a8e
+# file: All Programs/Games/SimTower/Program.txt = # asset: manual.pdf = https://archive.org/download/SimTower_-_Manual_-_PC/SimTower_-_Manual_-_PC.pdf
+# file: All Programs/Games/SimTower/Program.txt = # check: manual.pdf = d3ef5ffabda61bb30078e9339e2a573a80f169a7ed4ebb39a7103bbc16506edb
+# file: All Programs/Games/SimTower/Program.txt = # asset: patch.zip = https://archive.org/download/TOWERW11_ZIP/TOWERW11.ZIP
+# file: All Programs/Games/SimTower/Program.txt = # check: patch.zip = 2f5cffae644f2b42b7492fb03f366fb7f1c41b8565a8afa06d692f7ad37000c4
 #
 #
 # file: All Programs/Games/Stargunner/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1908,7 +2765,7 @@
 # file: All Programs/Games/Supaplex/Program.txt = # text:
 # file: All Programs/Games/Supaplex/Program.txt = # text: ## Additional Notes
 # file: All Programs/Games/Supaplex/Program.txt = # text: - Consult `Assets/MANUAL.PDF` for the game copy protection.
-# file: All Programs/Games/Supaplex/Program.txt = # text: - Select **controls** (game main menu) to configure sound. Click **S.BLASTER + MUSIC + FX**.
+# file: All Programs/Games/Supaplex/Program.txt = # text: - Click **controls** from the main menu to configure the sound. Select **S.BLASTER + MUSIC + FX**.
 # file: All Programs/Games/Supaplex/Program.txt
 # file: All Programs/Games/Supaplex/Program.txt = [sdl]
 # file: All Programs/Games/Supaplex/Program.txt = autolock = true
@@ -1975,7 +2832,7 @@
 # file: All Programs/Games/Teen Agent/Program.txt = # site: [GOG 🆓](https://www.gog.com/en/game/teenagent)
 # file: All Programs/Games/Teen Agent/Program.txt = #
 # file: All Programs/Games/Teen Agent/Program.txt = # text: ## Installation Notes
-# file: All Programs/Games/Teen Agent/Program.txt = # text: - Sound Source Setup: Select **SoundBlaster**, **Music and sound**, **220h**, **IRQ 7**, and **DMA channel 1**. Save setup & exit.
+# file: All Programs/Games/Teen Agent/Program.txt = # text: - Sound Source Setup: Select **SoundBlaster**, **Music and Sound**, **220h**, **IRQ 7**, and **DMA channel 1**. Save setup & exit.
 # file: All Programs/Games/Teen Agent/Program.txt
 # file: All Programs/Games/Teen Agent/Program.txt = [sdl]
 # file: All Programs/Games/Teen Agent/Program.txt = autolock = true
@@ -2019,6 +2876,62 @@
 # file: All Programs/Games/Teen Agent/Program.txt = # check: game.zip = e5e0bb422e9664c22348212dc5452bd1b916b0843723b078f6a9fa5839af29f7
 # file: All Programs/Games/Teen Agent/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Teen Agent/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = #
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # name: The Amazing Spider-Man
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # info: The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio’s turf — six movie sets packed with robots, electrified floors, doors that aren’t there and walls coated with a chemical that keeps Spidey’s webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes!
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: Year = 1990
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: Category = Side view • Platform
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(1990_video_game))
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/471/the-amazing-spider-man/)
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Amazing+Spider-Man&gid=1713)
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-amazing-spider-man-l5)
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = #
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # text: - Select Video Mode: **1) VGA 16 color**.
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # text:
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = [autoexec]
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = IMGMOUNT A "./Assets/disk.img" -t floppy
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = IF NOT EXIST C:\AMAZING\SPIDEY.EXE GOTO F_INSTALL
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = IF EXIST C:\AMAZING\SPIDEY.EXE GOTO F_START
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = C:
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = CD C:\
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = MD AMAZING
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = CD AMAZING
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = COPY A:\*.*
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = :F_START
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = C:
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = CD C:\AMAZING
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = SPIDEY.EXE
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = :F_EXIT
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = EXIT
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6488293-the-amazing-spider-man-dos-front-cover.jpg
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # check: coverart.jpg = 96982b0434c6fac2383c8c358ff3be9096524b0d6a3665559091db3734a45cf2
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # asset: disk.img = https://archive.org/download/003456-TheAmazingSpiderMan/003456_the_amazing_spider_man.7z/003456_the_amazing_spider_man%2Fdisk1.img
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # check: disk.img = 6734591518025c23c145bd50e853d81f8a66e8f095cf6b1f888db0acb85fa199
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # asset: manual.pdf = https://archive.org/download/Amazing_Spiderman_The_1990_Microprose_Software_M4/Amazing_Spiderman_The_1990_Microprose_Software_M4.pdf
+# file: All Programs/Games/The Amazing Spider-Man/Program.txt = # check: manual.pdf = a6ff878df3ed13bb597917b253a06c51299a4874df92c55cb04b157e85a944d3
 #
 #
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -2118,7 +3031,7 @@
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # text: - Configure sound:
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # text:   - Select Digital: **Sound Blaster 16/AWE32**; Port: **220**; DMA: **1**; IRQ: **7**.
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # text:   - Select MIDI: **MPU-401**; Port: **330**.
-# file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # text: - Proceed with patching the game, press **Y** to confirm all the prompts.
+# file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # text: - Proceed with patching the game by pressing `Y` to confirm all the questions.
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = [sdl]
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = output = opengl
@@ -2189,7 +3102,7 @@
 # file: All Programs/Games/The Incredible Machine/Program.txt = #
 # file: All Programs/Games/The Incredible Machine/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Accept these choices and save configuration.
+# file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Accept these choices and save the configuration.
 # file: All Programs/Games/The Incredible Machine/Program.txt = # text:
 # file: All Programs/Games/The Incredible Machine/Program.txt = # text: ## Additional Notes
 # file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
@@ -2260,7 +3173,7 @@
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = #
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - Accept these choices and save configuration.
+# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - Accept these choices and save the configuration.
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text:
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: ## Known Issues
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - DOSBox 0.74-3 🟥 — Failed to uncompress resources on the second disk.
@@ -2317,6 +3230,143 @@
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # check: manual.pdf = b622b4e4b3696d78c7113428b622378c9ec84a3093ad0423163e7505aa346ab0
 #
 #
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = #
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # name: The Incredible Toon Machine
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # info: Don't try this stuff at home. These guys are professionals! Drop a piano on Al E. Cat's head! (Konk!) Entice Sid Mouse to sit on hat pins! (Boink!) Smash Al in the foot with a really HUMONGOUS ANVIL! (Crunch!). See the Toons All-Star Pros wince, howl, or get steamed as they chase each other through nearly 100 different slapstick puzzle plots. Plots written and directed by YOU!
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: Genre = Puzzle
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Toon_Machine)
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/9601/the-incredible-toon-machine/)
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Toon+Machine&gid=2124)
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: Game Manual = [MyAbandonware](https://www.myabandonware.com/game/the-incredible-toon-machine-3le)
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = #
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # text: - Ignore pop-up error: *Setup Initialization Error*. It will not affect gameplay.
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [sdl]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = autolock = true
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [dosbox]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = memsize = 256
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [render]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = scaler = none
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [video]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = vmemsize = 4
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [cpu]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = core = normal
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = cycles = max
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [dos]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [ide, primary]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = int13fakeio = true
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = int13fakev86io = false
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = [autoexec]
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = IF NOT EXIST C:\SIERRA\TOONS\MPC_TOON.EXE GOTO F_INSTALL
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = IF EXIST C:\SIERRA\TOONS\MPC_TOON.EXE GOTO F_START
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = C:
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = COPY C:\RUNEXIT.EXE C:\SIERRA\TOONS
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = :F_START
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = C:
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = C:\WINDOWS\WIN.COM C:\SIERRA\TOONS\RUNEXIT.EXE C:\SIERRA\TOONS\MPC_TOON.EXE
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = :F_EXIT
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = EXIT
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5008231-the-incredible-toon-machine-windows-3x-front-cover.jpg
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # check: coverart.jpg = 155eb55aa9c987073b13e65c86623564b64813cc1db5cc76a8779b230aa69423
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # asset: cdrom.bin = https://archive.org/download/masque_202008/MASQUE.BIN
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # check: cdrom.bin = 6b70f28d410139e391d985d58b7f5054f924882f7c698f89af68eb93c2c90a82
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/3t3-the-incredible-toon-machine
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # check: manual.pdf = 65076e7a5d771ae93576c8ab8f0c7c3120b7832bce757c240e371c71a76814c8
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = #
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 04:08:17
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 06:25:36
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 08:40:41
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 10:51:62
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 11:48:73
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 14:02:36
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:09:56
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 18:20:55
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 20:30:23
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 22:57:09
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 25:10:51
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 27:03:71
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:09:02
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 31:37:25
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 34:28:00
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     ISRC 5?4004800373
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 37:27:67
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 18 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 39:41:18
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 19 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 42:07:67
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 20 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 43:38:41
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 21 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     ISRC 8?4005300454
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 45:37:28
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 22 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     ISRC 8P4007400480
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 48:00:06
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 23 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 49:54:29
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 24 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 52:03:51
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 25 AUDIO
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     ISRC 9?40?6500542
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 54:15:36
+#
+#
 # file: All Programs/Games/The Lost Vikings/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/The Lost Vikings/Program.txt = #
 # file: All Programs/Games/The Lost Vikings/Program.txt = # name: The Lost Vikings
@@ -2336,7 +3386,7 @@
 # file: All Programs/Games/The Lost Vikings/Program.txt = #
 # file: All Programs/Games/The Lost Vikings/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Lost Vikings/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
-# file: All Programs/Games/The Lost Vikings/Program.txt = # text: - Select sound driver: **Sound Blaster**, sound card port address: **220 (default)**.
+# file: All Programs/Games/The Lost Vikings/Program.txt = # text: - Select sound driver: **Sound Blaster**; sound card port address: **220 (default)**.
 # file: All Programs/Games/The Lost Vikings/Program.txt = # text: - Consult `Assets/MANUAL.PDF` for the game copy protection.
 # file: All Programs/Games/The Lost Vikings/Program.txt
 # file: All Programs/Games/The Lost Vikings/Program.txt = [cpu]
@@ -2390,12 +3440,12 @@
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [Wikipedia - Need for Speed Series](https://en.wikipedia.org/wiki/Need_for_Speed)
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/654/the-need-for-speed-special-edition/)
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Need+for+Speed&gid=1293)
-# file: All Programs/Games/The Need for Speed/Program.txt = # site: Game Manual = [MyAbandonware](https://www.myabandonware.com/game/the-need-for-speed-special-edition-7q5)
+# file: All Programs/Games/The Need for Speed/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-need-for-speed-special-edition-7q5)
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [Need for Speed Fandom](https://nfs.fandom.com/wiki/The_Need_for_Speed:_Special_Edition)
 # file: All Programs/Games/The Need for Speed/Program.txt = #
 # file: All Programs/Games/The Need for Speed/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Need for Speed/Program.txt = # text: - Sound Card: **Sound Blaster 16/32/AWE 32**.
-# file: All Programs/Games/The Need for Speed/Program.txt = # text: - Video Test: A minor video test [issue](https://www.os2museum.com/wp/need-for-speed-se-video-glitch/) for **DOSBox** and **DOSBox-X** variants. In-game videos run fine after patch.
+# file: All Programs/Games/The Need for Speed/Program.txt = # text: - Video Test: A minor video test [issue](https://www.os2museum.com/wp/need-for-speed-se-video-glitch/) for **DOSBox** and **DOSBox-X** variants. In-game videos run fine after the patch.
 # file: All Programs/Games/The Need for Speed/Program.txt = # text: - Install: **Recommended install**.
 # file: All Programs/Games/The Need for Speed/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
 # file: All Programs/Games/The Need for Speed/Program.txt
@@ -2444,6 +3494,10 @@
 # file: All Programs/Games/The Need for Speed/Program.txt = # check: coverart.jpg = 9a7cb9b98acaf2e39025841f133226ebe7d71ec0fedf4fb86e91310034619e08
 # file: All Programs/Games/The Need for Speed/Program.txt = # asset: cdrom.bin = https://archive.org/download/TheNeedForSpeedSEUSARerelease/Road%20%26%20Track%20Presents%20-%20The%20Need%20for%20Speed%20SE%20%28USA%29%20%28Rerelease%29.zip/Road%20%26%20Track%20Presents%20-%20The%20Need%20for%20Speed%20SE%20%28USA%29%20%28Rerelease%29.bin
 # file: All Programs/Games/The Need for Speed/Program.txt = # check: cdrom.bin = 227586bddca84a87285f5f428cd5786317920458abeaa63b02a72206857dc701
+# file: All Programs/Games/The Need for Speed/Program.txt = # asset: manual-nfs.pdf = https://www.myabandonware.com/download/cj7-the-need-for-speed
+# file: All Programs/Games/The Need for Speed/Program.txt = # check: manual-nfs.pdf = 7ece043c14a7be601bc2e7a6dcda7c39206d5e8a3cb5b66ef19230441efe4504
+# file: All Programs/Games/The Need for Speed/Program.txt = # asset: refcard-nfs.pdf = https://www.myabandonware.com/download/cj8-the-need-for-speed
+# file: All Programs/Games/The Need for Speed/Program.txt = # check: refcard-nfs.pdf = d7fbcc52b1ea9bdb66f924722a26f18bd0c744fd931ca1929c14f04bffc94f88
 # file: All Programs/Games/The Need for Speed/Program.txt = # asset: patch.zip = https://github.com/joncampbell123/dosbox-x/files/4021540/NFSnew.zip
 # file: All Programs/Games/The Need for Speed/Program.txt = # check: patch.zip = da01bfced1e3359c8aa973cd7e94442981cd18fa408c8083f08b52f67a71f2ac
 # file: All Programs/Games/The Need for Speed/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
@@ -2513,6 +3567,244 @@
 # file: All Programs/Games/Xargon/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Xargon/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
+#
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Systems/Windows 3.1x/Program.txt = #
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # name: Windows 3.1x
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # name: Microsoft Windows 3.11
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # info: Windows 3.1 (codenamed Janus) is a series of 16-bit GUI operating environments for MS-DOS developed by Microsoft for use on personal computers. The series began with 'Windows 3.1' released on April 6, 1992, as a successor to 'Windows 3.0'. — Support for all 16-bit versions of Windows ended on December 31, 2001.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # info: ChatGPT = It is generally okay to install and run old operating systems like Windows 3.1 for the purpose of playing nostalgic games, as long as you're not using it for any illegal or unethical activities.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Year = 1993
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Type = Operating System
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Platform = DOS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: License = Discontinued
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Add-on = S3 Graphics drivers • Sound Blaster drivers
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Extras = QuickTime • Video for Windows • Win32s • WinG
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Windows_3.1x)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Microsoft Fandom](https://microsoft.fandom.com/wiki/Windows_3.1)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Windows 3.1x in DOSBox-Staging](https://github.com/dosbox-staging/dosbox-staging/wiki/Windows-3.1x)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [SierraHelp - Graphics Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallGraphicsDrivers.html)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [SierraHelp - Soundblaster 16 Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallSB.html)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = #
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: ## Installation Notes
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Step 1: Installing Windows 3.1x
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - To set up Windows now, press ENTER.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - To use Express Setup, press ENTER.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Enter your name and confirm.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Click **Install** with *No Printer Attached* selected.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - You can *run* or *skip* the tutorial.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Click **Return to MS-DOS**. *Do not reboot Windows!*
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Step 2: Installing display driver
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Adjust *Display: VGA* setting.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Select the last option: **Other (Requires disk provided by a hardware manufacturer)**.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Replace `A:\` with `C:\S3`, and press ENTER.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Select the first option: **S3 ... 640x480 256 colours** and select **Accept the configuration shown above.**
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Replace `A:\` with `C:\S3`, and press ENTER.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Step 3: Installing sound driver
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - To install the Audio Software now, press ENTER.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Select **Full Installation**.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - On the installation path: **Proceed using the settings shown**.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - On settings: Adjust the *Interrupt setting*, change the value to **7** and **Proceed using the settings shown**.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Select **Backup** when prompted to replace files.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - To exit DOS, press ENTER.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - The program will now quit. Please rerun the `Launch` script to start Windows 3.1x.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: ## Additional Notes
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Audio configuration:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Open **Main > Control Panel > MIDI Mapper**, change the *Name* dropdown to **SB16 All MIDI** and click **Close**.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Open **Main > Control Panel > Drivers**, add new **[MCI] CD Audio** driver to the list, replace `A:\` with `C:\WIN31`, click **OK**, and click **Close**.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Install essential programs:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Open **Main > File Manager** and go to the `C:\APPS` directory. Double-click on each of these filenames listed:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:     - `C:\APPS\QTIME\QT16.EXE` to install [QuickTime](https://en.wikipedia.org/wiki/QuickTime).
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:     - `C:\APPS\VFW\SETUP.EXE` to install [Video for Windows](https://en.wikipedia.org/wiki/Video_for_Windows).
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:     - `C:\APPS\WIN32S\SETUP.EXE` to install [Win32s](https://en.wikipedia.org/wiki/Win32s).
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:     - `C:\APPS\WING\SETUP.EXE` to install [WinG](https://en.wikipedia.org/wiki/WinG).
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Remove the `C:\APPS` directory.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Exit Windows and run the `Snapshot` script.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: ## Licensing Information
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Microsoft Windows 3.1x is unsupported as of December 31, 2001.
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [sdl]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = autolock = true
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [dosbox]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = memsize = 256
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [render]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = scaler = none
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [video]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = vmemsize = 4
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [cpu]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = core = normal
+# file: All Programs/Systems/Windows 3.1x/Program.txt = cputype = pentium_slow
+# file: All Programs/Systems/Windows 3.1x/Program.txt = cycles = max
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [dos]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Systems/Windows 3.1x/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [ide, primary]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = int13fakeio = true
+# file: All Programs/Systems/Windows 3.1x/Program.txt = int13fakev86io = false
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = [autoexec]
+# file: All Programs/Systems/Windows 3.1x/Program.txt = @ECHO OFF
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MOUNT C "./drive"
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IF NOT EXIST C:\WINDOWS\WIN.COM GOTO F_INSTALL
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IF EXIST C:\WINDOWS\WIN.COM GOTO F_START
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = :F_INSTALL
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Copying Windows files...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD WIN31
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD WIN31
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Systems/Windows 3.1x/Program.txt = COPY D:\*.*
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IMGMOUNT -u D
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Installing Unzip...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD UNZIP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD UNZIP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD C:\
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD APPS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD C:\APPS
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Copying QuickTime...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD QTIME
+# file: All Programs/Systems/Windows 3.1x/Program.txt = COPY X:\QT16.EXE C:\APPS\QTIME
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Copying Video for Windows...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD VFW
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD VFW
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IMGMOUNT A "./Assets/vfw11e.img" -t floppy
+# file: All Programs/Systems/Windows 3.1x/Program.txt = COPY A:\*.*
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IMGMOUNT -u A
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Extracting Win32s...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD WIN32S
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD WIN32S
+# file: All Programs/Systems/Windows 3.1x/Program.txt = X:\PW1118.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Extracting WinG...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD WING
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD WING
+# file: All Programs/Systems/Windows 3.1x/Program.txt = X:\WING10.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD C:\
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Extracting S3 Display Driver...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD S3
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD S3
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:\UNZIP\UNZIP.EXE X:\S3DRV.ZIP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Extracting Sound Blaster Audio Driver...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MD SND
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD SND
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:\UNZIP\UNZIP.EXE X:\SB16DRV.ZIP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Copying RunExit...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = COPY X:\RUNEXIT.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = MOUNT -u X
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CLS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Step 1: Installing Windows 3.1x
+# file: All Programs/Systems/Windows 3.1x/Program.txt = PAUSE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD WIN31
+# file: All Programs/Systems/Windows 3.1x/Program.txt = SETUP.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CLS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Step 2: Installing display driver
+# file: All Programs/Systems/Windows 3.1x/Program.txt = PAUSE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD C:\WINDOWS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = SETUP.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CLS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Step 3: Installing sound driver
+# file: All Programs/Systems/Windows 3.1x/Program.txt = PAUSE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD C:\SND
+# file: All Programs/Systems/Windows 3.1x/Program.txt = INSTALL.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD ..
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Cleaning up temporary files...
+# file: All Programs/Systems/Windows 3.1x/Program.txt = DEL C:\SND\*.*
+# file: All Programs/Systems/Windows 3.1x/Program.txt = RD SND
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CLS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO The program will now quit. Please rerun the Launch script to start Windows 3.1x.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = PAUSE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = GOTO F_EXIT
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = :F_START
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CLS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO Microsoft Windows 3.1x
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO 1. Run Windows 3.1x
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO 2. Run Windows Setup
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Systems/Windows 3.1x/Program.txt = ECHO.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IF ERRORLEVEL==2 GOTO F_SETUP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = IF ERRORLEVEL==1 GOTO F_MAIN
+# file: All Programs/Systems/Windows 3.1x/Program.txt = GOTO F_EXIT
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = :F_MAIN
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:\WINDOWS\WIN.COM
+# file: All Programs/Systems/Windows 3.1x/Program.txt = GOTO F_EXIT
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = :F_SETUP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = C:
+# file: All Programs/Systems/Windows 3.1x/Program.txt = CD C:\WINDOWS
+# file: All Programs/Systems/Windows 3.1x/Program.txt = SETUP.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = GOTO F_START
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = :F_EXIT
+# file: All Programs/Systems/Windows 3.1x/Program.txt = EXIT
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = :F_DEBUG
+# file: All Programs/Systems/Windows 3.1x/Program.txt
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: cdrom.iso = https://archive.org/download/windows31cdISO/WINDOWS_31.ISO
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: cdrom.iso = 9f0f651ee15b04308cac14d10d3b73d27932750949da9d28dbaf539a774f723e
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: sb16drv.zip = http://www.sierrahelp.com/Files/3x_Files/SB16W3X.ZIP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: sb16drv.zip = fc860c8da651f3bfd54100fac2ac52b12ec19c6f3b28a82c3f389a1db7550473
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: s3drv.zip = http://www.sierrahelp.com/Files/3x_Files/S3DRIVERS.ZIP
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: s3drv.zip = 52bd9c40a791b51651652e569bd9ccdf3f6aebf93819ee694719f9b6cec97c1c
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: vfw11e.img = https://archive.org/download/Videoforwindows1.1e/Video%20For%20Windows%201.1E/Videoforwindows1.1e.IMA
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: vfw11e.img = 41084058e3b8970bba3c67a47315950f4d3506f265cde6422c9fb82e382c5388
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: qt16.exe = https://archive.org/download/QUICKTIM/QUICKTIM.zip/QUICKTIM%2FQT16.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: qt16.exe = fe56fc8e421dd186a8367bc5ba690db4e54ff166e7a5e11ad777bd9fcca5a836
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: pw1118.exe = https://archive.org/download/PW1118/PW1118.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: pw1118.exe = 5e7162ba950856104b4c6cb39d2fa5c55e73f86b1d65c31341913dba8b6ba455
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: wing10.exe = https://archive.org/download/WING10/WING10.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: wing10.exe = f67a73df1ede7bf23c079b1328203ccbf1f5cb0c455b9df8ca3a73dec0828b65
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: runexit.exe = https://archive.org/download/sid-meiers-civilization-ii-64-bit-compatible/Sid%20Meiers%20Civilization%20II%20-%2064-bit%20Compatible.rar/Sid%20Meier%27s%20Civilization%20II%2FC-DRIVE%2FCIV2%2FRUNEXIT.EXE
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: runexit.exe = 11f8c27ff646d4eb723f5b54ce1f9adf1af9a426cb0679cf278934befa9882c8
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
 # link: Games/By Genre/Action/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By Genre/Action/Alien Carnage = ../../../All Programs/Games/Alien Carnage
 # link: Games/By Genre/Action/Bio Menace = ../../../All Programs/Games/Bio Menace
@@ -2520,39 +3812,58 @@
 # link: Games/By Genre/Action/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By Genre/Action/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Genre/Action/Electroman = ../../../All Programs/Games/Electroman
+# link: Games/By Genre/Action/Fade to Black = ../../../All Programs/Games/Fade to Black
+# link: Games/By Genre/Action/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Genre/Action/God of Thunder = ../../../All Programs/Games/God of Thunder
+# link: Games/By Genre/Action/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Action/Jetpack = ../../../All Programs/Games/Jetpack
+# link: Games/By Genre/Action/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By Genre/Action/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Genre/Action/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By Genre/Action/Stargunner = ../../../All Programs/Games/Stargunner
+# link: Games/By Genre/Action/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Genre/Action/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
+# link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
+# link: Games/By Genre/Puzzle/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By Genre/Puzzle/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By Genre/Puzzle/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
 # link: Games/By Genre/Puzzle/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
+# link: Games/By Genre/Puzzle/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By Genre/Puzzle/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Genre/Racing/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Genre/Role-playing/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
+# link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
+# link: Games/By Genre/Simulation/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By Genre/Strategy/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By Genre/Strategy/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By Genre/Strategy/Civilization = ../../../All Programs/Games/Civilization
+# link: Games/By Genre/Strategy/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By Genre/Strategy/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Genre/Strategy/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
+# link: Games/By Genre/Strategy/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By License/Abandonware/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By License/Abandonware/Civilization = ../../../All Programs/Games/Civilization
+# link: Games/By License/Abandonware/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By License/Abandonware/D-Generation = ../../../All Programs/Games/D-Generation
+# link: Games/By License/Abandonware/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
+# link: Games/By License/Abandonware/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
+# link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By License/Abandonware/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
 # link: Games/By License/Abandonware/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
+# link: Games/By License/Abandonware/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By License/Abandonware/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By License/Freeware/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By License/Freeware/Alien Carnage = ../../../All Programs/Games/Alien Carnage
@@ -2564,9 +3875,11 @@
 # link: Games/By License/Freeware/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By License/Freeware/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By License/Freeware/God of Thunder = ../../../All Programs/Games/God of Thunder
+# link: Games/By License/Freeware/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By License/Freeware/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By License/Freeware/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By License/Freeware/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
+# link: Games/By License/Freeware/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By License/Freeware/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By License/Freeware/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By License/Freeware/Teen Agent = ../../../All Programs/Games/Teen Agent
@@ -2574,6 +3887,8 @@
 # link: Games/By License/Freeware/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By License/Freeware/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By License/Freeware/Xargon = ../../../All Programs/Games/Xargon
+# link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By License/Proprietary/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Platform/DOS/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By Platform/DOS/Alien Carnage = ../../../All Programs/Games/Alien Carnage
 # link: Games/By Platform/DOS/Ascendancy = ../../../All Programs/Games/Ascendancy
@@ -2587,16 +3902,21 @@
 # link: Games/By Platform/DOS/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Platform/DOS/Electroman = ../../../All Programs/Games/Electroman
+# link: Games/By Platform/DOS/Fade to Black = ../../../All Programs/Games/Fade to Black
+# link: Games/By Platform/DOS/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Platform/DOS/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Platform/DOS/God of Thunder = ../../../All Programs/Games/God of Thunder
 # link: Games/By Platform/DOS/Hi-Octane = ../../../All Programs/Games/Hi-Octane
+# link: Games/By Platform/DOS/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Platform/DOS/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By Platform/DOS/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Platform/DOS/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By Platform/DOS/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By Platform/DOS/Teen Agent = ../../../All Programs/Games/Teen Agent
+# link: Games/By Platform/DOS/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Platform/DOS/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Platform/DOS/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Platform/DOS/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
@@ -2604,3 +3924,8 @@
 # link: Games/By Platform/DOS/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Platform/DOS/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Platform/DOS/Xargon = ../../../All Programs/Games/Xargon
+# link: Games/By Platform/Windows 3.1x/Civilization II = ../../../All Programs/Games/Civilization II
+# link: Games/By Platform/Windows 3.1x/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Platform/Windows 3.1x/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By Platform/Windows 3.1x/SimTower = ../../../All Programs/Games/SimTower
+# link: Games/By Platform/Windows 3.1x/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine

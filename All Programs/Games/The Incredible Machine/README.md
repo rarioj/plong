@@ -15,7 +15,7 @@
 
 ## Installation Notes
 - Music: **Sound Blaster / AdLib Card (or compatibles)**.
-- Accept these choices and save configuration.
+- Accept these choices and save the configuration.
 
 ## Additional Notes
 - Consult `Assets/manual.pdf` for the game copy protection.

@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (5)
+# 🗂️ Games ‣ By Genre ‣ Strategy (7)
 
 > <table><tr><td width="255">
 >
@@ -59,6 +59,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png 'Civilization II')
+>
+> </td>
+>
+> <td>
+>
+> ## [Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md)
+>
+> 📌 ┃ Year: **1996 (Original & Conflicts in Civilization)** ┃ Year: **1997 (Fantastic Worlds)** ┃ Genre: **Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Turn-based • 4X • Managerial • Turn-based strategy • Historical events • Post-apocalyptic • Sci-fi • Fantasy • Steampunk** ┃ Media: **CD-ROM** ┃ **Compilation** 
+>
+> ❝ Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Command%20%26%20Conquer/Thumbnail.png 'Command & Conquer')
 >
 > </td>
@@ -93,6 +112,25 @@
 > ❝ Dark experiments have permanently altered time. Or have they? Now, Soviet tanks crush city after city while Allied cruisers shell bases. Spies lurk, land mines wait, and strange new technologies aid both sides in their struggle for ultimate control. ❞
 >
 > ❝ To mark the 13th anniversary of Command and Conquer and the announcement of Red Alert 3, EA released Command and Conquer: Red Alert as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png 'Deadlock: Planetary Conquest')
+>
+> </td>
+>
+> <td>
+>
+> ## [Deadlock: Planetary Conquest](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Simulation • Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Turn-based • 4X • Managerial • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest. ❞
 >
 >
 > </td></tr></table>

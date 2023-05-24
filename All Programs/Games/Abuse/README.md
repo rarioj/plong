@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Abuse_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/389/abuse/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Abuse&gid=2839)** ┃ Game Manual: **[MyAbandonware](https://www.myabandonware.com/game/abuse-1ne)** ┃ **[ModDB](https://www.moddb.com/games/abuse)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Abuse_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/389/abuse/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Abuse&gid=2839)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/abuse-1ne)** ┃ **[ModDB](https://www.moddb.com/games/abuse)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (4)
+# 🗂️ Games ‣ By Genre ‣ Adventure (5)
 
 > <table><tr><td width="255">
 >
@@ -36,6 +36,25 @@
 > ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crashland in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
 >
 > ❝ In March 2004, the game was released as freeware, and support for it was added to ScummVM, allowing it to be played on Linux, Mac OS X, Windows, and many other operating systems and consoles. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png 'It Came from the Desert')
+>
+> </td>
+>
+> <td>
+>
+> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action • Adventure** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **1st-person • Top-down • Sci-fi • Detective** ┃ Media: **CD-ROM** 
+>
+> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction becomes fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
 >
 >
 > </td></tr></table>

@@ -15,7 +15,7 @@
 
 ## Installation Notes
 - Music: **Sound Blaster / AdLib Card (or compatibles)**.
-- Accept these choices and save configuration.
+- Accept these choices and save the configuration.
 
 ## Known Issues
 - DOSBox 0.74-3 🟥 — Failed to uncompress resources on the second disk.

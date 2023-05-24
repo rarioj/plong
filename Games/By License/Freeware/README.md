@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Freeware (20)
+# 🗂️ Games ‣ By License ‣ Freeware (22)
 
 > <table><tr><td width="255">
 >
@@ -212,6 +212,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png 'It Came from the Desert')
+>
+> </td>
+>
+> <td>
+>
+> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action • Adventure** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **1st-person • Top-down • Sci-fi • Detective** ┃ Media: **CD-ROM** 
+>
+> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction becomes fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Jetpack/Thumbnail.png 'Jetpack')
 >
 > </td>
@@ -264,9 +283,30 @@
 >
 > 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Arcade • Fighting • Mecha • Sci-fi** ┃ Media: **CD-ROM** 
 >
-> ❝ Governments are puppets to big corporations - and the largest corporation being "World Aeronautics and Robotics" (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
+> ❝ Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots’ purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter’s moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
 >
 > ❝ In February 1999, the game was declared freeware by the developers. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SimCity/Thumbnail.png 'SimCity')
+>
+> </td>
+>
+> <td>
+>
+> ## [SimCity](../../../All%20Programs/Games/SimCity/README.md)
+>
+> 📌 ┃ Year: **1989** ┃ Genre: **Simulation** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • City building • Managerial • Contemporary** ┃ Media: **Compressed Package** 
+>
+> ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. Then see if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences — so get to work! ❞
+>
+> ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
 >
 >
 > </td></tr></table>

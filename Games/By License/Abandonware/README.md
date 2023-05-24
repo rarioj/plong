@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (10)
+# 🗂️ Games ‣ By License ‣ Abandonware (16)
 
 > <table><tr><td width="255">
 >
@@ -48,7 +48,7 @@
 >
 > ## [Cadaver](../../../All%20Programs/Games/Cadaver/README.md)
 >
-> 📌 ┃ Year: **1990** ┃ Year: **1991 (The Payoff)** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Fantasy** ┃ Media: **Floppy Disk** ┃ **Add-on • No Manual** 
+> 📌 ┃ Year: **1990** ┃ Year: **1991 (The Payoff)** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Fantasy** ┃ Media: **Floppy Disk** ┃ **Add-on** 
 >
 > ❝ Karadoc, who is a gold-hungry dwarf and just hopes to find a treasure, is on a mission to seek out and kill the necromancer Dianos, the sole remaining inhabitant of Castle Wulf. ❞ — *Cadaver*
 >
@@ -80,6 +80,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png 'Civilization II')
+>
+> </td>
+>
+> <td>
+>
+> ## [Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md)
+>
+> 📌 ┃ Year: **1996 (Original & Conflicts in Civilization)** ┃ Year: **1997 (Fantastic Worlds)** ┃ Genre: **Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Turn-based • 4X • Managerial • Turn-based strategy • Historical events • Post-apocalyptic • Sci-fi • Fantasy • Steampunk** ┃ Media: **CD-ROM** ┃ **Compilation** 
+>
+> ❝ Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/D-Generation/Thumbnail.png 'D/Generation')
 >
 > </td>
@@ -91,6 +110,25 @@
 > 📌 ┃ Year: **1991** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Sci-fi** ┃ Media: **CD-ROM** ┃ **No Manual** 
 >
 > ❝ A French company called Genoq has developed a series of new genetically engineered bioweapons, which have run out of control and taken over Genoq's Singaporean lab. The main character is a courier making an emergency delivery by a jet pack to one of Genoq's top researchers, Jean-Paul Derrida, who is oblivious to the events inside the building until the lab's doors lock behind him after he enters. His point of delivery is ten floors away, all of them crawling with bioweapons. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png 'Fade to Black')
+>
+> </td>
+>
+> <td>
+>
+> ## [Fade to Black](../../../All%20Programs/Games/Fade%20to%20Black/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **3rd-person • Puzzle elements • Shooter • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ Lock and load as you jump into this adrenaline rush. Conrad, the hero from "Flashback", awakes from his cryogenic sleep to find himself in the clutches of his old enemies, the Morphs. With your heart in your throat, battle through the solar system in a three-dimensional environment. Know how to win the confidence of the Ancients, these mysterious people, and discover the powers of the Pyramid. Overcome the terror which invades you in these mazes infested with danger, and exhaust your limits to conquer the Morph invaders. ❞
 >
 >
 > </td></tr></table>
@@ -118,6 +156,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png 'Lode Runner: The Legend Returns')
+>
+> </td>
+>
+> <td>
+>
+> ## [Lode Runner: The Legend Returns](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Action • Puzzle** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Platform** ┃ Media: **CD-ROM** 
+>
+> ❝ You're Jake Peril, the ultimate bounty hunter and all-around hero type, racing underground through the Evil Empire to regain the world's stolen treasures. If you do the job right, you'll be rich and famous - if not, you'll be ripped to bits by the deadly Mad Monks. Zap traps for these masters of murder and mayhem with your trusty laser pistol, or foil them with transporters, gas, ooze, and even bombs! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Prince%20of%20Persia%20Collection/Thumbnail.png 'Prince of Persia CD Collection')
 >
 > </td>
@@ -131,6 +188,44 @@
 > ❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*
 >
 > ❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png 'SimTower')
+>
+> </td>
+>
+> <td>
+>
+> ## [SimTower](../../../All%20Programs/Games/SimTower/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Simulation** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Managerial** ┃ Media: **CD-ROM** ┃ **Patched** 
+>
+> ❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/Thumbnail.png 'The Amazing Spider-Man')
+>
+> </td>
+>
+> <td>
+>
+> ## [The Amazing Spider-Man](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Side view • Platform** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio’s turf — six movie sets packed with robots, electrified floors, doors that aren’t there and walls coated with a chemical that keeps Spidey’s webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
 >
 >
 > </td></tr></table>
@@ -169,6 +264,25 @@
 > 📌 ┃ Year: **1995** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Side view** ┃ Media: **Floppy Disk** 
 >
 > ❝ Get ready for more insane, crazy-good fun with the sequel to the award-winning Incredible Machine! Play 150 all-new puzzles in a world where pinwheels and dynamite, cartoon characters and cheese, when manipulating gravity and air pressure to solve fiendishly fun puzzles. A world where you can create complex machines to accomplish seemingly simple tasks. So limber up your brain and prepare to be wowed, stumped and ecstatic all at once. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png 'The Incredible Toon Machine')
+>
+> </td>
+>
+> <td>
+>
+> ## [The Incredible Toon Machine](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Media: **CD-ROM** 
+>
+> ❝ Don't try this stuff at home. These guys are professionals! Drop a piano on Al E. Cat's head! (Konk!) Entice Sid Mouse to sit on hat pins! (Boink!) Smash Al in the foot with a really HUMONGOUS ANVIL! (Crunch!). See the Toons All-Star Pros wince, howl, or get steamed as they chase each other through nearly 100 different slapstick puzzle plots. Plots written and directed by YOU! ❞
 >
 >
 > </td></tr></table>

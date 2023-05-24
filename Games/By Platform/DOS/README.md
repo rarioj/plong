@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Platform ‣ DOS (30)
+# 🗂️ Games ‣ By Platform ‣ DOS (35)
 
 > <table><tr><td width="255">
 >
@@ -153,7 +153,7 @@
 >
 > ## [Cadaver](../../../All%20Programs/Games/Cadaver/README.md)
 >
-> 📌 ┃ Year: **1990** ┃ Year: **1991 (The Payoff)** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Fantasy** ┃ Media: **Floppy Disk** ┃ **Add-on • No Manual** 
+> 📌 ┃ Year: **1990** ┃ Year: **1991 (The Payoff)** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Fantasy** ┃ Media: **Floppy Disk** ┃ **Add-on** 
 >
 > ❝ Karadoc, who is a gold-hungry dwarf and just hopes to find a treasure, is on a mission to seek out and kill the necromancer Dianos, the sole remaining inhabitant of Castle Wulf. ❞ — *Cadaver*
 >
@@ -267,6 +267,44 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png 'Fade to Black')
+>
+> </td>
+>
+> <td>
+>
+> ## [Fade to Black](../../../All%20Programs/Games/Fade%20to%20Black/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **3rd-person • Puzzle elements • Shooter • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ Lock and load as you jump into this adrenaline rush. Conrad, the hero from "Flashback", awakes from his cryogenic sleep to find himself in the clutches of his old enemies, the Morphs. With your heart in your throat, battle through the solar system in a three-dimensional environment. Know how to win the confidence of the Ancients, these mysterious people, and discover the powers of the Pyramid. Overcome the terror which invades you in these mazes infested with danger, and exhaust your limits to conquer the Morph invaders. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Flashback/Thumbnail.png 'Flashback')
+>
+> </td>
+>
+> <td>
+>
+> ## [Flashback](../../../All%20Programs/Games/Flashback/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Platform • Puzzle elements • Shooter • Cyberpunk** ┃ Media: **CD-ROM** 
+>
+> ❝ You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png 'Flight of the Amazon Queen')
 >
 > </td>
@@ -328,6 +366,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png 'It Came from the Desert')
+>
+> </td>
+>
+> <td>
+>
+> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action • Adventure** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **1st-person • Top-down • Sci-fi • Detective** ┃ Media: **CD-ROM** 
+>
+> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction becomes fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Jetpack/Thumbnail.png 'Jetpack')
 >
 > </td>
@@ -380,7 +437,7 @@
 >
 > 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Arcade • Fighting • Mecha • Sci-fi** ┃ Media: **CD-ROM** 
 >
-> ❝ Governments are puppets to big corporations - and the largest corporation being "World Aeronautics and Robotics" (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
+> ❝ Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots’ purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter’s moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
 >
 > ❝ In February 1999, the game was declared freeware by the developers. ❞ — *Wikipedia*
 >
@@ -404,6 +461,27 @@
 > ❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*
 >
 > ❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SimCity/Thumbnail.png 'SimCity')
+>
+> </td>
+>
+> <td>
+>
+> ## [SimCity](../../../All%20Programs/Games/SimCity/README.md)
+>
+> 📌 ┃ Year: **1989** ┃ Genre: **Simulation** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • City building • Managerial • Contemporary** ┃ Media: **Compressed Package** 
+>
+> ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. Then see if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences — so get to work! ❞
+>
+> ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
 >
 >
 > </td></tr></table>
@@ -467,6 +545,25 @@
 > ❝ One day, two men in dark glasses and long coats captured a teenager; this could be a start of a very long day! Get ready for a wonderfully humorous adventure. Teen Agent is a point-and-click animated graphic adventure that features dozens of detailed hand-painted backgrounds. ❞
 >
 > ❝ When the game was originally released, "The Three Tasks" was shareware, and the remaining two sections could be obtained by registering the game. However, the game was later released as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/Thumbnail.png 'The Amazing Spider-Man')
+>
+> </td>
+>
+> <td>
+>
+> ## [The Amazing Spider-Man](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Side view • Platform** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio’s turf — six movie sets packed with robots, electrified floors, doors that aren’t there and walls coated with a chemical that keeps Spidey’s webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
 >
 >
 > </td></tr></table>

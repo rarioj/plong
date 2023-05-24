@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Action (14)
+# 🗂️ Games ‣ By Genre ‣ Action (19)
 
 > <table><tr><td width="255">
 >
@@ -94,7 +94,7 @@
 >
 > ## [Cadaver](../../../All%20Programs/Games/Cadaver/README.md)
 >
-> 📌 ┃ Year: **1990** ┃ Year: **1991 (The Payoff)** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Fantasy** ┃ Media: **Floppy Disk** ┃ **Add-on • No Manual** 
+> 📌 ┃ Year: **1990** ┃ Year: **1991 (The Payoff)** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Fantasy** ┃ Media: **Floppy Disk** ┃ **Add-on** 
 >
 > ❝ Karadoc, who is a gold-hungry dwarf and just hopes to find a treasure, is on a mission to seek out and kill the necromancer Dianos, the sole remaining inhabitant of Castle Wulf. ❞ — *Cadaver*
 >
@@ -147,6 +147,44 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png 'Fade to Black')
+>
+> </td>
+>
+> <td>
+>
+> ## [Fade to Black](../../../All%20Programs/Games/Fade%20to%20Black/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **3rd-person • Puzzle elements • Shooter • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ Lock and load as you jump into this adrenaline rush. Conrad, the hero from "Flashback", awakes from his cryogenic sleep to find himself in the clutches of his old enemies, the Morphs. With your heart in your throat, battle through the solar system in a three-dimensional environment. Know how to win the confidence of the Ancients, these mysterious people, and discover the powers of the Pyramid. Overcome the terror which invades you in these mazes infested with danger, and exhaust your limits to conquer the Morph invaders. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Flashback/Thumbnail.png 'Flashback')
+>
+> </td>
+>
+> <td>
+>
+> ## [Flashback](../../../All%20Programs/Games/Flashback/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Platform • Puzzle elements • Shooter • Cyberpunk** ┃ Media: **CD-ROM** 
+>
+> ❝ You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/God%20of%20Thunder/Thumbnail.png 'God of Thunder')
 >
 > </td>
@@ -160,6 +198,25 @@
 > ❝ You are Thor, The God of Thunder! Your father is Odin, the mightiest Norse God and the ruler of Asgard. Odin must fall into a deep sleep (known as the Odinsleep) every few hundred centuries to rejuvenate his power. Your half-brother is Loki, The God of Mischief. Loki has seized the opportunity of this most recent Odinsleep and obtained the help of his most powerful allies to take control of Midgard (Earth). ❞
 >
 > ❝ On March 27, 2020, Ron Davis released the source code, music and sound effects as public-domain software on SourceForge. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png 'It Came from the Desert')
+>
+> </td>
+>
+> <td>
+>
+> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action • Adventure** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **1st-person • Top-down • Sci-fi • Detective** ┃ Media: **CD-ROM** 
+>
+> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction becomes fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
 >
 >
 > </td></tr></table>
@@ -189,6 +246,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png 'Lode Runner: The Legend Returns')
+>
+> </td>
+>
+> <td>
+>
+> ## [Lode Runner: The Legend Returns](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Action • Puzzle** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Platform** ┃ Media: **CD-ROM** 
+>
+> ❝ You're Jake Peril, the ultimate bounty hunter and all-around hero type, racing underground through the Evil Empire to regain the world's stolen treasures. If you do the job right, you'll be rich and famous - if not, you'll be ripped to bits by the deadly Mad Monks. Zap traps for these masters of murder and mayhem with your trusty laser pistol, or foil them with transporters, gas, ooze, and even bombs! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png 'One Must Fall 2097')
 >
 > </td>
@@ -199,7 +275,7 @@
 >
 > 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Arcade • Fighting • Mecha • Sci-fi** ┃ Media: **CD-ROM** 
 >
-> ❝ Governments are puppets to big corporations - and the largest corporation being "World Aeronautics and Robotics" (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
+> ❝ Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots’ purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter’s moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
 >
 > ❝ In February 1999, the game was declared freeware by the developers. ❞ — *Wikipedia*
 >
@@ -244,6 +320,25 @@
 > ❝ Deep within the Andromeda galaxy, the people of Zile grow restless and greedy. The Zilions secretly prepare for a massive strike against the nearby planet Ytima. Fearing such an attack, the Ytimians train an elite squad of "Stargunners." Their mission: To strike and cripple the Zilions' three strongholds, where the Zilion war fleets await the launch order. Good will triumph if the Stargunners can surprise the Zilions and destroy most of their fleet. ❞
 >
 > ❝ On June 22, 2005, Stargunner was released as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/Thumbnail.png 'The Amazing Spider-Man')
+>
+> </td>
+>
+> <td>
+>
+> ## [The Amazing Spider-Man](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Side view • Platform** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio’s turf — six movie sets packed with robots, electrified floors, doors that aren’t there and walls coated with a chemical that keeps Spidey’s webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
 >
 >
 > </td></tr></table>

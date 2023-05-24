@@ -17,7 +17,7 @@
 - Use the default **drive** and **directory** for the installation location.
 
 ## Additional Notes
-- A keyboard with *numeric keypad* is recommended.
+- A keyboard with *a numeric keypad* is preferred to play this game.
 
 ![](Montage.png 'D/Generation')
 

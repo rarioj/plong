@@ -18,8 +18,8 @@
 
 ## Additional Notes
 - Version 1.6.5 add-on is the official Ascendancy patch.
-- Version 1.6.10 add-on is the official Ascendancy Antagonizer AI module as released by The Logic Factory (more challenging computer opponents).
-- You can toggle **Cheat** and/or **Autoplay** features before running the game.
+- Version 1.6.10 add-on is the official Ascendancy Antagonizer AI module released by The Logic Factory (more challenging computer opponents).
+- You can toggle **Cheat** and **Autoplay** features before running the game.
 
 ![](Montage.png 'Ascendancy')
 

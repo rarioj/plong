@@ -20,7 +20,7 @@
   - Select Vocal & Sound Communication: **SND BLASTER ASP/16/AWE-32**.
   - Confirm and Test Port: **220**, IRQ: **7**, and DMA: **5**.
   - Use the default **drive** and **directory** for the installation location.
-  - **IMPORTANT:** Installation may crash at the *PLEASE STANDBY...* screen. Force DOSBox to quit and relaunch to continue the next step.
+  - **IMPORTANT:** Installation may crash at the *PLEASE STANDBY...* screen. Force quit DOSBox and relaunch to continue the next step.
 - Installing **Command & Conquer: Red Alert - Counterstrike**:
   - Use the default **drive** and **directory** for the installation location.
 - Installing **Command & Conquer: Red Alert - The Aftermath**:
@@ -31,10 +31,11 @@
   1. Command & Conquer: Red Alert Disc #1 (Allied) and  Disc #2 (Soviet)
   2. Command & Conquer: Red Alert - Counterstrike (New Missions)
   3. Command & Conquer: Red Alert - The Aftermath (New Missions)
-- How to swap CD-ROM images?
-  - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
-  - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-  - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+
+### How to swap CD-ROM images?
+- [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+- [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
 ![](Montage.png 'Command & Conquer: Red Alert')
 
