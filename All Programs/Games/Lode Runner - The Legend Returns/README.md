@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Lode Runner: The Legend Returns
 
@@ -20,5 +20,5 @@
 - A keyboard with *a numeric keypad* is preferred to play this game.
   - You can re-calibrate the keyboard keys from the in-game menu.
 
-![](Montage.png 'Lode Runner: The Legend Returns')
+![](Montage.png "Lode Runner: The Legend Returns")
 

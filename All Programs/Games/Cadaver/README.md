@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Cadaver
 
@@ -27,5 +27,5 @@
   - Install now? Press `Y`.
   - Save setup? Press `Y`.
 
-![](Montage.png 'Cadaver')
+![](Montage.png "Cadaver")
 

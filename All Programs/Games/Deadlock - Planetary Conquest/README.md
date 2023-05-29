@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Deadlock: Planetary Conquest
 
@@ -29,5 +29,5 @@
 ## Licensing Information
 - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/).
 
-![](Montage.png 'Deadlock: Planetary Conquest')
+![](Montage.png "Deadlock: Planetary Conquest")
 

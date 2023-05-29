@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # D/Generation
 
@@ -19,5 +19,5 @@
 ## Additional Notes
 - A keyboard with *a numeric keypad* is preferred to play this game.
 
-![](Montage.png 'D/Generation')
+![](Montage.png "D/Generation")
 

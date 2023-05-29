@@ -1,8 +1,8 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (5)
+# 🗂️ Games ‣ By Genre ‣ Adventure (6)
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/Thumbnail.png 'Beneath a Steel Sky')
+> ![](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/Thumbnail.png "Beneath a Steel Sky")
 >
 > </td>
 >
@@ -23,7 +23,28 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png 'Flight of the Amazon Queen')
+> ![](../../../All%20Programs/Games/Death%20Gate/Thumbnail.png "Death Gate")
+>
+> </td>
+>
+> <td>
+>
+> ## [Death Gate](../../../All%20Programs/Games/Death%20Gate/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **1st-person • Puzzle elements • Fantasy** ┃ Media: **CD-ROM** 
+>
+> ❝ Long ago, the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labyrinth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people into independence. ❞
+>
+> ❝ GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png "Flight of the Amazon Queen")
 >
 > </td>
 >
@@ -44,7 +65,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png 'It Came from the Desert')
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
 >
 > </td>
 >
@@ -63,7 +84,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png 'Lure of the Temptress')
+> ![](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png "Lure of the Temptress")
 >
 > </td>
 >
@@ -84,7 +105,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Teen%20Agent/Thumbnail.png 'Teen Agent')
+> ![](../../../All%20Programs/Games/Teen%20Agent/Thumbnail.png "Teen Agent")
 >
 > </td>
 >

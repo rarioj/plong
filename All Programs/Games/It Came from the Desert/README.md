@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # It Came from the Desert
 
@@ -19,5 +19,5 @@
 - Acknowledgment click: **Click noise on**.
 - Installation: **Save selections to hard disc then run game**.
 
-![](Montage.png 'It Came from the Desert')
+![](Montage.png "It Came from the Desert")
 

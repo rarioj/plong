@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Ascendancy
 
@@ -21,5 +21,5 @@
 - Version 1.6.10 add-on is the official Ascendancy Antagonizer AI module released by The Logic Factory (more challenging computer opponents).
 - You can toggle **Cheat** and **Autoplay** features before running the game.
 
-![](Montage.png 'Ascendancy')
+![](Montage.png "Ascendancy")
 

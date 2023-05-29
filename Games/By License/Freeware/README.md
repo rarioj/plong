@@ -1,8 +1,27 @@
-# 🗂️ Games ‣ By License ‣ Freeware (22)
+# 🗂️ Games ‣ By License ‣ Freeware (27)
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Abuse/Thumbnail.png 'Abuse')
+> ![](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/Thumbnail.png "ABC Wide World of Sports Boxing")
+>
+> </td>
+>
+> <td>
+>
+> ## [ABC Wide World of Sports Boxing](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md)
+>
+> 📌 ┃ Year: **1991** ┃ Genre: **Action • Sports • Strategy** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Boxing** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Abuse/Thumbnail.png "Abuse")
 >
 > </td>
 >
@@ -23,7 +42,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Alien%20Carnage/Thumbnail.png 'Alien Carnage')
+> ![](../../../All%20Programs/Games/Alien%20Carnage/Thumbnail.png "Alien Carnage")
 >
 > </td>
 >
@@ -44,7 +63,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/Thumbnail.png 'Beneath a Steel Sky')
+> ![](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/Thumbnail.png "Beneath a Steel Sky")
 >
 > </td>
 >
@@ -65,7 +84,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Bio%20Menace/Thumbnail.png 'Bio Menace')
+> ![](../../../All%20Programs/Games/Bio%20Menace/Thumbnail.png "Bio Menace")
 >
 > </td>
 >
@@ -86,7 +105,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Blackthorne/Thumbnail.png 'Blackthorne')
+> ![](../../../All%20Programs/Games/Blackthorne/Thumbnail.png "Blackthorne")
 >
 > </td>
 >
@@ -107,7 +126,49 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Command%20%26%20Conquer/Thumbnail.png 'Command & Conquer')
+> ![](../../../All%20Programs/Games/Blockout/Thumbnail.png "Blockout")
+>
+> </td>
+>
+> <td>
+>
+> ## [Blockout](../../../All%20Programs/Games/Blockout/README.md)
+>
+> 📌 ┃ Year: **1989** ┃ Genre: **Action • Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware • Unlicensed** ┃ Category: **Top-down • Falling block puzzle** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ Sit back and get comfortable before you open this box. You'll begin with the playing pit, a 3-D enclosure with length, width, and depth that you can set. During the game, various 3-D blocks will fall. Rotate and maneuver each block into the proper position to form complete layers. As each layer completes, it vanishes, giving you more points and more room to work. Blockout will challenge your reflexes and resolve in a test of coordination and quick thinking. But the greatest challenge of all will be keeping yourself from playing it again, and again, and again. ❞
+>
+> ❝ Blockout is an unlicensed, 3D version of Tetris. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Boppin%27/Thumbnail.png "Boppin'")
+>
+> </td>
+>
+> <td>
+>
+> ## [Boppin'](../../../All%20Programs/Games/Boppin%27/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Platform • Fantasy** ┃ Media: **Floppy Disk** ┃ **No Manual** 
+>
+> ❝ When all the monsters and villains in popular arcade video games mysteriously disappear, it's up to Yeet and Boik to free them to make games challenging again. Defeat the nauseatingly self-righteous Sweety Hunnybunz, a singing treacle bear that has them imprisoned. ❞
+>
+> ❝ The final release released on August 19, 2005 was freeware simply titled Boppin', had all the features of the third release and was the very release ported to Windows. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Command%20%26%20Conquer/Thumbnail.png "Command & Conquer")
 >
 > </td>
 >
@@ -128,7 +189,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/Thumbnail.png 'Command & Conquer: Red Alert')
+> ![](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/Thumbnail.png "Command & Conquer: Red Alert")
 >
 > </td>
 >
@@ -149,7 +210,28 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Electroman/Thumbnail.png 'Electroman')
+> ![](../../../All%20Programs/Games/Death%20Rally/Thumbnail.png "Death Rally")
+>
+> </td>
+>
+> <td>
+>
+> ## [Death Rally](../../../All%20Programs/Games/Death%20Rally/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Action • Racing** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • Shooter** ┃ Media: **CD-ROM** 
+>
+> ❝ Enter the corrupt racing world of Death Rally, where defensive driving means annihilating your opponents. You'll become ravenous for the power and glory of being the best at Death Rally, but first, you must pay your dues. Put the pedal to the metal and smash, blast and obliterate the competition to earn the chance to face the undefeated master, "The Adversary." Make deals with loan sharks and mob bosses to get the cash you need to build the ultimate battle racing machine. Remember, no trick is too dirty, and no spectator is too innocent - in your savage quest for the checkered flag. ❞
+>
+> ❝ Based on Komppa's work, Remedy released Death Rally for Windows as proprietary freeware on 20 October 2009. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Electroman/Thumbnail.png "Electroman")
 >
 > </td>
 >
@@ -170,7 +252,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png 'Flight of the Amazon Queen')
+> ![](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png "Flight of the Amazon Queen")
 >
 > </td>
 >
@@ -191,7 +273,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/God%20of%20Thunder/Thumbnail.png 'God of Thunder')
+> ![](../../../All%20Programs/Games/God%20of%20Thunder/Thumbnail.png "God of Thunder")
 >
 > </td>
 >
@@ -212,7 +294,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png 'It Came from the Desert')
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
 >
 > </td>
 >
@@ -231,7 +313,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Jetpack/Thumbnail.png 'Jetpack')
+> ![](../../../All%20Programs/Games/Jetpack/Thumbnail.png "Jetpack")
 >
 > </td>
 >
@@ -252,7 +334,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png 'Lure of the Temptress')
+> ![](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png "Lure of the Temptress")
 >
 > </td>
 >
@@ -273,7 +355,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png 'One Must Fall 2097')
+> ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png "One Must Fall 2097")
 >
 > </td>
 >
@@ -294,7 +376,28 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/SimCity/Thumbnail.png 'SimCity')
+> ![](../../../All%20Programs/Games/Robbo/Thumbnail.png "Robbo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Robbo](../../../All%20Programs/Games/Robbo/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Action • Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • Sci-fi** ┃ Media: **Compressed Package** ┃ **No Manual** 
+>
+> ❝ After pulling too many mischievous pranks, Robbo found himself destined to live in a horrid maze designed to prevent the intelligent little robot from escaping. It is up to you to end Robbo's frustration and torture and find a way to freedom. Beware! Along the way, you will encounter giant spiders blocking the corridors, powerful cannons shooting missiles in random directions, and deadly electromagnets designed to destroy all metal objects, including Robbo! That is just the beginning. ❞
+>
+> ❝ On 25 June 2006, after obtaining approval from the rights holders, Maciej Miąsik released the three games from Epic Puzzle Pack, including The Adventures of Robbo, through the Classic DOS Games website under the Creative Commons BY-SA 2.5 license as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SimCity/Thumbnail.png "SimCity")
 >
 > </td>
 >
@@ -315,7 +418,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Stargunner/Thumbnail.png 'Stargunner')
+> ![](../../../All%20Programs/Games/Stargunner/Thumbnail.png "Stargunner")
 >
 > </td>
 >
@@ -336,7 +439,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Supaplex/Thumbnail.png 'Supaplex')
+> ![](../../../All%20Programs/Games/Supaplex/Thumbnail.png "Supaplex")
 >
 > </td>
 >
@@ -357,7 +460,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Teen%20Agent/Thumbnail.png 'Teen Agent')
+> ![](../../../All%20Programs/Games/Teen%20Agent/Thumbnail.png "Teen Agent")
 >
 > </td>
 >
@@ -378,7 +481,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Elder%20Scrolls%20-%20Arena/Thumbnail.png 'The Elder Scrolls: Arena')
+> ![](../../../All%20Programs/Games/The%20Elder%20Scrolls%20-%20Arena/Thumbnail.png "The Elder Scrolls: Arena")
 >
 > </td>
 >
@@ -399,7 +502,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Elder%20Scrolls%202%20-%20Daggerfall/Thumbnail.png 'The Elder Scrolls II: Daggerfall')
+> ![](../../../All%20Programs/Games/The%20Elder%20Scrolls%202%20-%20Daggerfall/Thumbnail.png "The Elder Scrolls II: Daggerfall")
 >
 > </td>
 >
@@ -420,7 +523,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Lost%20Vikings/Thumbnail.png 'The Lost Vikings')
+> ![](../../../All%20Programs/Games/The%20Lost%20Vikings/Thumbnail.png "The Lost Vikings")
 >
 > </td>
 >
@@ -441,7 +544,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Xargon/Thumbnail.png 'Xargon')
+> ![](../../../All%20Programs/Games/Xargon/Thumbnail.png "Xargon")
 >
 > </td>
 >

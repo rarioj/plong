@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Incredible Toon Machine
 
@@ -16,5 +16,5 @@
 - Ignore pop-up error: *Setup Initialization Error*. It will not affect gameplay.
 - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
 
-![](Montage.png 'The Incredible Toon Machine')
+![](Montage.png "The Incredible Toon Machine")
 

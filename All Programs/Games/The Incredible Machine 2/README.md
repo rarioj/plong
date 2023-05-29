@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Incredible Machine 2
 
@@ -22,5 +22,5 @@
   - Failed command: `UNCHUNK.EXE COMPRESS.001 .`
   - **TODO**: Fix once DOSBox supports mounting multiple floppy disk images on a single drive.
 
-![](Montage.png 'The Incredible Machine 2')
+![](Montage.png "The Incredible Machine 2")
 

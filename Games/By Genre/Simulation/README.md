@@ -2,7 +2,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png 'Deadlock: Planetary Conquest')
+> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png "Deadlock: Planetary Conquest")
 >
 > </td>
 >
@@ -21,7 +21,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/SimCity/Thumbnail.png 'SimCity')
+> ![](../../../All%20Programs/Games/SimCity/Thumbnail.png "SimCity")
 >
 > </td>
 >
@@ -42,7 +42,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png 'SimTower')
+> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png "SimTower")
 >
 > </td>
 >

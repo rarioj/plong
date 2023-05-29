@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Civilization
 
@@ -20,5 +20,5 @@
   - **1) Mouse and Keyboard**.
 - Consult `Assets/manual.pdf` for the game copy protection.
 
-![](Montage.png 'Civilization')
+![](Montage.png "Civilization")
 

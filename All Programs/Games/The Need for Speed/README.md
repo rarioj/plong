@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Need for Speed: Special Edition
 
@@ -19,5 +19,5 @@
 - Install: **Recommended install**.
   - Use the default **drive** and **directory** for the installation location.
 
-![](Montage.png 'The Need for Speed: Special Edition')
+![](Montage.png "The Need for Speed: Special Edition")
 

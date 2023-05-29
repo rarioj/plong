@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Hi-Octane
 
@@ -20,5 +20,5 @@
 ## Additional Notes
 - For high-resolution graphics, go to *Options > Detail Options > Screen Resolution*, and select **640 x 480 256 Colours**.
 
-![](Montage.png 'Hi-Octane')
+![](Montage.png "Hi-Octane")
 

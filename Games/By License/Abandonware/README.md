@@ -1,8 +1,27 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (16)
+# 🗂️ Games ‣ By License ‣ Abandonware (17)
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Ascendancy/Thumbnail.png 'Ascendancy')
+> ![](../../../All%20Programs/Games/4D%20Boxing/Thumbnail.png "4D Boxing")
+>
+> </td>
+>
+> <td>
+>
+> ## [4D Boxing](../../../All%20Programs/Games/4D%20Boxing/README.md)
+>
+> 📌 ┃ Year: **1992** ┃ Genre: **Sports** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **1st-person • Diagonal-down • Boxing** ┃ Media: **Floppy Disk** ┃ **Cracked** 
+>
+> ❝ Good evening Ladies and Gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Ascendancy/Thumbnail.png "Ascendancy")
 >
 > </td>
 >
@@ -21,7 +40,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Blood%20%26%20Magic/Thumbnail.png 'Blood & Magic')
+> ![](../../../All%20Programs/Games/Blood%20%26%20Magic/Thumbnail.png "Blood & Magic")
 >
 > </td>
 >
@@ -40,7 +59,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Cadaver/Thumbnail.png 'Cadaver')
+> ![](../../../All%20Programs/Games/Cadaver/Thumbnail.png "Cadaver")
 >
 > </td>
 >
@@ -61,7 +80,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png 'Civilization')
+> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Civilization")
 >
 > </td>
 >
@@ -80,7 +99,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png 'Civilization II')
+> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Civilization II")
 >
 > </td>
 >
@@ -99,7 +118,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/D-Generation/Thumbnail.png 'D/Generation')
+> ![](../../../All%20Programs/Games/D-Generation/Thumbnail.png "D/Generation")
 >
 > </td>
 >
@@ -118,7 +137,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png 'Fade to Black')
+> ![](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png "Fade to Black")
 >
 > </td>
 >
@@ -137,7 +156,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Hi-Octane/Thumbnail.png 'Hi-Octane')
+> ![](../../../All%20Programs/Games/Hi-Octane/Thumbnail.png "Hi-Octane")
 >
 > </td>
 >
@@ -156,7 +175,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png 'Lode Runner: The Legend Returns')
+> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png "Lode Runner: The Legend Returns")
 >
 > </td>
 >
@@ -175,7 +194,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Prince%20of%20Persia%20Collection/Thumbnail.png 'Prince of Persia CD Collection')
+> ![](../../../All%20Programs/Games/Prince%20of%20Persia%20Collection/Thumbnail.png "Prince of Persia CD Collection")
 >
 > </td>
 >
@@ -196,7 +215,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png 'SimTower')
+> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png "SimTower")
 >
 > </td>
 >
@@ -215,7 +234,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/Thumbnail.png 'The Amazing Spider-Man')
+> ![](../../../All%20Programs/Games/The%20Amazing%20Spider-Man/Thumbnail.png "The Amazing Spider-Man")
 >
 > </td>
 >
@@ -234,7 +253,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Machine/Thumbnail.png 'The Incredible Machine')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Machine/Thumbnail.png "The Incredible Machine")
 >
 > </td>
 >
@@ -253,7 +272,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Machine%202/Thumbnail.png 'The Incredible Machine 2')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Machine%202/Thumbnail.png "The Incredible Machine 2")
 >
 > </td>
 >
@@ -272,7 +291,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png 'The Incredible Toon Machine')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png "The Incredible Toon Machine")
 >
 > </td>
 >
@@ -291,7 +310,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Need%20for%20Speed/Thumbnail.png 'The Need for Speed: Special Edition')
+> ![](../../../All%20Programs/Games/The%20Need%20for%20Speed/Thumbnail.png "The Need for Speed: Special Edition")
 >
 > </td>
 >

@@ -1,8 +1,50 @@
-# 🗂️ Games ‣ By Genre ‣ Puzzle (6)
+# 🗂️ Games ‣ By Genre ‣ Puzzle (10)
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png 'Lode Runner: The Legend Returns')
+> ![](../../../All%20Programs/Games/Blockout/Thumbnail.png "Blockout")
+>
+> </td>
+>
+> <td>
+>
+> ## [Blockout](../../../All%20Programs/Games/Blockout/README.md)
+>
+> 📌 ┃ Year: **1989** ┃ Genre: **Action • Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware • Unlicensed** ┃ Category: **Top-down • Falling block puzzle** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ Sit back and get comfortable before you open this box. You'll begin with the playing pit, a 3-D enclosure with length, width, and depth that you can set. During the game, various 3-D blocks will fall. Rotate and maneuver each block into the proper position to form complete layers. As each layer completes, it vanishes, giving you more points and more room to work. Blockout will challenge your reflexes and resolve in a test of coordination and quick thinking. But the greatest challenge of all will be keeping yourself from playing it again, and again, and again. ❞
+>
+> ❝ Blockout is an unlicensed, 3D version of Tetris. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Boppin%27/Thumbnail.png "Boppin'")
+>
+> </td>
+>
+> <td>
+>
+> ## [Boppin'](../../../All%20Programs/Games/Boppin%27/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Platform • Fantasy** ┃ Media: **Floppy Disk** ┃ **No Manual** 
+>
+> ❝ When all the monsters and villains in popular arcade video games mysteriously disappear, it's up to Yeet and Boik to free them to make games challenging again. Defeat the nauseatingly self-righteous Sweety Hunnybunz, a singing treacle bear that has them imprisoned. ❞
+>
+> ❝ The final release released on August 19, 2005 was freeware simply titled Boppin', had all the features of the third release and was the very release ported to Windows. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png "Lode Runner: The Legend Returns")
 >
 > </td>
 >
@@ -21,7 +63,47 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Supaplex/Thumbnail.png 'Supaplex')
+> ![](../../../All%20Programs/Games/Oddworld%20-%20Abe%27s%20Oddysee/Thumbnail.png "Oddworld: Abe's Oddysee")
+>
+> </td>
+>
+> <td>
+>
+> ## [Oddworld: Abe's Oddysee](../../../All%20Programs/Games/Oddworld%20-%20Abe%27s%20Oddysee/README.md)
+>
+> 📌 ┃ Year: **1997** ┃ Genre: **Action • Puzzle** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Platform • Cyberpunk • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ As Abe, you can whistle, laugh, hiss, and fart. In a lush world of diabolical danger where everyone wants to eat you, you are the skinny guy with no weapons. Run, jump, hide, scramble and talk your way past the ugliest bunch of carnivorous crustaceans ever created. Unlock your special powers to figure out your foes, and you might save your race. If not, you are for dinner! Enter Oddworld, a surreal, sensory overload of pure gaming and claim your destiny. Saviour. Or salami. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Robbo/Thumbnail.png "Robbo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Robbo](../../../All%20Programs/Games/Robbo/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Action • Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • Sci-fi** ┃ Media: **Compressed Package** ┃ **No Manual** 
+>
+> ❝ After pulling too many mischievous pranks, Robbo found himself destined to live in a horrid maze designed to prevent the intelligent little robot from escaping. It is up to you to end Robbo's frustration and torture and find a way to freedom. Beware! Along the way, you will encounter giant spiders blocking the corridors, powerful cannons shooting missiles in random directions, and deadly electromagnets designed to destroy all metal objects, including Robbo! That is just the beginning. ❞
+>
+> ❝ On 25 June 2006, after obtaining approval from the rights holders, Maciej Miąsik released the three games from Epic Puzzle Pack, including The Adventures of Robbo, through the Classic DOS Games website under the Creative Commons BY-SA 2.5 license as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Supaplex/Thumbnail.png "Supaplex")
 >
 > </td>
 >
@@ -42,7 +124,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Machine/Thumbnail.png 'The Incredible Machine')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Machine/Thumbnail.png "The Incredible Machine")
 >
 > </td>
 >
@@ -61,7 +143,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Machine%202/Thumbnail.png 'The Incredible Machine 2')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Machine%202/Thumbnail.png "The Incredible Machine 2")
 >
 > </td>
 >
@@ -80,7 +162,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png 'The Incredible Toon Machine')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png "The Incredible Toon Machine")
 >
 > </td>
 >
@@ -99,7 +181,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Lost%20Vikings/Thumbnail.png 'The Lost Vikings')
+> ![](../../../All%20Programs/Games/The%20Lost%20Vikings/Thumbnail.png "The Lost Vikings")
 >
 > </td>
 >

@@ -52,5 +52,5 @@
 ## Licensing Information
 - Microsoft Windows 3.1x is unsupported as of December 31, 2001.
 
-![](Montage.png 'Windows 3.1x')
+![](Montage.png "Windows 3.1x")
 

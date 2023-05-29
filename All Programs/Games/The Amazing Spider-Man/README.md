@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Amazing Spider-Man
 
@@ -17,5 +17,5 @@
 ## Additional Notes
 - Consult `Assets/manual.pdf` for the game copy protection.
 
-![](Montage.png 'The Amazing Spider-Man')
+![](Montage.png "The Amazing Spider-Man")
 

@@ -1,8 +1,27 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (7)
+# 🗂️ Games ‣ By Genre ‣ Strategy (8)
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Ascendancy/Thumbnail.png 'Ascendancy')
+> ![](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/Thumbnail.png "ABC Wide World of Sports Boxing")
+>
+> </td>
+>
+> <td>
+>
+> ## [ABC Wide World of Sports Boxing](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md)
+>
+> 📌 ┃ Year: **1991** ┃ Genre: **Action • Sports • Strategy** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Boxing** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Ascendancy/Thumbnail.png "Ascendancy")
 >
 > </td>
 >
@@ -21,7 +40,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Blood%20%26%20Magic/Thumbnail.png 'Blood & Magic')
+> ![](../../../All%20Programs/Games/Blood%20%26%20Magic/Thumbnail.png "Blood & Magic")
 >
 > </td>
 >
@@ -40,7 +59,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png 'Civilization')
+> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Civilization")
 >
 > </td>
 >
@@ -59,7 +78,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png 'Civilization II')
+> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Civilization II")
 >
 > </td>
 >
@@ -78,7 +97,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Command%20%26%20Conquer/Thumbnail.png 'Command & Conquer')
+> ![](../../../All%20Programs/Games/Command%20%26%20Conquer/Thumbnail.png "Command & Conquer")
 >
 > </td>
 >
@@ -99,7 +118,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/Thumbnail.png 'Command & Conquer: Red Alert')
+> ![](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/Thumbnail.png "Command & Conquer: Red Alert")
 >
 > </td>
 >
@@ -120,7 +139,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png 'Deadlock: Planetary Conquest')
+> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png "Deadlock: Planetary Conquest")
 >
 > </td>
 >

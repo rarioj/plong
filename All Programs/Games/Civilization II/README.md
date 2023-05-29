@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Civilization II
 
@@ -33,5 +33,5 @@
 - Accept the configuration shown above.
 - Press `ENTER` when prompted to **Keep Driver**.
 
-![](Montage.png 'Civilization II')
+![](Montage.png "Civilization II")
 

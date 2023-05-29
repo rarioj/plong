@@ -1,8 +1,29 @@
-# 🗂️ Games ‣ By Genre ‣ Racing (2)
+# 🗂️ Games ‣ By Genre ‣ Racing (3)
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Hi-Octane/Thumbnail.png 'Hi-Octane')
+> ![](../../../All%20Programs/Games/Death%20Rally/Thumbnail.png "Death Rally")
+>
+> </td>
+>
+> <td>
+>
+> ## [Death Rally](../../../All%20Programs/Games/Death%20Rally/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Action • Racing** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • Shooter** ┃ Media: **CD-ROM** 
+>
+> ❝ Enter the corrupt racing world of Death Rally, where defensive driving means annihilating your opponents. You'll become ravenous for the power and glory of being the best at Death Rally, but first, you must pay your dues. Put the pedal to the metal and smash, blast and obliterate the competition to earn the chance to face the undefeated master, "The Adversary." Make deals with loan sharks and mob bosses to get the cash you need to build the ultimate battle racing machine. Remember, no trick is too dirty, and no spectator is too innocent - in your savage quest for the checkered flag. ❞
+>
+> ❝ Based on Komppa's work, Remedy released Death Rally for Windows as proprietary freeware on 20 October 2009. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Hi-Octane/Thumbnail.png "Hi-Octane")
 >
 > </td>
 >
@@ -21,7 +42,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Need%20for%20Speed/Thumbnail.png 'The Need for Speed: Special Edition')
+> ![](../../../All%20Programs/Games/The%20Need%20for%20Speed/Thumbnail.png "The Need for Speed: Special Edition")
 >
 > </td>
 >

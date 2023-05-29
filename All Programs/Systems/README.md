@@ -9,7 +9,7 @@
 > ❝ It is generally okay to install and run old operating systems like Windows 3.1 for the purpose of playing nostalgic games, as long as you're not using it for any illegal or unethical activities. ❞ — *ChatGPT*
 >
 >
-> ![](Windows%203.1x/Montage.png 'Windows 3.1x')
+> ![](Windows%203.1x/Montage.png "Windows 3.1x")
 >
 
 &nbsp;

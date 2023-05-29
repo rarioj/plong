@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Prince of Persia CD Collection
 
@@ -30,5 +30,5 @@
 ## Additional Notes
 - Consult `Assets/code.jpg` for the game copy protection.
 
-![](Montage.png 'Prince of Persia CD Collection')
+![](Montage.png "Prince of Persia CD Collection")
 

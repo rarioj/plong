@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # SimTower
 
@@ -26,5 +26,5 @@
 - Accept the configuration shown above.
 - Press `ENTER` when prompted to **Keep Driver**.
 
-![](Montage.png 'SimTower')
+![](Montage.png "SimTower")
 

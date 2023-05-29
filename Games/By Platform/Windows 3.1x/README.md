@@ -2,7 +2,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png 'Civilization II')
+> ![](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Civilization II")
 >
 > </td>
 >
@@ -21,7 +21,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png 'Deadlock: Planetary Conquest')
+> ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png "Deadlock: Planetary Conquest")
 >
 > </td>
 >
@@ -40,7 +40,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png 'Lode Runner: The Legend Returns')
+> ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png "Lode Runner: The Legend Returns")
 >
 > </td>
 >
@@ -59,7 +59,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png 'SimTower')
+> ![](../../../All%20Programs/Games/SimTower/Thumbnail.png "SimTower")
 >
 > </td>
 >
@@ -78,7 +78,7 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png 'The Incredible Toon Machine')
+> ![](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png "The Incredible Toon Machine")
 >
 > </td>
 >

@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # SimCity
 
@@ -20,5 +20,5 @@
 - Please choose a sound source for MUSIC: **Sound Blaster 16**, **CONTINUE**.
 - Please choose a sound source for SOUND EFFECTS: **Sound Blaster 16**, **CONTINUE**.
 
-![](Montage.png 'SimCity')
+![](Montage.png "SimCity")
 

@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Blood & Magic
 
@@ -18,5 +18,5 @@
   - Select Digital: **Sound Blaster 16**; Port: **220**; DMA: **1**; IRQ: **7**.
   - Select MIDI: **Sound Blaster 16**; Port: **388**.
 
-![](Montage.png 'Blood & Magic')
+![](Montage.png "Blood & Magic")
 

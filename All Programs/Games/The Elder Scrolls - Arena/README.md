@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Elder Scrolls: Arena
 
@@ -21,5 +21,5 @@
   - Select Sound Card: **Sound Blaster Pro or 16**.
   - Select Music Card: **General MIDI or MPU-401**.
 
-![](Montage.png 'The Elder Scrolls: Arena')
+![](Montage.png "The Elder Scrolls: Arena")
 

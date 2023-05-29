@@ -2,7 +2,7 @@
 #
 ###### Library properties
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.5b
+# library-version: 23.5c
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -328,6 +328,148 @@
 # file: Template-Program-Win31.txt = # code: echo "Hello, World!"
 #
 #
+# file: All Programs/Games/4D Boxing/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/4D Boxing/Program.txt = #
+# file: All Programs/Games/4D Boxing/Program.txt = # name: 4D Boxing
+# file: All Programs/Games/4D Boxing/Program.txt = # name: 4-D Boxing
+# file: All Programs/Games/4D Boxing/Program.txt = # name: 4D Sports Boxing = Europe
+# file: All Programs/Games/4D Boxing/Program.txt = # info: Good evening Ladies and Gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight.
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: Genre = Sports
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: Category = 1st-person • Diagonal-down • Boxing
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/4D Boxing/Program.txt = # tag: Cracked
+# file: All Programs/Games/4D Boxing/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/4D_Sports_Boxing)
+# file: All Programs/Games/4D Boxing/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/162/4-d-boxing/)
+# file: All Programs/Games/4D Boxing/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=4-D+Sports+boxing&gid=1348)
+# file: All Programs/Games/4D Boxing/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/4-d-boxing-12u)
+# file: All Programs/Games/4D Boxing/Program.txt = #
+# file: All Programs/Games/4D Boxing/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/4D Boxing/Program.txt = # text: - Copy protection bypassed — Enter anything when prompted for the boxer's name.
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = [sdl]
+# file: All Programs/Games/4D Boxing/Program.txt = autolock = true
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = [cpu]
+# file: All Programs/Games/4D Boxing/Program.txt = cycles = 8000
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = [autoexec]
+# file: All Programs/Games/4D Boxing/Program.txt = @ECHO OFF
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/4D Boxing/Program.txt = IMGMOUNT A "./Assets/disk1.img" -t floppy
+# file: All Programs/Games/4D Boxing/Program.txt = IMGMOUNT B "./Assets/disk2.img" -t floppy
+# file: All Programs/Games/4D Boxing/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = IF NOT EXIST C:\BOXING\SETUP.EXE GOTO F_INSTALL
+# file: All Programs/Games/4D Boxing/Program.txt = IF EXIST C:\BOXING\SETUP.EXE GOTO F_START
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = :F_INSTALL
+# file: All Programs/Games/4D Boxing/Program.txt = C:
+# file: All Programs/Games/4D Boxing/Program.txt = MD BOXING
+# file: All Programs/Games/4D Boxing/Program.txt = CD BOXING
+# file: All Programs/Games/4D Boxing/Program.txt = COPY A:\*.*
+# file: All Programs/Games/4D Boxing/Program.txt = COPY B:\*.*
+# file: All Programs/Games/4D Boxing/Program.txt = COPY X:\CRACK.COM
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = :F_START
+# file: All Programs/Games/4D Boxing/Program.txt = C:
+# file: All Programs/Games/4D Boxing/Program.txt = CD C:\BOXING
+# file: All Programs/Games/4D Boxing/Program.txt = CRACK.COM
+# file: All Programs/Games/4D Boxing/Program.txt = 4DBMCGA.EXE n SB15.DRV d
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = :F_EXIT
+# file: All Programs/Games/4D Boxing/Program.txt = EXIT
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = :F_DEBUG
+# file: All Programs/Games/4D Boxing/Program.txt
+# file: All Programs/Games/4D Boxing/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3911512-4-d-boxing-dos-front-cover.jpg
+# file: All Programs/Games/4D Boxing/Program.txt = # check: coverart.jpg = a5ba1eecac3999ace66f1ed90b3e7db7075cfe310d2ca50cb2394e98e40f92c8
+# file: All Programs/Games/4D Boxing/Program.txt = # asset: disk1.img = https://archive.org/download/20230522_20230522_2215/4-D%20Boxing%20%281991%29%20%28720K%29%20%5B%21%5D.zip/4-D%20Boxing%20%281991%29%20%28720K%29%20%28Disk%201%29%20%5B%21%5D.ima
+# file: All Programs/Games/4D Boxing/Program.txt = # check: disk1.img = 9fc221f3c35687c0ce331c4331ced6ceea1e01309abced065be06c13a2e6618d
+# file: All Programs/Games/4D Boxing/Program.txt = # asset: disk2.img = https://archive.org/download/20230522_20230522_2215/4-D%20Boxing%20%281991%29%20%28720K%29%20%5B%21%5D.zip/4-D%20Boxing%20%281991%29%20%28720K%29%20%28Disk%202%29%20%5B%21%5D.ima
+# file: All Programs/Games/4D Boxing/Program.txt = # check: disk2.img = eb19b7e23e49e55a491e898a387e113afb34c2a9a641b2ef58680b6a6e38022a
+# file: All Programs/Games/4D Boxing/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/4oq-4-d-boxing
+# file: All Programs/Games/4D Boxing/Program.txt = # check: manual.pdf = f447ebbb052f78926e6f81161190fe0827919c5d062dfe1fde49360683d0cbf1
+# file: All Programs/Games/4D Boxing/Program.txt = # asset: crack.com = https://archive.org/download/Various_DOS_Abandonware_Ark/4d%20Boxing%20Deluxe%20%281990%29%28Electronic%20Arts%20Inc%29.zip/crack.com
+# file: All Programs/Games/4D Boxing/Program.txt = # check: crack.com = 61f859de54b4bde6230b43e326ec70b34e4a9b3266cf61605034cac7acccb741
+#
+#
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = #
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟨
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = #
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # name: ABC Wide World of Sports Boxing
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # name: TV Sports Boxing = Europe
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # info: Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Genre = Action • Sports • Strategy
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Category = Side view • Boxing
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/ABC_Wide_World_of_Sports_Boxing)
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/15780/abc-wide-world-of-sports-boxing/)
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=TV+Sports%3A+Boxing&gid=1153)
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/abc-wide-world-of-sports-boxing-12z)
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = #
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - Hard Disk Installation: **(Do not install)**.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - Sound System: **Roland Sound Card**.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - Graphics Adapter: **VGA**.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - Calibrate keys for **Player One** (and **Player Two** if desired).
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text:
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text:
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: ## Known Issues
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - DOSBox 0.74-3 🟨 — Music is working with no sound effects.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - DOSBox Staging 0.80.1 🟨 — Music is working with no sound effects.
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = [autoexec]
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = @ECHO OFF
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = IMGMOUNT A "./Assets/disk1.img" -t floppy
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = IMGMOUNT B "./Assets/disk2.img" -t floppy
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = IF NOT EXIST C:\BOXING\VBOX.EXE GOTO F_INSTALL
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = IF EXIST C:\BOXING\VBOX.EXE GOTO F_START
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = :F_INSTALL
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = C:
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = CD C:\
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = MD BOXING
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = CD BOXING
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = COPY A:\*.*
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = COPY B:\*.*
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = :F_START
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = C:
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = CD C:\BOXING
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = VBOX.EXE
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = :F_EXIT
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = EXIT
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = :F_DEBUG
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4192947-abc-wide-world-of-sports-boxing-dos-front-cover.jpg
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # check: coverart.jpg = 35ca32873f3ea6d8a664e74282d0777f1e931f2dcec938d3d5defa2a7068bb41
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # asset: disk1.img = https://archive.org/download/001862-AbcWideWorldOfSportsBoxing/001862_abc_wide_world_of_sports_boxing.7z/001862_abc_wide_world_of_sports_boxing%2Fdisk01.img
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # check: disk1.img = 68498be3691b7574feb0eb9d9bf8b435d3e681773760d16124d27e1b0d40ba1e
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # asset: disk2.img = https://archive.org/download/001862-AbcWideWorldOfSportsBoxing/001862_abc_wide_world_of_sports_boxing.7z/001862_abc_wide_world_of_sports_boxing%2Fdisk02.img
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # check: disk2.img = 0d584c6708501d5007aa7571d3f321a6a368b039550d982b2006d2f8a15586be
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/16tq-abc-wide-world-of-sports-boxing
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # check: manual.pdf = 23eda7e141ebb67c6ceaa0d821268460de3da4387c562ceafdbeb9330e57a002
+#
+#
 # file: All Programs/Games/Abuse/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Abuse/Program.txt = #
 # file: All Programs/Games/Abuse/Program.txt = # name: Abuse
@@ -444,6 +586,80 @@
 # file: All Programs/Games/Alien Carnage/Program.txt = # check: cdrom.iso = 8cef244fe578f113f9af3dfb9099b7ba0bf55a9323b65ce93beb46281b2012d1
 # file: All Programs/Games/Alien Carnage/Program.txt = # asset: manual.pdf = https://archive.org/download/AlienCarnage_201603/Alien%20Carnage.pdf
 # file: All Programs/Games/Alien Carnage/Program.txt = # check: manual.pdf = 504e33dd2a43873a13dd29704b4d77e17ef440842e3eb1ddb6e6b530e516c588
+#
+#
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Anvil of Dawn/Program.txt = #
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # name: Anvil of Dawn
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # info: You embark on a noble journey across Tempest in the ultimate fantasy adventure. Your mission is to rescue humanity from an evil fate with battle, skill, magic, and wits. Explore a massive terrain in 3D while solving puzzles, overcoming traps, and enjoying the beauty and scope of the outdoor scenes. Quest through dungeons where 3D walls add realism, and creatures all but lunge out at you in the attack. You have more than 25 spells and magical objects at your disposal, each drawing upon one of the elemental forces such as fire, water, wind, and lightning.
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Genre = Role-playing
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Category = 1st-person • Action RPG • Fantasy
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Patched
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Anvil_of_Dawn)
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2142/anvil-of-dawn/)
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Anvil+of+dawn&gid=1441)
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/anvil-of-dawn-2qt)
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn)
+# file: All Programs/Games/Anvil of Dawn/Program.txt = #
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: - Press `3` to select **3. Install Anvil of Dawn (Maximum Installation)**.
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: - Audio configuration:
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text:   - Select Digital: **Sound Blaster 16**; Port: **220**; DMA: **1**; IRQ: **7**.
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text:   - Select MIDI: **Sound Blaster 16**; Port: **388**.
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text:
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: ## Licensing Information
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn).
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = [sdl]
+# file: All Programs/Games/Anvil of Dawn/Program.txt = autolock = true
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = [autoexec]
+# file: All Programs/Games/Anvil of Dawn/Program.txt = @ECHO OFF
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Anvil of Dawn/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Anvil of Dawn/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = IF NOT EXIST C:\ANVIL\ANVIL.EXE GOTO F_INSTALL
+# file: All Programs/Games/Anvil of Dawn/Program.txt = IF EXIST C:\ANVIL\ANVIL.EXE GOTO F_START
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = :F_INSTALL
+# file: All Programs/Games/Anvil of Dawn/Program.txt = D:
+# file: All Programs/Games/Anvil of Dawn/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Anvil of Dawn/Program.txt = C:
+# file: All Programs/Games/Anvil of Dawn/Program.txt = CD C:\
+# file: All Programs/Games/Anvil of Dawn/Program.txt = MD UNZIP
+# file: All Programs/Games/Anvil of Dawn/Program.txt = CD UNZIP
+# file: All Programs/Games/Anvil of Dawn/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Anvil of Dawn/Program.txt = CD C:\ANVIL
+# file: All Programs/Games/Anvil of Dawn/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Anvil of Dawn/Program.txt = CALL ANVUP.BAT
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = :F_START
+# file: All Programs/Games/Anvil of Dawn/Program.txt = C:
+# file: All Programs/Games/Anvil of Dawn/Program.txt = CD C:\ANVIL
+# file: All Programs/Games/Anvil of Dawn/Program.txt = ANVIL.EXE
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = :F_EXIT
+# file: All Programs/Games/Anvil of Dawn/Program.txt = EXIT
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = :F_DEBUG
+# file: All Programs/Games/Anvil of Dawn/Program.txt
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4348685-anvil-of-dawn-dos-front-cover.jpg
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # check: coverart.jpg = 76e996a5556453f2b874dd7e9511f0b337e116124528483182bc2567ca3dee1a
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Anvil_of_Dawn_1995/Anvil_of_Dawn_1995.zip/anvldawn%2Fcd%2FAnvil%20of%20Down.iso
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # check: cdrom.iso = 9ffdc144b5ddde465dde70f0590511980536ed4238dff9fc1018d0403be91278
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # asset: manual.pdf = https://archive.org/download/anvil-of-dawn-install-guide/Install_Guide.pdf
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # check: manual.pdf = 6c2236da078ca0f566c72d2798bc3eb838d900f620426fb93cf7d794877baa55
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # asset: patch.zip = https://archive.org/download/ANVUP11/ANVUP11.ZIP
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # check: patch.zip = f97238447ea0491f317d86cd4921dfa1260571e05e1475bebadb9a0c673ba61b
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
 # file: All Programs/Games/Ascendancy/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -798,6 +1014,59 @@
 # file: All Programs/Games/Blackthorne/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/Blockout/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Blockout/Program.txt = #
+# file: All Programs/Games/Blockout/Program.txt = # name: Blockout
+# file: All Programs/Games/Blockout/Program.txt = # name: Block Out
+# file: All Programs/Games/Blockout/Program.txt = # info: Sit back and get comfortable before you open this box. You'll begin with the playing pit, a 3-D enclosure with length, width, and depth that you can set. During the game, various 3-D blocks will fall. Rotate and maneuver each block into the proper position to form complete layers. As each layer completes, it vanishes, giving you more points and more room to work. Blockout will challenge your reflexes and resolve in a test of coordination and quick thinking. But the greatest challenge of all will be keeping yourself from playing it again, and again, and again.
+# file: All Programs/Games/Blockout/Program.txt = # info: Wikipedia = Blockout is an unlicensed, 3D version of Tetris.
+# file: All Programs/Games/Blockout/Program.txt = # tag: Year = 1989
+# file: All Programs/Games/Blockout/Program.txt = # tag: Genre = Action • Puzzle
+# file: All Programs/Games/Blockout/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Blockout/Program.txt = # tag: License = Freeware • Unlicensed
+# file: All Programs/Games/Blockout/Program.txt = # tag: Category = Top-down • Falling block puzzle
+# file: All Programs/Games/Blockout/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Blockout/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Blockout/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Blockout)
+# file: All Programs/Games/Blockout/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/498/blockout/)
+# file: All Programs/Games/Blockout/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Blockout&gid=134)
+# file: All Programs/Games/Blockout/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/blockout-ly)
+# file: All Programs/Games/Blockout/Program.txt = #
+# file: All Programs/Games/Blockout/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Blockout/Program.txt = # text: - Select graphics mode: **EGA 640x350, 16 colors**.
+# file: All Programs/Games/Blockout/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = [autoexec]
+# file: All Programs/Games/Blockout/Program.txt = @ECHO OFF
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Blockout/Program.txt = IMGMOUNT A "./Assets/disk.img" -t floppy
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = IF NOT EXIST C:\BLOCKOUT\BL.EXE GOTO F_INSTALL
+# file: All Programs/Games/Blockout/Program.txt = IF EXIST C:\BLOCKOUT\BL.EXE GOTO F_START
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = :F_INSTALL
+# file: All Programs/Games/Blockout/Program.txt = A:
+# file: All Programs/Games/Blockout/Program.txt = CALL INSTALL.BAT C:
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = :F_START
+# file: All Programs/Games/Blockout/Program.txt = C:
+# file: All Programs/Games/Blockout/Program.txt = CD C:\BLOCKOUT
+# file: All Programs/Games/Blockout/Program.txt = BL.EXE
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = :F_EXIT
+# file: All Programs/Games/Blockout/Program.txt = EXIT
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = :F_DEBUG
+# file: All Programs/Games/Blockout/Program.txt
+# file: All Programs/Games/Blockout/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3924014-blockout-dos-front-cover.jpg
+# file: All Programs/Games/Blockout/Program.txt = # check: coverart.jpg = 4c1c3f56a9c55b87d42bbadb4b56a28b92a83d09acd312569fcb2e7a5540cbe4
+# file: All Programs/Games/Blockout/Program.txt = # asset: disk.img = https://archive.org/download/003417-Blockout/003417_blockout.7z/003417_blockout%2Fdisk1.img
+# file: All Programs/Games/Blockout/Program.txt = # check: disk.img = 3ef448501ac096baa6c1229b7afea9dbed76ebf9efdaf7b17f13ac3286787369
+# file: All Programs/Games/Blockout/Program.txt = # asset: manual.pdf = https://archive.org/download/blockout/BlockOut.pdf
+# file: All Programs/Games/Blockout/Program.txt = # check: manual.pdf = f05f56e085c9c42a9548929c715b28cb9304cd92958e0777535fcf83c79602a5
+#
+#
 # file: All Programs/Games/Blood & Magic/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Blood & Magic/Program.txt = #
 # file: All Programs/Games/Blood & Magic/Program.txt = # name: Blood & Magic
@@ -861,6 +1130,69 @@
 # file: All Programs/Games/Blood & Magic/Program.txt = # check: manual.pdf = bdebcfeea450a0ab73d61660f6a1d319217be8591762da2b494a6d6f6b2c7c15
 # file: All Programs/Games/Blood & Magic/Program.txt = # asset: 30.smk = https://archive.org/download/BloodMagic_1020/bamdemo.zip/30.SMK
 # file: All Programs/Games/Blood & Magic/Program.txt = # check: 30.smk = e193a64c3365ee8e046e8c31cb9d428096773c6025065aa209b0a2001b2df988
+#
+#
+# file: All Programs/Games/Boppin'/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Boppin'/Program.txt = #
+# file: All Programs/Games/Boppin'/Program.txt = # name: Boppin'
+# file: All Programs/Games/Boppin'/Program.txt = # name: Super Boppin'
+# file: All Programs/Games/Boppin'/Program.txt = # info: When all the monsters and villains in popular arcade video games mysteriously disappear, it's up to Yeet and Boik to free them to make games challenging again. Defeat the nauseatingly self-righteous Sweety Hunnybunz, a singing treacle bear that has them imprisoned.
+# file: All Programs/Games/Boppin'/Program.txt = # info: Wikipedia = The final release released on August 19, 2005 was freeware simply titled Boppin', had all the features of the third release and was the very release ported to Windows.
+# file: All Programs/Games/Boppin'/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Boppin'/Program.txt = # tag: Genre = Puzzle
+# file: All Programs/Games/Boppin'/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Boppin'/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/Boppin'/Program.txt = # tag: Category = Side view • Platform • Fantasy
+# file: All Programs/Games/Boppin'/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Boppin'/Program.txt = # tag: No Manual
+# file: All Programs/Games/Boppin'/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Boppin%27)
+# file: All Programs/Games/Boppin'/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2570/boppin/)
+# file: All Programs/Games/Boppin'/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Boppin&gid=1764)
+# file: All Programs/Games/Boppin'/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/boppin-1u7)
+# file: All Programs/Games/Boppin'/Program.txt = #
+# file: All Programs/Games/Boppin'/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Boppin'/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Boppin'/Program.txt = # text: - Please select which device you would like to use for sound fx: **SoundBlaster**.
+# file: All Programs/Games/Boppin'/Program.txt = # text: - Please select the number of voices to use for sound effects mixing: **Eight Voices**.
+# file: All Programs/Games/Boppin'/Program.txt = # text: - Please select the number of bits to use for sound effects mixing: **16 Bits (may improve quality)**.
+# file: All Programs/Games/Boppin'/Program.txt = # text: - Please select which device you would like to use for music: **SoundBlaster**.
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = [autoexec]
+# file: All Programs/Games/Boppin'/Program.txt = @ECHO OFF
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Boppin'/Program.txt = IMGMOUNT A "./Assets/disk1.img" -t floppy
+# file: All Programs/Games/Boppin'/Program.txt = IMGMOUNT B "./Assets/disk2.img" -t floppy
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = IF NOT EXIST C:\BOPPIN\BOPPIN.EXE GOTO F_INSTALL
+# file: All Programs/Games/Boppin'/Program.txt = IF EXIST C:\BOPPIN\BOPPIN.EXE GOTO F_START
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = :F_INSTALL
+# file: All Programs/Games/Boppin'/Program.txt = C:
+# file: All Programs/Games/Boppin'/Program.txt = CD C:\
+# file: All Programs/Games/Boppin'/Program.txt = MD INSTALL
+# file: All Programs/Games/Boppin'/Program.txt = CD INSTALL
+# file: All Programs/Games/Boppin'/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Boppin'/Program.txt = COPY B:\*.*
+# file: All Programs/Games/Boppin'/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Boppin'/Program.txt = SETUP.EXE
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = :F_START
+# file: All Programs/Games/Boppin'/Program.txt = C:
+# file: All Programs/Games/Boppin'/Program.txt = CD C:\BOPPIN
+# file: All Programs/Games/Boppin'/Program.txt = BOPPIN.EXE
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = :F_EXIT
+# file: All Programs/Games/Boppin'/Program.txt = EXIT
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = :F_DEBUG
+# file: All Programs/Games/Boppin'/Program.txt
+# file: All Programs/Games/Boppin'/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/9557727-boppin-dos-front-cover.jpg
+# file: All Programs/Games/Boppin'/Program.txt = # check: coverart.jpg = 8726160cffc78ec5ca62c59e194bd6a52d7ff6237256f033af0790f1cef3d79c
+# file: All Programs/Games/Boppin'/Program.txt = # asset: disk1.img = https://archive.org/download/001833-Boppin/001833_boppin.7z/001833_boppin%2Fdisk01.img
+# file: All Programs/Games/Boppin'/Program.txt = # check: disk1.img = fcacadd486b687aa33e9823e739fa37cf3adb67e8b18efde5ff63e8ec127d902
+# file: All Programs/Games/Boppin'/Program.txt = # asset: disk2.img = https://archive.org/download/001833-Boppin/001833_boppin.7z/001833_boppin%2Fdisk02.img
+# file: All Programs/Games/Boppin'/Program.txt = # check: disk2.img = 3c476af8d36fb5e6d24b0b323b2bbf17b4530682a0cdc77a1b7b13642bc1d958
 #
 #
 # file: All Programs/Games/Cadaver/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1662,6 +1994,138 @@
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # check: cdrom.iso = 168489d0f4e3c65ecd2ee149ba372c61244412a8f77c2f6e468c5e104bc8bda1
 #
 #
+# file: All Programs/Games/Death Gate/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Death Gate/Program.txt = #
+# file: All Programs/Games/Death Gate/Program.txt = # name: Death Gate
+# file: All Programs/Games/Death Gate/Program.txt = # info: Long ago, the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labyrinth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people into independence.
+# file: All Programs/Games/Death Gate/Program.txt = # info: Wikipedia = GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later.
+# file: All Programs/Games/Death Gate/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Death Gate/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Death Gate/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Death Gate/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Death Gate/Program.txt = # tag: Category = 1st-person • Puzzle elements • Fantasy
+# file: All Programs/Games/Death Gate/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Death Gate/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Death_Gate)
+# file: All Programs/Games/Death Gate/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/175/death-gate/)
+# file: All Programs/Games/Death Gate/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Death+Gate&gid=2037)
+# file: All Programs/Games/Death Gate/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/death-gate-2pf)
+# file: All Programs/Games/Death Gate/Program.txt = # site: [GOG ❓](https://www.gog.com/forum/general/release_bdeath_gateb_18b63)
+# file: All Programs/Games/Death Gate/Program.txt = #
+# file: All Programs/Games/Death Gate/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Death Gate/Program.txt = # text: - Display Mode: **640x480 VESA compatible**.
+# file: All Programs/Games/Death Gate/Program.txt = # text: - Installation Options: **Optimum Performance Installation**.
+# file: All Programs/Games/Death Gate/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Death Gate/Program.txt = # text: - Test Option: **Proceed with performance test**.
+# file: All Programs/Games/Death Gate/Program.txt = # text: - Music Device: **Sound Blaster 16**.
+# file: All Programs/Games/Death Gate/Program.txt = # text: - Digitized Sound: **Sound Blaster 16**.
+# file: All Programs/Games/Death Gate/Program.txt = # text:
+# file: All Programs/Games/Death Gate/Program.txt = # text: ## Licensing Information
+# file: All Programs/Games/Death Gate/Program.txt = # text: - This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate)
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = [sdl]
+# file: All Programs/Games/Death Gate/Program.txt = autolock = true
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = [cpu]
+# file: All Programs/Games/Death Gate/Program.txt = core = dynamic
+# file: All Programs/Games/Death Gate/Program.txt = cputype = pentium
+# file: All Programs/Games/Death Gate/Program.txt = cycles = max
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = [autoexec]
+# file: All Programs/Games/Death Gate/Program.txt = @ECHO OFF
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Death Gate/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = IF NOT EXIST C:\DGATE\DGATE.EXE GOTO F_INSTALL
+# file: All Programs/Games/Death Gate/Program.txt = IF EXIST C:\DGATE\DGATE.EXE GOTO F_START
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = :F_INSTALL
+# file: All Programs/Games/Death Gate/Program.txt = D:
+# file: All Programs/Games/Death Gate/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = :F_START
+# file: All Programs/Games/Death Gate/Program.txt = C:
+# file: All Programs/Games/Death Gate/Program.txt = CD C:\DGATE
+# file: All Programs/Games/Death Gate/Program.txt = DGATE.EXE
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = :F_EXIT
+# file: All Programs/Games/Death Gate/Program.txt = EXIT
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = :F_DEBUG
+# file: All Programs/Games/Death Gate/Program.txt
+# file: All Programs/Games/Death Gate/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3943358-death-gate-dos-front-cover.jpg
+# file: All Programs/Games/Death Gate/Program.txt = # check: coverart.jpg = 20ed068b7b4d6b5af7369361febbad30663757c6ba9f4d7007640bc384f30f86
+# file: All Programs/Games/Death Gate/Program.txt = # asset: cdrom.iso = https://archive.org/download/Death_Gate_1995_Legend/Death%20Gate%20%281995%29%28Legend%29.iso
+# file: All Programs/Games/Death Gate/Program.txt = # check: cdrom.iso = c38929fcc0fddcdfda60a2cd8ffdc18f554a7a36f6b02ab08a435a0dba3b1a4a
+# file: All Programs/Games/Death Gate/Program.txt = # asset: manual.pdf = https://archive.org/download/vgmuseum_legend_deathgate-manual/deathgate-manual.pdf
+# file: All Programs/Games/Death Gate/Program.txt = # check: manual.pdf = 9ad66ba89928257c46751ea0fba67db9c83b5c6abb8c4813ca9a6ccddb98ab2b
+# file: All Programs/Games/Death Gate/Program.txt = # asset: cluebook.pdf = https://www.myabandonware.com/download/nho-death-gate
+# file: All Programs/Games/Death Gate/Program.txt = # check: cluebook.pdf = b1a48d769a8143685cf0f5d56657ba2fba53521738ce6b278631095a7268ca8e
+#
+#
+# file: All Programs/Games/Death Rally/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Death Rally/Program.txt = #
+# file: All Programs/Games/Death Rally/Program.txt = # name: Death Rally
+# file: All Programs/Games/Death Rally/Program.txt = # name: Death Race
+# file: All Programs/Games/Death Rally/Program.txt = # name: Death Rally: Death in the Fast Lane
+# file: All Programs/Games/Death Rally/Program.txt = # name: Hi-Speed
+# file: All Programs/Games/Death Rally/Program.txt = # info: Enter the corrupt racing world of Death Rally, where defensive driving means annihilating your opponents. You'll become ravenous for the power and glory of being the best at Death Rally, but first, you must pay your dues. Put the pedal to the metal and smash, blast and obliterate the competition to earn the chance to face the undefeated master, "The Adversary." Make deals with loan sharks and mob bosses to get the cash you need to build the ultimate battle racing machine. Remember, no trick is too dirty, and no spectator is too innocent - in your savage quest for the checkered flag.
+# file: All Programs/Games/Death Rally/Program.txt = # info: Wikipedia = Based on Komppa's work, Remedy released Death Rally for Windows as proprietary freeware on 20 October 2009.
+# file: All Programs/Games/Death Rally/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Death Rally/Program.txt = # tag: Genre = Action • Racing
+# file: All Programs/Games/Death Rally/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Death Rally/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/Death Rally/Program.txt = # tag: Category = Top-down • Shooter
+# file: All Programs/Games/Death Rally/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Death Rally/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Death_Rally)
+# file: All Programs/Games/Death Rally/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/256/death-rally/)
+# file: All Programs/Games/Death Rally/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Death+Rally&gid=2051)
+# file: All Programs/Games/Death Rally/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/death-rally-a14)
+# file: All Programs/Games/Death Rally/Program.txt = # site: [Steam 🆓](https://store.steampowered.com/app/358270/Death_Rally_Classic/)
+# file: All Programs/Games/Death Rally/Program.txt = #
+# file: All Programs/Games/Death Rally/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Death Rally/Program.txt = # text: - Please pick a Death Rally installation option: **Full Install - 44.6Mb of HD space required.**
+# file: All Programs/Games/Death Rally/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Death Rally/Program.txt = # text: - Choose Sound Card: **Sound Blaster MONO/PRO/16/AWE32**, Port: **0x220**, Interrupt: **IRQ 7**, DMA: **DMA channel 5**.
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = [autoexec]
+# file: All Programs/Games/Death Rally/Program.txt = @ECHO OFF
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Death Rally/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = IF NOT EXIST C:\RALLY\RALLY.EXE GOTO F_INSTALL
+# file: All Programs/Games/Death Rally/Program.txt = IF EXIST C:\RALLY\RALLY.EXE GOTO F_START
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = :F_INSTALL
+# file: All Programs/Games/Death Rally/Program.txt = D:
+# file: All Programs/Games/Death Rally/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Death Rally/Program.txt = C:
+# file: All Programs/Games/Death Rally/Program.txt = CD C:\RALLY
+# file: All Programs/Games/Death Rally/Program.txt = SETUP.EXE
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = :F_START
+# file: All Programs/Games/Death Rally/Program.txt = C:
+# file: All Programs/Games/Death Rally/Program.txt = CD C:\RALLY
+# file: All Programs/Games/Death Rally/Program.txt = RALLY.EXE
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = :F_EXIT
+# file: All Programs/Games/Death Rally/Program.txt = EXIT
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = :F_DEBUG
+# file: All Programs/Games/Death Rally/Program.txt
+# file: All Programs/Games/Death Rally/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4533965-death-rally-dos-front-cover.jpg
+# file: All Programs/Games/Death Rally/Program.txt = # check: coverart.jpg = b41697f0bd772b7d5de3543f6e2fa88496ccf48e08051a531697f76c426bd7ce
+# file: All Programs/Games/Death Rally/Program.txt = # asset: cdrom.bin = https://archive.org/download/DeathRallyUSA/Death%20Rally%20%28USA%29.zip/Death%20Rally%20%28USA%29.bin
+# file: All Programs/Games/Death Rally/Program.txt = # check: cdrom.bin = f5317ba768e4ade2474255cd3b639c4f21aceed52507b8f9d17e6ec2204601bc
+# file: All Programs/Games/Death Rally/Program.txt = # asset: manual.pdf = https://archive.org/download/Death_Rally/Death_Rally.pdf
+# file: All Programs/Games/Death Rally/Program.txt = # check: manual.pdf = 6566ec97c716f7fd97f4f7c435c710534d1fd97ce68699d1d2816d6c452cacfe
+# file: All Programs/Games/Death Rally/Program.txt = #
+# file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Electroman/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Electroman/Program.txt = #
 # file: All Programs/Games/Electroman/Program.txt = # name: Electroman
@@ -2314,6 +2778,78 @@
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # check: cdrom.iso = 4715e3f70397c02208e1e55dabbff2b41ac4685677a3052843d9dfba02af9c38
 #
 #
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) 🟩
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # name: Oddworld: Abe's Oddysee
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # name: SoulStorm
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # info: As Abe, you can whistle, laugh, hiss, and fart. In a lush world of diabolical danger where everyone wants to eat you, you are the skinny guy with no weapons. Run, jump, hide, scramble and talk your way past the ugliest bunch of carnivorous crustaceans ever created. Unlock your special powers to figure out your foes, and you might save your race. If not, you are for dinner! Enter Oddworld, a surreal, sensory overload of pure gaming and claim your destiny. Saviour. Or salami.
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Genre = Action • Puzzle
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Category = Side view • Platform • Cyberpunk • Sci-fi
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Oddworld:_Abe%27s_Oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Wikipedia - Oddworld Series](https://en.wikipedia.org/wiki/Oddworld)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1058/oddworld-abes-oddysee/)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/oddworld-abe-s-oddysee-cqh)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Oddworld Fandom - Oddworld: Abe's Oddysee](https://oddworld.fandom.com/wiki/Oddworld:_Abe%27s_Oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - Sound Configuration Utility:
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM)** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: ## Licensing Information
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee), [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/), and [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee).
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: ## Known Issues
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - DOSBox 0.74-3 🟨 — Odd vertical lines appear on the menu and during gameplay.
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = [autoexec]
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = @ECHO OFF
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = IF NOT EXIST C:\ABE\ABE.BAT GOTO F_INSTALL
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = IF EXIST C:\ABE\ABE.BAT GOTO F_START
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = :F_INSTALL
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = D:
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = CD DOS
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = SETSOUND.EXE
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = :F_START
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = C:
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = CD C:\ABE
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = CALL ABE.BAT
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = :F_EXIT
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = EXIT
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = :F_DEBUG
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/7371918-oddworld-abes-oddysee-dos-front-cover.jpg
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # check: coverart.jpg = 7e8a540d692d8289b82aa59900085c2a27e0990d3d16c3a34c82c293ff842dac
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # asset: cdrom.bin = https://archive.org/download/OddworldAbesOddyseeUSA/Oddworld%20-%20Abe%27s%20Oddysee%20%28USA%29.zip/Oddworld%20-%20Abe%27s%20Oddysee%20%28USA%29.bin
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # check: cdrom.bin = 1bd67edeee1722d7a786a167bcc31c5f9613b604f97cbb4eb697d5eeb0b59fda
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # asset: manual.pdf = https://archive.org/download/oddworld-abes-odyssey/Oddworld%20-%20Abe%27s%20Odyssey.pdf
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # check: manual.pdf = 4bb725c7867979e08563777b6efd8b70336c32ad44afa17ab3ad027a1eaf2e82
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/One Must Fall 2097/Program.txt = #
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # name: One Must Fall 2097
@@ -2487,6 +3023,68 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Robbo/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Robbo/Program.txt = #
+# file: All Programs/Games/Robbo/Program.txt = # name: Robbo
+# file: All Programs/Games/Robbo/Program.txt = # name: Adventures of Robbo
+# file: All Programs/Games/Robbo/Program.txt = # info: After pulling too many mischievous pranks, Robbo found himself destined to live in a horrid maze designed to prevent the intelligent little robot from escaping. It is up to you to end Robbo's frustration and torture and find a way to freedom. Beware! Along the way, you will encounter giant spiders blocking the corridors, powerful cannons shooting missiles in random directions, and deadly electromagnets designed to destroy all metal objects, including Robbo! That is just the beginning.
+# file: All Programs/Games/Robbo/Program.txt = # info: Wikipedia = On 25 June 2006, after obtaining approval from the rights holders, Maciej Miąsik released the three games from Epic Puzzle Pack, including The Adventures of Robbo, through the Classic DOS Games website under the Creative Commons BY-SA 2.5 license as freeware.
+# file: All Programs/Games/Robbo/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Robbo/Program.txt = # tag: Genre = Action • Puzzle
+# file: All Programs/Games/Robbo/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Robbo/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/Robbo/Program.txt = # tag: Category = Top-down • Sci-fi
+# file: All Programs/Games/Robbo/Program.txt = # tag: Media = Compressed Package
+# file: All Programs/Games/Robbo/Program.txt = # tag: No Manual
+# file: All Programs/Games/Robbo/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Robbo_(video_game))
+# file: All Programs/Games/Robbo/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/751/robbo/)
+# file: All Programs/Games/Robbo/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Robbo&gid=2935)
+# file: All Programs/Games/Robbo/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/robbo-2d6)
+# file: All Programs/Games/Robbo/Program.txt = #
+# file: All Programs/Games/Robbo/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Robbo/Program.txt = # text: - Graphics mode: **VGA**
+# file: All Programs/Games/Robbo/Program.txt = # text: - Sound device: **Sound Blaster**
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = [autoexec]
+# file: All Programs/Games/Robbo/Program.txt = @ECHO OFF
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Robbo/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = IF NOT EXIST C:\ROBBO\ROBBO.EXE GOTO F_INSTALL
+# file: All Programs/Games/Robbo/Program.txt = IF EXIST C:\ROBBO\ROBBO.EXE GOTO F_START
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = :F_INSTALL
+# file: All Programs/Games/Robbo/Program.txt = C:
+# file: All Programs/Games/Robbo/Program.txt = CD C:\
+# file: All Programs/Games/Robbo/Program.txt = MD UNZIP
+# file: All Programs/Games/Robbo/Program.txt = CD UNZIP
+# file: All Programs/Games/Robbo/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Robbo/Program.txt = CD C:\
+# file: All Programs/Games/Robbo/Program.txt = MD ROBBO
+# file: All Programs/Games/Robbo/Program.txt = CD ROBBO
+# file: All Programs/Games/Robbo/Program.txt = C:\UNZIP\UNZIP.EXE X:\GAME.ZIP
+# file: All Programs/Games/Robbo/Program.txt = IF NOT EXIST X:\README.TXT COPY README.TXT X:\README.TXT
+# file: All Programs/Games/Robbo/Program.txt = CONFIG.EXE
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = :F_START
+# file: All Programs/Games/Robbo/Program.txt = C:
+# file: All Programs/Games/Robbo/Program.txt = CD C:\ROBBO
+# file: All Programs/Games/Robbo/Program.txt = ROBBO.EXE
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = :F_EXIT
+# file: All Programs/Games/Robbo/Program.txt = EXIT
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = :F_DEBUG
+# file: All Programs/Games/Robbo/Program.txt
+# file: All Programs/Games/Robbo/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6690571-robbo-dos-front-cover.jpg
+# file: All Programs/Games/Robbo/Program.txt = # check: coverart.jpg = 70e61467a5c7878069280e7bce00c003c288d186f7d3d6327fbf761f0de57f25
+# file: All Programs/Games/Robbo/Program.txt = # asset: game.zip = https://archive.org/download/AdventuresOfRobbo/robbo.zip
+# file: All Programs/Games/Robbo/Program.txt = # check: game.zip = c4edb8faf44121b54cbcacea2dce84f85e77c926fe3d04205b172c0adf5a6444
+# file: All Programs/Games/Robbo/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Robbo/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
 # file: All Programs/Games/SimCity/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -2876,6 +3474,85 @@
 # file: All Programs/Games/Teen Agent/Program.txt = # check: game.zip = e5e0bb422e9664c22348212dc5452bd1b916b0843723b078f6a9fa5839af29f7
 # file: All Programs/Games/Teen Agent/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Teen Agent/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Terminal Velocity/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Terminal Velocity/Program.txt = #
+# file: All Programs/Games/Terminal Velocity/Program.txt = # name: Terminal Velocity
+# file: All Programs/Games/Terminal Velocity/Program.txt = # name: Terminal Velocity = Legacy
+# file: All Programs/Games/Terminal Velocity/Program.txt = # name: Velocity Brawl
+# file: All Programs/Games/Terminal Velocity/Program.txt = # info: In the far future, armadas from surrounding systems have suddenly waged war on Earth, destroying critical installations and major cities. Earth is now on its knees. You are a pilot from the Ares Squadron flying the fastest, most dangerous crafts ever made. Currently, you are in the TV-202, a fighter few can handle. Given that the previous model, the TV-101, has chalked up more dead pilots than any experimental craft in history, many consider you lucky to be alive. You are in a flying coffin, outgunned and outmanned. But think how good a Saved-the-Known-Galaxy title will look on your resume.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Terminal Velocity/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Category = 1st-person • Behind view • Shooter • Flight • Sci-fi
+# file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Terminal Velocity/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Terminal_Velocity_(video_game))
+# file: All Programs/Games/Terminal Velocity/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/635/terminal-velocity/)
+# file: All Programs/Games/Terminal Velocity/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Terminal+Velocity&gid=1360)
+# file: All Programs/Games/Terminal Velocity/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/terminal-velocity-2s9)
+# file: All Programs/Games/Terminal Velocity/Program.txt = # site: Boosted Edition = [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition)
+# file: All Programs/Games/Terminal Velocity/Program.txt = # site: Boosted Edition = [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/)
+# file: All Programs/Games/Terminal Velocity/Program.txt = #
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - Main Menu > **Sound Setup**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Do you want to auto-detect for the presence of a SoundBlaster? (y/n). Press `Y`.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Sound Capabilities: **Sound Blaster 16**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Are you ready to test the sound driver you have selected? (y/n). Press `Y`.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Did the sound play ok? (y/n). Press `Y`.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - Main Menu > **Save and launch TV**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - In-game *Sound Options* offer several adjustments to provide better-quality sound:
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Sound F/X* to **On**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Music* to **On**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Music Freq* to **22050**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Playback* to **Stereo**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - In-game *Graphic Options* offer several adjustments to provide better-quality graphics:
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Sky Texture* to **On**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Image Quality* to **Pentium**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Shadows* to **Pentium**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Texture* to **High Detail**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Resolution* to **SVGA (Pentium)**.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text:
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: ## Licensing Information
+# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Boosted Edition** release is available on [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) and [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/).
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = [autoexec]
+# file: All Programs/Games/Terminal Velocity/Program.txt = @ECHO OFF
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Terminal Velocity/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = IF NOT EXIST C:\TV\TV.EXE GOTO F_INSTALL
+# file: All Programs/Games/Terminal Velocity/Program.txt = IF EXIST C:\TV\TV.EXE GOTO F_START
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = :F_INSTALL
+# file: All Programs/Games/Terminal Velocity/Program.txt = D:
+# file: All Programs/Games/Terminal Velocity/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Terminal Velocity/Program.txt = C:
+# file: All Programs/Games/Terminal Velocity/Program.txt = CD C:\TV
+# file: All Programs/Games/Terminal Velocity/Program.txt = SETUP.EXE
+# file: All Programs/Games/Terminal Velocity/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = :F_START
+# file: All Programs/Games/Terminal Velocity/Program.txt = C:
+# file: All Programs/Games/Terminal Velocity/Program.txt = CD C:\TV
+# file: All Programs/Games/Terminal Velocity/Program.txt = TV.EXE
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = :F_EXIT
+# file: All Programs/Games/Terminal Velocity/Program.txt = EXIT
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = :F_DEBUG
+# file: All Programs/Games/Terminal Velocity/Program.txt
+# file: All Programs/Games/Terminal Velocity/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5743926-terminal-velocity-dos-front-cover.jpg
+# file: All Programs/Games/Terminal Velocity/Program.txt = # check: coverart.jpg = e23a8a7367e827fec3af144bc4fbfb1478e0c3f8e2005a5a3bb590c23e54512f
+# file: All Programs/Games/Terminal Velocity/Program.txt = # asset: cdrom.iso = https://archive.org/download/terminal-velocity-1.2_202204/terminal-velocity-1.2.iso
+# file: All Programs/Games/Terminal Velocity/Program.txt = # check: cdrom.iso = f429b7a00305c8db7a13e16e01c678396c4a73262dd55b146fe2a5f144084b18
+# file: All Programs/Games/Terminal Velocity/Program.txt = # asset: manual.pdf = http://legacy.3drealms.com/tech/manuals/Terminal%20Velocity.pdf
+# file: All Programs/Games/Terminal Velocity/Program.txt = # check: manual.pdf = b0780ab1ae9313ff1e8ce6dab46366220ffde825259f0701cb0aeed493e5f8a4
 #
 #
 # file: All Programs/Games/The Amazing Spider-Man/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -3805,12 +4482,15 @@
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
+# link: Games/By Genre/Action/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Genre/Action/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By Genre/Action/Alien Carnage = ../../../All Programs/Games/Alien Carnage
 # link: Games/By Genre/Action/Bio Menace = ../../../All Programs/Games/Bio Menace
 # link: Games/By Genre/Action/Blackthorne = ../../../All Programs/Games/Blackthorne
+# link: Games/By Genre/Action/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Action/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By Genre/Action/D-Generation = ../../../All Programs/Games/D-Generation
+# link: Games/By Genre/Action/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Action/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By Genre/Action/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Genre/Action/Flashback = ../../../All Programs/Games/Flashback
@@ -3818,30 +4498,43 @@
 # link: Games/By Genre/Action/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Action/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Genre/Action/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By Genre/Action/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Genre/Action/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Genre/Action/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By Genre/Action/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Genre/Action/Stargunner = ../../../All Programs/Games/Stargunner
+# link: Games/By Genre/Action/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By Genre/Action/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Genre/Action/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
+# link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
+# link: Games/By Genre/Puzzle/Blockout = ../../../All Programs/Games/Blockout
+# link: Games/By Genre/Puzzle/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By Genre/Puzzle/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By Genre/Puzzle/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By Genre/Puzzle/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Genre/Puzzle/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By Genre/Puzzle/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
 # link: Games/By Genre/Puzzle/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By Genre/Puzzle/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By Genre/Puzzle/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
+# link: Games/By Genre/Racing/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Genre/Racing/The Need for Speed = ../../../All Programs/Games/The Need for Speed
+# link: Games/By Genre/Role-playing/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By Genre/Role-playing/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Genre/Simulation/SimTower = ../../../All Programs/Games/SimTower
+# link: Games/By Genre/Sports/4D Boxing = ../../../All Programs/Games/4D Boxing
+# link: Games/By Genre/Sports/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
+# link: Games/By Genre/Strategy/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Genre/Strategy/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By Genre/Strategy/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By Genre/Strategy/Civilization = ../../../All Programs/Games/Civilization
@@ -3849,6 +4542,7 @@
 # link: Games/By Genre/Strategy/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Genre/Strategy/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
 # link: Games/By Genre/Strategy/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By License/Abandonware/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By License/Abandonware/Cadaver = ../../../All Programs/Games/Cadaver
@@ -3865,13 +4559,17 @@
 # link: Games/By License/Abandonware/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By License/Abandonware/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By License/Abandonware/The Need for Speed = ../../../All Programs/Games/The Need for Speed
+# link: Games/By License/Freeware/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By License/Freeware/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By License/Freeware/Alien Carnage = ../../../All Programs/Games/Alien Carnage
 # link: Games/By License/Freeware/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By License/Freeware/Bio Menace = ../../../All Programs/Games/Bio Menace
 # link: Games/By License/Freeware/Blackthorne = ../../../All Programs/Games/Blackthorne
+# link: Games/By License/Freeware/Blockout = ../../../All Programs/Games/Blockout
+# link: Games/By License/Freeware/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By License/Freeware/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By License/Freeware/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
+# link: Games/By License/Freeware/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By License/Freeware/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By License/Freeware/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By License/Freeware/God of Thunder = ../../../All Programs/Games/God of Thunder
@@ -3879,6 +4577,7 @@
 # link: Games/By License/Freeware/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By License/Freeware/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By License/Freeware/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
+# link: Games/By License/Freeware/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By License/Freeware/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By License/Freeware/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By License/Freeware/Supaplex = ../../../All Programs/Games/Supaplex
@@ -3887,20 +4586,31 @@
 # link: Games/By License/Freeware/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By License/Freeware/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By License/Freeware/Xargon = ../../../All Programs/Games/Xargon
+# link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By License/Proprietary/Flashback = ../../../All Programs/Games/Flashback
+# link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By License/Proprietary/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
+# link: Games/By Platform/DOS/4D Boxing = ../../../All Programs/Games/4D Boxing
+# link: Games/By Platform/DOS/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Platform/DOS/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By Platform/DOS/Alien Carnage = ../../../All Programs/Games/Alien Carnage
+# link: Games/By Platform/DOS/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By Platform/DOS/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By Platform/DOS/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Platform/DOS/Bio Menace = ../../../All Programs/Games/Bio Menace
 # link: Games/By Platform/DOS/Blackthorne = ../../../All Programs/Games/Blackthorne
+# link: Games/By Platform/DOS/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Platform/DOS/Blood & Magic = ../../../All Programs/Games/Blood & Magic
+# link: Games/By Platform/DOS/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By Platform/DOS/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By Platform/DOS/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By Platform/DOS/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Platform/DOS/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
+# link: Games/By Platform/DOS/Death Gate = ../../../All Programs/Games/Death Gate
+# link: Games/By Platform/DOS/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Platform/DOS/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By Platform/DOS/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Platform/DOS/Flashback = ../../../All Programs/Games/Flashback
@@ -3910,12 +4620,15 @@
 # link: Games/By Platform/DOS/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Platform/DOS/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By Platform/DOS/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Platform/DOS/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Platform/DOS/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By Platform/DOS/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By Platform/DOS/Teen Agent = ../../../All Programs/Games/Teen Agent
+# link: Games/By Platform/DOS/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By Platform/DOS/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Platform/DOS/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Platform/DOS/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall

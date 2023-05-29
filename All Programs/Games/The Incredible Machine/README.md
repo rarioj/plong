@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Incredible Machine
 
@@ -20,5 +20,5 @@
 ## Additional Notes
 - Consult `Assets/manual.pdf` for the game copy protection.
 
-![](Montage.png 'The Incredible Machine')
+![](Montage.png "The Incredible Machine")
 

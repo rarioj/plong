@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # The Elder Scrolls II: Daggerfall
 
@@ -23,5 +23,5 @@
   - Select MIDI: **MPU-401**; Port: **330**.
 - Proceed with patching the game by pressing `Y` to confirm all the questions.
 
-![](Montage.png 'The Elder Scrolls II: Daggerfall')
+![](Montage.png "The Elder Scrolls II: Daggerfall")
 

@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Fade to Black
 
@@ -25,5 +25,5 @@
 ## Additional Notes
 - A desktop keyboard with right-hand Ctrl, Shift, and Alt keys is preferred to play this game.
 
-![](Montage.png 'Fade to Black')
+![](Montage.png "Fade to Black")
 

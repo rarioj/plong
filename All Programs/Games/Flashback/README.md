@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Flashback
 
@@ -21,5 +21,5 @@
 ## Licensing Information
 - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback).
 
-![](Montage.png 'Flashback')
+![](Montage.png "Flashback")
 

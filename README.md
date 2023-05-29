@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Personal Library of Nostalgic Games
 
@@ -7,7 +7,7 @@
 > ❝ PLoNG is an attempt to preserve the memory of my gaming youth. ❞
 >
 
-📌 ┃ Script Version: **1.0.23.5h** ┃ Type: **Library** ┃ Library Version: **23.5b** ┃ Library Name: **PLoNG** 
+📌 ┃ Script Version: **1.0.23.5i** ┃ Type: **Library** ┃ Library Version: **23.5c** ┃ Library Name: **PLoNG** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
@@ -53,30 +53,31 @@ All program assets are available from the [Internet Archive](https://archive.org
 >
 > In general, it is a good idea to respect the rights of copyright owners and to only play games that you have legally obtained. ❞ — ChatGPT
 
-![](Montage.png 'Personal Library of Nostalgic Games')
+![](Montage.png "Personal Library of Nostalgic Games")
 
 > <table><tr><td width="50%">
 >
-> ### 🗄️ 14 Categories
-> - 🗂️ [All Programs ‣ Games (40)](./All%20Programs/Games/README.md)
+> ### 🗄️ 15 Categories
+> - 🗂️ [All Programs ‣ Games (50)](./All%20Programs/Games/README.md)
 > - 🗂️ [All Programs ‣ Systems (1)](./All%20Programs/Systems/README.md)
-> - 🗂️ [Games ‣ By Genre ‣ Action (19)](./Games/By%20Genre/Action/README.md)
-> - 🗂️ [Games ‣ By Genre ‣ Adventure (5)](./Games/By%20Genre/Adventure/README.md)
-> - 🗂️ [Games ‣ By Genre ‣ Puzzle (6)](./Games/By%20Genre/Puzzle/README.md)
-> - 🗂️ [Games ‣ By Genre ‣ Racing (2)](./Games/By%20Genre/Racing/README.md)
-> - 🗂️ [Games ‣ By Genre ‣ Role-playing (2)](./Games/By%20Genre/Role-playing/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Action (25)](./Games/By%20Genre/Action/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Adventure (6)](./Games/By%20Genre/Adventure/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Puzzle (10)](./Games/By%20Genre/Puzzle/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Racing (3)](./Games/By%20Genre/Racing/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Role-playing (3)](./Games/By%20Genre/Role-playing/README.md)
 > - 🗂️ [Games ‣ By Genre ‣ Simulation (3)](./Games/By%20Genre/Simulation/README.md)
-> - 🗂️ [Games ‣ By Genre ‣ Strategy (7)](./Games/By%20Genre/Strategy/README.md)
-> - 🗂️ [Games ‣ By License ‣ Abandonware (16)](./Games/By%20License/Abandonware/README.md)
-> - 🗂️ [Games ‣ By License ‣ Freeware (22)](./Games/By%20License/Freeware/README.md)
-> - 🗂️ [Games ‣ By License ‣ Proprietary (2)](./Games/By%20License/Proprietary/README.md)
-> - 🗂️ [Games ‣ By Platform ‣ DOS (35)](./Games/By%20Platform/DOS/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Sports (2)](./Games/By%20Genre/Sports/README.md)
+> - 🗂️ [Games ‣ By Genre ‣ Strategy (8)](./Games/By%20Genre/Strategy/README.md)
+> - 🗂️ [Games ‣ By License ‣ Abandonware (17)](./Games/By%20License/Abandonware/README.md)
+> - 🗂️ [Games ‣ By License ‣ Freeware (27)](./Games/By%20License/Freeware/README.md)
+> - 🗂️ [Games ‣ By License ‣ Proprietary (6)](./Games/By%20License/Proprietary/README.md)
+> - 🗂️ [Games ‣ By Platform ‣ DOS (45)](./Games/By%20Platform/DOS/README.md)
 > - 🗂️ [Games ‣ By Platform ‣ Windows 3.1x (5)](./Games/By%20Platform/Windows%203.1x/README.md)
 >
 > </td><td width="50%">
 >
-> ### 📓 41 Programs
-> 🔎 ┃ [Abuse](./All%20Programs/Games/Abuse/README.md) ┃ [Alien Carnage](./All%20Programs/Games/Alien%20Carnage/README.md) ┃ [Ascendancy](./All%20Programs/Games/Ascendancy/README.md) ┃ [Beneath a Steel Sky](./All%20Programs/Games/Beneath%20a%20Steel%20Sky/README.md) ┃ [Bio Menace](./All%20Programs/Games/Bio%20Menace/README.md) ┃ [Blackthorne](./All%20Programs/Games/Blackthorne/README.md) ┃ [Blood & Magic](./All%20Programs/Games/Blood%20%26%20Magic/README.md) ┃ [Cadaver](./All%20Programs/Games/Cadaver/README.md) ┃ [Civilization](./All%20Programs/Games/Civilization/README.md) ┃ [Civilization II](./All%20Programs/Games/Civilization%20II/README.md) ┃ [Command & Conquer](./All%20Programs/Games/Command%20%26%20Conquer/README.md) ┃ [Command & Conquer: Red Alert](./All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/README.md) ┃ [D/Generation](./All%20Programs/Games/D-Generation/README.md) ┃ [Deadlock: Planetary Conquest](./All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/README.md) ┃ [Electroman](./All%20Programs/Games/Electroman/README.md) ┃ [Fade to Black](./All%20Programs/Games/Fade%20to%20Black/README.md) ┃ [Flashback](./All%20Programs/Games/Flashback/README.md) ┃ [Flight of the Amazon Queen](./All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/README.md) ┃ [God of Thunder](./All%20Programs/Games/God%20of%20Thunder/README.md) ┃ [Hi-Octane](./All%20Programs/Games/Hi-Octane/README.md) ┃ [It Came from the Desert](./All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md) ┃ [Jetpack](./All%20Programs/Games/Jetpack/README.md) ┃ [Lode Runner: The Legend Returns](./All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/README.md) ┃ [Lure of the Temptress](./All%20Programs/Games/Lure%20of%20the%20Temptress/README.md) ┃ [One Must Fall 2097](./All%20Programs/Games/One%20Must%20Fall%202097/README.md) ┃ [Prince of Persia CD Collection](./All%20Programs/Games/Prince%20of%20Persia%20Collection/README.md) ┃ [SimCity](./All%20Programs/Games/SimCity/README.md) ┃ [SimTower](./All%20Programs/Games/SimTower/README.md) ┃ [Stargunner](./All%20Programs/Games/Stargunner/README.md) ┃ [Supaplex](./All%20Programs/Games/Supaplex/README.md) ┃ [Teen Agent](./All%20Programs/Games/Teen%20Agent/README.md) ┃ [The Amazing Spider-Man](./All%20Programs/Games/The%20Amazing%20Spider-Man/README.md) ┃ [The Elder Scrolls: Arena](./All%20Programs/Games/The%20Elder%20Scrolls%20-%20Arena/README.md) ┃ [The Elder Scrolls II: Daggerfall](./All%20Programs/Games/The%20Elder%20Scrolls%202%20-%20Daggerfall/README.md) ┃ [The Incredible Machine](./All%20Programs/Games/The%20Incredible%20Machine/README.md) ┃ [The Incredible Machine 2](./All%20Programs/Games/The%20Incredible%20Machine%202/README.md) ┃ [The Incredible Toon Machine](./All%20Programs/Games/The%20Incredible%20Toon%20Machine/README.md) ┃ [The Lost Vikings](./All%20Programs/Games/The%20Lost%20Vikings/README.md) ┃ [The Need for Speed: Special Edition](./All%20Programs/Games/The%20Need%20for%20Speed/README.md) ┃ [Xargon](./All%20Programs/Games/Xargon/README.md) ┃ [Windows 3.1x](./All%20Programs/Systems/Windows%203.1x/README.md) 
+> ### 📓 51 Programs
+> 🔎 ┃ [4D Boxing](./All%20Programs/Games/4D%20Boxing/README.md) ┃ [ABC Wide World of Sports Boxing](./All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md) ┃ [Abuse](./All%20Programs/Games/Abuse/README.md) ┃ [Alien Carnage](./All%20Programs/Games/Alien%20Carnage/README.md) ┃ [Anvil of Dawn](./All%20Programs/Games/Anvil%20of%20Dawn/README.md) ┃ [Ascendancy](./All%20Programs/Games/Ascendancy/README.md) ┃ [Beneath a Steel Sky](./All%20Programs/Games/Beneath%20a%20Steel%20Sky/README.md) ┃ [Bio Menace](./All%20Programs/Games/Bio%20Menace/README.md) ┃ [Blackthorne](./All%20Programs/Games/Blackthorne/README.md) ┃ [Blockout](./All%20Programs/Games/Blockout/README.md) ┃ [Blood & Magic](./All%20Programs/Games/Blood%20%26%20Magic/README.md) ┃ [Boppin'](./All%20Programs/Games/Boppin%27/README.md) ┃ [Cadaver](./All%20Programs/Games/Cadaver/README.md) ┃ [Civilization](./All%20Programs/Games/Civilization/README.md) ┃ [Civilization II](./All%20Programs/Games/Civilization%20II/README.md) ┃ [Command & Conquer](./All%20Programs/Games/Command%20%26%20Conquer/README.md) ┃ [Command & Conquer: Red Alert](./All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/README.md) ┃ [D/Generation](./All%20Programs/Games/D-Generation/README.md) ┃ [Deadlock: Planetary Conquest](./All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/README.md) ┃ [Death Gate](./All%20Programs/Games/Death%20Gate/README.md) ┃ [Death Rally](./All%20Programs/Games/Death%20Rally/README.md) ┃ [Electroman](./All%20Programs/Games/Electroman/README.md) ┃ [Fade to Black](./All%20Programs/Games/Fade%20to%20Black/README.md) ┃ [Flashback](./All%20Programs/Games/Flashback/README.md) ┃ [Flight of the Amazon Queen](./All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/README.md) ┃ [God of Thunder](./All%20Programs/Games/God%20of%20Thunder/README.md) ┃ [Hi-Octane](./All%20Programs/Games/Hi-Octane/README.md) ┃ [It Came from the Desert](./All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md) ┃ [Jetpack](./All%20Programs/Games/Jetpack/README.md) ┃ [Lode Runner: The Legend Returns](./All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/README.md) ┃ [Lure of the Temptress](./All%20Programs/Games/Lure%20of%20the%20Temptress/README.md) ┃ [Oddworld: Abe's Oddysee](./All%20Programs/Games/Oddworld%20-%20Abe%27s%20Oddysee/README.md) ┃ [One Must Fall 2097](./All%20Programs/Games/One%20Must%20Fall%202097/README.md) ┃ [Prince of Persia CD Collection](./All%20Programs/Games/Prince%20of%20Persia%20Collection/README.md) ┃ [Robbo](./All%20Programs/Games/Robbo/README.md) ┃ [SimCity](./All%20Programs/Games/SimCity/README.md) ┃ [SimTower](./All%20Programs/Games/SimTower/README.md) ┃ [Stargunner](./All%20Programs/Games/Stargunner/README.md) ┃ [Supaplex](./All%20Programs/Games/Supaplex/README.md) ┃ [Teen Agent](./All%20Programs/Games/Teen%20Agent/README.md) ┃ [Terminal Velocity](./All%20Programs/Games/Terminal%20Velocity/README.md) ┃ [The Amazing Spider-Man](./All%20Programs/Games/The%20Amazing%20Spider-Man/README.md) ┃ [The Elder Scrolls: Arena](./All%20Programs/Games/The%20Elder%20Scrolls%20-%20Arena/README.md) ┃ [The Elder Scrolls II: Daggerfall](./All%20Programs/Games/The%20Elder%20Scrolls%202%20-%20Daggerfall/README.md) ┃ [The Incredible Machine](./All%20Programs/Games/The%20Incredible%20Machine/README.md) ┃ [The Incredible Machine 2](./All%20Programs/Games/The%20Incredible%20Machine%202/README.md) ┃ [The Incredible Toon Machine](./All%20Programs/Games/The%20Incredible%20Toon%20Machine/README.md) ┃ [The Lost Vikings](./All%20Programs/Games/The%20Lost%20Vikings/README.md) ┃ [The Need for Speed: Special Edition](./All%20Programs/Games/The%20Need%20for%20Speed/README.md) ┃ [Xargon](./All%20Programs/Games/Xargon/README.md) ┃ [Windows 3.1x](./All%20Programs/Systems/Windows%203.1x/README.md) 
 > </td></tr></table>
 
 &nbsp;

@@ -1,4 +1,4 @@
-![](Thumbnail.png 'application-thumbnail')
+![](Thumbnail.png "application-thumbnail")
 
 # Abuse
 
@@ -21,5 +21,5 @@
   - Select Digital: **Sound Blaster 16**; Port: **220**; DMA: **1**; IRQ: **7**.
   - Select MIDI: **MPU-401**; Port: **330**.
 
-![](Montage.png 'Abuse')
+![](Montage.png "Abuse")
 
