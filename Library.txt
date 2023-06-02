@@ -2,7 +2,7 @@
 #
 ###### Library properties
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.5c
+# library-version: 23.6a
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -592,6 +592,7 @@
 # file: All Programs/Games/Anvil of Dawn/Program.txt = #
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # name: Anvil of Dawn
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # info: You embark on a noble journey across Tempest in the ultimate fantasy adventure. Your mission is to rescue humanity from an evil fate with battle, skill, magic, and wits. Explore a massive terrain in 3D while solving puzzles, overcoming traps, and enjoying the beauty and scope of the outdoor scenes. Quest through dungeons where 3D walls add realism, and creatures all but lunge out at you in the attack. You have more than 25 spells and magical objects at your disposal, each drawing upon one of the elemental forces such as fire, water, wind, and lightning.
+# file: All Programs/Games/Anvil of Dawn/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn).
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Year = 1995
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Genre = Role-playing
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # tag: Platform = DOS
@@ -611,9 +612,6 @@
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # text: - Audio configuration:
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # text:   - Select Digital: **Sound Blaster 16**; Port: **220**; DMA: **1**; IRQ: **7**.
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # text:   - Select MIDI: **Sound Blaster 16**; Port: **388**.
-# file: All Programs/Games/Anvil of Dawn/Program.txt = # text:
-# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: ## Licensing Information
-# file: All Programs/Games/Anvil of Dawn/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn).
 # file: All Programs/Games/Anvil of Dawn/Program.txt
 # file: All Programs/Games/Anvil of Dawn/Program.txt = [sdl]
 # file: All Programs/Games/Anvil of Dawn/Program.txt = autolock = true
@@ -1193,6 +1191,88 @@
 # file: All Programs/Games/Boppin'/Program.txt = # check: disk1.img = fcacadd486b687aa33e9823e739fa37cf3adb67e8b18efde5ff63e8ec127d902
 # file: All Programs/Games/Boppin'/Program.txt = # asset: disk2.img = https://archive.org/download/001833-Boppin/001833_boppin.7z/001833_boppin%2Fdisk02.img
 # file: All Programs/Games/Boppin'/Program.txt = # check: disk2.img = 3c476af8d36fb5e6d24b0b323b2bbf17b4530682a0cdc77a1b7b13642bc1d958
+#
+#
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = #
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # name: Broken Sword: The Shadow of the Templars
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # name: Circle of Blood = United States
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # info: Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life.
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut).
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Category = Side view • Graphic adventure • Puzzle elements • Detective • Romance
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Extra Command
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - Broken Sword Series](https://en.wikipedia.org/wiki/Broken_Sword)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - Broken Sword: Shadow of the Templars – The Director's Cut](https://en.wikipedia.org/wiki/Broken_Sword:_Shadow_of_the_Templars_%E2%80%93_The_Director%27s_Cut)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword%3A+The+Shadow+of+the+Templars&gid=2332)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Broken Sword Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: The Director's Cut = [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = #
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: ## Host Requirements
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - The [mdf2iso](https://github.com/excitoon/mdf2iso) tool is required to convert MDF CD-ROM format to ISO.
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - Sound Configuration Utility:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - Sequence Resolution: **High Resolution**.
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - Installation Type: **Full - 220MB**.
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text:   1. Broken Sword: The Shadow of the Templars Disc #1
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text:   2. Broken Sword: The Shadow of the Templars Disc #2
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = [sdl]
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = autolock = true
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = [autoexec]
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = @ECHO OFF
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = IF NOT EXIST C:\SWORD\SWORD.EXE GOTO F_INSTALL
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = IF EXIST C:\SWORD\SWORD.EXE GOTO F_START
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = :F_INSTALL
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = D:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = :F_START
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = C:
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = CD C:\SWORD
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = SWORD.EXE
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = :F_EXIT
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = EXIT
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = :F_DEBUG
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4122246-circle-of-blood-dos-front-cover.jpg
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # check: coverart.jpg = 62a4add598a6d3b8095299d3cc87115948ae78b13fb684d8ca1af5668478d5b1
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # asset: cdrom01.mdf = https://archive.org/download/Broken_Sword_The_Shadow_of_the_Templars_Europe/Disc%201.rar/BROKEN%20SWORD%20CD1.mdf
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # check: cdrom01.mdf = e1bdc0578cafcccd57b6cc649a121a5284092cc57051d1c382655895b64fd4bb
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # asset: cdrom02.mdf = https://archive.org/download/Broken_Sword_The_Shadow_of_the_Templars_Europe/Disc%202.rar/BROKEN%20SWORD%20CD2.mdf
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # check: cdrom02.mdf = 375a010b7e124c8d6e8ef2b90ad59dda809826404fccd5fa9e45f81dda672987
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # asset: manual.pdf = https://archive.org/download/broken_sword1_manual/broken_sword1_manual.pdf
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # check: manual.pdf = a046a22e1d77b7f39e818d9301f140542e07f362763146531b916aacc51806ed
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = #
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # code: if [[ ! -x "$(command -v mdf2iso)" ]]; then sdc__message__error "Missing mdf2iso."; exit 1; else true; fi
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # code: if [[ ! -f "./Assets/cdrom01.iso" ]]; then cd ./Assets && mdf2iso cdrom01.mdf; else true; fi
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # code: if [[ ! -f "./Assets/cdrom02.iso" ]]; then cd ./Assets && mdf2iso cdrom02.mdf; else true; fi
 #
 #
 # file: All Programs/Games/Cadaver/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1885,6 +1965,7 @@
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # name: Deadlock
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # name: XenoSphere
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # info: Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest.
+# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/).
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Year = 1996
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Genre = Simulation • Strategy
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # tag: Platform = Windows 3.1x
@@ -1910,9 +1991,6 @@
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text:   - Only select a display option that ends with *256 colors SF* as it is the most widely used format in games.
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Accept the configuration shown above.
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - Press `ENTER` when prompted to **Keep Driver**.
-# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text:
-# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: ## Licensing Information
-# file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/).
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = [sdl]
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = autolock = true
@@ -1999,6 +2077,7 @@
 # file: All Programs/Games/Death Gate/Program.txt = # name: Death Gate
 # file: All Programs/Games/Death Gate/Program.txt = # info: Long ago, the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labyrinth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people into independence.
 # file: All Programs/Games/Death Gate/Program.txt = # info: Wikipedia = GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later.
+# file: All Programs/Games/Death Gate/Program.txt = # info: This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate)
 # file: All Programs/Games/Death Gate/Program.txt = # tag: Year = 1994
 # file: All Programs/Games/Death Gate/Program.txt = # tag: Genre = Adventure
 # file: All Programs/Games/Death Gate/Program.txt = # tag: Platform = DOS
@@ -2018,9 +2097,6 @@
 # file: All Programs/Games/Death Gate/Program.txt = # text: - Test Option: **Proceed with performance test**.
 # file: All Programs/Games/Death Gate/Program.txt = # text: - Music Device: **Sound Blaster 16**.
 # file: All Programs/Games/Death Gate/Program.txt = # text: - Digitized Sound: **Sound Blaster 16**.
-# file: All Programs/Games/Death Gate/Program.txt = # text:
-# file: All Programs/Games/Death Gate/Program.txt = # text: ## Licensing Information
-# file: All Programs/Games/Death Gate/Program.txt = # text: - This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate)
 # file: All Programs/Games/Death Gate/Program.txt
 # file: All Programs/Games/Death Gate/Program.txt = [sdl]
 # file: All Programs/Games/Death Gate/Program.txt = autolock = true
@@ -2257,6 +2333,7 @@
 # file: All Programs/Games/Flashback/Program.txt = # name: Flashback
 # file: All Programs/Games/Flashback/Program.txt = # name: Flashback: The Quest for Identity
 # file: All Programs/Games/Flashback/Program.txt = # info: You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans.
+# file: All Programs/Games/Flashback/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback).
 # file: All Programs/Games/Flashback/Program.txt = # tag: Year = 1993
 # file: All Programs/Games/Flashback/Program.txt = # tag: Genre = Action
 # file: All Programs/Games/Flashback/Program.txt = # tag: Platform = DOS
@@ -2273,9 +2350,6 @@
 # file: All Programs/Games/Flashback/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
 # file: All Programs/Games/Flashback/Program.txt = # text: - Sound FX: **Sound Blaster**
 # file: All Programs/Games/Flashback/Program.txt = # text: - Music: **Ad-Lib / Sound Blaster**
-# file: All Programs/Games/Flashback/Program.txt = # text:
-# file: All Programs/Games/Flashback/Program.txt = # text: ## Licensing Information
-# file: All Programs/Games/Flashback/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback).
 # file: All Programs/Games/Flashback/Program.txt
 # file: All Programs/Games/Flashback/Program.txt = [cpu]
 # file: All Programs/Games/Flashback/Program.txt = cycles = 8000
@@ -2435,6 +2509,407 @@
 # file: All Programs/Games/God of Thunder/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = #
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: Heroes of Might and Magic: A Strategic Quest
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: Heroes of Might and Magic
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: HOMM
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # info: The realms of might and magic are expanding. You have discovered new lands. Rise to the challenge of conquering them. Beware, for many warlords have risen to test your leadership and tactics. You must carefully manage all the resources at your disposal or be defeated. Now is the time to recruit your heroes, gather your armies, and lead them to victory.
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic/5928435d29e12307548b456a.html?lang=en_US).
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Category = Diagonal-down • Turn-based • RPG elements • Turn-based strategy • Fantasy
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Patched
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic:_A_Strategic_Quest)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Wikipedia - Heroes of Might and Magic Series](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/668/heroes-of-might-and-magic/)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heroes+of+Might+and+Magic&gid=1789)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/heroes-of-might-and-magic-2rr)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Might and Magic Fandom](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic:_A_Strategic_Quest)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic/5928435d29e12307548b456a.html?lang=en_US)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = #
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # text: - Press `2` to *Change Sound Card*: **8. Sound Blaster 16/AWE32/Compatible**; **3. 16 Bit Music Stereo ( Highest Quality )**.
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # text: - Press `5` to *Install Heroes of Might and Magic*.
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = [sdl]
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = autolock = true
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = [autoexec]
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = @ECHO OFF
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = IF NOT EXIST C:\HEROES\HEROES.EXE GOTO F_INSTALL
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = IF EXIST C:\HEROES\HEROES.EXE GOTO F_START
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = :F_INSTALL
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = D:
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = C:
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = CD C:\
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = MD UNZIP
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = CD UNZIP
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = CD C:\HEROES
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = :F_START
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = C:
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = CD C:\HEROES
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = HEROES.EXE
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = :F_EXIT
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = EXIT
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = :F_DEBUG
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3969037-heroes-of-might-and-magic-dos-front-cover.jpg
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # check: coverart.jpg = 8425f82c068e7fa3266ca0c0bb55b8114de51b595de03c8a8d15e71a4f2f38c5
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # asset: cdrom.bin = https://archive.org/download/heroes-of-might-and-magic-a-strategic-quest-usa/Heroes%20of%20Might%20and%20Magic%20%28USA%29.zip/Heroes%20of%20Might%20and%20Magic%20%28USA%29.bin
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # check: cdrom.bin = cf6a71628b7c241380623017ee640becd50960ef0e47f049121da8fae8ae87ef
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # asset: manual.pdf = https://archive.org/download/Heroes_of_Might_and_Magic/Heroes_of_Might_and_Magic.pdf
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # check: manual.pdf = 764b8fd1522c51ecd3b329f111f55e067a1a8962b4ed4451b0f88d28fa7c9550
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # asset: patch.zip = https://archive.org/download/HPATCH12_ZIP/HPATCH12.ZIP
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # check: patch.zip = 2d8be604c935c7836f796b9c0b164273559d5b968a3d3b451592d5606b99a329
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = #
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = #
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: Heroes of Might and Magic II: The Succession Wars
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: Heroes of Might and Magic II
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: HOMM 2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: Heroes 2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # info: After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good and one evil vie for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death!
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # info: This version is the original **The Succession Wars** release for DOS. An expansion add-on: *"Heroes of Might and Magic II: The Price of Loyalty"* is available with the **Gold Edition** release. This game **is not abandonware 🚫** and a **Gold Edition** release is available on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US).
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Category = Diagonal-down • Turn-based • RPG elements • Turn-based strategy • Fantasy
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Patched
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Wikipedia - Heroes of Might and Magic Series](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1513/heroes-of-might-and-magic-ii-the-succession-wars/)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heroes+of+Might+and+Magic+II&gid=2434)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/heroes-of-might-and-magic-ii-the-succession-wars-3l0)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Might and Magic Fandom](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic_II:_The_Succession_Wars)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: Gold Edition = [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: Gold Edition = [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = #
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text: - Press `2` to *Install Heroes of Might and Magic II*.
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text: - Press `2` to *Change Sound Card Configuration*.
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text: - Sound Configuration Options:
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # text: - Press `3` to *Save changes*.
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = [sdl]
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = autolock = true
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = [cpu]
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = core = dynamic
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = cputype = pentium
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = cycles = max
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = [autoexec]
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = @ECHO OFF
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = IF NOT EXIST C:\HEROES2\HEROES2.EXE GOTO F_INSTALL
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = IF EXIST C:\HEROES2\HEROES2.EXE GOTO F_START
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = :F_INSTALL
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = D:
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CD D:\HEROES2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = C:
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CD C:\
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = MD UNZIP
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CD UNZIP
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CD C:\HEROES2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = PATCH.EXE H2D10-12
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = :F_START
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CLS
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = ECHO Heroes of Might and Magic II: The Succession Wars
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = ECHO.
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = ECHO 1. Play Heroes of Might and Magic II
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = ECHO 2. Map Editor
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = ECHO 3. Exit DOSBox-X
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = ECHO.
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = IF ERRORLEVEL==2 GOTO F_MAP
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = IF ERRORLEVEL==1 GOTO F_PLAY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = :F_PLAY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = C:
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CD C:\HEROES2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = HEROES2.EXE
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = GOTO F_START
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = :F_MAP
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = C:
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = CD C:\HEROES2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = EDITOR2.EXE
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = GOTO F_START
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = :F_EXIT
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = EXIT
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = :F_DEBUG
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3966731-heroes-of-might-and-magic-ii-the-succession-wars-dos-front-cover.jpg
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: coverart.jpg = 700c0636eee7f961ba5e834c1c53d3de2352a22df13de45e26f6195ad235986b
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_01.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2001.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_01.bin = 250df4c0b8c52dfefb9db9f17ee407805356584a1c3ab2f77449b76878036d3c
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_02.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2002.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_02.bin = e515455ce8e37bebf16e07aac37eae5feceb3ab51733fb51a38ac97a12182219
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_03.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2003.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_03.bin = 95e0faf6b1db6a5ba5920dff57e2f655a2c1cd90e772da52d1d693a0fbdfb050
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_04.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2004.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_04.bin = 99dfecf73ec46a1efaca122c5cdb957d1bbaff19aa503810c05b31996efdcac2
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_05.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2005.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_05.bin = e68eca3162249b832cc375ab9bd6246d35e176c3fbb7329033d33b9d5cb12083
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_06.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2006.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_06.bin = 39a16764eb04b283a3491f0e0f0dde63d13b11bcac03413fb19ce7f4e98dd78e
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_07.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2007.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_07.bin = 991cacd2f8c60446bb065a69b02de694690364ae708642d59ded9bed60e71df6
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_08.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2008.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_08.bin = 1122076872913217c283f55e585c045e7518e2e857519ca4b69675d9d3ca054f
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_09.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2009.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_09.bin = b200253d60bf01c154f3707ae2e81830d5c469b25a8b04780521a56850f24f3a
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_10.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2010.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_10.bin = 883a94cb351936a86e0cdf19004de2123723d96be74152252c18a2a998c67e53
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_11.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2011.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_11.bin = 64f5c4b413781777502b370a3886cf1c617e6eb7bcd1909e0692c5bd030c817a
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_12.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2012.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_12.bin = 9949d7ebcf046596f839df4eae1325f109e8195b9b0a4fb711d5b0fcdf0571a1
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_13.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2013.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_13.bin = 0ed802a116f66fe03f0696b998ac9152a275003a2e47d232b88a52e8bd02f263
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_14.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2014.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_14.bin = d5c101e8378745c5c18203a55a3ceffd1c203cd642e092d20240c73b03a65934
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_15.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2015.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_15.bin = 86d329ad82922f6c08e7fcc0c83024162a1759cb0b3eaebf040072c7559edcb6
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_16.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2016.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_16.bin = 3f0c6722ae6899156769248608e4cc719650822a4ef6c009f08cec2e04b789f9
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_17.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2017.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_17.bin = ee6ac4bf939527d860ac9cc02ca83e369e3be002e5680fd5581cdadf8922c000
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_18.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2018.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_18.bin = cc98c9d773b7cafc1087a000313143b695e76e848a8243e1bac14a9927353b67
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_19.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2019.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_19.bin = d5dc8c9a2cfd763528610dd502ab77d65359ee531336007f3986296f9f64d2b6
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_20.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2020.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_20.bin = 06b0d4a96af255999bba04043095fcbd12fd9716205c90811764c0cb47a1f834
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_21.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2021.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_21.bin = 432162bd79e671b3944554a41cca43b9f1301f5a1030685c7e3a49d14031db38
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_22.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2022.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_22.bin = 8fd963602327910f9e59a198dc3ada1caefa8acbd807982ccb89ae318d5be64d
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_23.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2023.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_23.bin = 44d0a1ca1da39b777bf8e2712e62e9137040a2dedad15e384ae0d301320896bf
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_24.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2024.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_24.bin = 49a80ffb14ed6745c0b530d08237ba099c30af4d5b1b793c608e8f9243fc917d
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_25.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2025.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_25.bin = 95820ebbf806cfedf7862a21457d0e320c0af9345d711c6d14d9a7629d3b5545
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_26.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2026.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_26.bin = d77dbc19ac21d47b95e71da3f704d4b6223b173c1853546a43505fd527131089
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_27.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2027.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_27.bin = 9d64040f90c12ed0a27d7a57f81492de69c61e73cb82b7daac84c9971fdbee41
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_28.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2028.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_28.bin = b4a124847361ba83153e719902e79c2b0b9325ee581cb57e0282fe8dea988cd9
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_29.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2029.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_29.bin = 914fb9e6b279942d8754cbd1222c4632b3be4db2455385166432500479eb5a0d
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_30.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2030.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_30.bin = 495abd220b9cf6bab4dcaca1e078f74201d19dffb0889c0c650d43f8ee95de49
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_31.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2031.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_31.bin = da021f10cb4e47ca3bd984b892a5b9f19b54b795650dd32d798c471d53635893
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_32.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2032.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_32.bin = 35309ca10bde539e697a2523c51a6c6a26f991a3d9ed48ac44662826d9701c4a
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_33.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2033.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_33.bin = d2c8565201c7ef391e891e2924f231ccbc92b9d23854122f8f426548b2aff654
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_34.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2034.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_34.bin = 2c2f78201669d9f57b675b999706731c8a9cc5c536cbb4fad137ddcf20e733ee
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_35.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2035.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_35.bin = 3382a06899d93c03dc9286539261052c6e451b8cd5d67f5e029013ffe6977fa1
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_36.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2036.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_36.bin = fd57848c2d1f8c8a9df0f00cfc1ad466113fe837b28b5f9c3937931e352e2932
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_37.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2037.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_37.bin = 7547bb2125c0ecd7f9ebdc7398e87e35584fd23cae22fa0cf14417a4efee630d
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_38.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2038.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_38.bin = 09017499cab145f0de5d0d78c561b08a2c519f582f91a3f34d36d8ea8bb928eb
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_39.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2039.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_39.bin = 35e45476951e8b66143bc626f36e8a3023cacf27978d534421bafa3dd4ba8ac5
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_40.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2040.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_40.bin = 9cb5df7c54c5cd0fd7d5cc5caa42152504e0eec74fe8749dac0abd488f0e9727
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_41.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2041.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_41.bin = 066a07b18462caf78fbee04ed55cc3bd9d85f931e05a34955232b4ffdc0f7fbf
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_42.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2042.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_42.bin = 3d446e968ea190fde1f4c44edaf3599d837b2cdbea5eaf8c89863d0eb18e6fce
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: cdrom_43.bin = https://archive.org/download/Heroes_of_Might_and_Magic_II_The_Succession_Wars_USA/Disc.rar/Track%2043.bin
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: cdrom_43.bin = a5287160bf5b3bf2bd4694db813fe7f85bedafd470c7a956512ffcea46b85ed7
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: manual.pdf = https://archive.org/download/homm-2-guide/HOMM_2_Guide.pdf
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: manual.pdf = 4257c1f46f1e88286ade1a943e77c5f6aa6e9837669828c3e14e0e4d0b0032a6
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: patch.zip = https://archive.org/download/H2D1012/H2D10-12.ZIP
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: patch.zip = 07bf519025eb2faee134e8801a83db49b1138f5c6e940b9ae0b6a640cdc7a2ca
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = #
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = CATALOG 0000000000000
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_01.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_02.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_03.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_04.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_05.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_06.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_07.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_08.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_09.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_10.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_11.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_12.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_13.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_14.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_15.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_16.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_17.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_18.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 18 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_19.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 19 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_20.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 20 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_21.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 21 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_22.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 22 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_23.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 23 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_24.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 24 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_25.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 25 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_26.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 26 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_27.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 27 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_28.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 28 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_29.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 29 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_30.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 30 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_31.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 31 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_32.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 32 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_33.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 33 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_34.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 34 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_35.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 35 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_36.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 36 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_37.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 37 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_38.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 38 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_39.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 39 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_40.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 40 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_41.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 41 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_42.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 42 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_43.bin" BINARY
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 43 AUDIO
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Hi-Octane/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Hi-Octane/Program.txt = #
 # file: All Programs/Games/Hi-Octane/Program.txt = # name: Hi-Octane
@@ -2568,6 +3043,161 @@
 # file: All Programs/Games/It Came from the Desert/Program.txt = # check: manual.pdf = df56eab0a47849a5d7dc1efcb9e34fe0936ca64f1e17b41817781e3bc12ee2c1
 # file: All Programs/Games/It Came from the Desert/Program.txt = # asset: map.pdf = https://archive.org/download/extras_msdos_It_Came_from_the_Desert_1990/It%20came%20from%20the%20Desert%20-%20Map.pdf
 # file: All Programs/Games/It Came from the Desert/Program.txt = # check: map.pdf = e1966ffd0670952aafdc576ef7944736517ae56707cb37783ef01e3e44892851
+#
+#
+# file: All Programs/Games/Jagged Alliance/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Jagged Alliance/Program.txt = #
+# file: All Programs/Games/Jagged Alliance/Program.txt = # name: Jagged Alliance
+# file: All Programs/Games/Jagged Alliance/Program.txt = # info: The island of Metavira is invaluable as the only known source of the Fallow tree, whose sap is a vital ingredient in a precious medicinal sap. As the tree is seedless and cannot reproduce, the limited quantity of sap is of great concern. Jack and Brenda Richards, a father and daughter scientist team, are dedicated to researching the delicate procedure necessary to tap the trees and finding a cure for its infertility. Lucas Santino, a once trusted fellow researcher, now traitorous, has his agenda. Motivated by greed, Santino seeks to control the only source of the Fallow tree's sap and has nearly succeeded in taking over the island. Jack and Brenda turn to you, a person with connections to A.I.M. (the Association of International Mercenaries), their only hope of regaining control of the island.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance).
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Genre = Role-playing • Strategy
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Category = Top-down • Turn-based • Tactical RPG • Contemporary
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Patched
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Wikipedia - Jagged Alliance Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1038/jagged-alliance/)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jagged+Alliance&gid=2213)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-33e)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Jagged Alliance Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/jagged_alliance)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: Gold Edition = [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance)
+# file: All Programs/Games/Jagged Alliance/Program.txt = #
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text: - Select **Install game files**.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text: - Select **Optimized Installation Gain extra speed (39MB)**.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text: - Select **Install introduction sequence (needs 13MB more)**.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text: - Sound Card Setup Program:
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text:   - Select Card for Digital Sound: **Sound Blaster 16/AWE-32**, Auto-Detect Card: **Yes**.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text:   - Select Card for Music: **Sound Blaster Pro/16**, Auto-Detect Card: **Yes**.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text:   - Turn Subtitle Text On/Off: **Yes**.
+# file: All Programs/Games/Jagged Alliance/Program.txt = # text:   - **Save Settings** and **Exit to DOS**.
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = [sdl]
+# file: All Programs/Games/Jagged Alliance/Program.txt = autolock = true
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = [autoexec]
+# file: All Programs/Games/Jagged Alliance/Program.txt = @ECHO OFF
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Jagged Alliance/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = IF NOT EXIST C:\JAGGED\JA.EXE GOTO F_INSTALL
+# file: All Programs/Games/Jagged Alliance/Program.txt = IF EXIST C:\JAGGED\JA.EXE GOTO F_START
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = :F_INSTALL
+# file: All Programs/Games/Jagged Alliance/Program.txt = D:
+# file: All Programs/Games/Jagged Alliance/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Jagged Alliance/Program.txt = C:
+# file: All Programs/Games/Jagged Alliance/Program.txt = CD C:\JAGGED
+# file: All Programs/Games/Jagged Alliance/Program.txt = COPY D:\_PATCH\*.*
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = :F_START
+# file: All Programs/Games/Jagged Alliance/Program.txt = C:
+# file: All Programs/Games/Jagged Alliance/Program.txt = CD C:\JAGGED
+# file: All Programs/Games/Jagged Alliance/Program.txt = JA.EXE
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = :F_EXIT
+# file: All Programs/Games/Jagged Alliance/Program.txt = EXIT
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = :F_DEBUG
+# file: All Programs/Games/Jagged Alliance/Program.txt
+# file: All Programs/Games/Jagged Alliance/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6311290-jagged-alliance-dos-front-cover.jpg
+# file: All Programs/Games/Jagged Alliance/Program.txt = # check: coverart.jpg = f58c6c9e02def096e54d588026d588772ffe292af40108165f3a22c3828dc768
+# file: All Programs/Games/Jagged Alliance/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Jagged_Alliance_1994/Jagged_Alliance_1994.zip/jaggall%2Fcd%2FJagged%20Alliance.iso
+# file: All Programs/Games/Jagged Alliance/Program.txt = # check: cdrom.iso = 0512519a474595bcfa4851670b31f218472131f76b5d4b3f39ed2d598887043b
+# file: All Programs/Games/Jagged Alliance/Program.txt = # asset: manual.pdf = https://archive.org/download/Jagged_Alliance/Jagged_Alliance.pdf
+# file: All Programs/Games/Jagged Alliance/Program.txt = # check: manual.pdf = 68d4765d3bb344a51f68479bec0f1667a99d772625260dadb18420b31377bef5
+#
+#
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = #
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # name: Jagged Alliance: Deadly Games
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # info: The enemy is on the run. One more mortar shell should take them out. Still, your mission is to blow up the bridge by sundown, and Postie is starting to talk to himself again. Maybe you shouldn't let him keep that dynamite. Lock and load: it's time for Deadly Games. From the makers of Jagged Alliance, 1995's Game of the Year (Power Play magazine), comes the multiplayer strategy game with more new features than you can shake a grenade launcher at.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games).
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Genre = Role-playing • Strategy
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Category = Top-down • Turn-based • Tactical RPG • Contemporary
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Patched • Extra Command
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance:_Deadly_Games)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Wikipedia - Jagged Alliance Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2457/jagged-alliance-deadly-games/)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jagged+Alliance%3A+Deadly+Games&gid=2165)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-deadly-games-cqd)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Jagged Alliance Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance:_Deadly_Games)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: Patch = [Soggi.org](https://soggi.org/misc/game-patches.htm)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: Gold Edition = [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = #
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: ## Host Requirements
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - The game patch may fail to download. Download the patch file manually from [Soggi.org](https://soggi.org/misc/game-patches.htm) (search for *"Jagged Alliance: Deadly Games"*), place it in the `Assets` directory, and rename it to `patch.7z`.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - The game patch file is a [7-zip](https://www.7-zip.org/) archive. `7z` binary must be available and installed to apply the patch.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text:
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - Select **Install game files**.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - Select **Optimized Installation Gain extra speed (51MB)**.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - Press `ESC` to bypass electronic registration.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text: - Sound Card Setup Program:
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text:   - Select Card for Digital Sound: **Sound Blaster 16/AWE-32**, Auto-Detect Card: **Yes**.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text:   - Select Card for Music: **Sound Blaster Pro/16**, Auto-Detect Card: **Yes**.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text:   - Turn Subtitle Text On/Off: **Yes**.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # text:   - **Save Settings** and **Exit to DOS**.
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = [sdl]
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = autolock = true
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = [autoexec]
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = @ECHO OFF
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = IF NOT EXIST C:\DEADLY\DEADLY.BAT GOTO F_INSTALL
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = IF EXIST C:\DEADLY\DEADLY.BAT GOTO F_START
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = :F_INSTALL
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = D:
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = X:
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = CD X:\PATCH
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = CALL INSTALL.BAT C DEADLY
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = :F_START
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = C:
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = CD C:\DEADLY
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = CALL DEADLY.BAT
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = :F_EXIT
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = EXIT
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = :F_DEBUG
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6335798-jagged-alliance-deadly-games-dos-front-cover.jpg
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # check: coverart.jpg = 231638138803c17cc58531672a91c48a8cfb2d3640fd21a42dc4fd27bab56491
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Jagged_Alliance_-_Deadly_Games_1996/Jagged_Alliance_-_Deadly_Games_1996.zip/jaggalld%2Fcd%2Fdeadly_games.BIN
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # check: cdrom.bin = 7600933e7bc71639986692ade440d4b7a905e49483a84b69259b38c6dd3704d9
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # asset: manual.pdf = https://archive.org/download/jagged_alliance_deadly_games/jagged_alliance_deadly_games.pdf
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # check: manual.pdf = 4541e0cdec23fb08e9c0818f0b5cbe82cafa1685908b4560505b5dc5c0857d5c
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # asset: patch.7z = https://soggi.org/files/misc/game-patches/Jagged-Alliance-Deadly-Games_1.13z.7z
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # check: patch.7z = 4b9b2517862061256ddfe582e201b4226e698e4c454426a3b6055b433c5b705a
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = #
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = #
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # code: if [[ ! -x "$(command -v 7z)" ]]; then sdc__message__error "Missing 7z."; exit 1; else true; fi
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # code: if [[ ! -d "./Assets/patch" ]]; then mkdir -p ./Assets/patch && cd ./Assets/patch && 7z e ../patch.7z; else true; fi
 #
 #
 # file: All Programs/Games/Jetpack/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -2787,6 +3417,7 @@
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # name: Oddworld: Abe's Oddysee
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # name: SoulStorm
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # info: As Abe, you can whistle, laugh, hiss, and fart. In a lush world of diabolical danger where everyone wants to eat you, you are the skinny guy with no weapons. Run, jump, hide, scramble and talk your way past the ugliest bunch of carnivorous crustaceans ever created. Unlock your special powers to figure out your foes, and you might save your race. If not, you are for dinner! Enter Oddworld, a surreal, sensory overload of pure gaming and claim your destiny. Saviour. Or salami.
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee), [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/), and [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee).
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Year = 1997
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Genre = Action • Puzzle
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Platform = DOS
@@ -2806,9 +3437,6 @@
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - Sound Configuration Utility:
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM)** (*Attempt to configure sound driver automatically*).
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: ## Licensing Information
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee), [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/), and [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee).
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: ## Known Issues
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - DOSBox 0.74-3 🟨 — Odd vertical lines appear on the menu and during gameplay.
@@ -3482,6 +4110,7 @@
 # file: All Programs/Games/Terminal Velocity/Program.txt = # name: Terminal Velocity = Legacy
 # file: All Programs/Games/Terminal Velocity/Program.txt = # name: Velocity Brawl
 # file: All Programs/Games/Terminal Velocity/Program.txt = # info: In the far future, armadas from surrounding systems have suddenly waged war on Earth, destroying critical installations and major cities. Earth is now on its knees. You are a pilot from the Ares Squadron flying the fastest, most dangerous crafts ever made. Currently, you are in the TV-202, a fighter few can handle. Given that the previous model, the TV-101, has chalked up more dead pilots than any experimental craft in history, many consider you lucky to be alive. You are in a flying coffin, outgunned and outmanned. But think how good a Saved-the-Known-Galaxy title will look on your resume.
+# file: All Programs/Games/Terminal Velocity/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Boosted Edition** release is available on [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) and [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/).
 # file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Year = 1995
 # file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Genre = Action
 # file: All Programs/Games/Terminal Velocity/Program.txt = # tag: Platform = DOS
@@ -3516,9 +4145,6 @@
 # file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Shadows* to **Pentium**.
 # file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Texture* to **High Detail**.
 # file: All Programs/Games/Terminal Velocity/Program.txt = # text:   - Set *Resolution* to **SVGA (Pentium)**.
-# file: All Programs/Games/Terminal Velocity/Program.txt = # text:
-# file: All Programs/Games/Terminal Velocity/Program.txt = # text: ## Licensing Information
-# file: All Programs/Games/Terminal Velocity/Program.txt = # text: - This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Boosted Edition** release is available on [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) and [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/).
 # file: All Programs/Games/Terminal Velocity/Program.txt
 # file: All Programs/Games/Terminal Velocity/Program.txt = [autoexec]
 # file: All Programs/Games/Terminal Velocity/Program.txt = @ECHO OFF
@@ -3756,73 +4382,73 @@
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # check: dag213.exe = ed35f208d1a97cc51807e78e8dcb272ab2350188d6975dc8cb75cb96239f06aa
 #
 #
-# file: All Programs/Games/The Incredible Machine/Program.txt = # vim: filetype=ini:syntax=dosini
-# file: All Programs/Games/The Incredible Machine/Program.txt = #
-# file: All Programs/Games/The Incredible Machine/Program.txt = # name: The Incredible Machine
-# file: All Programs/Games/The Incredible Machine/Program.txt = # name: The Even More Incredible Machine
-# file: All Programs/Games/The Incredible Machine/Program.txt = # info: It's time to strap on your inventor's helmet, crank up your machine and hang on! Blow up brick walls with bundles of dynamite. Knock bowling bowls onto conveyer belts with spring-loaded boxing gloves. Rummage through 50+ nifty gadgets and wacky devices in the parts bin. You will do a gazillion strange and fun things as you solve the 160 puzzles.
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: Year = 1993
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: Genre = Puzzle
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: Platform = DOS
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: License = Abandonware
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: Category = Side view
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: Media = Floppy Disk
-# file: All Programs/Games/The Incredible Machine/Program.txt = # tag: Copy Protection
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game))
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2473/the-incredible-machine/)
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [MobyGames - The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/)
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020)
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-1mg)
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: [MyAbandonware - The Even More Incredible Machine](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh)
-# file: All Programs/Games/The Incredible Machine/Program.txt = # site: Mega Pack = [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack)
-# file: All Programs/Games/The Incredible Machine/Program.txt = #
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text: ## Installation Notes
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Accept these choices and save the configuration.
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text:
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text: ## Additional Notes
-# file: All Programs/Games/The Incredible Machine/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = [sdl]
-# file: All Programs/Games/The Incredible Machine/Program.txt = autolock = true
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = [cpu]
-# file: All Programs/Games/The Incredible Machine/Program.txt = cycles = 16000
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = [autoexec]
-# file: All Programs/Games/The Incredible Machine/Program.txt = @ECHO OFF
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = MOUNT C "./drive"
-# file: All Programs/Games/The Incredible Machine/Program.txt = IMGMOUNT A "./Assets/disk.img" -t floppy
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = IF NOT EXIST C:\TEMIM\TIM.EXE GOTO F_INSTALL
-# file: All Programs/Games/The Incredible Machine/Program.txt = IF EXIST C:\TEMIM\TIM.EXE GOTO F_START
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = :F_INSTALL
-# file: All Programs/Games/The Incredible Machine/Program.txt = C:
-# file: All Programs/Games/The Incredible Machine/Program.txt = CD C:\
-# file: All Programs/Games/The Incredible Machine/Program.txt = MD TEMIM
-# file: All Programs/Games/The Incredible Machine/Program.txt = CD TEMIM
-# file: All Programs/Games/The Incredible Machine/Program.txt = COPY A:\*.*
-# file: All Programs/Games/The Incredible Machine/Program.txt = INSTALL.EXE
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = :F_START
-# file: All Programs/Games/The Incredible Machine/Program.txt = C:
-# file: All Programs/Games/The Incredible Machine/Program.txt = CD C:\TEMIM
-# file: All Programs/Games/The Incredible Machine/Program.txt = TIM.EXE
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = :F_EXIT
-# file: All Programs/Games/The Incredible Machine/Program.txt = EXIT
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = :F_DEBUG
-# file: All Programs/Games/The Incredible Machine/Program.txt
-# file: All Programs/Games/The Incredible Machine/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3951548-the-even-more-incredible-machine-dos-front-cover.jpg
-# file: All Programs/Games/The Incredible Machine/Program.txt = # check: coverart.jpg = 6a566cf06d4e630f98f33ea14eb296c8aac6c0bca8b9ec29c560e5ba33a1d0c2
-# file: All Programs/Games/The Incredible Machine/Program.txt = # asset: disk.img = https://archive.org/download/002419-TheEvenMoreIncredibleMachine/002419_the_even_more_incredible_machine.7z/002419_the_even_more_incredible_machine%2Fdisk1.img
-# file: All Programs/Games/The Incredible Machine/Program.txt = # check: disk.img = 604cdea337ebf592aae63fe26fa2761ccabf72ae44f631722d0b1a771fcea6df
-# file: All Programs/Games/The Incredible Machine/Program.txt = # asset: manual.pdf = https://archive.org/download/The_Even_More_Incredible_Machine_-_Manual/The_Even_More_Incredible_Machine_-_Manual.pdf
-# file: All Programs/Games/The Incredible Machine/Program.txt = # check: manual.pdf = 435b96926bda8f72f6990be4e0b74d974d8d00c4dbaea1b14adf7ab8c8003378
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = #
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # name: The Even More Incredible Machine
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # name: The Incredible Machine
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # info: It's time to strap on your inventor's helmet, crank up your machine and hang on! Blow up brick walls with bundles of dynamite. Knock bowling bowls onto conveyer belts with spring-loaded boxing gloves. Rummage through 50+ nifty gadgets and wacky devices in the parts bin. You will do a gazillion strange and fun things as you solve the 160 puzzles.
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Genre = Puzzle
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Category = Side view
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game))
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2473/the-incredible-machine/)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MobyGames - The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-1mg)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MyAbandonware - The Even More Incredible Machine](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: Mega Pack = [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = #
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: - Accept these choices and save the configuration.
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text:
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = [sdl]
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = autolock = true
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = [cpu]
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = cycles = 16000
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = [autoexec]
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = IMGMOUNT A "./Assets/disk.img" -t floppy
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = IF NOT EXIST C:\TEMIM\TIM.EXE GOTO F_INSTALL
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = IF EXIST C:\TEMIM\TIM.EXE GOTO F_START
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = C:
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = CD C:\
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = MD TEMIM
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = CD TEMIM
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = COPY A:\*.*
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = INSTALL.EXE
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = :F_START
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = C:
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = CD C:\TEMIM
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = TIM.EXE
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = :F_EXIT
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = EXIT
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3951548-the-even-more-incredible-machine-dos-front-cover.jpg
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # check: coverart.jpg = 6a566cf06d4e630f98f33ea14eb296c8aac6c0bca8b9ec29c560e5ba33a1d0c2
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # asset: disk.img = https://archive.org/download/002419-TheEvenMoreIncredibleMachine/002419_the_even_more_incredible_machine.7z/002419_the_even_more_incredible_machine%2Fdisk1.img
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # check: disk.img = 604cdea337ebf592aae63fe26fa2761ccabf72ae44f631722d0b1a771fcea6df
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # asset: manual.pdf = https://archive.org/download/The_Even_More_Incredible_Machine_-_Manual/The_Even_More_Incredible_Machine_-_Manual.pdf
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # check: manual.pdf = 435b96926bda8f72f6990be4e0b74d974d8d00c4dbaea1b14adf7ab8c8003378
 #
 #
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -4185,6 +4811,440 @@
 # file: All Programs/Games/The Need for Speed/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/The Settlers/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Settlers/Program.txt = #
+# file: All Programs/Games/The Settlers/Program.txt = # name: The Settlers
+# file: All Programs/Games/The Settlers/Program.txt = # name: Serf City: Life is Feudal = Europe
+# file: All Programs/Games/The Settlers/Program.txt = # name: Die Siedler = Germany/Original
+# file: All Programs/Games/The Settlers/Program.txt = # info: Have you always wanted to be a boss? Then you should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing; or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords.
+# file: All Programs/Games/The Settlers/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and is a part of a **History Collection** edition available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection).
+# file: All Programs/Games/The Settlers/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/The Settlers/Program.txt = # tag: Genre = Simulation • Strategy
+# file: All Programs/Games/The Settlers/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Settlers/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/The Settlers/Program.txt = # tag: Category = Diagonal-down • Real-time • City building • Managerial • Real-time strategy
+# file: All Programs/Games/The Settlers/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Settlers/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_(1993_video_game))
+# file: All Programs/Games/The Settlers/Program.txt = # site: [Wikipedia - The Settlers Series](https://en.wikipedia.org/wiki/The_Settlers)
+# file: All Programs/Games/The Settlers/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/425/serf-city-life-is-feudal/)
+# file: All Programs/Games/The Settlers/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Settlers&gid=1858)
+# file: All Programs/Games/The Settlers/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/serf-city-life-is-feudal-21o)
+# file: All Programs/Games/The Settlers/Program.txt = # site: History Collection = [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection)
+# file: All Programs/Games/The Settlers/Program.txt = #
+# file: All Programs/Games/The Settlers/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Settlers/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/The Settlers/Program.txt = # text: - Press `1` to **Install**.
+# file: All Programs/Games/The Settlers/Program.txt = # text: - Sound Card Configuration:
+# file: All Programs/Games/The Settlers/Program.txt = # text:   - FM - Music: **Roland MT-32 or compatible with Roland MPU MIDI Interface**. Switch the toggle under the settings to **ON**.
+# file: All Programs/Games/The Settlers/Program.txt = # text:   - FX - Effects: **Creative Labs Sound Blaster(TM) Digital Sound**. Switch the toggle under the settings to **ON**.
+# file: All Programs/Games/The Settlers/Program.txt = # text:   - Select **OK** to quit and save data.
+# file: All Programs/Games/The Settlers/Program.txt = # text: - Press `ESC` to exit the configuration.
+# file: All Programs/Games/The Settlers/Program.txt = # text:
+# file: All Programs/Games/The Settlers/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/The Settlers/Program.txt = # text: - You can enable **SVGA Mode** to have better high-resolution graphics by pressing `V`.
+# file: All Programs/Games/The Settlers/Program.txt = # text: - Clicking the left and right mouse buttons simultaneously activates the game **Special Click**.
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = [sdl]
+# file: All Programs/Games/The Settlers/Program.txt = autolock = true
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = [autoexec]
+# file: All Programs/Games/The Settlers/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Settlers/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/The Settlers/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = IF NOT EXIST C:\BLUEBYTE\SETTLERS\SETTLERS.BAT GOTO F_INSTALL
+# file: All Programs/Games/The Settlers/Program.txt = IF EXIST C:\BLUEBYTE\SETTLERS\SETTLERS.BAT GOTO F_START
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Settlers/Program.txt = D:
+# file: All Programs/Games/The Settlers/Program.txt = INSTALL.EXE
+# file: All Programs/Games/The Settlers/Program.txt = IF NOT EXIST X:\MANUAL.PDF COPY D:\MANUAL\MANUAL.PDF X:
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = :F_START
+# file: All Programs/Games/The Settlers/Program.txt = C:
+# file: All Programs/Games/The Settlers/Program.txt = CD C:\BLUEBYTE\SETTLERS
+# file: All Programs/Games/The Settlers/Program.txt = CALL SETTLERS.BAT
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = :F_EXIT
+# file: All Programs/Games/The Settlers/Program.txt = EXIT
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Settlers/Program.txt
+# file: All Programs/Games/The Settlers/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6582475-serf-city-life-is-feudal-dos-front-cover.jpg
+# file: All Programs/Games/The Settlers/Program.txt = # check: coverart.jpg = 0b254580e1634e88964b6e2ed374c327eae4a1ac6ca0912f9dc06631332730d8
+# file: All Programs/Games/The Settlers/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Serf_City_-_Life_is_Feudal_1994/Serf_City_-_Life_is_Feudal_1994.zip/SerfCity%2Fcd%2FSettlers.iso
+# file: All Programs/Games/The Settlers/Program.txt = # check: cdrom.iso = 7482ddc3465e928c451d5843980e33bf7f9794244aafaca83648d8ee0d291a22
+#
+#
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = #
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: The Settlers II: Gold Edition
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: The Settlers II
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: The Settlers II: Veni, Vidi, Vici
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: Die Siedler II = Germany/Original
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # info: The Settler II is a strategy-laden economic simulation and the follow-up to the hugely successful Settlers. Your objective in this highly addictive game is to promote economic growth and prosperity. Your tasks include mining raw materials, farming, hunting, fishing, and expanding borders. You will also be encouraged to trade with the inhabitants of remote islands.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # info: This game **is not abandonware 🚫** and is part of a **History Collection** edition on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). The **Gold Edition** is also available on [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition).
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Genre = Simulation • Strategy
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Category = Diagonal-down • Real-time • City building • Managerial • Real-time strategy • Classical antiquity
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_II)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [Wikipedia - The Settlers Series](https://en.wikipedia.org/wiki/The_Settlers)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/598/the-settlers-ii-veni-vidi-vici/)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MobyGames - Gold Edition](https://www.mobygames.com/game/20461/the-settlers-ii-gold-edition/)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Settlers+II%3A+Veni%2C+Vidi%2C+Vici&gid=2435)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-settlers-ii-veni-vidi-vici-3pv)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MyAbandonware - Gold Edition](https://www.myabandonware.com/game/the-settlers-ii-gold-edition-2ag)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: History Collection = [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = #
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: - Select **Install Settlers II Gold**.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: - Setup Sound:
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: - Change editor-screen-resolution if you're into map editing.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text:
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # text: - From the in-game *Options* menu, you can change the screen resolution.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = [sdl]
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = autolock = true
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = [autoexec]
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = IF NOT EXIST C:\BLUEBYTE\SETTLER2\SETTLER2.EXE GOTO F_INSTALL
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = IF EXIST C:\BLUEBYTE\SETTLER2\SETTLER2.EXE GOTO F_START
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = D:
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = CD D:\S2
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = SETUP.EXE
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = :F_START
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = CLS
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = ECHO The Settlers II: Gold Edition
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = ECHO.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = ECHO 1. Play The Settlers II
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = ECHO 2. Map Editor
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = ECHO 3. Exit DOSBox-X
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = ECHO.
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = IF ERRORLEVEL==2 GOTO F_MAP
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = IF ERRORLEVEL==1 GOTO F_PLAY
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = :F_PLAY
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = C:
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = CD C:\BLUEBYTE\SETTLER2
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = CALL START.BAT
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = GOTO F_START
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = :F_MAP
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = C:
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = CD C:\BLUEBYTE\SETTLER2
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = S2EDIT.EXE
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = GOTO F_START
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = :F_EXIT
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = EXIT
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4285940-the-settlers-ii-gold-edition-dos-front-cover.jpg
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # check: coverart.jpg = d9acbb07f687f29bf9367d2e6e40305397cf6084c4e52f6c8f2d883f745702a4
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Settlers_II_The_Gold_Edition_1997/Settlers_II_The_Gold_Edition_1997.zip/Settlr2G%2Fcd%2FThe%20Settlers%20II%20%28Gold%20Edition%29.bin
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # check: cdrom.bin = 2153e7671b58309fe4e727a0a730341ae8d7889907db2b10c3669d9cb4a5b74f
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # asset: manual.pdf = https://archive.org/download/The_Settlers_II_Manual/The_Settlers_II_Manual.pdf
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # check: manual.pdf = 7cf3c1d06343fabb393bd6de6b3f36d5ba3203b632043ce455ccc2ce5dda9925
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = #
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 32:05:00
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 32:05:01
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 34:38:69
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 34:40:68
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 37:37:72
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 37:39:71
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 40:32:36
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 40:34:35
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 43:26:14
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 43:28:13
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 47:10:31
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 47:12:30
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 54:33:46
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 54:35:45
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 56:42:38
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 56:44:37
+#
+#
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = #
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: UFO: Enemy Unknown
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: X-COM: UFO Defense = United States
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: X-COM: Terran Defense Force
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # info: You control XCom, an organisation formed by the world's governments to fight the ever-increasing alien menace. Shooting down UFOs is just the beginning. You lead a squad of heavily-armed soldiers across different terrains as they investigate the UFO crash site. Tackle the aliens with automatic rifles, rocket launchers and even tanks in the struggle to retrieve useful technology, weapons or life forms. Successful ground assault missions will allow XCom scientists to analyse alien items. Each breakthrough brings you closer to understanding the technology and culture of the alien races. When your engineers have amassed sufficient research data on their superior weapons and craft, they'll be available for your troops.
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense) and [Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/).
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Category = Diagonal-down • Turn-based • RPG elements • Turn-based strategy • Sci-fi
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Patched
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/521/x-com-ufo-defense/)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Ufo+Defense&gid=1404)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/x-com-ufo-defense-1pl)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = #
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # text: - Choose Sound FX Board: **SoundBlaster 16**; Base Port: **220**; Irq: **7**; Dma: **1**; Sound Channels: **4**.
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # text: - Choose Music Board: **AdLib/SoundBlaster FM**.
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = [sdl]
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = autolock = true
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = [autoexec]
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = @ECHO OFF
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = IF NOT EXIST C:\UFO\UFO.BAT GOTO F_INSTALL
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = IF EXIST C:\UFO\UFO.BAT GOTO F_START
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = :F_INSTALL
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = C:
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD UFO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD UFO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\*.*
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = D:
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CALL INSTALL.BAT C:\UFO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = C:
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD C:\UFO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD GEODATA
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\GEODATA\*.* C:\UFO\GEODATA
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD GEOGRAPH
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\GEOGRAPH\*.* C:\UFO\GEOGRAPH
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD MAPS
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\MAPS\*.* C:\UFO\MAPS
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD ROUTES
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\ROUTES\*.* C:\UFO\ROUTES
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD TERRAIN
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\TERRAIN\*.* C:\UFO\TERRAIN
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD UFOGRAPH
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\UFOGRAPH\*.* C:\UFO\UFOGRAPH
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD UFOINTRO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\UFOINTRO\*.* C:\UFO\UFOINTRO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD UNITS
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = COPY D:\UNITS\*.* C:\UFO\UNITS
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD C:\
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD UNZIP
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD UNZIP
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD C:\
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = MD PATCH
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD PATCH
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = C:\UNZIP\UNZIP.EXE X:\PATCH.ZIP
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = C:
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD C:\UFO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = C:\UNZIP\UNZIP.EXE -o C:\PATCH\UFOPATCH.ZIP
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = SETUP.EXE
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = :F_START
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = C:
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CD C:\UFO
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = CALL UFO.BAT
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = :F_EXIT
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = EXIT
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = :F_DEBUG
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4449195-x-com-ufo-defense-dos-front-cover.jpg
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # check: coverart.jpg = a2fbe407fbc509bef5a708d8393a71eede28dce43d4a36cf84a2e57dc347523f
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # asset: cdrom.iso = https://archive.org/download/xcom-ufo-defense/xcom-ufo-defense.iso
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # check: cdrom.iso = ba259b273d8ca665e01d8d82e43c80e84e0e0b9822b08d6a37528621abbf50ae
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # asset: manual.pdf = https://archive.org/download/X-Com_UFO_Defense/X-Com_UFO_Defense.pdf
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # check: manual.pdf = cd6fcce6aa16995d15fc4c8fce147981ea0aaf8428f670ed9a43582961744872
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # asset: patch.zip = https://archive.org/download/xcom14/xcom14.zip
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # check: patch.zip = 8225e5a965248254ffb2f6871596c549dae063fb051f8a3b9c9bde6196e37b32
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = #
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # name: X-COM: Apocalypse
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # name: APOC
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # info: Human excess, petty conflict, and alien invasion have ravaged the Earth. The world's population has merged into huge cities, the first of which was Mega Primus. In 2084, a Utopia shattered, social collapse and civil unrest reigned in Mega Primus. Fiendish aliens terrorise the city. UFOs swarm through Dimensional Gateways. The city is under siege from an unknown enemy. As an X-COM Commander, your mission is to combat alien aggression and uncover their deadly intentions. But Beware! Alien infiltration into the city and its politics could see you under fire from criminal gangs, religious sects, and even the police!
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_apocalypse) and [Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/).
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Category = Diagonal-down • Real-time • Turn-based • Sci-fi
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Apocalypse)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/349/x-com-apocalypse/)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Apocalypse&gid=2178)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/x-com-apocalypse-cxz)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/xcom_apocalypse)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = #
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Select **I Accept** to the Software License Agreement.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Select **Install Game**.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Select **Install optimal version**.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Installer hardware requirements may report *slow CD-ROM speed*. Ignore this.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Select **Set up sound card**:
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text:   - Set Sound Device: **SoundBlaster 16/AWE32**; Set Port: **220**; Set IRQ: **7**; Set DMA: **5**.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # text: - Select **Exit and save configuration**.
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = [sdl]
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = output=opengl
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = autolock=true
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = [dosbox]
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = memsize=64
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = [cpu]
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = core=dynamic
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = cputype=pentium_mmx
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = cycles=max
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = [autoexec]
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = @ECHO OFF
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = IF NOT EXIST C:\XCOMA\XCOMAPOC.EXE GOTO F_INSTALL
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = IF EXIST C:\XCOMA\XCOMAPOC.EXE GOTO F_START
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = :F_INSTALL
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = D:
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = INSTALL.EXE
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = :F_START
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = C:
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = CD C:\XCOMA
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = XCOMAPOC.EXE
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = :F_EXIT
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = EXIT
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = :F_DEBUG
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/7053146-x-com-apocalypse-dos-front-cover.jpg
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # check: coverart.jpg = acb21a115bb484fdda04f071c8bdb340f8ca90a51e6d438b8c10a698527e02cf
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # asset: cdrom.iso = https://archive.org/download/X-COM_Apocalypse_Microprose_1997/X-COM%20Apocalypse%20%28Microprose%29%281997%29.iso
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # check: cdrom.iso = 4ebefeb387e03cc40d0da2111bfab9928f06b9fd662213dc5a9bcd349d6d8b9c
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # asset: manual.pdf = https://archive.org/download/x-com-apocalypse-manual/x-com%20apocalypse_manual.pdf
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # check: manual.pdf = 9f7ff01d1642361ac21dcfbd17e81ddbb948bdb764badd28e94032852b4b2feb
+#
+#
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = #
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: X-COM: Terror from the Deep
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: X-COM 2
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: UFO 2
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: TFTD
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # info: Awakened by the cosmic emissions of their brothers, the vast chambers of innumerable species begin their re-animation cycle. XCom must face a new terror, an army of aliens but in an environment more deadly than deep space. The aliens of the depths are well prepared to take on men in all the oceans, even bringing the war onto the land. Enter into combat in a strange and alien world and use new technology. Arm your troops for an encounter the likes of man has only dreamed of in his worst nightmares. A vast sleeping enemy has awoken. When the vessel T'leth crash-landed on Earth some sixty-five million years ago, the emergency systems placed the aliens in suspended animation. A distress call was sent but never received by the alien's homeworld. Over the eons, computers have awoken small groups of aliens to attempt colonisation, but the strategies and devices have been imperfect. They have also been sinking ships over the centuries to plunder their cargoes and recover gold - the base metal in the hyper-alloy Zrbite.
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep) and [Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/).
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Category = Diagonal-down • Turn-based • Turn-based strategy • Sci-fi • War
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Patched
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/543/x-com-terror-from-the-deep/)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Terror+from+the+Deep&gid=1531)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/x-com-terror-from-the-deep-1pk)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = #
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # text: - Choose Sound FX Board: **SoundBlaster 16**; Base Port: **220**; Irq: **7**; Dma: **1**; Sound Channels: **4**.
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # text: - Choose Music Board: **AdLib/SoundBlaster FM**.
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = [sdl]
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = autolock = true
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = [autoexec]
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = @ECHO OFF
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = IF NOT EXIST C:\MPS\TFTD\TERROR.BAT GOTO F_INSTALL
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = IF EXIST C:\MPS\TFTD\TERROR.BAT GOTO F_START
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = :F_INSTALL
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = D:
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = INSTALL.EXE
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = C:
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = CD C:\
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = MD UNZIP
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = CD UNZIP
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = CD C:\MPS\TFTD
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = UPDATE.COM CD
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = :F_START
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = C:
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = CD C:\MPS\TFTD
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = CALL TERROR.BAT
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = :F_EXIT
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = EXIT
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = :F_DEBUG
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3685998-x-com-terror-from-the-deep-dos-front-cover.jpg
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # check: coverart.jpg = c770e6c7161d761b5d811794ac7240c3054c5096f1f80a99e1977cffc5f1f4f7
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # asset: cdrom.iso = https://archive.org/download/X-COM_-_Terror_from_the_Deep_1995_MicroProse_M4/X-COM%20-%20Terror%20from%20the%20Deep%20%281995%29%28MicroProse%29%28M4%29.iso
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # check: cdrom.iso = ea78004250d7eaac3e7010ecc13cf98d90ebb431c56449c3bf751f1640b18f6d
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # asset: manual.pdf = https://archive.org/download/X-Com_Terror_From_The_Deep/X-Com_Terror_From_The_Deep.pdf
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # check: manual.pdf = eb10706fefc6ef5741947346ddb84c37e7f73920851ce3a0aac76fe7a6fda1e2
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # asset: patch.zip = https://archive.org/download/tftdv2/tftdv2.zip
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # check: patch.zip = eaa60d290d3512ee5b762e90de819b4db80eab08e9f2eeebd25acef2ca74844b
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
 # file: All Programs/Games/Xargon/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Xargon/Program.txt = #
 # file: All Programs/Games/Xargon/Program.txt = # name: Xargon
@@ -4508,6 +5568,7 @@
 # link: Games/By Genre/Action/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
+# link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
@@ -4519,7 +5580,7 @@
 # link: Games/By Genre/Puzzle/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Genre/Puzzle/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Genre/Puzzle/Supaplex = ../../../All Programs/Games/Supaplex
-# link: Games/By Genre/Puzzle/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
+# link: Games/By Genre/Puzzle/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
 # link: Games/By Genre/Puzzle/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By Genre/Puzzle/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By Genre/Puzzle/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
@@ -4527,11 +5588,15 @@
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Genre/Racing/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Genre/Role-playing/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
+# link: Games/By Genre/Role-playing/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
+# link: Games/By Genre/Role-playing/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By Genre/Role-playing/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Genre/Simulation/SimTower = ../../../All Programs/Games/SimTower
+# link: Games/By Genre/Simulation/The Settlers = ../../../All Programs/Games/The Settlers
+# link: Games/By Genre/Simulation/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
 # link: Games/By Genre/Sports/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By Genre/Sports/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Genre/Strategy/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
@@ -4542,6 +5607,15 @@
 # link: Games/By Genre/Strategy/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Genre/Strategy/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
 # link: Games/By Genre/Strategy/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Genre/Strategy/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
+# link: Games/By Genre/Strategy/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
+# link: Games/By Genre/Strategy/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
+# link: Games/By Genre/Strategy/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By Genre/Strategy/The Settlers = ../../../All Programs/Games/The Settlers
+# link: Games/By Genre/Strategy/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
+# link: Games/By Genre/Strategy/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
+# link: Games/By Genre/Strategy/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
+# link: Games/By Genre/Strategy/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By License/Abandonware/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
@@ -4555,7 +5629,7 @@
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
-# link: Games/By License/Abandonware/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
+# link: Games/By License/Abandonware/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
 # link: Games/By License/Abandonware/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By License/Abandonware/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By License/Abandonware/The Need for Speed = ../../../All Programs/Games/The Need for Speed
@@ -4587,11 +5661,21 @@
 # link: Games/By License/Freeware/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By License/Freeware/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
+# link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By License/Proprietary/Flashback = ../../../All Programs/Games/Flashback
+# link: Games/By License/Proprietary/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
+# link: Games/By License/Proprietary/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
+# link: Games/By License/Proprietary/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
+# link: Games/By License/Proprietary/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By License/Proprietary/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
+# link: Games/By License/Proprietary/The Settlers = ../../../All Programs/Games/The Settlers
+# link: Games/By License/Proprietary/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
+# link: Games/By License/Proprietary/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
+# link: Games/By License/Proprietary/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
+# link: Games/By License/Proprietary/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By Platform/DOS/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By Platform/DOS/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Platform/DOS/Abuse = ../../../All Programs/Games/Abuse
@@ -4604,6 +5688,7 @@
 # link: Games/By Platform/DOS/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Platform/DOS/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By Platform/DOS/Boppin' = ../../../All Programs/Games/Boppin'
+# link: Games/By Platform/DOS/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Platform/DOS/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By Platform/DOS/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By Platform/DOS/Command & Conquer = ../../../All Programs/Games/Command & Conquer
@@ -4616,8 +5701,12 @@
 # link: Games/By Platform/DOS/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Platform/DOS/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Platform/DOS/God of Thunder = ../../../All Programs/Games/God of Thunder
+# link: Games/By Platform/DOS/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
+# link: Games/By Platform/DOS/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By Platform/DOS/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Platform/DOS/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
+# link: Games/By Platform/DOS/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
+# link: Games/By Platform/DOS/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By Platform/DOS/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
@@ -4632,10 +5721,15 @@
 # link: Games/By Platform/DOS/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Platform/DOS/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Platform/DOS/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
-# link: Games/By Platform/DOS/The Incredible Machine = ../../../All Programs/Games/The Incredible Machine
+# link: Games/By Platform/DOS/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
 # link: Games/By Platform/DOS/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By Platform/DOS/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Platform/DOS/The Need for Speed = ../../../All Programs/Games/The Need for Speed
+# link: Games/By Platform/DOS/The Settlers = ../../../All Programs/Games/The Settlers
+# link: Games/By Platform/DOS/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
+# link: Games/By Platform/DOS/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
+# link: Games/By Platform/DOS/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
+# link: Games/By Platform/DOS/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By Platform/DOS/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Platform/Windows 3.1x/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By Platform/Windows 3.1x/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest

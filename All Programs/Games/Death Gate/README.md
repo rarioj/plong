@@ -6,6 +6,8 @@
 >
 > ❝ GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later. ❞ — *Wikipedia*
 >
+> ❝ This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate) ❞
+>
 
 📌 ┃ Year: **1994** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **1st-person • Puzzle elements • Fantasy** ┃ Media: **CD-ROM** 
 
@@ -20,9 +22,6 @@
 - Test Option: **Proceed with performance test**.
 - Music Device: **Sound Blaster 16**.
 - Digitized Sound: **Sound Blaster 16**.
-
-## Licensing Information
-- This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate)
 
 ![](Montage.png "Death Gate")
 

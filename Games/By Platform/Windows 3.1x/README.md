@@ -33,6 +33,8 @@
 >
 > ❝ Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest. ❞
 >
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/). ❞
+>
 >
 > </td></tr></table>
 

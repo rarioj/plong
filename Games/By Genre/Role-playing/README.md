@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Role-playing (3)
+# 🗂️ Games ‣ By Genre ‣ Role-playing (5)
 
 > <table><tr><td width="255">
 >
@@ -13,6 +13,50 @@
 > 📌 ┃ Year: **1995** ┃ Genre: **Role-playing** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **1st-person • Action RPG • Fantasy** ┃ Media: **CD-ROM** ┃ **Patched** 
 >
 > ❝ You embark on a noble journey across Tempest in the ultimate fantasy adventure. Your mission is to rescue humanity from an evil fate with battle, skill, magic, and wits. Explore a massive terrain in 3D while solving puzzles, overcoming traps, and enjoying the beauty and scope of the outdoor scenes. Quest through dungeons where 3D walls add realism, and creatures all but lunge out at you in the attack. You have more than 25 spells and magical objects at your disposal, each drawing upon one of the elemental forces such as fire, water, wind, and lightning. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Jagged%20Alliance/Thumbnail.png "Jagged Alliance")
+>
+> </td>
+>
+> <td>
+>
+> ## [Jagged Alliance](../../../All%20Programs/Games/Jagged%20Alliance/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Role-playing • Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Turn-based • Tactical RPG • Contemporary** ┃ Media: **CD-ROM** ┃ **Patched** 
+>
+> ❝ The island of Metavira is invaluable as the only known source of the Fallow tree, whose sap is a vital ingredient in a precious medicinal sap. As the tree is seedless and cannot reproduce, the limited quantity of sap is of great concern. Jack and Brenda Richards, a father and daughter scientist team, are dedicated to researching the delicate procedure necessary to tap the trees and finding a cure for its infertility. Lucas Santino, a once trusted fellow researcher, now traitorous, has his agenda. Motivated by greed, Santino seeks to control the only source of the Fallow tree's sap and has nearly succeeded in taking over the island. Jack and Brenda turn to you, a person with connections to A.I.M. (the Association of International Mercenaries), their only hope of regaining control of the island. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Jagged%20Alliance%20-%20Deadly%20Games/Thumbnail.png "Jagged Alliance: Deadly Games")
+>
+> </td>
+>
+> <td>
+>
+> ## [Jagged Alliance: Deadly Games](../../../All%20Programs/Games/Jagged%20Alliance%20-%20Deadly%20Games/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Role-playing • Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Turn-based • Tactical RPG • Contemporary** ┃ Media: **CD-ROM** ┃ **Patched • Extra Command** 
+>
+> ❝ The enemy is on the run. One more mortar shell should take them out. Still, your mission is to blow up the bridge by sundown, and Postie is starting to talk to himself again. Maybe you shouldn't let him keep that dynamite. Lock and load: it's time for Deadly Games. From the makers of Jagged Alliance, 1995's Game of the Year (Power Play magazine), comes the multiplayer strategy game with more new features than you can shake a grenade launcher at. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games). ❞
 >
 >
 > </td></tr></table>

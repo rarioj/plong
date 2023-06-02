@@ -253,13 +253,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Machine/Thumbnail.png "The Incredible Machine")
+> ![](../../../All%20Programs/Games/The%20Even%20More%20Incredible%20Machine/Thumbnail.png "The Even More Incredible Machine")
 >
 > </td>
 >
 > <td>
 >
-> ## [The Incredible Machine](../../../All%20Programs/Games/The%20Incredible%20Machine/README.md)
+> ## [The Even More Incredible Machine](../../../All%20Programs/Games/The%20Even%20More%20Incredible%20Machine/README.md)
 >
 > 📌 ┃ Year: **1993** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Side view** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
 >

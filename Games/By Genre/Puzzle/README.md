@@ -75,6 +75,8 @@
 >
 > ❝ As Abe, you can whistle, laugh, hiss, and fart. In a lush world of diabolical danger where everyone wants to eat you, you are the skinny guy with no weapons. Run, jump, hide, scramble and talk your way past the ugliest bunch of carnivorous crustaceans ever created. Unlock your special powers to figure out your foes, and you might save your race. If not, you are for dinner! Enter Oddworld, a surreal, sensory overload of pure gaming and claim your destiny. Saviour. Or salami. ❞
 >
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee), [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/), and [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee). ❞
+>
 >
 > </td></tr></table>
 
@@ -124,13 +126,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/The%20Incredible%20Machine/Thumbnail.png "The Incredible Machine")
+> ![](../../../All%20Programs/Games/The%20Even%20More%20Incredible%20Machine/Thumbnail.png "The Even More Incredible Machine")
 >
 > </td>
 >
 > <td>
 >
-> ## [The Incredible Machine](../../../All%20Programs/Games/The%20Incredible%20Machine/README.md)
+> ## [The Even More Incredible Machine](../../../All%20Programs/Games/The%20Even%20More%20Incredible%20Machine/README.md)
 >
 > 📌 ┃ Year: **1993** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Side view** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
 >

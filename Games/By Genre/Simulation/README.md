@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Simulation (3)
+# 🗂️ Games ‣ By Genre ‣ Simulation (5)
 
 > <table><tr><td width="255">
 >
@@ -13,6 +13,8 @@
 > 📌 ┃ Year: **1996** ┃ Genre: **Simulation • Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Turn-based • 4X • Managerial • Sci-fi** ┃ Media: **CD-ROM** 
 >
 > ❝ Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/). ❞
 >
 >
 > </td></tr></table>
@@ -53,6 +55,48 @@
 > 📌 ┃ Year: **1994** ┃ Genre: **Simulation** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Managerial** ┃ Media: **CD-ROM** ┃ **Patched** 
 >
 > ❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Settlers/Thumbnail.png "The Settlers")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Settlers](../../../All%20Programs/Games/The%20Settlers/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Simulation • Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • City building • Managerial • Real-time strategy** ┃ Media: **CD-ROM** 
+>
+> ❝ Have you always wanted to be a boss? Then you should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing; or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and is a part of a **History Collection** edition available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Settlers%20II%20-%20Gold%20Edition/Thumbnail.png "The Settlers II: Gold Edition")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Settlers II: Gold Edition](../../../All%20Programs/Games/The%20Settlers%20II%20-%20Gold%20Edition/README.md)
+>
+> 📌 ┃ Year: **1997** ┃ Genre: **Simulation • Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • City building • Managerial • Real-time strategy • Classical antiquity** ┃ Media: **CD-ROM** 
+>
+> ❝ The Settler II is a strategy-laden economic simulation and the follow-up to the hugely successful Settlers. Your objective in this highly addictive game is to promote economic growth and prosperity. Your tasks include mining raw materials, farming, hunting, fishing, and expanding borders. You will also be encouraged to trade with the inhabitants of remote islands. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is part of a **History Collection** edition on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). The **Gold Edition** is also available on [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition). ❞
 >
 >
 > </td></tr></table>

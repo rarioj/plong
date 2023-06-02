@@ -1,8 +1,8 @@
 ![](Thumbnail.png "application-thumbnail")
 
-# The Incredible Machine
+# The Even More Incredible Machine
 
-「**The Even More Incredible Machine**」
+「**The Incredible Machine**」
 
 > ❝ It's time to strap on your inventor's helmet, crank up your machine and hang on! Blow up brick walls with bundles of dynamite. Knock bowling bowls onto conveyer belts with spring-loaded boxing gloves. Rummage through 50+ nifty gadgets and wacky devices in the parts bin. You will do a gazillion strange and fun things as you solve the 160 puzzles. ❞
 >
@@ -20,5 +20,5 @@
 ## Additional Notes
 - Consult `Assets/manual.pdf` for the game copy protection.
 
-![](Montage.png "The Incredible Machine")
+![](Montage.png "The Even More Incredible Machine")
 

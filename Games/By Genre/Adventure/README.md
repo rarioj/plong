@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (6)
+# 🗂️ Games ‣ By Genre ‣ Adventure (7)
 
 > <table><tr><td width="255">
 >
@@ -23,6 +23,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/Thumbnail.png "Broken Sword: The Shadow of the Templars")
+>
+> </td>
+>
+> <td>
+>
+> ## [Broken Sword: The Shadow of the Templars](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Graphic adventure • Puzzle elements • Detective • Romance** ┃ Media: **CD-ROM** ┃ **Extra Command** 
+>
+> ❝ Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Death%20Gate/Thumbnail.png "Death Gate")
 >
 > </td>
@@ -36,6 +57,8 @@
 > ❝ Long ago, the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labyrinth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people into independence. ❞
 >
 > ❝ GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later. ❞ — *Wikipedia*
+>
+> ❝ This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate) ❞
 >
 >
 > </td></tr></table>

@@ -6,6 +6,8 @@
 
 > ❝ You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. ❞
 >
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback). ❞
+>
 
 📌 ┃ Year: **1993** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Platform • Puzzle elements • Shooter • Cyberpunk** ┃ Media: **CD-ROM** 
 
@@ -17,9 +19,6 @@
 - Use the default **drive** and **directory** for the installation location.
 - Sound FX: **Sound Blaster**
 - Music: **Ad-Lib / Sound Blaster**
-
-## Licensing Information
-- This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback).
 
 ![](Montage.png "Flashback")
 
