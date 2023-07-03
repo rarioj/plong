@@ -1,4 +1,88 @@
-# 🗂️ Games ‣ By License ‣ Proprietary (16)
+# 🗂️ Games ‣ By License ‣ Proprietary (26)
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/Thumbnail.png "3 Skulls of the Toltecs")
+>
+> </td>
+>
+> <td>
+>
+> ## [3 Skulls of the Toltecs](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • North America • Western • Comedy** ┃ Media: **CD-ROM** 
+>
+> ❝ Saddle up and mosey on into town for one of the most challenging, hilarious and exciting adventures this side of Texas! The treasures of the Toltecs are within your reach - riches beyond your wildest dreams. But first, you must locate the three skulls. And believe me - it isn't that easy. You must travel through the wild west and encounter multiple characters, the good, the bad and the downright ugly! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs) and [Steam 💰](https://store.steampowered.com/app/977300/Fenimore_Fillmore_3_Skulls_of_the_Toltecs/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Alone%20in%20the%20Dark/Thumbnail.png "Alone in the Dark")
+>
+> </td>
+>
+> <td>
+>
+> ## [Alone in the Dark](../../../All%20Programs/Games/Alone%20in%20the%20Dark/README.md)
+>
+> 📌 ┃ Year: **1992** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Survival horror • Interwar • Horror** ┃ Media: **CD-ROM** ┃ Compilation: **Jack in the Dark** 
+>
+> ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion — where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
+>
+> ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Alone%20in%20the%20Dark%202/Thumbnail.png "Alone in the Dark 2")
+>
+> </td>
+>
+> <td>
+>
+> ## [Alone in the Dark 2](../../../All%20Programs/Games/Alone%20in%20the%20Dark%202/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Survival horror • Interwar • Detective • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ You are the elusive detective of the macabre, Edward Carnby. A kidnapped child depends on your super sleuthing skills and astonishing ability to outwit bands of ruthless gangsters, smugglers and pirates. One-Eyed Jack, their ruthless leader, would give his remaining eye to see you permanently retired. Are you ready for the challenge of your life? Steel nerves and quicksilver thinking are your trademarks. Without hesitation, you set out to rescue young Grace Saunders, the missing girl. Your razor-sharp instincts lead you to the place no one in their right mind would go. One Eyed Jack's infamous hideout, Hell's Kitchen is a forbidding mansion that resonates with venomous evil. ❞
+>
+> ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Alone%20in%20the%20Dark%203/Thumbnail.png "Alone in the Dark 3")
+>
+> </td>
+>
+> <td>
+>
+> ## [Alone in the Dark 3](../../../All%20Programs/Games/Alone%20in%20the%20Dark%203/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Survival horror • Interwar • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must out-wit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there. ❞
+>
+> ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
 
 > <table><tr><td width="255">
 >
@@ -88,6 +172,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Fallout/Thumbnail.png "Fallout")
+>
+> </td>
+>
+> <td>
+>
+> ## [Fallout](../../../All%20Programs/Games/Fallout/README.md)
+>
+> 📌 ┃ Year: **1997** ┃ Genre: **Role-playing** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • Turn-based • Post-apocalyptic** ┃ Media: **CD-ROM** ┃ **Patched** 
+>
+> ❝ Our home is in an underground Fallout shelter modified to house 1,000 people indefinitely after a nuclear holocaust. It has been nearly 80 years. We still don't know what's out there. Sure, we've sent out volunteer scouts, but none returned. Now our water recycler has failed. Rationing has begun, but someone needs to leave the vault to get a replacement microchip for the water recycler and look for other survivors. We drew straws. You got the short one. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fallout) and [Steam 💰](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Flashback/Thumbnail.png "Flashback")
 >
 > </td>
@@ -101,6 +206,48 @@
 > ❝ You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/Thumbnail.png "Gabriel Knight: Sins of the Fathers")
+>
+> </td>
+>
+> <td>
+>
+> ## [Gabriel Knight: Sins of the Fathers](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Graphic adventure • Puzzle elements • Detective • Horror** ┃ Media: **CD-ROM** ┃ **Patched** 
+>
+> ❝ He started out writing a book on voodoo. Now he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/Thumbnail.png "Gabriel Knight 2: The Beast Within")
+>
+> </td>
+>
+> <td>
+>
+> ## [Gabriel Knight 2: The Beast Within](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Detective • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ Now we find Schattenjäger, or shadow hunter, Gabriel and his assistant Grace deeply embroiled in a murder mystery that unravels half a world away. Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his demons while Grace traces a historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted, and the only hope for deliverance lies in the most desperate schemes. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within) and [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/). ❞
 >
 >
 > </td></tr></table>
@@ -235,6 +382,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/The%20Dig/Thumbnail.png "The Dig")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Dig](../../../All%20Programs/Games/The%20Dig/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Graphic adventure • Puzzle elements • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink. Once the wayward asteroid is in a safe orbit, they examine the asteroid's rocky surface. What they uncover is anything but routine. Low, Brink, and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The spacecraft transported them across the galaxy to a desolate planet, Cocytus, after the 9th circle of Hell in Dante's Inferno. The bleak landscape was once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels. But no Cocytans. Who were the original inhabitants of this once rich-empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins and Brink been brought to this place? And how can Low keep his team from unravelling in the face of such uncertainty? To return to Earth, they must dig for answers on the planet's surface and deep within themselves. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_dig) and [Steam 💰](https://store.steampowered.com/app/6040/The_Dig/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/The%20Settlers/Thumbnail.png "The Settlers")
 >
 > </td>
@@ -290,6 +458,50 @@
 > ❝ You control XCom, an organisation formed by the world's governments to fight the ever-increasing alien menace. Shooting down UFOs is just the beginning. You lead a squad of heavily-armed soldiers across different terrains as they investigate the UFO crash site. Tackle the aliens with automatic rifles, rocket launchers and even tanks in the struggle to retrieve useful technology, weapons or life forms. Successful ground assault missions will allow XCom scientists to analyse alien items. Each breakthrough brings you closer to understanding the technology and culture of the alien races. When your engineers have amassed sufficient research data on their superior weapons and craft, they'll be available for your troops. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense) and [Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Warcraft%20-%20Orcs%20%26%20Humans/Thumbnail.png "Warcraft: Orcs & Humans")
+>
+> </td>
+>
+> <td>
+>
+> ## [Warcraft: Orcs & Humans](../../../All%20Programs/Games/Warcraft%20-%20Orcs%20%26%20Humans/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Real-time strategy • Fantasy • War** ┃ Media: **CD-ROM** 
+>
+> ❝ Enter the world of WarCraft, a mystical land where evil orcs and noble humans battle for survival and domination. With weaponry and powerful magic, these two forces collide in a contest of cunning, intellect, and brute strength. Destroy the orcish hordes or crush the weakling humans. The choice is yours. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Warcraft%20II%20-%20Battle%20Chest/Thumbnail.png "Warcraft II: Battle Chest")
+>
+> </td>
+>
+> <td>
+>
+> ## [Warcraft II: Battle Chest](../../../All%20Programs/Games/Warcraft%20II%20-%20Battle%20Chest/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Year: **1996 (Beyond the Dark Portal)** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Real-time strategy • Fantasy • Steampunk • War** ┃ Media: **CD-ROM** ┃ **Compilation** 
+>
+> ❝ Return to the World of Warcraft, where the battle between the evil Orcs and the noble Humans rages on. With powerful new allies, terrifying creatures and ingenious weaponry, the struggle for the domination of Azeroth continues. ❞ — *Warcraft II: Tides of Darkness*
+>
+> ❝ After destroying the mystic gate into Azeroth, the Humans discover that the rift which allows the Orcs passage into their world still exists. Human forces must now venture beyond the Dark Portal into Orcish lands to end the threat of yet another invasion by the hordes. ❞ — *Warcraft II: Beyond the Dark Portal*
+>
+> ❝ This game **is not abandonware 🚫** and **Battle.net Edition** release is available on [GOG 💰](https://www.gog.com/en/game/warcraft_2_battlenet_edition). ❞
 >
 >
 > </td></tr></table>

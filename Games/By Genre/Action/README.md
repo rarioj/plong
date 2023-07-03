@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Action (25)
+# 🗂️ Games ‣ By Genre ‣ Action (28)
 
 > <table><tr><td width="255">
 >
@@ -55,6 +55,69 @@
 > ❝ Harry is the name. Action is the game! If Duke Nukem has a twin separated at birth, you can bet it is the hot-action hero Halloween Harry! Do not let the name fool you. This guy is no pumpkinhead! The planet is in trouble, so Harry is blasting double! Only you can help him save the earth from aliens intent on transforming humans into zombie slaves to conquer the universe. Called to Space Station Liberty, Harry stands tall and receives his orders. Join him on his high-risk mission to infiltrate the bizarre alien ship, now burrowed under a high-rise city! ❞
 >
 > ❝ In May 2007, John Passfield and 3D Realms released Alien Carnage as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Alone%20in%20the%20Dark/Thumbnail.png "Alone in the Dark")
+>
+> </td>
+>
+> <td>
+>
+> ## [Alone in the Dark](../../../All%20Programs/Games/Alone%20in%20the%20Dark/README.md)
+>
+> 📌 ┃ Year: **1992** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Survival horror • Interwar • Horror** ┃ Media: **CD-ROM** ┃ Compilation: **Jack in the Dark** 
+>
+> ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion — where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
+>
+> ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Alone%20in%20the%20Dark%202/Thumbnail.png "Alone in the Dark 2")
+>
+> </td>
+>
+> <td>
+>
+> ## [Alone in the Dark 2](../../../All%20Programs/Games/Alone%20in%20the%20Dark%202/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Survival horror • Interwar • Detective • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ You are the elusive detective of the macabre, Edward Carnby. A kidnapped child depends on your super sleuthing skills and astonishing ability to outwit bands of ruthless gangsters, smugglers and pirates. One-Eyed Jack, their ruthless leader, would give his remaining eye to see you permanently retired. Are you ready for the challenge of your life? Steel nerves and quicksilver thinking are your trademarks. Without hesitation, you set out to rescue young Grace Saunders, the missing girl. Your razor-sharp instincts lead you to the place no one in their right mind would go. One Eyed Jack's infamous hideout, Hell's Kitchen is a forbidding mansion that resonates with venomous evil. ❞
+>
+> ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Alone%20in%20the%20Dark%203/Thumbnail.png "Alone in the Dark 3")
+>
+> </td>
+>
+> <td>
+>
+> ## [Alone in the Dark 3](../../../All%20Programs/Games/Alone%20in%20the%20Dark%203/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Survival horror • Interwar • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must out-wit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there. ❞
+>
+> ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
 >
 >
 > </td></tr></table>

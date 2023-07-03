@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Role-playing (5)
+# 🗂️ Games ‣ By Genre ‣ Role-playing (6)
 
 > <table><tr><td width="255">
 >
@@ -15,6 +15,27 @@
 > ❝ You embark on a noble journey across Tempest in the ultimate fantasy adventure. Your mission is to rescue humanity from an evil fate with battle, skill, magic, and wits. Explore a massive terrain in 3D while solving puzzles, overcoming traps, and enjoying the beauty and scope of the outdoor scenes. Quest through dungeons where 3D walls add realism, and creatures all but lunge out at you in the attack. You have more than 25 spells and magical objects at your disposal, each drawing upon one of the elemental forces such as fire, water, wind, and lightning. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Fallout/Thumbnail.png "Fallout")
+>
+> </td>
+>
+> <td>
+>
+> ## [Fallout](../../../All%20Programs/Games/Fallout/README.md)
+>
+> 📌 ┃ Year: **1997** ┃ Genre: **Role-playing** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • Turn-based • Post-apocalyptic** ┃ Media: **CD-ROM** ┃ **Patched** 
+>
+> ❝ Our home is in an underground Fallout shelter modified to house 1,000 people indefinitely after a nuclear holocaust. It has been nearly 80 years. We still don't know what's out there. Sure, we've sent out volunteer scouts, but none returned. Now our water recycler has failed. Rationing has begun, but someone needs to leave the vault to get a replacement microchip for the water recycler and look for other survivors. We drew straws. You got the short one. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fallout) and [Steam 💰](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/). ❞
 >
 >
 > </td></tr></table>

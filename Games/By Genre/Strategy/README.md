@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (17)
+# 🗂️ Games ‣ By Genre ‣ Strategy (19)
 
 > <table><tr><td width="255">
 >
@@ -299,6 +299,50 @@
 > ❝ You control XCom, an organisation formed by the world's governments to fight the ever-increasing alien menace. Shooting down UFOs is just the beginning. You lead a squad of heavily-armed soldiers across different terrains as they investigate the UFO crash site. Tackle the aliens with automatic rifles, rocket launchers and even tanks in the struggle to retrieve useful technology, weapons or life forms. Successful ground assault missions will allow XCom scientists to analyse alien items. Each breakthrough brings you closer to understanding the technology and culture of the alien races. When your engineers have amassed sufficient research data on their superior weapons and craft, they'll be available for your troops. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense) and [Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Warcraft%20-%20Orcs%20%26%20Humans/Thumbnail.png "Warcraft: Orcs & Humans")
+>
+> </td>
+>
+> <td>
+>
+> ## [Warcraft: Orcs & Humans](../../../All%20Programs/Games/Warcraft%20-%20Orcs%20%26%20Humans/README.md)
+>
+> 📌 ┃ Year: **1994** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Real-time strategy • Fantasy • War** ┃ Media: **CD-ROM** 
+>
+> ❝ Enter the world of WarCraft, a mystical land where evil orcs and noble humans battle for survival and domination. With weaponry and powerful magic, these two forces collide in a contest of cunning, intellect, and brute strength. Destroy the orcish hordes or crush the weakling humans. The choice is yours. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Warcraft%20II%20-%20Battle%20Chest/Thumbnail.png "Warcraft II: Battle Chest")
+>
+> </td>
+>
+> <td>
+>
+> ## [Warcraft II: Battle Chest](../../../All%20Programs/Games/Warcraft%20II%20-%20Battle%20Chest/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Year: **1996 (Beyond the Dark Portal)** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Real-time strategy • Fantasy • Steampunk • War** ┃ Media: **CD-ROM** ┃ **Compilation** 
+>
+> ❝ Return to the World of Warcraft, where the battle between the evil Orcs and the noble Humans rages on. With powerful new allies, terrifying creatures and ingenious weaponry, the struggle for the domination of Azeroth continues. ❞ — *Warcraft II: Tides of Darkness*
+>
+> ❝ After destroying the mystic gate into Azeroth, the Humans discover that the rift which allows the Orcs passage into their world still exists. Human forces must now venture beyond the Dark Portal into Orcish lands to end the threat of yet another invasion by the hordes. ❞ — *Warcraft II: Beyond the Dark Portal*
+>
+> ❝ This game **is not abandonware 🚫** and **Battle.net Edition** release is available on [GOG 💰](https://www.gog.com/en/game/warcraft_2_battlenet_edition). ❞
 >
 >
 > </td></tr></table>

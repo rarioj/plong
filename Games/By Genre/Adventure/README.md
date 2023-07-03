@@ -1,4 +1,25 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (7)
+# 🗂️ Games ‣ By Genre ‣ Adventure (11)
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/Thumbnail.png "3 Skulls of the Toltecs")
+>
+> </td>
+>
+> <td>
+>
+> ## [3 Skulls of the Toltecs](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • North America • Western • Comedy** ┃ Media: **CD-ROM** 
+>
+> ❝ Saddle up and mosey on into town for one of the most challenging, hilarious and exciting adventures this side of Texas! The treasures of the Toltecs are within your reach - riches beyond your wildest dreams. But first, you must locate the three skulls. And believe me - it isn't that easy. You must travel through the wild west and encounter multiple characters, the good, the bad and the downright ugly! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs) and [Steam 💰](https://store.steampowered.com/app/977300/Fenimore_Fillmore_3_Skulls_of_the_Toltecs/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
 
 > <table><tr><td width="255">
 >
@@ -88,6 +109,48 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/Thumbnail.png "Gabriel Knight: Sins of the Fathers")
+>
+> </td>
+>
+> <td>
+>
+> ## [Gabriel Knight: Sins of the Fathers](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Graphic adventure • Puzzle elements • Detective • Horror** ┃ Media: **CD-ROM** ┃ **Patched** 
+>
+> ❝ He started out writing a book on voodoo. Now he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/Thumbnail.png "Gabriel Knight 2: The Beast Within")
+>
+> </td>
+>
+> <td>
+>
+> ## [Gabriel Knight 2: The Beast Within](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Puzzle elements • Detective • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ Now we find Schattenjäger, or shadow hunter, Gabriel and his assistant Grace deeply embroiled in a murder mystery that unravels half a world away. Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his demons while Grace traces a historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted, and the only hope for deliverance lies in the most desperate schemes. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within) and [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
 >
 > </td>
@@ -141,6 +204,27 @@
 > ❝ One day, two men in dark glasses and long coats captured a teenager; this could be a start of a very long day! Get ready for a wonderfully humorous adventure. Teen Agent is a point-and-click animated graphic adventure that features dozens of detailed hand-painted backgrounds. ❞
 >
 > ❝ When the game was originally released, "The Three Tasks" was shareware, and the remaining two sections could be obtained by registering the game. However, the game was later released as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Dig/Thumbnail.png "The Dig")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Dig](../../../All%20Programs/Games/The%20Dig/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Side view • Graphic adventure • Puzzle elements • Sci-fi** ┃ Media: **CD-ROM** 
+>
+> ❝ An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink. Once the wayward asteroid is in a safe orbit, they examine the asteroid's rocky surface. What they uncover is anything but routine. Low, Brink, and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The spacecraft transported them across the galaxy to a desolate planet, Cocytus, after the 9th circle of Hell in Dante's Inferno. The bleak landscape was once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels. But no Cocytans. Who were the original inhabitants of this once rich-empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins and Brink been brought to this place? And how can Low keep his team from unravelling in the face of such uncertainty? To return to Earth, they must dig for answers on the planet's surface and deep within themselves. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_dig) and [Steam 💰](https://store.steampowered.com/app/6040/The_Dig/). ❞
 >
 >
 > </td></tr></table>
