@@ -1,4 +1,4 @@
-# 🗂️ All Programs ‣ Games (70)
+# 🗂️ All Programs ‣ Games (80)
 
 > <table><tr><td width="255">
 >
@@ -206,6 +206,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](Bad%20Mojo/Thumbnail.png "Bad Mojo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bad Mojo](Bad%20Mojo/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Graphic adventure • North America • Thriller** ┃ Media: **CD-ROM** 
+>
+> ❝ Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, magic suddenly seized you, and your transformation begins. You emerge as a cockroach from within the damp walls of Eddie's bar. Enter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out as a person at all. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Beneath%20a%20Steel%20Sky/Thumbnail.png "Beneath a Steel Sky")
 >
 > </td>
@@ -219,6 +240,25 @@
 > ❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone, save for a robot circuit board; Foster must fight for survival and discover the sinister truth behind this abduction. ❞
 >
 > ❝ The game was made available as freeware – and with the source code released – for PC platforms in 2003. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Bermuda%20Syndrome/Thumbnail.png "Bermuda Syndrome")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bermuda Syndrome](Bermuda%20Syndrome/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Action** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Platform • Puzzle elements** ┃ Media: **CD-ROM** 
+>
+> ❝ You are Jack J. Thompson. Destiny has brought you here. It's 1942. Shot down in the region of the infamous Bermuda Triangle, our hero has crash-landed into a dense tropical jungle and a whole heap of trouble. Are you a god? It is more than divine intervention to fend off attacks from restless natives and ferocious dinosaurs, save a distressed damsel from a fate worse than death, and escape this insanity to return home. There's no time to party. Sharp reflexes and lateral thinking are essential if Jack is to escape from this land that time doesn't even know about. It is not a holiday resort. ❞
 >
 >
 > </td></tr></table>
@@ -317,7 +357,7 @@
 >
 > ## [Boppin'](Boppin%27/README.md)
 >
-> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Platform • Fantasy** ┃ Media: **Floppy Disk** ┃ **No Manual** 
+> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Platform • Fantasy** ┃ Media: **Floppy Disk** 
 >
 > ❝ When all the monsters and villains in popular arcade video games mysteriously disappear, it's up to Yeet and Boik to free them to make games challenging again. Defeat the nauseatingly self-righteous Sweety Hunnybunz, a singing treacle bear that has them imprisoned. ❞
 >
@@ -763,6 +803,69 @@
 
 > <table><tr><td width="255">
 >
+> ![](I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/Thumbnail.png "I Have No Mouth, and I Must Scream")
+>
+> </td>
+>
+> <td>
+>
+> ## [I Have No Mouth, and I Must Scream](I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Real-time • Graphic adventure • Cyberpunk • Post-apocalyptic • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/Thumbnail.png "Indiana Jones and the Fate of Atlantis")
+>
+> </td>
+>
+> <td>
+>
+> ## [Indiana Jones and the Fate of Atlantis](Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/README.md)
+>
+> 📌 ┃ Year: **1992** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Fantasy • Interwar • Detective** ┃ Media: **CD-ROM** 
+>
+> ❝ Plato knew about Atlantis. In a lost dialogue, he wrote about the famed city and orichalcum, the mysterious element that powered the Atlanteans' stunning machinery. The Nazis know about Atlantis. They tracked down the lost dialogue and realized orichalcum would yield them the ultimate weapon of the age. Sophia knows about Atlantis. She unearthed a mysterious necklace and beads of orichalcum during an Icelandic archeological dig with Indy. Their magical properties made her a psychic. Everyone knows except Indy, and he has got to learn fast. The Nazis are one step ahead of him - from Iceland to North Africa and the Azores to Atlantis. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis) and [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/Thumbnail.png "Indiana Jones and the Last Crusade: The Graphic Adventure")
+>
+> </td>
+>
+> <td>
+>
+> ## [Indiana Jones and the Last Crusade: The Graphic Adventure](Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/README.md)
+>
+> 📌 ┃ Year: **1989** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Interwar** ┃ Media: **Floppy Disk** 
+>
+> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher I.Q. (Indy Quotient) then the man with the whip and the hat. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
 >
 > </td>
@@ -885,6 +988,48 @@
 
 > <table><tr><td width="255">
 >
+> ![](Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/Thumbnail.png "The Secret of Monkey Island")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Secret of Monkey Island](Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Fantasy • Sea pirates • Comedy** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ Welcome to the Port of Melee, Mr Guybrush Threepwood. So you think you've got what it takes to be a swashbucklin', bloodthirsty pirate like the rest of us? Do you think a young swabby like yourself to be the first to tame mysterious Monkey Island? Well, laddy, there's more to being a buccaneer than just swinging a sword and swillin' gallons of Grog. First, you got to pass the Seadog test. Good luck! You are going to need it. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/Thumbnail.png "Monkey Island 2: LeChuck's Revenge")
+>
+> </td>
+>
+> <td>
+>
+> ## [Monkey Island 2: LeChuck's Revenge](Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/README.md)
+>
+> 📌 ┃ Year: **1991** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Sea pirates • Comedy** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ I thought I had killed the Ghost Pirate LeChuck for good. Wrong. How many times can that bloated old fool die? Other pirates tell me there's no escape. "When LeChuck wants you dead, you're dead", they say. Legend has it that the treasure of Big Whoop holds the key to great power. I must find it before LeChuck finds me. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Oddworld%20-%20Abe%27s%20Oddysee/Thumbnail.png "Oddworld: Abe's Oddysee")
 >
 > </td>
@@ -906,13 +1051,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](One%20Must%20Fall%202097/Thumbnail.png "One Must Fall 2097")
+> ![](One%20Must%20Fall%202097/Thumbnail.png "One Must Fall: 2097")
 >
 > </td>
 >
 > <td>
 >
-> ## [One Must Fall 2097](One%20Must%20Fall%202097/README.md)
+> ## [One Must Fall: 2097](One%20Must%20Fall%202097/README.md)
 >
 > 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Arcade • Fighting • Mecha • Sci-fi** ┃ Media: **CD-ROM** 
 >
@@ -969,6 +1114,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/Thumbnail.png "SPQR: The Empire's Darkest Hour")
+>
+> </td>
+>
+> <td>
+>
+> ## [SPQR: The Empire's Darkest Hour](SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **1st-person • Puzzle elements • History • Detective** ┃ Media: **CD-ROM** ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+>
+> ❝ It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](SimCity/Thumbnail.png "SimCity")
 >
 > </td>
@@ -982,6 +1146,27 @@
 > ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. Then see if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences — so get to work! ❞
 >
 > ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](SimCity%202000%20-%20CD%20Collection/Thumbnail.png "SimCity 2000")
+>
+> </td>
+>
+> <td>
+>
+> ## [SimCity 2000](SimCity%202000%20-%20CD%20Collection/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Simulation • Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • City building • Managerial • Contemporary** ┃ Media: **CD-ROM** ┃ **Add-on** 
+>
+> ❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
 >
 >
 > </td></tr></table>
@@ -1306,6 +1491,27 @@
 > ❝ The Settler II is a strategy-laden economic simulation and the follow-up to the hugely successful Settlers. Your objective in this highly addictive game is to promote economic growth and prosperity. Your tasks include mining raw materials, farming, hunting, fishing, and expanding borders. You will also be encouraged to trade with the inhabitants of remote islands. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is part of a **History Collection** edition on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). The **Gold Edition** is also available on [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Titanic%20-%20Adventure%20Out%20of%20Time/Thumbnail.png "Titanic: Adventure Out of Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Titanic: Adventure Out of Time](Titanic%20-%20Adventure%20Out%20of%20Time/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **1st-person • Graphic adventure • Puzzle elements • Spy** ┃ Media: **CD-ROM** 
+>
+> ❝ Intrigue and adventure await you on board the Titanic, the most famous ocean liner in history. As a British secret agent on a vital mission, it is up to you to change the course of history as you explore the world’s most luxurious ocean vessel in all its original splendour. Navigate the amazingly detailed 3D reconstruction of the doomed ocean liner and rub elbows with high society from the turn of the century, searching for clues and solving challenging puzzles that could alter world history. Then, on the night of April 14, 1912, you plunge into a race against time. Both spectator and participant in a multi-tiered drama, your survival and the fate of millions hinge on your actions during the last hours of the sinking ocean liner. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/). ❞
 >
 >
 > </td></tr></table>

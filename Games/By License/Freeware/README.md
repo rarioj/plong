@@ -155,7 +155,7 @@
 >
 > ## [Boppin'](../../../All%20Programs/Games/Boppin%27/README.md)
 >
-> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Platform • Fantasy** ┃ Media: **Floppy Disk** ┃ **No Manual** 
+> 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Platform • Fantasy** ┃ Media: **Floppy Disk** 
 >
 > ❝ When all the monsters and villains in popular arcade video games mysteriously disappear, it's up to Yeet and Boik to free them to make games challenging again. Defeat the nauseatingly self-righteous Sweety Hunnybunz, a singing treacle bear that has them imprisoned. ❞
 >
@@ -355,13 +355,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png "One Must Fall 2097")
+> ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png "One Must Fall: 2097")
 >
 > </td>
 >
 > <td>
 >
-> ## [One Must Fall 2097](../../../All%20Programs/Games/One%20Must%20Fall%202097/README.md)
+> ## [One Must Fall: 2097](../../../All%20Programs/Games/One%20Must%20Fall%202097/README.md)
 >
 > 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Arcade • Fighting • Mecha • Sci-fi** ┃ Media: **CD-ROM** 
 >

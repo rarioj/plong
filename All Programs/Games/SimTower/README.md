@@ -2,7 +2,7 @@
 
 # SimTower
 
-「**SimTower: The Vertical Empire**」「**The Tower** (Japan)」
+「**SimTower: The Vertical Empire**」「**The Tower** (Japanese)」
 
 > ❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞
 >

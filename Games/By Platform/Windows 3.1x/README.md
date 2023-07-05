@@ -1,4 +1,44 @@
-# 🗂️ Games ‣ By Platform ‣ Windows 3.1x (5)
+# 🗂️ Games ‣ By Platform ‣ Windows 3.1x (10)
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Bad%20Mojo/Thumbnail.png "Bad Mojo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bad Mojo](../../../All%20Programs/Games/Bad%20Mojo/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Graphic adventure • North America • Thriller** ┃ Media: **CD-ROM** 
+>
+> ❝ Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, magic suddenly seized you, and your transformation begins. You emerge as a cockroach from within the damp walls of Eddie's bar. Enter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out as a person at all. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Bermuda%20Syndrome/Thumbnail.png "Bermuda Syndrome")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bermuda Syndrome](../../../All%20Programs/Games/Bermuda%20Syndrome/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Action** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Platform • Puzzle elements** ┃ Media: **CD-ROM** 
+>
+> ❝ You are Jack J. Thompson. Destiny has brought you here. It's 1942. Shot down in the region of the infamous Bermuda Triangle, our hero has crash-landed into a dense tropical jungle and a whole heap of trouble. Are you a god? It is more than divine intervention to fend off attacks from restless natives and ferocious dinosaurs, save a distressed damsel from a fate worse than death, and escape this insanity to return home. There's no time to party. Sharp reflexes and lateral thinking are essential if Jack is to escape from this land that time doesn't even know about. It is not a holiday resort. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
 
 > <table><tr><td width="255">
 >
@@ -61,6 +101,46 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/Thumbnail.png "SPQR: The Empire's Darkest Hour")
+>
+> </td>
+>
+> <td>
+>
+> ## [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **1st-person • Puzzle elements • History • Detective** ┃ Media: **CD-ROM** ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+>
+> ❝ It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/Thumbnail.png "SimCity 2000")
+>
+> </td>
+>
+> <td>
+>
+> ## [SimCity 2000](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Simulation • Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • City building • Managerial • Contemporary** ┃ Media: **CD-ROM** ┃ **Add-on** 
+>
+> ❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/SimTower/Thumbnail.png "SimTower")
 >
 > </td>
@@ -91,6 +171,27 @@
 > 📌 ┃ Year: **1994** ┃ Genre: **Puzzle** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Media: **CD-ROM** 
 >
 > ❝ Don't try this stuff at home. These guys are professionals! Drop a piano on Al E. Cat's head! (Konk!) Entice Sid Mouse to sit on hat pins! (Boink!) Smash Al in the foot with a really HUMONGOUS ANVIL! (Crunch!). See the Toons All-Star Pros wince, howl, or get steamed as they chase each other through nearly 100 different slapstick puzzle plots. Plots written and directed by YOU! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/Thumbnail.png "Titanic: Adventure Out of Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Titanic: Adventure Out of Time](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **1st-person • Graphic adventure • Puzzle elements • Spy** ┃ Media: **CD-ROM** 
+>
+> ❝ Intrigue and adventure await you on board the Titanic, the most famous ocean liner in history. As a British secret agent on a vital mission, it is up to you to change the course of history as you explore the world’s most luxurious ocean vessel in all its original splendour. Navigate the amazingly detailed 3D reconstruction of the doomed ocean liner and rub elbows with high society from the turn of the century, searching for clues and solving challenging puzzles that could alter world history. Then, on the night of April 14, 1912, you plunge into a race against time. Both spectator and participant in a multi-tiered drama, your survival and the fate of millions hinge on your actions during the last hours of the sinking ocean liner. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/). ❞
 >
 >
 > </td></tr></table>

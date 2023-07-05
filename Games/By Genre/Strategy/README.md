@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (19)
+# 🗂️ Games ‣ By Genre ‣ Strategy (20)
 
 > <table><tr><td width="255">
 >
@@ -236,6 +236,27 @@
 > ❝ The enemy is on the run. One more mortar shell should take them out. Still, your mission is to blow up the bridge by sundown, and Postie is starting to talk to himself again. Maybe you shouldn't let him keep that dynamite. Lock and load: it's time for Deadly Games. From the makers of Jagged Alliance, 1995's Game of the Year (Power Play magazine), comes the multiplayer strategy game with more new features than you can shake a grenade launcher at. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/Thumbnail.png "SimCity 2000")
+>
+> </td>
+>
+> <td>
+>
+> ## [SimCity 2000](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/README.md)
+>
+> 📌 ┃ Year: **1993** ┃ Genre: **Simulation • Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • City building • Managerial • Contemporary** ┃ Media: **CD-ROM** ┃ **Add-on** 
+>
+> ❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
 >
 >
 > </td></tr></table>

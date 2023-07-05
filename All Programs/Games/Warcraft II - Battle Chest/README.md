@@ -2,7 +2,7 @@
 
 # Warcraft II: Battle Chest
 
-「**Warcraft II: Tides of Darkness**」「**Warcraft II: Beyond the Dark Portal**」「**War2**」「**Warcraft 2**」
+「**Warcraft II: Tides of Darkness**」「**Warcraft II: Beyond the Dark Portal**」「**Warcraft 2**」
 
 > ❝ Return to the World of Warcraft, where the battle between the evil Orcs and the noble Humans rages on. With powerful new allies, terrifying creatures and ingenious weaponry, the struggle for the domination of Azeroth continues. ❞ — *Warcraft II: Tides of Darkness*
 >

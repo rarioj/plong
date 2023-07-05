@@ -2,7 +2,7 @@
 #
 ###### Library properties
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.7a
+# library-version: 23.7b
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -91,9 +91,9 @@
 # file: Template-Program-DOS.txt = ### 🟨 Runnable with issues
 # file: Template-Program-DOS.txt = ### 🟥 Unsupported, unplayable, or broken
 # file: Template-Program-DOS.txt = ### ⬜ Untested
-# file: Template-Program-DOS.txt = # dosbox: DOSBox = <version> 🟩🟨🟥⬜
-# file: Template-Program-DOS.txt = # dosbox: DOSBox Staging = <version> 🟩🟨🟥⬜
-# file: Template-Program-DOS.txt = # dosbox: DOSBox-X = <version> 🟩🟨🟥⬜
+# file: Template-Program-DOS.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = <version> 🟩🟨🟥⬜
+# file: Template-Program-DOS.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = <version> 🟩🟨🟥⬜
+# file: Template-Program-DOS.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) = <version> 🟩🟨🟥⬜
 # file: Template-Program-DOS.txt = #
 # file: Template-Program-DOS.txt = # name: Program Name
 # file: Template-Program-DOS.txt = # name: <alias>
@@ -120,12 +120,6 @@
 # file: Template-Program-DOS.txt = # text:
 # file: Template-Program-DOS.txt = # text: ## Additional Notes
 # file: Template-Program-DOS.txt = # text: - Things to do after installation or during the program run (e.g. in-game settings, post-installation tasks, etc).
-# file: Template-Program-DOS.txt = # text:
-# file: Template-Program-DOS.txt = # text: ## Known Issues
-# file: Template-Program-DOS.txt = # text: - Issues encountered when running the program on a specific DOSBox variant.
-# file: Template-Program-DOS.txt = # text:
-# file: Template-Program-DOS.txt = # text: ## Licensing Information
-# file: Template-Program-DOS.txt = # text: - Things to note regarding the program license or release.
 # file: Template-Program-DOS.txt
 # file: Template-Program-DOS.txt = [sdl]
 # file: Template-Program-DOS.txt = #fullscreen = true
@@ -211,9 +205,9 @@
 # file: Template-Program-Win31.txt = ### 🟨 Runnable with issues
 # file: Template-Program-Win31.txt = ### 🟥 Unsupported, unplayable, or broken
 # file: Template-Program-Win31.txt = ### ⬜ Untested
-# file: Template-Program-Win31.txt = # dosbox: DOSBox = <version> 🟩🟨🟥⬜
-# file: Template-Program-Win31.txt = # dosbox: DOSBox Staging = <version> 🟩🟨🟥⬜
-# file: Template-Program-Win31.txt = # dosbox: DOSBox-X = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win31.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win31.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win31.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) = <version> 🟩🟨🟥⬜
 # file: Template-Program-Win31.txt = #
 # file: Template-Program-Win31.txt = # snapshot: ../../Systems/Windows 3.1x
 # file: Template-Program-Win31.txt = # name: Program Name
@@ -242,12 +236,6 @@
 # file: Template-Program-Win31.txt = # text:
 # file: Template-Program-Win31.txt = # text: ## Additional Notes
 # file: Template-Program-Win31.txt = # text: - Things to do after installation or during the program run (e.g. in-game settings, post-installation tasks, etc).
-# file: Template-Program-Win31.txt = # text:
-# file: Template-Program-Win31.txt = # text: ## Known Issues
-# file: Template-Program-Win31.txt = # text: - Issues encountered when running the program on a specific DOSBox variant.
-# file: Template-Program-Win31.txt = # text:
-# file: Template-Program-Win31.txt = # text: ## Licensing Information
-# file: Template-Program-Win31.txt = # text: - Things to note regarding the program license or release.
 # file: Template-Program-Win31.txt
 # file: Template-Program-Win31.txt = [sdl]
 # file: Template-Program-Win31.txt = #fullscreen = true
@@ -393,8 +381,7 @@
 # file: All Programs/Games/4D Boxing/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/4D Boxing/Program.txt = #
 # file: All Programs/Games/4D Boxing/Program.txt = # name: 4D Boxing
-# file: All Programs/Games/4D Boxing/Program.txt = # name: 4-D Boxing
-# file: All Programs/Games/4D Boxing/Program.txt = # name: 4D Sports Boxing = Europe
+# file: All Programs/Games/4D Boxing/Program.txt = # name: 4D Sports Boxing = European
 # file: All Programs/Games/4D Boxing/Program.txt = # info: Good evening Ladies and Gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight.
 # file: All Programs/Games/4D Boxing/Program.txt = # tag: Year = 1992
 # file: All Programs/Games/4D Boxing/Program.txt = # tag: Genre = Sports
@@ -461,12 +448,12 @@
 #
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = #
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟨
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨 (no sound effects)
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟨 (no sound effects)
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = #
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # name: ABC Wide World of Sports Boxing
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # name: TV Sports Boxing = Europe
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # name: TV Sports Boxing = European
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # info: Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest.
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Year = 1991
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Genre = Action • Sports • Strategy
@@ -488,10 +475,6 @@
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text:
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: ## Additional Notes
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text:
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: ## Known Issues
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - DOSBox 0.74-3 🟨 — Music is working with no sound effects.
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # text: - DOSBox Staging 0.80.1 🟨 — Music is working with no sound effects.
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = [autoexec]
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = @ECHO OFF
@@ -593,7 +576,7 @@
 # file: All Programs/Games/Alien Carnage/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Alien Carnage/Program.txt = #
 # file: All Programs/Games/Alien Carnage/Program.txt = # name: Alien Carnage
-# file: All Programs/Games/Alien Carnage/Program.txt = # name: Halloween Harry
+# file: All Programs/Games/Alien Carnage/Program.txt = # name: Halloween Harry = Original
 # file: All Programs/Games/Alien Carnage/Program.txt = # info: Harry is the name. Action is the game! If Duke Nukem has a twin separated at birth, you can bet it is the hot-action hero Halloween Harry! Do not let the name fool you. This guy is no pumpkinhead! The planet is in trouble, so Harry is blasting double! Only you can help him save the earth from aliens intent on transforming humans into zombie slaves to conquer the universe. Called to Space Station Liberty, Harry stands tall and receives his orders. Join him on his high-risk mission to infiltrate the bizarre alien ship, now burrowed under a high-rise city!
 # file: All Programs/Games/Alien Carnage/Program.txt = # info: Wikipedia = In May 2007, John Passfield and 3D Realms released Alien Carnage as freeware.
 # file: All Programs/Games/Alien Carnage/Program.txt = # tag: Year = 1993
@@ -653,7 +636,6 @@
 # file: All Programs/Games/Alone in the Dark/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Alone in the Dark/Program.txt = #
 # file: All Programs/Games/Alone in the Dark/Program.txt = # name: Alone in the Dark
-# file: All Programs/Games/Alone in the Dark/Program.txt = # name: AITD
 # file: All Programs/Games/Alone in the Dark/Program.txt = # name: Call of Cthulhu: Doom of Derceto
 # file: All Programs/Games/Alone in the Dark/Program.txt = # name: Screams in the Dark
 # file: All Programs/Games/Alone in the Dark/Program.txt = # name: Jack in the Dark
@@ -826,7 +808,6 @@
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = #
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # name: Alone in the Dark 2
-# file: All Programs/Games/Alone in the Dark 2/Program.txt = # name: AITD2
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # name: Alone in the Dark: Jack is Back
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # name: Alone in the Dark: One-Eyed Jack's Revenge
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # info: You are the elusive detective of the macabre, Edward Carnby. A kidnapped child depends on your super sleuthing skills and astonishing ability to outwit bands of ruthless gangsters, smugglers and pirates. One-Eyed Jack, their ruthless leader, would give his remaining eye to see you permanently retired. Are you ready for the challenge of your life? Steel nerves and quicksilver thinking are your trademarks. Without hesitation, you set out to rescue young Grace Saunders, the missing girl. Your razor-sharp instincts lead you to the place no one in their right mind would go. One Eyed Jack's infamous hideout, Hell's Kitchen is a forbidding mansion that resonates with venomous evil.
@@ -1265,7 +1246,6 @@
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = #
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # name: Alone in the Dark 3
-# file: All Programs/Games/Alone in the Dark 3/Program.txt = # name: AITD3
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # name: Alone in the Dark 3: Ghosts in Town
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # info: Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must out-wit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there.
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # info: This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123).
@@ -1717,10 +1697,92 @@
 # file: All Programs/Games/Ascendancy/Program.txt = # file: Assets/FLASH.POP = Autoplay Toggle
 #
 #
+# file: All Programs/Games/Bad Mojo/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Bad Mojo/Program.txt = #
+# file: All Programs/Games/Bad Mojo/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Bad Mojo/Program.txt = # name: Bad Mojo
+# file: All Programs/Games/Bad Mojo/Program.txt = # name: Bad Mojo: The Roach Game
+# file: All Programs/Games/Bad Mojo/Program.txt = # name: Booger Project
+# file: All Programs/Games/Bad Mojo/Program.txt = # info: Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, magic suddenly seized you, and your transformation begins. You emerge as a cockroach from within the damp walls of Eddie's bar. Enter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out as a person at all.
+# file: All Programs/Games/Bad Mojo/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/).
+# file: All Programs/Games/Bad Mojo/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Bad Mojo/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Bad Mojo/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Bad Mojo/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Bad Mojo/Program.txt = # tag: Category = Top-down • Real-time • Graphic adventure • North America • Thriller
+# file: All Programs/Games/Bad Mojo/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Bad Mojo/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Bad_Mojo)
+# file: All Programs/Games/Bad Mojo/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2238/bad-mojo/)
+# file: All Programs/Games/Bad Mojo/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/bad-mojo-3gm)
+# file: All Programs/Games/Bad Mojo/Program.txt = # site: Redux = [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/)
+# file: All Programs/Games/Bad Mojo/Program.txt = #
+# file: All Programs/Games/Bad Mojo/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Bad Mojo/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Bad Mojo/Program.txt = # text: - Do not install *QuickTime*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
+# file: All Programs/Games/Bad Mojo/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [sdl]
+# file: All Programs/Games/Bad Mojo/Program.txt = autolock = true
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [dosbox]
+# file: All Programs/Games/Bad Mojo/Program.txt = memsize = 256
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [render]
+# file: All Programs/Games/Bad Mojo/Program.txt = scaler = none
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [video]
+# file: All Programs/Games/Bad Mojo/Program.txt = vmemsize = 4
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [cpu]
+# file: All Programs/Games/Bad Mojo/Program.txt = core = normal
+# file: All Programs/Games/Bad Mojo/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Bad Mojo/Program.txt = cycles = max
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [dos]
+# file: All Programs/Games/Bad Mojo/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Bad Mojo/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [ide, primary]
+# file: All Programs/Games/Bad Mojo/Program.txt = int13fakeio = true
+# file: All Programs/Games/Bad Mojo/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = [autoexec]
+# file: All Programs/Games/Bad Mojo/Program.txt = @ECHO OFF
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Bad Mojo/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = IF NOT EXIST C:\BADMOJO\BADMOJO.EXE GOTO F_INSTALL
+# file: All Programs/Games/Bad Mojo/Program.txt = IF EXIST C:\BADMOJO\BADMOJO.EXE GOTO F_START
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = :F_INSTALL
+# file: All Programs/Games/Bad Mojo/Program.txt = C:
+# file: All Programs/Games/Bad Mojo/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Bad Mojo/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Bad Mojo/Program.txt = COPY C:\RUNEXIT.EXE C:\BADMOJO
+# file: All Programs/Games/Bad Mojo/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = :F_START
+# file: All Programs/Games/Bad Mojo/Program.txt = C:
+# file: All Programs/Games/Bad Mojo/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Bad Mojo/Program.txt = C:\WINDOWS\WIN.COM C:\BADMOJO\RUNEXIT.EXE C:\BADMOJO\BADMOJO.EXE
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = :F_EXIT
+# file: All Programs/Games/Bad Mojo/Program.txt = EXIT
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = :F_DEBUG
+# file: All Programs/Games/Bad Mojo/Program.txt
+# file: All Programs/Games/Bad Mojo/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4665269-bad-mojo-windows-3x-front-cover.jpg
+# file: All Programs/Games/Bad Mojo/Program.txt = # check: coverart.jpg = d83be552f2934b962314bbbf4188a78e78b27fd357c3dcd2ad252e392972d7f2
+# file: All Programs/Games/Bad Mojo/Program.txt = # asset: cdrom.iso = https://archive.org/download/Bad_Mojo_1996_Acclaim/Bad%20Mojo%20%281996%29%28Acclaim%29.iso
+# file: All Programs/Games/Bad Mojo/Program.txt = # check: cdrom.iso = c924756b0f831885b65abea8063b6c4791a83bd8570e4a9c24dd5a518f713d30
+# file: All Programs/Games/Bad Mojo/Program.txt = # asset: manual.pdf = https://archive.org/download/bad-mojo.-7z/Bad_Mojo.7z/BM%2FManual%2FManual.pdf
+# file: All Programs/Games/Bad Mojo/Program.txt = # check: manual.pdf = 7b6dcf38a3c8b03af69cfdb38dbea5ce0f0e6277117533fa30d0b1a6911f6367
+#
+#
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = #
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # name: Beneath a Steel Sky
-# file: All Programs/Games/Beneath a Steel Sky/Program.txt = # name: BASS
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # name: Beyond The Abyss
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # info: Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone, save for a robot circuit board; Foster must fight for survival and discover the sinister truth behind this abduction.
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # info: Wikipedia = The game was made available as freeware – and with the source code released – for PC platforms in 2003.
@@ -1774,6 +1836,100 @@
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # check: cdrom.iso = be975cb3b7d800797490b3dcedb89b502776ad8f89e09f60b127b5fa456d0a1c
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # asset: manual.pdf = https://archive.org/download/beneath_a_steel_sky_manual/beneath_a_steel_sky_manual.pdf
 # file: All Programs/Games/Beneath a Steel Sky/Program.txt = # check: manual.pdf = 9490a08dffeaac2c39293e71b643a0088bf14a140ea41a23c02a52e711d98b36
+#
+#
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = #
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # name: Bermuda Syndrome
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # info: You are Jack J. Thompson. Destiny has brought you here. It's 1942. Shot down in the region of the infamous Bermuda Triangle, our hero has crash-landed into a dense tropical jungle and a whole heap of trouble. Are you a god? It is more than divine intervention to fend off attacks from restless natives and ferocious dinosaurs, save a distressed damsel from a fate worse than death, and escape this insanity to return home. There's no time to party. Sharp reflexes and lateral thinking are essential if Jack is to escape from this land that time doesn't even know about. It is not a holiday resort.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # tag: Category = Side view • Platform • Puzzle elements
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Bermuda_Syndrome)
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/624/bermuda-syndrome/)
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/bermuda-syndrome-a3u)
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = #
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - Click **Continue** to begin the installation process.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - Select **Copy to HD** option.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - Select **Yes, I have a giant harddisk!** option.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - Leave the Setup screen as is and **Save Settings**.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text:
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text: - **IMPORTANT:** The downloaded CD-ROM from *archive.org* is the French edition. The character speeches in the game are in *English*. However, the subtitle texts and conversation options are in *French*. You can switch the dialogue to English by following these steps:
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text:   1. Create a `dialogue` directory inside this program's `Assets`. (e.g. `Assets/dialogue`)
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text:   2. Go to [MyAbandonware](https://www.myabandonware.com/game/bermuda-syndrome-a3u) and download the **Windows 3.x Version** (130 MB).
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text:   3. Extract the downloaded package and copy all `*.DLG` files from `BermudaS/cd/TEXT` to `Assets/dialogue` (36 files in total).
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # text:   4. Relaunch the game.
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [sdl]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = autolock = true
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [dosbox]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = memsize = 256
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [render]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = scaler = none
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [video]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = vmemsize = 4
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [cpu]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = core = normal
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = cycles = max
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [dos]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [ide, primary]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = int13fakeio = true
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = [autoexec]
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = @ECHO OFF
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = IF NOT EXIST C:\CENTURY\BERMUDA\BERMUDA\SCN\BERMUDA.EXE GOTO F_INSTALL
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = IF EXIST C:\CENTURY\BERMUDA\BERMUDA\SCN\BERMUDA.EXE GOTO F_START
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = :F_INSTALL
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = C:
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = COPY C:\RUNEXIT.EXE C:\CENTURY\BERMUDA\BERMUDA\SCN
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = ECHO. >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = ECHO [mciseq.drv] >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = ECHO DisableWarning=TRUE >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = :F_START
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = C:
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = IF EXIST X:\DIALOGUE\FIRE.DLG COPY X:\DIALOGUE\*.* C:\CENTURY\BERMUDA\BERMUDA\TEXT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = C:\WINDOWS\WIN.COM C:\CENTURY\BERMUDA\BERMUDA\SCN\RUNEXIT.EXE C:\CENTURY\BERMUDA\BERMUDA\SCN\BERMUDA.EXE
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = :F_EXIT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = EXIT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = :F_DEBUG
+# file: All Programs/Games/Bermuda Syndrome/Program.txt
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3923036-bermuda-syndrome-windows-front-cover.jpg
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # check: coverart.jpg = c464ce93812bf4d028c074a32d5cb3347d7bf112c31f5b2869fe8600565dca3c
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # asset: cdrom.iso = https://archive.org/download/BSyndrome/BSyndrome.rar/Bermuda%20Syndrome.iso
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # check: cdrom.iso = 545676a17f77f5075ed563467f0a581d9e8164a8c4e86f0e3773ac08dfbddf83
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # asset: readme.txt = https://archive.org/download/Bermuda_Syndrome_1995_BMG_Interactive_Entertainment_DE/Bermuda%20Syndrome%20%281995%29%28BMG%20Interactive%20Entertainment%29%28DE%29.iso/README.TXT
+# file: All Programs/Games/Bermuda Syndrome/Program.txt = # check: readme.txt = a4abdaf6e663687a6539c842d66486ca14ed84c6faacc8c4994e0b1536c3af5c
 #
 #
 # file: All Programs/Games/Bio Menace/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -1874,7 +2030,7 @@
 # file: All Programs/Games/Blackthorne/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Blackthorne/Program.txt = #
 # file: All Programs/Games/Blackthorne/Program.txt = # name: Blackthorne
-# file: All Programs/Games/Blackthorne/Program.txt = # name: Blackhawk = Europe
+# file: All Programs/Games/Blackthorne/Program.txt = # name: Blackhawk = European
 # file: All Programs/Games/Blackthorne/Program.txt = # info: Through the dark vastness of space, exiled prince Kyle Blackthorne returns to Tuul to avenge his murdered father and restore the shattered Lightstone. The conqueror Sarlac opposes his vicious troops against the enraged prince. But the evil lord will soon find out: an army is not enough against a single fierce fighter with a vengeance!
 # file: All Programs/Games/Blackthorne/Program.txt = # info: Wikipedia = In 2013, Blizzard released the game for free on their Battle.net PC client.
 # file: All Programs/Games/Blackthorne/Program.txt = # tag: Year = 1994
@@ -2062,11 +2218,11 @@
 # file: All Programs/Games/Boppin'/Program.txt = # tag: License = Freeware
 # file: All Programs/Games/Boppin'/Program.txt = # tag: Category = Side view • Platform • Fantasy
 # file: All Programs/Games/Boppin'/Program.txt = # tag: Media = Floppy Disk
-# file: All Programs/Games/Boppin'/Program.txt = # tag: No Manual
 # file: All Programs/Games/Boppin'/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Boppin%27)
 # file: All Programs/Games/Boppin'/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2570/boppin/)
 # file: All Programs/Games/Boppin'/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Boppin&gid=1764)
 # file: All Programs/Games/Boppin'/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/boppin-1u7)
+# file: All Programs/Games/Boppin'/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/boppin)
 # file: All Programs/Games/Boppin'/Program.txt = #
 # file: All Programs/Games/Boppin'/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Boppin'/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
@@ -2111,12 +2267,14 @@
 # file: All Programs/Games/Boppin'/Program.txt = # check: disk1.img = fcacadd486b687aa33e9823e739fa37cf3adb67e8b18efde5ff63e8ec127d902
 # file: All Programs/Games/Boppin'/Program.txt = # asset: disk2.img = https://archive.org/download/001833-Boppin/001833_boppin.7z/001833_boppin%2Fdisk02.img
 # file: All Programs/Games/Boppin'/Program.txt = # check: disk2.img = 3c476af8d36fb5e6d24b0b323b2bbf17b4530682a0cdc77a1b7b13642bc1d958
+# file: All Programs/Games/Boppin'/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Boppin-.pdf
+# file: All Programs/Games/Boppin'/Program.txt = # check: manual.pdf = ef4aad82f2e0ab4ecb7fb59f01723527e1d1c08c6c02ca80b382816a26218f37
 #
 #
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = #
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # name: Broken Sword: The Shadow of the Templars
-# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # name: Circle of Blood = United States
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # name: Circle of Blood = North American
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # info: Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life.
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut).
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Year = 1996
@@ -2479,9 +2637,7 @@
 # file: All Programs/Games/Command & Conquer/Program.txt = #
 # file: All Programs/Games/Command & Conquer/Program.txt = # name: Command & Conquer
 # file: All Programs/Games/Command & Conquer/Program.txt = # name: Command & Conquer: Tiberian Dawn
-# file: All Programs/Games/Command & Conquer/Program.txt = # name: C&C
 # file: All Programs/Games/Command & Conquer/Program.txt = # name: Command & Conquer: The Covert Operations
-# file: All Programs/Games/Command & Conquer/Program.txt = # name: C&C:CO
 # file: All Programs/Games/Command & Conquer/Program.txt = # info: Welcome to the New World Order. A gritty high-tech world where the art of electronic intelligence and covert surveillance reigns supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power.
 # file: All Programs/Games/Command & Conquer/Program.txt = # info: Wikipedia = To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007.
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Year = 1995
@@ -2630,12 +2786,9 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = #
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: Command & Conquer: Red Alert
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: C&C 2
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: C&C:RA
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: Command & Conquer 2
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: Command & Conquer: Red Alert - Counterstrike
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: C&C:RACS
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: Command & Conquer: Red Alert - The Aftermath
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # name: C&C:RAAM
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # info: Dark experiments have permanently altered time. Or have they? Now, Soviet tanks crush city after city while Allied cruisers shell bases. Spies lurk, land mines wait, and strange new technologies aid both sides in their struggle for ultimate control.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # info: Wikipedia = To mark the 13th anniversary of Command and Conquer and the announcement of Red Alert 3, EA released Command and Conquer: Red Alert as freeware.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Year = 1996
@@ -3125,8 +3278,7 @@
 # file: All Programs/Games/Electroman/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Electroman/Program.txt = #
 # file: All Programs/Games/Electroman/Program.txt = # name: Electroman
-# file: All Programs/Games/Electroman/Program.txt = # name: Electro Man
-# file: All Programs/Games/Electroman/Program.txt = # name: Electro Body
+# file: All Programs/Games/Electroman/Program.txt = # name: Electro Body = German/Polish
 # file: All Programs/Games/Electroman/Program.txt = # info: After drifting off to sleep late one night at the planetary base, Jacek woke to discover that his unit had lost all its power. Climbing the darkened stairway, he found that alien beings had invaded the HQ and killed all humans - including his wife and children! Only his friend Placek remained, and together they escaped to another planet. Now it is time for revenge. Spending all his insurance money, Jacek underwent many costly operations giving him superhuman strength and senses. He armed himself with weapons and set out for the conquered station. Jacek is unaware that the aliens have rebuilt the station with numerous security systems built to keep him out. Can you help our hero?
 # file: All Programs/Games/Electroman/Program.txt = # info: Wikipedia = Though initially offered under a shareware license, the game was released as freeware by the developer on June 25, 2006, under the Creative Commons Attribution-ShareAlike 2.5 license.
 # file: All Programs/Games/Electroman/Program.txt = # tag: Year = 1992
@@ -3251,10 +3403,9 @@
 # file: All Programs/Games/Fallout/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Fallout/Program.txt = #
 # file: All Programs/Games/Fallout/Program.txt = # name: Fallout
-# file: All Programs/Games/Fallout/Program.txt = # name: FO1
-# file: All Programs/Games/Fallout/Program.txt = # name: Vault 13
 # file: All Programs/Games/Fallout/Program.txt = # name: Fallout: A GURPS Post-Nuclear Adventure
 # file: All Programs/Games/Fallout/Program.txt = # name: Fallout: A Post-Nuclear Role-Playing Game
+# file: All Programs/Games/Fallout/Program.txt = # name: Vault 13: A GURPS Post-Nuclear Adventure
 # file: All Programs/Games/Fallout/Program.txt = # info: Our home is in an underground Fallout shelter modified to house 1,000 people indefinitely after a nuclear holocaust. It has been nearly 80 years. We still don't know what's out there. Sure, we've sent out volunteer scouts, but none returned. Now our water recycler has failed. Rationing has begun, but someone needs to leave the vault to get a replacement microchip for the water recycler and look for other survivors. We drew straws. You got the short one.
 # file: All Programs/Games/Fallout/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fallout) and [Steam 💰](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/).
 # file: All Programs/Games/Fallout/Program.txt = # tag: Year = 1997
@@ -3518,7 +3669,7 @@
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = :F_DEBUG
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt
-# file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/416469-the-beast-within-a-gabriel-knight-mystery-dos-front-cover.jpg
+# file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4125361-gabriel-knight-sins-of-the-fathers-dos-front-cover.jpg
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # check: coverart.jpg = 3e7a6c289a7dfdbe298ae060c1ed0222d9fa7e2269deb8b34df4be44f210731e
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # asset: cdrom.bin = https://archive.org/download/GabrielKnightSinsOfTheFathersUSAEuropeRerelease/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers%20%28USA%2C%20Europe%29%20%28Rerelease%29.zip/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers%20%28USA%2C%20Europe%29%20%28Rerelease%29.bin
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # check: cdrom.bin = fa180662f7fcb4ea6aba4850c0705089cd60dfcb9b1847de5204c59293d45bb6
@@ -3540,7 +3691,6 @@
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = #
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # name: Gabriel Knight 2: The Beast Within
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # name: The Beast Within: A Gabriel Knight Mystery
-# file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # name: GK2
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # name: Gabriel Knight 2
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # info: Now we find Schattenjäger, or shadow hunter, Gabriel and his assistant Grace deeply embroiled in a murder mystery that unravels half a world away. Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his demons while Grace traces a historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted, and the only hope for deliverance lies in the most desperate schemes.
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within) and [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/).
@@ -3646,7 +3796,6 @@
 # file: All Programs/Games/God of Thunder/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/God of Thunder/Program.txt = #
 # file: All Programs/Games/God of Thunder/Program.txt = # name: God of Thunder
-# file: All Programs/Games/God of Thunder/Program.txt = # name: GoT
 # file: All Programs/Games/God of Thunder/Program.txt = # info: You are Thor, The God of Thunder! Your father is Odin, the mightiest Norse God and the ruler of Asgard. Odin must fall into a deep sleep (known as the Odinsleep) every few hundred centuries to rejuvenate his power. Your half-brother is Loki, The God of Mischief. Loki has seized the opportunity of this most recent Odinsleep and obtained the help of his most powerful allies to take control of Midgard (Earth).
 # file: All Programs/Games/God of Thunder/Program.txt = # info: Wikipedia = On March 27, 2020, Ron Davis released the source code, music and sound effects as public-domain software on SourceForge.
 # file: All Programs/Games/God of Thunder/Program.txt = # tag: Year = 1993
@@ -3707,8 +3856,7 @@
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = #
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: Heroes of Might and Magic: A Strategic Quest
-# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: Heroes of Might and Magic
-# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: HOMM
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: Heroes of Might and Magic I
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # info: The realms of might and magic are expanding. You have discovered new lands. Rise to the challenge of conquering them. Beware, for many warlords have risen to test your leadership and tactics. You must carefully manage all the resources at your disposal or be defeated. Now is the time to recruit your heroes, gather your armies, and lead them to victory.
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic/5928435d29e12307548b456a.html?lang=en_US).
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Year = 1995
@@ -3786,7 +3934,6 @@
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = #
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: Heroes of Might and Magic II: The Succession Wars
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: Heroes of Might and Magic II
-# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: HOMM 2
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # name: Heroes 2
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # info: After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good and one evil vie for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death!
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # info: This version is the original **The Succession Wars** release for DOS. An expansion add-on: *"Heroes of Might and Magic II: The Price of Loyalty"* is available with the **Gold Edition** release. This game **is not abandonware 🚫** and a **Gold Edition** release is available on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US).
@@ -4176,6 +4323,211 @@
 # file: All Programs/Games/Hi-Octane/Program.txt = # check: hioctane.zip = 9457fdd0b70abb37672f3406ca8ba2f37e22e9a7c05106a7ef9220bdc847a1d8
 # file: All Programs/Games/Hi-Octane/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Hi-Octane/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = #
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # name: I Have No Mouth, and I Must Scream
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # name: Harlan Ellison: I Have No Mouth, and I Must Scream
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # info: Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid.
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/).
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # tag: Category = 3rd-person • Real-time • Graphic adventure • Cyberpunk • Post-apocalyptic • Horror
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream_(video_game))
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/617/harlan-ellison-i-have-no-mouth-and-i-must-scream/)
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=I+have+no+Mouth+and+I+Must+Scream&gid=1704)
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/harlan-ellison-i-have-no-mouth-and-i-must-scream-2sv)
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream)
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/)
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = #
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text: - **Install the Game**.
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text:   - Select **3) Full Install (115 megabytes)**.
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text: - Sound Configuration Options:
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = [sdl]
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = autolock = true
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = [autoexec]
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = @ECHO OFF
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = IF NOT EXIST C:\SCREAM\SCREAM.BAT GOTO F_INSTALL
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = IF EXIST C:\SCREAM\SCREAM.BAT GOTO F_START
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = :F_INSTALL
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = D:
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = INSTALL.EXE
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = :F_START
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = C:
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = CD C:\SCREAM
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = CALL SCREAM.BAT
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = :F_EXIT
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = EXIT
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = :F_DEBUG
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3969917-harlan-ellison-i-have-no-mouth-and-i-must-scream-dos-front-cover.jpg
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # check: coverart.jpg = d6837f204707fac0b0335d27d90d843bd626bdd0493a13a56764125d31224b16
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # asset: cdrom.bin = https://archive.org/download/i-have-no-mouth-and-i-must-scream-usa/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream%20%28USA%29.zip/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream%20%28USA%29.bin
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # check: cdrom.bin = 6cbfc9717d26523cdfe7c8d93f878c2c047f3df8b09be573f4293de6bdb8e044
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # asset: manual.pdf = https://archive.org/download/I_Have_No_Mouth_and_I_Must_Scream/I_Have_No_Mouth_and_I_Must_Scream.pdf
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # check: manual.pdf = 2d8237f6102bf88610e487fb3b8f21612c97fc6b87d8c48624d0a8ad445db9f5
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = #
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = #
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # name: Indiana Jones and the Fate of Atlantis
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # name: Indy IV
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # info: Plato knew about Atlantis. In a lost dialogue, he wrote about the famed city and orichalcum, the mysterious element that powered the Atlanteans' stunning machinery. The Nazis know about Atlantis. They tracked down the lost dialogue and realized orichalcum would yield them the ultimate weapon of the age. Sophia knows about Atlantis. She unearthed a mysterious necklace and beads of orichalcum during an Icelandic archeological dig with Indy. Their magical properties made her a psychic. Everyone knows except Indy, and he has got to learn fast. The Nazis are one step ahead of him - from Iceland to North Africa and the Azores to Atlantis.
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis) and [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/).
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy • Interwar • Detective
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Wikipedia - Indiana Jones Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/316/indiana-jones-and-the-fate-of-atlantis/)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Fate+of+Atlantis&gid=1180)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-fate-of-atlantis-1to)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = #
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # text: - Setup Utility:
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # text:   - Music: **SoundBlaster & Compatibles / AdLib**.
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # text:   - Voice: **SoundBlaster & Compatibles**; Port: **220**; IRQ: **7**; Buffer: **8**.
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # text:   - Control: **Mouse + keyboard**.
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # text:   - Press `ESC` to Exit Setup and press `Y` to Save Settings.
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = [sdl]
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = autolock = true
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = [autoexec]
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = @ECHO OFF
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = IF NOT EXIST C:\FATE\ATLANTIS.INI GOTO F_INSTALL
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = IF EXIST C:\FATE\ATLANTIS.INI GOTO F_START
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = :F_INSTALL
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = D:
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = ATLANTIS.EXE
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = :F_START
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = D:
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = CD D:\ATLANTIS
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = ATLANTIS.EXE
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = :F_EXIT
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = EXIT
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = :F_DEBUG
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3972092-indiana-jones-and-the-fate-of-atlantis-dos-front-cover.jpg
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # check: coverart.jpg = cfd546e9a758aaa6fdc4fd4590c5c6b4f573080565e3a7bd8372ccf124fe88ee
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # asset: cdrom.img = https://archive.org/download/msdos_Indiana_Jones_and_the_Fate_of_Atlantis_1992/Indiana_Jones_and_the_Fate_of_Atlantis_1992.zip/indy4%2Fcd%2FATLANTIS.img
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # check: cdrom.img = 689f80a25c350f097565b420db8394b0a21873363bdc1c479f58a9456ac710ea
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # asset: manual.pdf = https://archive.org/download/indyatlantis-manual/indyatlantis-manual.pdf
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # check: manual.pdf = db709affd69d040255a8acd01f4be4ac1626db745adf9ed567d37a81b6e26c6b
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # asset: hintbook.pdf = https://archive.org/download/indyatlantis-hintbook/indyatlantis-hintbook.pdf
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # check: hintbook.pdf = 5d6f9a56bf947916b8c524035677c95928730792cd728580500ba16199a8cf93
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = #
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.img" BINARY
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = #
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # name: Indiana Jones and the Last Crusade: The Graphic Adventure
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # name: Indy 3
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # info: Europe, 1938. The Lost Ark was just a warm-up! Now Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher I.Q. (Indy Quotient) then the man with the whip and the hat.
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/).
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Year = 1989
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Interwar
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Wikipedia - Indiana Jones Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Last+Crusade&gid=1295)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-last-crusade-the-graphic-adventure-1ba)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/indiana-jones-and-the-last-crusade)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = #
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # text: - Hard drive on which to install program: **C:** and press `ENTER`.
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # text: - Floppy drive to read installation disks: **C:** and press `ENTER`.
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = [sdl]
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = autolock = true
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = [autoexec]
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = @ECHO OFF
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IF NOT EXIST C:\INDY256\INDY256.EXE GOTO F_INSTALL
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IF EXIST C:\INDY256\INDY256.EXE GOTO F_START
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = :F_INSTALL
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = C:
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = CD C:\
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = :F_START
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = C:
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = CD C:\INDY256
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = INDY256.EXE
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = :F_EXIT
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = EXIT
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = :F_DEBUG
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4456301-indiana-jones-and-the-last-crusade-the-graphic-adventure-dos-fro.jpg
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: coverart.jpg = 15bafc30d3652d63cc21078c7bb281707a5fbed263707ca4ba3145b677d9e7a1
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # asset: disk01.img = https://archive.org/download/20220917_20220917_0541/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%28VGA%29%20%281992%29%20%28v2.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%28VGA%29%20%281992%29%20%28v2.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%201%29%20%5B%23%5D.ima
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: disk01.img = 3d36d0fb30b83e145a7172552095763316f31b33b9a89d22c82c291914b85640
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # asset: disk02.img = https://archive.org/download/20220917_20220917_0541/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%28VGA%29%20%281992%29%20%28v2.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%28VGA%29%20%281992%29%20%28v2.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%202%29%20%5B%23%5D.ima
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: disk02.img = 2fe5623eab2eaf4a346116c6bd5d116aefc5a5664d9433ebb5fccd861a23b485
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # asset: disk03.img = https://archive.org/download/20220917_20220917_0541/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%28VGA%29%20%281992%29%20%28v2.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure%20%28VGA%29%20%281992%29%20%28v2.0%29%20%28Rerelease%29%20%28720K%29%20%28Disk%203%29%20%5B%23%5D.ima
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: disk03.img = 1976b0cf75445a6f746a2f96caeadbf1fe72200bdfcae149ea8367591e6ed429
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS/manual/Formated/Indiana_Jones_and_The_Last_Crusade.pdf
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: manual.pdf = 54fb9aa9d0a5198604b7b7948fe4ec4a8dd02e7643c8007a5c6dee233011488d
 #
 #
 # file: All Programs/Games/It Came from the Desert/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -4603,9 +4955,175 @@
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # check: cdrom.iso = 4715e3f70397c02208e1e55dabbff2b41ac4685677a3052843d9dfba02af9c38
 #
 #
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = #
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # name: The Secret of Monkey Island
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # name: Mutiny on Monkey Island
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # name: Monkey Island 1
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # info: Welcome to the Port of Melee, Mr Guybrush Threepwood. So you think you've got what it takes to be a swashbucklin', bloodthirsty pirate like the rest of us? Do you think a young swabby like yourself to be the first to tame mysterious Monkey Island? Well, laddy, there's more to being a buccaneer than just swinging a sword and swillin' gallons of Grog. First, you got to pass the Seadog test. Good luck! You are going to need it.
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition).
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Year = 1990
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy • Sea pirates • Comedy
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Wikipedia - Monkey Island Series](https://en.wikipedia.org/wiki/Monkey_Island)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/616/the-secret-of-monkey-island/)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Secret+of+Monkey+Island&gid=1082)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-secret-of-monkey-island-1ni)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [OldGames.sk](https://www.oldgames.sk/en/game/secret-of-monkey-island-the/)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: Copy Protection = [Dial-A-Pirate Wheel](https://www.oldgames.sk/codewheel/secret-of-monkey-island-dial-a-pirate)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Monkey Island Fandom](https://monkeyisland.fandom.com/wiki/The_Secret_of_Monkey_Island)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = #
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Hard drive on which to install program: **C:** and press `ENTER`.
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Floppy drive to read installation disks: **C:** and press `ENTER`.
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text:
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Consult the online [Dial-A-Pirate Wheel](https://www.oldgames.sk/codewheel/secret-of-monkey-island-dial-a-pirate) for the game copy protection.
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = [sdl]
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = autolock = true
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = [autoexec]
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = @ECHO OFF
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IF NOT EXIST C:\MONKEY\MONKEY.EXE GOTO F_INSTALL
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IF EXIST C:\MONKEY\MONKEY.EXE GOTO F_START
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = :F_INSTALL
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = C:
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = CD C:\
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = :F_START
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = C:
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = CD C:\MONKEY
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = MONKEY.EXE
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = :F_EXIT
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = EXIT
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = :F_DEBUG
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4247669-the-secret-of-monkey-island-dos-front-cover.jpg
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: coverart.jpg = bbbf9f3dde4618b347860734ef0a9b1741c6c7fbbf064207135e48f33b90448b
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: disk01.img = https://archive.org/download/20220917_20220917_0541/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%201%29%20%5B%23%5D.ima
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: disk01.img = c6d443c3f5952b8f2fbdc5e0b28a5243c64178a23e4cc022844d8dc0f6cc1a3f
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: disk02.img = https://archive.org/download/20220917_20220917_0541/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%202%29%20%5B%23%5D.ima
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: disk02.img = 0f2b63b8406f850de488eb8393016445a5fcd803a063d4453ea4bd58002bbbc2
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: disk03.img = https://archive.org/download/20220917_20220917_0541/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%203%29%20%5B%23%5D.ima
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: disk03.img = 5565eecad5706eb74116bc29f8071b00a2771bdcea590ca28319960cd0c42453
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: manual.pdf = https://archive.org/download/mi-manual/mi-manual.pdf
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: manual.pdf = e27235945be484d6179d4f911e89f4e8504c50cf5282634af13104242a3c9aaa
+#
+#
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = #
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # name: Monkey Island 2: LeChuck's Revenge
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # name: The Secret of Monkey Island 2
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # name: Monkey Island 2
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # info: I thought I had killed the Ghost Pirate LeChuck for good. Wrong. How many times can that bloated old fool die? Other pirates tell me there's no escape. "When LeChuck wants you dead, you're dead", they say. Legend has it that the treasure of Big Whoop holds the key to great power. I must find it before LeChuck finds me.
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge).
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Sea pirates • Comedy
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Wikipedia - Monkey Island Series](https://en.wikipedia.org/wiki/Monkey_Island)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Monkey+Island+2%3A+LeChuck%27s+Revenge&gid=1280)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/monkey-island-2-lechuck-s-revenge-1nh)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [OldGames.sk](https://www.oldgames.sk/en/game/monkey-island-2-lechucks-revenge/)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: Copy Protection = [Mix N Mojo Wheel](https://www.oldgames.sk/codewheel/monkey-island-2-mix-n-mojo)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Monkey Island Fandom](https://monkeyisland.fandom.com/wiki/Monkey_Island_2:_LeChuck%27s_Revenge)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = #
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Hard drive on which to install program: **C:** and press `ENTER`.
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Floppy drive to read installation disks: **C:** and press `ENTER`.
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text:
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Consult the online [Mix N Mojo Wheel](https://www.oldgames.sk/codewheel/monkey-island-2-mix-n-mojo) for the game copy protection.
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = [sdl]
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = autolock = true
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = [autoexec]
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = @ECHO OFF
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IF NOT EXIST C:\MONKEY2\MONKEY2.EXE GOTO F_INSTALL
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IF EXIST C:\MONKEY2\MONKEY2.EXE GOTO F_START
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = :F_INSTALL
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = C:
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = CD C:\
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk04.img" -t floppy
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk05.img" -t floppy
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = :F_START
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = C:
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = CD C:\MONKEY2
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = MONKEY2.EXE
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = :F_EXIT
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = EXIT
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = :F_DEBUG
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/1005042-monkey-island-2-lechucks-revenge-dos-front-cover.jpg
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: coverart.jpg = e48b319ade384d27cf7cb83927352e50a21c24571f061ac68efc358f83b8efee
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk01.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%201%29%20%5B%21%5D.ima
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk01.img = c79c09a974c8b5271e71c27514936090947457dff80aa2ee5466dbf2cf54b238
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk02.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%202%29%20%5B%21%5D.ima
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk02.img = f78851366b8b8ccc43b94c20c97e39500bf32c688138888fef2fbc3e59969fcd
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk03.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%203%29%20%5B%21%5D.ima
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk03.img = 9f99ca389b82e31b10a451f931830f7370c1e18287e503591b0b9ea0cdb02749
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk04.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%204%29%20%5B%21%5D.ima
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk04.img = 6452af8dfe7cb4bc9be6a47a2c556759a373cfb1a24c0d70a6e01a921a48deda
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk05.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%205%29%20%5B%21%5D.ima
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk05.img = 384d4ce97bf77275ae474452482ceb2d6b87392b6cb7c8dbed036e8441472bbc
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: manual.pdf = https://archive.org/download/Monkey_Island_2/Monkey_Island_2.pdf
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: manual.pdf = 9d55de97af5ae09b82fac75f454dfde6fc410f351387d4146b295aba6ddb5a5f
+#
+#
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨 (odd vertical lines on-screen)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) 🟩
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
@@ -4632,9 +5150,6 @@
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - Sound Configuration Utility:
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM)** (*Attempt to configure sound driver automatically*).
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text:
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: ## Known Issues
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # text: - DOSBox 0.74-3 🟨 — Odd vertical lines appear on the menu and during gameplay.
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = [autoexec]
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = @ECHO OFF
@@ -4675,9 +5190,7 @@
 #
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/One Must Fall 2097/Program.txt = #
-# file: All Programs/Games/One Must Fall 2097/Program.txt = # name: One Must Fall 2097
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # name: One Must Fall: 2097
-# file: All Programs/Games/One Must Fall 2097/Program.txt = # name: OMF
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # name: OMF:2097
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # info: Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots’ purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter’s moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era.
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # info: Wikipedia = In February 1999, the game was declared freeware by the developers.
@@ -4910,6 +5423,99 @@
 # file: All Programs/Games/Robbo/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = #
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 (unplayable)
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) 🟩
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = #
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # name: SPQR: The Empire's Darkest Hour
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # name: SPQR
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # info: It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire.
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Category = 1st-person • Puzzle elements • History • Detective
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SPQR:_The_Empire%27s_Darkest_Hour)
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2664/spqr-the-empires-darkest-hour/)
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/spqr-the-empire-s-darkest-hour-3qe)
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = #
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Select **Custom Installation (Advanced)** option.
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Check only **SPQR**, your Windows 3.1x has both QuickTime and WinG installed.
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text:
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: ## Known Issues
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - DOSBox 0.74-3 🟥 — Unplayable. Program installs but does not run.
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [sdl]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = autolock = true
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [dosbox]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = memsize = 256
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [render]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = scaler = none
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [video]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = vmemsize = 4
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [cpu]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = core = normal
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = cycles = max
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [dos]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [ide, primary]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = int13fakeio = true
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = int13fakev86io = false
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [autoexec]
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = @ECHO OFF
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = IF NOT EXIST C:\SPQR\SPQR16.EXE GOTO F_INSTALL
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = IF EXIST C:\SPQR\SPQR16.EXE GOTO F_START
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = :F_INSTALL
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = C:
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = COPY C:\RUNEXIT.EXE C:\SPQR
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = :F_START
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = C:
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = C:\WINDOWS\WIN.COM C:\SPQR\RUNEXIT.EXE C:\SPQR\SPQR16.EXE
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = :F_EXIT
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = EXIT
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = :F_DEBUG
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/11280564-spqr-the-empires-darkest-hour-windows-front-cover.jpg
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # check: coverart.jpg = 995eee9515387d49ccc1a00d622955c9da95dbf7fe4197c429ad9abf62f40ef5
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # asset: cdrom.bin = https://archive.org/download/spqrtheempiresdarkesthourusa/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour%20%28USA%29.zip/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour%20%28USA%29.bin
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # check: cdrom.bin = 0566cd5c059e2f32b23382b56dfff5336e5757ddae6c8f52c646b639a9c34922
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # asset: manual.pdf = https://archive.org/download/sqpr-booklet/Manual.pdf
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # check: manual.pdf = a90c42831fbc36c76d97de811e4754f380f8f19a0d0d3314a114d62ab2151178
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = #
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/SimCity/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/SimCity/Program.txt = #
 # file: All Programs/Games/SimCity/Program.txt = # name: SimCity
@@ -4982,12 +5588,145 @@
 # file: All Programs/Games/SimCity/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = #
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # name: SimCity 2000
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # name: SimCity 2K
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # name: SimCity 2000: The Ultimate City Simulator
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # name: SimCity 2000: CD Collection
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # name: SimCity 2000: Special Edition
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # info: This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # info: This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition).
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Genre = Simulation • Strategy
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Category = Diagonal-down • Real-time • City building • Managerial • Contemporary
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Add-on
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SimCity_2000)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/657/simcity-2000/)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity+2000&gid=630)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/simcity-2000-cd-collection-311)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_2000)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = #
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Check all installation components: **Program Files**, **Cities**, **URK Art**, and **Scenarios**. Click **Continue**.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Enter your name and company name.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Click **Continue** on the INSTANT REGISTRATION pop-up.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text:
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - `RUNEXIT.EXE` binary does not work on this program. You have to shutdown Windows manually to exit DOSBox.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text:
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: ### How to play this game on a larger display resolution?
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Select **3. Run Windows Setup** at program start-up.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Change **Display** settings to _**S3 ... [width]x[height] 256 colors SF.**_
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text:   - Replace *[width]x[height]* with your desired screen resolution, e.g. 800x600 or 1024x768.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text:   - Only select a display option that ends with *256 colors SF* as it is the most widely used format in games.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Accept the configuration shown above.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: - Press `ENTER` when prompted to **Keep Driver**.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [sdl]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = autolock = true
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [dosbox]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = memsize = 256
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [render]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = scaler = none
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [video]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = vmemsize = 4
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [cpu]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = core = normal
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = cycles = max
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [dos]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [ide, primary]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = int13fakeio = true
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = int13fakev86io = false
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = [autoexec]
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = @ECHO OFF
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IF NOT EXIST C:\SC2K4WIN\SC2000W.EXE GOTO F_INSTALL
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IF EXIST C:\SC2K4WIN\SC2000W.EXE GOTO F_START
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_INSTALL
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:\WINDOWS\WIN.COM D:\WIN31\SETUP.EXE
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_START
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = CLS
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO SimCity 2000: Special Edition
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO 1. Play SimCity 2000
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO 2. Run Urban Renewal Kit
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO 3. Run Windows Setup
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO 4. Exit Program
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = ECHO.
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = CHOICE /C:1234 /N "Please select:"
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IF ERRORLEVEL==4 GOTO F_EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IF ERRORLEVEL==3 GOTO F_SETUP
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IF ERRORLEVEL==2 GOTO F_URK
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = IF ERRORLEVEL==1 GOTO F_MAIN
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_MAIN
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:\WINDOWS\WIN.COM C:\SC2K4WIN\SC2000W.EXE
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_URK
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:\WINDOWS\WIN.COM C:\SC2K4WIN\SCURKW.EXE
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_SETUP
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = C:
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = CD C:\WINDOWS
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = SETUP.EXE
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = GOTO F_START
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = EXIT
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = :F_DEBUG
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5569187-simcity-2000-cd-collection-dos-front-cover.png
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # check: coverart.jpg = a7d20eeb2b89b7692fdec53f7fc0563be39a4647b33aeb1fe36c752243b150cb
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # asset: cdrom.bin = https://archive.org/download/SimCity2000CDCollectionUSA/SimCity%202000%20-%20CD%20Collection%20%28USA%29.zip/SimCity%202000%20-%20CD%20Collection%20%28USA%29.bin
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # check: cdrom.bin = d1442f0097bdcf7fe419145a315b6774c33c102c78cfef9ea9df979bbaf461d0
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # asset: manual.pdf = https://archive.org/download/SimCity.2000-Manual/SimCity.2000-Manual.pdf
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # check: manual.pdf = 238e9aca8fb548aedf01045bec2777a4d7d8a198fab1f7e1928b8b2064369eed
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = #
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/SimTower/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/SimTower/Program.txt = #
 # file: All Programs/Games/SimTower/Program.txt = # snapshot: ../../Systems/Windows 3.1x
 # file: All Programs/Games/SimTower/Program.txt = # name: SimTower
 # file: All Programs/Games/SimTower/Program.txt = # name: SimTower: The Vertical Empire
-# file: All Programs/Games/SimTower/Program.txt = # name: The Tower = Japan
+# file: All Programs/Games/SimTower/Program.txt = # name: The Tower = Japanese
 # file: All Programs/Games/SimTower/Program.txt = # info: Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough).
 # file: All Programs/Games/SimTower/Program.txt = # tag: Year = 1994
 # file: All Programs/Games/SimTower/Program.txt = # tag: Genre = Simulation
@@ -5236,7 +5975,7 @@
 # file: All Programs/Games/Teen Agent/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Teen Agent/Program.txt = #
 # file: All Programs/Games/Teen Agent/Program.txt = # name: Teen Agent
-# file: All Programs/Games/Teen Agent/Program.txt = # name: Teenagent
+# file: All Programs/Games/Teen Agent/Program.txt = # name: Teenagent = Polish/Original
 # file: All Programs/Games/Teen Agent/Program.txt = # info: One day, two men in dark glasses and long coats captured a teenager; this could be a start of a very long day! Get ready for a wonderfully humorous adventure. Teen Agent is a point-and-click animated graphic adventure that features dozens of detailed hand-painted backgrounds.
 # file: All Programs/Games/Teen Agent/Program.txt = # info: Wikipedia = When the game was originally released, "The Three Tasks" was shareware, and the remaining two sections could be obtained by registering the game. However, the game was later released as freeware.
 # file: All Programs/Games/Teen Agent/Program.txt = # tag: Year = 1995
@@ -5302,7 +6041,6 @@
 # file: All Programs/Games/Terminal Velocity/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Terminal Velocity/Program.txt = #
 # file: All Programs/Games/Terminal Velocity/Program.txt = # name: Terminal Velocity
-# file: All Programs/Games/Terminal Velocity/Program.txt = # name: Terminal Velocity = Legacy
 # file: All Programs/Games/Terminal Velocity/Program.txt = # name: Velocity Brawl
 # file: All Programs/Games/Terminal Velocity/Program.txt = # info: In the far future, armadas from surrounding systems have suddenly waged war on Earth, destroying critical installations and major cities. Earth is now on its knees. You are a pilot from the Ares Squadron flying the fastest, most dangerous crafts ever made. Currently, you are in the TV-202, a fighter few can handle. Given that the previous model, the TV-101, has chalked up more dead pilots than any experimental craft in history, many consider you lucky to be alive. You are in a flying coffin, outgunned and outmanned. But think how good a Saved-the-Known-Galaxy title will look on your resume.
 # file: All Programs/Games/Terminal Velocity/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Boosted Edition** release is available on [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) and [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/).
@@ -5699,7 +6437,7 @@
 #
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = #
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥
+# file: All Programs/Games/The Incredible Machine 2/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 (error at installation)
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) 🟩
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = #
@@ -5723,11 +6461,6 @@
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - Accept these choices and save the configuration.
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text:
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: ## Known Issues
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: - DOSBox 0.74-3 🟥 — Failed to uncompress resources on the second disk.
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text:   - Failed command: `UNCHUNK.EXE COMPRESS.001 .`
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # text:   - **TODO**: Fix once DOSBox supports mounting multiple floppy disk images on a single drive.
 # file: All Programs/Games/The Incredible Machine 2/Program.txt
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = [sdl]
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = autolock = true
@@ -6060,8 +6793,8 @@
 # file: All Programs/Games/The Settlers/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/The Settlers/Program.txt = #
 # file: All Programs/Games/The Settlers/Program.txt = # name: The Settlers
-# file: All Programs/Games/The Settlers/Program.txt = # name: Serf City: Life is Feudal = Europe
-# file: All Programs/Games/The Settlers/Program.txt = # name: Die Siedler = Germany/Original
+# file: All Programs/Games/The Settlers/Program.txt = # name: Serf City: Life is Feudal = European
+# file: All Programs/Games/The Settlers/Program.txt = # name: Die Siedler = German/Original
 # file: All Programs/Games/The Settlers/Program.txt = # info: Have you always wanted to be a boss? Then you should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing; or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords.
 # file: All Programs/Games/The Settlers/Program.txt = # info: This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and is a part of a **History Collection** edition available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection).
 # file: All Programs/Games/The Settlers/Program.txt = # tag: Year = 1994
@@ -6129,7 +6862,7 @@
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: The Settlers II: Gold Edition
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: The Settlers II
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: The Settlers II: Veni, Vidi, Vici
-# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: Die Siedler II = Germany/Original
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # name: Die Siedler II = German/Original
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # info: The Settler II is a strategy-laden economic simulation and the follow-up to the hugely successful Settlers. Your objective in this highly addictive game is to promote economic growth and prosperity. Your tasks include mining raw materials, farming, hunting, fishing, and expanding borders. You will also be encouraged to trade with the inhabitants of remote islands.
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # info: This game **is not abandonware 🚫** and is part of a **History Collection** edition on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). The **Gold Edition** is also available on [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition).
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Year = 1997
@@ -6244,10 +6977,112 @@
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 56:44:37
 #
 #
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = #
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 (unplayable)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟥 (unplayable)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = #
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # name: Titanic: Adventure Out of Time
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # name: Titanic
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # info: Intrigue and adventure await you on board the Titanic, the most famous ocean liner in history. As a British secret agent on a vital mission, it is up to you to change the course of history as you explore the world’s most luxurious ocean vessel in all its original splendour. Navigate the amazingly detailed 3D reconstruction of the doomed ocean liner and rub elbows with high society from the turn of the century, searching for clues and solving challenging puzzles that could alter world history. Then, on the night of April 14, 1912, you plunge into a race against time. Both spectator and participant in a multi-tiered drama, your survival and the fate of millions hinge on your actions during the last hours of the sinking ocean liner.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/).
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # tag: Category = 1st-person • Graphic adventure • Puzzle elements • Spy
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Titanic:_Adventure_Out_of_Time)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2892/titanic-adventure-out-of-time/)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/titanic-adventure-out-of-time-3rg)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = #
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Select **Install Titanic**.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Select **Typical** installation option.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Confirm the next default settings.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Uncheck both **I want to view the Release Notes now.** and **I want to play Titanic now.** options.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text:
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text:   1. Titanic: Adventure Out of Time Disc #1
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text:   2. Titanic: Adventure Out of Time Disc #2
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text:
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [sdl]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = autolock = true
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [dosbox]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = memsize = 128
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [render]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = scaler = none
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [video]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = vmemsize = 4
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [cpu]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = core = normal
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = cycles = max
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [dos]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [ide, primary]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = int13fakeio = true
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = [autoexec]
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = @ECHO OFF
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = IF NOT EXIST C:\TITANIC\TI.EXE GOTO F_INSTALL
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = IF EXIST C:\TITANIC\TI.EXE GOTO F_START
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = :F_INSTALL
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = C:
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = COPY C:\RUNEXIT.EXE C:\TITANIC
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = :F_START
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = C:
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = C:\WINDOWS\WIN.COM C:\TITANIC\RUNEXIT.EXE C:\TITANIC\TI.EXE
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = :F_EXIT
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = EXIT
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = :F_DEBUG
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6195707-titanic-adventure-out-of-time-windows-front-cover.jpg
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # check: coverart.jpg = 19539b48e4d3b4e48319fe19ea098519295f68252f3a6832dd0a542b2686dc05
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # asset: cdrom01.iso = https://archive.org/download/Titanic_Adventure_Out_of_Time/Titanic_Adventure_Out_of_Time_CD1_1996_WIN-MAC.iso
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # check: cdrom01.iso = bd60d257ba4b5b78f003ee7407a2fa3494f663aa17a049a5a42c2d96ef688523
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # asset: cdrom02.iso = https://archive.org/download/Titanic_Adventure_Out_of_Time/Titanic_Adventure_Out_of_Time_CD2_1996_WIN-MAC.iso
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # check: cdrom02.iso = bc164993320f2391d027f3a1e33615af20ba27c00f01a08b65a7ea747de96b68
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # asset: manual.pdf = https://archive.org/download/Titanic_Adventure_Time_Manual_cbz/Titanic_Adventure_Time_Manual.pdf
+# file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # check: manual.pdf = b09935713f52c6b386fb35891099a8db0a44dceb7cca94921ca01e8168bf446d
+#
+#
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = #
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: UFO: Enemy Unknown
-# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: X-COM: UFO Defense = United States
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: X-COM: UFO Defense = North American
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: X-COM: Terran Defense Force
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # info: You control XCom, an organisation formed by the world's governments to fight the ever-increasing alien menace. Shooting down UFOs is just the beginning. You lead a squad of heavily-armed soldiers across different terrains as they investigate the UFO crash site. Tackle the aliens with automatic rifles, rocket launchers and even tanks in the struggle to retrieve useful technology, weapons or life forms. Successful ground assault missions will allow XCom scientists to analyse alien items. Each breakthrough brings you closer to understanding the technology and culture of the alien races. When your engineers have amassed sufficient research data on their superior weapons and craft, they'll be available for your troops.
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense) and [Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/).
@@ -6346,8 +7181,7 @@
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = #
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # name: Warcraft: Orcs & Humans
-# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # name: WC1
-# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # name: WarCraft I
+# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # name: Warcraft
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # info: Enter the world of WarCraft, a mystical land where evil orcs and noble humans battle for survival and domination. With weaponry and powerful magic, these two forces collide in a contest of cunning, intellect, and brute strength. Destroy the orcish hordes or crush the weakling humans. The choice is yours.
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans).
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # tag: Year = 1994
@@ -6450,7 +7284,6 @@
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # name: Warcraft II: Battle Chest
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # name: Warcraft II: Tides of Darkness
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # name: Warcraft II: Beyond the Dark Portal
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # name: War2
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # name: Warcraft 2
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # info: Warcraft II: Tides of Darkness = Return to the World of Warcraft, where the battle between the evil Orcs and the noble Humans rages on. With powerful new allies, terrifying creatures and ingenious weaponry, the struggle for the domination of Azeroth continues.
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # info: Warcraft II: Beyond the Dark Portal = After destroying the mystic gate into Azeroth, the Humans discover that the rift which allows the Orcs passage into their world still exists. Human forces must now venture beyond the Dark Portal into Orcish lands to end the threat of yet another invasion by the hordes.
@@ -6619,7 +7452,6 @@
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = #
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # name: X-COM: Apocalypse
-# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # name: APOC
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # info: Human excess, petty conflict, and alien invasion have ravaged the Earth. The world's population has merged into huge cities, the first of which was Mega Primus. In 2084, a Utopia shattered, social collapse and civil unrest reigned in Mega Primus. Fiendish aliens terrorise the city. UFOs swarm through Dimensional Gateways. The city is under siege from an unknown enemy. As an X-COM Commander, your mission is to combat alien aggression and uncover their deadly intentions. But Beware! Alien infiltration into the city and its politics could see you under fire from criminal gangs, religious sects, and even the police!
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_apocalypse) and [Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/).
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Year = 1997
@@ -6693,8 +7525,6 @@
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = #
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: X-COM: Terror from the Deep
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: X-COM 2
-# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: UFO 2
-# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # name: TFTD
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # info: Awakened by the cosmic emissions of their brothers, the vast chambers of innumerable species begin their re-animation cycle. XCom must face a new terror, an army of aliens but in an environment more deadly than deep space. The aliens of the depths are well prepared to take on men in all the oceans, even bringing the war onto the land. Enter into combat in a strange and alien world and use new technology. Arm your troops for an encounter the likes of man has only dreamed of in his worst nightmares. A vast sleeping enemy has awoken. When the vessel T'leth crash-landed on Earth some sixty-five million years ago, the emergency systems placed the aliens in suspended animation. A distress call was sent but never received by the alien's homeworld. Over the eons, computers have awoken small groups of aliens to attempt colonisation, but the strategies and devices have been imperfect. They have also been sinking ships over the centuries to plunder their cargoes and recover gold - the base metal in the hyper-alloy Zrbite.
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep) and [Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/).
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Year = 1995
@@ -6879,9 +7709,6 @@
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # text:     - `C:\APPS\WING\SETUP.EXE` to install [WinG](https://en.wikipedia.org/wiki/WinG).
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # text:   - Remove the `C:\APPS` directory.
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Exit Windows and run the `Snapshot` script.
-# file: All Programs/Systems/Windows 3.1x/Program.txt = # text:
-# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: ## Licensing Information
-# file: All Programs/Systems/Windows 3.1x/Program.txt = # text: - Microsoft Windows 3.1x is unsupported as of December 31, 2001.
 # file: All Programs/Systems/Windows 3.1x/Program.txt
 # file: All Programs/Systems/Windows 3.1x/Program.txt = [sdl]
 # file: All Programs/Systems/Windows 3.1x/Program.txt = autolock = true
@@ -7067,6 +7894,7 @@
 # link: Games/By Genre/Action/Alone in the Dark = ../../../All Programs/Games/Alone in the Dark
 # link: Games/By Genre/Action/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By Genre/Action/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
+# link: Games/By Genre/Action/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
 # link: Games/By Genre/Action/Bio Menace = ../../../All Programs/Games/Bio Menace
 # link: Games/By Genre/Action/Blackthorne = ../../../All Programs/Games/Blackthorne
 # link: Games/By Genre/Action/Blockout = ../../../All Programs/Games/Blockout
@@ -7090,16 +7918,24 @@
 # link: Games/By Genre/Action/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/3 Skulls of the Toltecs = ../../../All Programs/Games/3 Skulls of the Toltecs
+# link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Genre/Adventure/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Genre/Adventure/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
+# link: Games/By Genre/Adventure/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
+# link: Games/By Genre/Adventure/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
+# link: Games/By Genre/Adventure/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Genre/Adventure/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
+# link: Games/By Genre/Adventure/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
+# link: Games/By Genre/Adventure/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
 # link: Games/By Genre/Adventure/The Dig = ../../../All Programs/Games/The Dig
+# link: Games/By Genre/Adventure/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
 # link: Games/By Genre/Puzzle/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Puzzle/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By Genre/Puzzle/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
@@ -7121,6 +7957,7 @@
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
+# link: Games/By Genre/Simulation/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Genre/Simulation/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By Genre/Simulation/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By Genre/Simulation/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
@@ -7138,6 +7975,7 @@
 # link: Games/By Genre/Strategy/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By Genre/Strategy/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Genre/Strategy/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By Genre/Strategy/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Genre/Strategy/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By Genre/Strategy/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
 # link: Games/By Genre/Strategy/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
@@ -7147,6 +7985,7 @@
 # link: Games/By Genre/Strategy/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By License/Abandonware/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
+# link: Games/By License/Abandonware/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By License/Abandonware/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By License/Abandonware/Civilization = ../../../All Programs/Games/Civilization
@@ -7156,6 +7995,7 @@
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By License/Abandonware/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By License/Abandonware/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By License/Abandonware/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
@@ -7194,6 +8034,7 @@
 # link: Games/By License/Proprietary/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By License/Proprietary/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
+# link: Games/By License/Proprietary/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
@@ -7203,13 +8044,20 @@
 # link: Games/By License/Proprietary/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
 # link: Games/By License/Proprietary/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By License/Proprietary/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
+# link: Games/By License/Proprietary/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
+# link: Games/By License/Proprietary/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
+# link: Games/By License/Proprietary/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By License/Proprietary/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By License/Proprietary/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
+# link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By License/Proprietary/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By License/Proprietary/The Dig = ../../../All Programs/Games/The Dig
 # link: Games/By License/Proprietary/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By License/Proprietary/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
+# link: Games/By License/Proprietary/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
 # link: Games/By License/Proprietary/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
 # link: Games/By License/Proprietary/Warcraft - Orcs & Humans = ../../../All Programs/Games/Warcraft - Orcs & Humans
 # link: Games/By License/Proprietary/Warcraft II - Battle Chest = ../../../All Programs/Games/Warcraft II - Battle Chest
@@ -7250,11 +8098,16 @@
 # link: Games/By Platform/DOS/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By Platform/DOS/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By Platform/DOS/Hi-Octane = ../../../All Programs/Games/Hi-Octane
+# link: Games/By Platform/DOS/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
+# link: Games/By Platform/DOS/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
+# link: Games/By Platform/DOS/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By Platform/DOS/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Platform/DOS/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Platform/DOS/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By Platform/DOS/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Platform/DOS/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
+# link: Games/By Platform/DOS/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
@@ -7280,8 +8133,13 @@
 # link: Games/By Platform/DOS/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
 # link: Games/By Platform/DOS/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By Platform/DOS/Xargon = ../../../All Programs/Games/Xargon
+# link: Games/By Platform/Windows 3.1x/Bad Mojo = ../../../All Programs/Games/Bad Mojo
+# link: Games/By Platform/Windows 3.1x/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
 # link: Games/By Platform/Windows 3.1x/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By Platform/Windows 3.1x/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Platform/Windows 3.1x/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By Platform/Windows 3.1x/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
+# link: Games/By Platform/Windows 3.1x/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Platform/Windows 3.1x/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By Platform/Windows 3.1x/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
+# link: Games/By Platform/Windows 3.1x/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time

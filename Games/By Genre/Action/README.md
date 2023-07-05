@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Action (28)
+# 🗂️ Games ‣ By Genre ‣ Action (29)
 
 > <table><tr><td width="255">
 >
@@ -118,6 +118,25 @@
 > ❝ Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must out-wit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there. ❞
 >
 > ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Bermuda%20Syndrome/Thumbnail.png "Bermuda Syndrome")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bermuda Syndrome](../../../All%20Programs/Games/Bermuda%20Syndrome/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Action** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Platform • Puzzle elements** ┃ Media: **CD-ROM** 
+>
+> ❝ You are Jack J. Thompson. Destiny has brought you here. It's 1942. Shot down in the region of the infamous Bermuda Triangle, our hero has crash-landed into a dense tropical jungle and a whole heap of trouble. Are you a god? It is more than divine intervention to fend off attacks from restless natives and ferocious dinosaurs, save a distressed damsel from a fate worse than death, and escape this insanity to return home. There's no time to party. Sharp reflexes and lateral thinking are essential if Jack is to escape from this land that time doesn't even know about. It is not a holiday resort. ❞
 >
 >
 > </td></tr></table>
@@ -412,13 +431,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png "One Must Fall 2097")
+> ![](../../../All%20Programs/Games/One%20Must%20Fall%202097/Thumbnail.png "One Must Fall: 2097")
 >
 > </td>
 >
 > <td>
 >
-> ## [One Must Fall 2097](../../../All%20Programs/Games/One%20Must%20Fall%202097/README.md)
+> ## [One Must Fall: 2097](../../../All%20Programs/Games/One%20Must%20Fall%202097/README.md)
 >
 > 📌 ┃ Year: **1994** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Side view • Arcade • Fighting • Mecha • Sci-fi** ┃ Media: **CD-ROM** 
 >

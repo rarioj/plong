@@ -2,7 +2,7 @@
 
 # The Settlers
 
-「**Serf City: Life is Feudal** (Europe)」「**Die Siedler** (Germany/Original)」
+「**Serf City: Life is Feudal** (European)」「**Die Siedler** (German/Original)」
 
 > ❝ Have you always wanted to be a boss? Then you should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing; or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords. ❞
 >

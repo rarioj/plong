@@ -49,8 +49,5 @@
   - Remove the `C:\APPS` directory.
 - Exit Windows and run the `Snapshot` script.
 
-## Licensing Information
-- Microsoft Windows 3.1x is unsupported as of December 31, 2001.
-
 ![](Montage.png "Windows 3.1x")
 

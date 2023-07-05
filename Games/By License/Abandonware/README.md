@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (17)
+# 🗂️ Games ‣ By License ‣ Abandonware (19)
 
 > <table><tr><td width="255">
 >
@@ -32,6 +32,25 @@
 > 📌 ┃ Year: **1995** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **4X • Sci-fi** ┃ Media: **CD-ROM** ┃ **Patched • Add-on** 
 >
 > ❝ The age of discovery is upon you. Explore the unknown using a delicate balance of courage and caution. The survival of an entire species is at stake. Will your people fade into obscurity or gain Ascendancy over a galaxy? Who is hiding in the undiscovered darkness? What lies beyond the planet of your birth? Welcome to a universe of unlimited possibilities. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Bermuda%20Syndrome/Thumbnail.png "Bermuda Syndrome")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bermuda Syndrome](../../../All%20Programs/Games/Bermuda%20Syndrome/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Action** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **Side view • Platform • Puzzle elements** ┃ Media: **CD-ROM** 
+>
+> ❝ You are Jack J. Thompson. Destiny has brought you here. It's 1942. Shot down in the region of the infamous Bermuda Triangle, our hero has crash-landed into a dense tropical jungle and a whole heap of trouble. Are you a god? It is more than divine intervention to fend off attacks from restless natives and ferocious dinosaurs, save a distressed damsel from a fate worse than death, and escape this insanity to return home. There's no time to party. Sharp reflexes and lateral thinking are essential if Jack is to escape from this land that time doesn't even know about. It is not a holiday resort. ❞
 >
 >
 > </td></tr></table>
@@ -207,6 +226,25 @@
 > ❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*
 >
 > ❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/Thumbnail.png "SPQR: The Empire's Darkest Hour")
+>
+> </td>
+>
+> <td>
+>
+> ## [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **1st-person • Puzzle elements • History • Detective** ┃ Media: **CD-ROM** ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+>
+> ❝ It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire. ❞
 >
 >
 > </td></tr></table>

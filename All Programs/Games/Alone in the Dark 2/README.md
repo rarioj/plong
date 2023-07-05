@@ -2,7 +2,7 @@
 
 # Alone in the Dark 2
 
-「**AITD2**」「**Alone in the Dark: Jack is Back**」「**Alone in the Dark: One-Eyed Jack's Revenge**」
+「**Alone in the Dark: Jack is Back**」「**Alone in the Dark: One-Eyed Jack's Revenge**」
 
 > ❝ You are the elusive detective of the macabre, Edward Carnby. A kidnapped child depends on your super sleuthing skills and astonishing ability to outwit bands of ruthless gangsters, smugglers and pirates. One-Eyed Jack, their ruthless leader, would give his remaining eye to see you permanently retired. Are you ready for the challenge of your life? Steel nerves and quicksilver thinking are your trademarks. Without hesitation, you set out to rescue young Grace Saunders, the missing girl. Your razor-sharp instincts lead you to the place no one in their right mind would go. One Eyed Jack's infamous hideout, Hell's Kitchen is a forbidding mansion that resonates with venomous evil. ❞
 >

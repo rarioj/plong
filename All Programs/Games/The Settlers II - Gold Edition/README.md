@@ -2,7 +2,7 @@
 
 # The Settlers II: Gold Edition
 
-「**The Settlers II**」「**The Settlers II: Veni, Vidi, Vici**」「**Die Siedler II** (Germany/Original)」
+「**The Settlers II**」「**The Settlers II: Veni, Vidi, Vici**」「**Die Siedler II** (German/Original)」
 
 > ❝ The Settler II is a strategy-laden economic simulation and the follow-up to the hugely successful Settlers. Your objective in this highly addictive game is to promote economic growth and prosperity. Your tasks include mining raw materials, farming, hunting, fishing, and expanding borders. You will also be encouraged to trade with the inhabitants of remote islands. ❞
 >

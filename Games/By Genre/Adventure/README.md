@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (11)
+# 🗂️ Games ‣ By Genre ‣ Adventure (19)
 
 > <table><tr><td width="255">
 >
@@ -15,6 +15,27 @@
 > ❝ Saddle up and mosey on into town for one of the most challenging, hilarious and exciting adventures this side of Texas! The treasures of the Toltecs are within your reach - riches beyond your wildest dreams. But first, you must locate the three skulls. And believe me - it isn't that easy. You must travel through the wild west and encounter multiple characters, the good, the bad and the downright ugly! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs) and [Steam 💰](https://store.steampowered.com/app/977300/Fenimore_Fillmore_3_Skulls_of_the_Toltecs/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Bad%20Mojo/Thumbnail.png "Bad Mojo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Bad Mojo](../../../All%20Programs/Games/Bad%20Mojo/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Graphic adventure • North America • Thriller** ┃ Media: **CD-ROM** 
+>
+> ❝ Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, magic suddenly seized you, and your transformation begins. You emerge as a cockroach from within the damp walls of Eddie's bar. Enter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out as a person at all. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/). ❞
 >
 >
 > </td></tr></table>
@@ -151,6 +172,69 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/Thumbnail.png "I Have No Mouth, and I Must Scream")
+>
+> </td>
+>
+> <td>
+>
+> ## [I Have No Mouth, and I Must Scream](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/README.md)
+>
+> 📌 ┃ Year: **1995** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Real-time • Graphic adventure • Cyberpunk • Post-apocalyptic • Horror** ┃ Media: **CD-ROM** 
+>
+> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/Thumbnail.png "Indiana Jones and the Fate of Atlantis")
+>
+> </td>
+>
+> <td>
+>
+> ## [Indiana Jones and the Fate of Atlantis](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/README.md)
+>
+> 📌 ┃ Year: **1992** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Fantasy • Interwar • Detective** ┃ Media: **CD-ROM** 
+>
+> ❝ Plato knew about Atlantis. In a lost dialogue, he wrote about the famed city and orichalcum, the mysterious element that powered the Atlanteans' stunning machinery. The Nazis know about Atlantis. They tracked down the lost dialogue and realized orichalcum would yield them the ultimate weapon of the age. Sophia knows about Atlantis. She unearthed a mysterious necklace and beads of orichalcum during an Icelandic archeological dig with Indy. Their magical properties made her a psychic. Everyone knows except Indy, and he has got to learn fast. The Nazis are one step ahead of him - from Iceland to North Africa and the Azores to Atlantis. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis) and [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/Thumbnail.png "Indiana Jones and the Last Crusade: The Graphic Adventure")
+>
+> </td>
+>
+> <td>
+>
+> ## [Indiana Jones and the Last Crusade: The Graphic Adventure](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/README.md)
+>
+> 📌 ┃ Year: **1989** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Interwar** ┃ Media: **Floppy Disk** 
+>
+> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher I.Q. (Indy Quotient) then the man with the whip and the hat. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
 >
 > </td>
@@ -183,6 +267,67 @@
 > ❝ You play Diermot, who finds himself imprisoned in a depressing cell. Meanwhile, life in the village of Turnvale goes on as ever, just an ordinary day. Well, as normal as you could hope for, considering the Skorl are in town. They're big, ugly, and not particularly pleasant! Will they overpower Diermot? Or can he escape from his cell and bring peace back to the land? It depends on you. ❞
 >
 > ❝ The game was well-received and re-released as freeware on April 1, 2003. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/Thumbnail.png "The Secret of Monkey Island")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Secret of Monkey Island](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/README.md)
+>
+> 📌 ┃ Year: **1990** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Fantasy • Sea pirates • Comedy** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ Welcome to the Port of Melee, Mr Guybrush Threepwood. So you think you've got what it takes to be a swashbucklin', bloodthirsty pirate like the rest of us? Do you think a young swabby like yourself to be the first to tame mysterious Monkey Island? Well, laddy, there's more to being a buccaneer than just swinging a sword and swillin' gallons of Grog. First, you got to pass the Seadog test. Good luck! You are going to need it. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/Thumbnail.png "Monkey Island 2: LeChuck's Revenge")
+>
+> </td>
+>
+> <td>
+>
+> ## [Monkey Island 2: LeChuck's Revenge](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/README.md)
+>
+> 📌 ┃ Year: **1991** ┃ Genre: **Adventure** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **3rd-person • Graphic adventure • Puzzle elements • Sea pirates • Comedy** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+>
+> ❝ I thought I had killed the Ghost Pirate LeChuck for good. Wrong. How many times can that bloated old fool die? Other pirates tell me there's no escape. "When LeChuck wants you dead, you're dead", they say. Legend has it that the treasure of Big Whoop holds the key to great power. I must find it before LeChuck finds me. ❞
+>
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/Thumbnail.png "SPQR: The Empire's Darkest Hour")
+>
+> </td>
+>
+> <td>
+>
+> ## [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **1st-person • Puzzle elements • History • Detective** ┃ Media: **CD-ROM** ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+>
+> ❝ It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire. ❞
 >
 >
 > </td></tr></table>
@@ -225,6 +370,27 @@
 > ❝ An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink. Once the wayward asteroid is in a safe orbit, they examine the asteroid's rocky surface. What they uncover is anything but routine. Low, Brink, and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The spacecraft transported them across the galaxy to a desolate planet, Cocytus, after the 9th circle of Hell in Dante's Inferno. The bleak landscape was once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels. But no Cocytans. Who were the original inhabitants of this once rich-empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins and Brink been brought to this place? And how can Low keep his team from unravelling in the face of such uncertainty? To return to Earth, they must dig for answers on the planet's surface and deep within themselves. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_dig) and [Steam 💰](https://store.steampowered.com/app/6040/The_Dig/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/Thumbnail.png "Titanic: Adventure Out of Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Titanic: Adventure Out of Time](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/README.md)
+>
+> 📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **1st-person • Graphic adventure • Puzzle elements • Spy** ┃ Media: **CD-ROM** 
+>
+> ❝ Intrigue and adventure await you on board the Titanic, the most famous ocean liner in history. As a British secret agent on a vital mission, it is up to you to change the course of history as you explore the world’s most luxurious ocean vessel in all its original splendour. Navigate the amazingly detailed 3D reconstruction of the doomed ocean liner and rub elbows with high society from the turn of the century, searching for clues and solving challenging puzzles that could alter world history. Then, on the night of April 14, 1912, you plunge into a race against time. Both spectator and participant in a multi-tiered drama, your survival and the fate of millions hinge on your actions during the last hours of the sinking ocean liner. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/). ❞
 >
 >
 > </td></tr></table>

@@ -2,7 +2,7 @@
 
 # UFO: Enemy Unknown
 
-「**X-COM: UFO Defense** (United States)」「**X-COM: Terran Defense Force**」
+「**X-COM: UFO Defense** (North American)」「**X-COM: Terran Defense Force**」
 
 > ❝ You control XCom, an organisation formed by the world's governments to fight the ever-increasing alien menace. Shooting down UFOs is just the beginning. You lead a squad of heavily-armed soldiers across different terrains as they investigate the UFO crash site. Tackle the aliens with automatic rifles, rocket launchers and even tanks in the struggle to retrieve useful technology, weapons or life forms. Successful ground assault missions will allow XCom scientists to analyse alien items. Each breakthrough brings you closer to understanding the technology and culture of the alien races. When your engineers have amassed sufficient research data on their superior weapons and craft, they'll be available for your troops. ❞
 >

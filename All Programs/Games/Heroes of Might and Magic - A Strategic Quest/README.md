@@ -2,7 +2,7 @@
 
 # Heroes of Might and Magic: A Strategic Quest
 
-「**Heroes of Might and Magic**」「**HOMM**」
+「**Heroes of Might and Magic I**」
 
 > ❝ The realms of might and magic are expanding. You have discovered new lands. Rise to the challenge of conquering them. Beware, for many warlords have risen to test your leadership and tactics. You must carefully manage all the resources at your disposal or be defeated. Now is the time to recruit your heroes, gather your armies, and lead them to victory. ❞
 >

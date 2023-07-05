@@ -2,7 +2,7 @@
 
 # Warcraft: Orcs & Humans
 
-「**WC1**」「**WarCraft I**」
+「**Warcraft**」
 
 > ❝ Enter the world of WarCraft, a mystical land where evil orcs and noble humans battle for survival and domination. With weaponry and powerful magic, these two forces collide in a contest of cunning, intellect, and brute strength. Destroy the orcish hordes or crush the weakling humans. The choice is yours. ❞
 >

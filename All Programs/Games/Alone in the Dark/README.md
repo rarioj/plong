@@ -2,7 +2,7 @@
 
 # Alone in the Dark
 
-「**AITD**」「**Call of Cthulhu: Doom of Derceto**」「**Screams in the Dark**」「**Jack in the Dark**」
+「**Call of Cthulhu: Doom of Derceto**」「**Screams in the Dark**」「**Jack in the Dark**」
 
 > ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion — where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
 >

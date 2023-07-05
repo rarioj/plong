@@ -2,7 +2,7 @@
 
 # Fallout
 
-「**FO1**」「**Vault 13**」「**Fallout: A GURPS Post-Nuclear Adventure**」「**Fallout: A Post-Nuclear Role-Playing Game**」
+「**Fallout: A GURPS Post-Nuclear Adventure**」「**Fallout: A Post-Nuclear Role-Playing Game**」「**Vault 13: A GURPS Post-Nuclear Adventure**」
 
 > ❝ Our home is in an underground Fallout shelter modified to house 1,000 people indefinitely after a nuclear holocaust. It has been nearly 80 years. We still don't know what's out there. Sure, we've sent out volunteer scouts, but none returned. Now our water recycler has failed. Rationing has begun, but someone needs to leave the vault to get a replacement microchip for the water recycler and look for other survivors. We drew straws. You got the short one. ❞
 >

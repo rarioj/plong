@@ -2,7 +2,7 @@
 
 # Heroes of Might and Magic II: The Succession Wars
 
-「**Heroes of Might and Magic II**」「**HOMM 2**」「**Heroes 2**」
+「**Heroes of Might and Magic II**」「**Heroes 2**」
 
 > ❝ After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good and one evil vie for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death! ❞
 >

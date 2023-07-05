@@ -2,7 +2,7 @@
 
 # Command & Conquer: Red Alert
 
-「**C&C 2**」「**C&C:RA**」「**Command & Conquer: Red Alert - Counterstrike**」「**C&C:RACS**」「**Command & Conquer: Red Alert - The Aftermath**」「**C&C:RAAM**」
+「**Command & Conquer 2**」「**Command & Conquer: Red Alert - Counterstrike**」「**Command & Conquer: Red Alert - The Aftermath**」
 
 > ❝ Dark experiments have permanently altered time. Or have they? Now, Soviet tanks crush city after city while Allied cruisers shell bases. Spies lurk, land mines wait, and strange new technologies aid both sides in their struggle for ultimate control. ❞
 >

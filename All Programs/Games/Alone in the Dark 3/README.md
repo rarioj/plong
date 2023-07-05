@@ -2,7 +2,7 @@
 
 # Alone in the Dark 3
 
-「**AITD3**」「**Alone in the Dark 3: Ghosts in Town**」
+「**Alone in the Dark 3: Ghosts in Town**」
 
 > ❝ Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must out-wit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there. ❞
 >

@@ -2,7 +2,7 @@
 
 # Gabriel Knight 2: The Beast Within
 
-「**The Beast Within: A Gabriel Knight Mystery**」「**GK2**」「**Gabriel Knight 2**」
+「**The Beast Within: A Gabriel Knight Mystery**」「**Gabriel Knight 2**」
 
 > ❝ Now we find Schattenjäger, or shadow hunter, Gabriel and his assistant Grace deeply embroiled in a murder mystery that unravels half a world away. Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his demons while Grace traces a historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted, and the only hope for deliverance lies in the most desperate schemes. ❞
 >
