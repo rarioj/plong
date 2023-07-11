@@ -7,7 +7,7 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn). ❞
 >
 
-📌 ┃ Year: **1995** ┃ Genre: **Role-playing** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **1st-person • Action RPG • Fantasy** ┃ Media: **CD-ROM** ┃ **Patched** 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Action RPG • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

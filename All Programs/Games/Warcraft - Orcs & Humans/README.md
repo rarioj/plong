@@ -9,7 +9,7 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans). ❞
 >
 
-📌 ┃ Year: **1994** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Real-time strategy • Fantasy • War** ┃ Media: **CD-ROM** 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Real-time • Real-time strategy • Fantasy • War ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

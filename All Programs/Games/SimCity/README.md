@@ -9,7 +9,7 @@
 > ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
 >
 
-📌 ┃ Year: **1989** ┃ Genre: **Simulation** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • City building • Managerial • Contemporary** ┃ Media: **Compressed Package** 
+📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Top-down • City building • Managerial • Contemporary ┃ **Media** ‣ Compressed Package 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

@@ -9,11 +9,11 @@
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Boosted Edition** release is available on [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) and [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/). ❞
 >
 
-📌 ┃ Year: **1995** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Proprietary** ┃ Category: **1st-person • Behind view • Shooter • Flight • Sci-fi** ┃ Media: **CD-ROM** 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Behind view • Shooter • Flight • Sci-fi ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Terminal_Velocity_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/635/terminal-velocity/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Terminal+Velocity&gid=1360)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/terminal-velocity-2s9)** ┃ Boosted Edition: **[GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition)** ┃ Boosted Edition: **[Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Terminal_Velocity_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/635/terminal-velocity/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Terminal+Velocity&gid=1360)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/terminal-velocity-2s9)** ┃ **Boosted Edition** ‣ [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) ┃ **Boosted Edition** ‣ [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/) 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

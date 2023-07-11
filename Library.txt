@@ -1,8 +1,9 @@
 # vim: filetype=ini:syntax=dosini
 #
 ###### Library properties
+# library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.7b
+# library-version: 23.7c
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -13,7 +14,7 @@
 # tag: Script Version = ###script-version###
 # tag: Type = Library
 # tag: Library Version = ###library-version###
-# tag: Library Name = PLoNG
+# tag: Library Name = ###library-name###
 # site: [Simple DOSBox Client](https://github.com/rarioj/sdc)
 # site: Cover Arts = [MobyGames](https://www.mobygames.com/)
 # site: Program Assets = [Archive.org](https://archive.org/)
@@ -48,8 +49,10 @@
 # text:
 # text: Some of the old programs listed here are **Freeware** (free to use and distribute), **Abandonware** (no longer being distributed or supported by the developer or copyright holder), **Discontinued** (end-of-life software), and some are **Proprietary** (software is still available for purchase). Please try to buy the program first from [GOG](https://www.gog.com/), [Steam](https://store.steampowered.com/), or other online stores. Each program in the library, especially those tagged as *Proprietary*, will include external links to buy online.
 # text:
-# text: All program assets are available from the [Internet Archive](https://archive.org/). It is possible, however, that some assets are no longer downloadable. Please submit an issue if that is the case. I asked [ChatGPT](https://chat.openai.com/) about the legality of playing old DOS games downloaded from the Internet Archive.
+# text: All program assets are available from the [Internet Archive](https://archive.org/). It is possible, however, that some assets are no longer downloadable. Please submit an issue if that is the case.
 # text:
+# text: > #### I asked [ChatGPT](https://chat.openai.com/) about the legality of playing old DOS games downloaded from the Internet Archive.
+# text: >
 # text: > ❝ The legality of playing old DOS games downloaded from Archive.org depends on the specific circumstances and the copyright status of the particular game in question.
 # text: >
 # text: > In general, it is illegal to download and play copyrighted material without the permission of the copyright owner. However, some older games, especially those made for MS-DOS, are now considered abandonware, which means that the copyright owner may no longer exist or may not be enforcing their rights to the game. In such cases, it may be legal to download and play the game.
@@ -642,21 +645,16 @@
 # file: All Programs/Games/Alone in the Dark/Program.txt = # info: A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion — where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself.
 # file: All Programs/Games/Alone in the Dark/Program.txt = # info: This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123).
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Year (Jack in the Dark) = 1993
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Genre = Action
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Category = 3rd-person • Puzzle elements • Survival horror • Interwar • Horror
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Compilation = Jack in the Dark
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game))
+# file: All Programs/Games/Alone in the Dark/Program.txt = # site: Alone in the Dark = [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)) • [MobyGames](https://www.mobygames.com/game/325/alone-in-the-dark/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark&gid=1737) • [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-1rg) • [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(1992))
+# file: All Programs/Games/Alone in the Dark/Program.txt = # site: Jack in the Dark = [MobyGames](https://www.mobygames.com/game/1231/jack-in-the-dark/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jack+in+the+Dark&gid=2731) • [MyAbandonware](https://www.myabandonware.com/game/jack-in-the-dark-2ab) • [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Jack_In_The_Dark)
 # file: All Programs/Games/Alone in the Dark/Program.txt = # site: [Wikipedia - Alone in the Dark Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/325/alone-in-the-dark/)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [MobyGames - Jack in the Dark](https://www.mobygames.com/game/1231/jack-in-the-dark/)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark&gid=1737)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [AbandonwareDOS - Jack in the Dark](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jack+in+the+Dark&gid=2731)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-1rg)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [MyAbandonware - Jack in the Dark](https://www.myabandonware.com/game/jack-in-the-dark-2ab)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(1992))
 # file: All Programs/Games/Alone in the Dark/Program.txt = # site: Alone in the Dark: The Trilogy 1+2+3 = [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123)
 # file: All Programs/Games/Alone in the Dark/Program.txt = #
 # file: All Programs/Games/Alone in the Dark/Program.txt = # text: ## Installation Notes
@@ -1946,9 +1944,7 @@
 # file: All Programs/Games/Bio Menace/Program.txt = # tag: Media = Compressed Package
 # file: All Programs/Games/Bio Menace/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Bio_Menace)
 # file: All Programs/Games/Bio Menace/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/236/bio-menace/)
-# file: All Programs/Games/Bio Menace/Program.txt = # site: [AbandonwareDOS - Bio Menace Episode 1: Dr. Mangle's Lab](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bio+Menace+Episode+1%3A+Dr.+Mangle%27s+Lab&gid=1345)
-# file: All Programs/Games/Bio Menace/Program.txt = # site: [AbandonwareDOS - Bio Menace Episode 2: The Hidden Lab](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bio+Menace+Episode+2%3A+The+Hidden+Lab&gid=2964)
-# file: All Programs/Games/Bio Menace/Program.txt = # site: [AbandonwareDOS - Bio Menace Episode 3: Master Cain](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bio+Menace+Episode+3%3A+Master+Cain&gid=2965)
+# file: All Programs/Games/Bio Menace/Program.txt = # site: AbandonwareDOS = [Bio Menace Episode 1: Dr. Mangle's Lab](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bio+Menace+Episode+1%3A+Dr.+Mangle%27s+Lab&gid=1345) • [Bio Menace Episode 2: The Hidden Lab](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bio+Menace+Episode+2%3A+The+Hidden+Lab&gid=2964) • [Bio Menace Episode 3: Master Cain](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Bio+Menace+Episode+3%3A+Master+Cain&gid=2965)
 # file: All Programs/Games/Bio Menace/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/bio-menace-22a)
 # file: All Programs/Games/Bio Menace/Program.txt = # site: [GOG 🆓](https://www.gog.com/en/game/bio_menace)
 # file: All Programs/Games/Bio Menace/Program.txt = # site: [3DRealms 🆓](https://3drealms.com/catalog/bio-menace_42/)
@@ -1981,7 +1977,7 @@
 # file: All Programs/Games/Bio Menace/Program.txt = CLS
 # file: All Programs/Games/Bio Menace/Program.txt = ECHO Bio Menace
 # file: All Programs/Games/Bio Menace/Program.txt = ECHO.
-# file: All Programs/Games/Bio Menace/Program.txt = ECHO 1. Play Bio Menace Episode 1: Dr. Mangle''s Lab
+# file: All Programs/Games/Bio Menace/Program.txt = ECHO 1. Play Bio Menace Episode 1: Dr. Mangle's Lab
 # file: All Programs/Games/Bio Menace/Program.txt = ECHO 2. Play Bio Menace Episode 2: The Hidden Lab
 # file: All Programs/Games/Bio Menace/Program.txt = ECHO 3. Play Bio Menace Episode 3: Master Cain
 # file: All Programs/Games/Bio Menace/Program.txt = ECHO 4. Exit Program
@@ -2286,7 +2282,7 @@
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Extra Command
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - Broken Sword Series](https://en.wikipedia.org/wiki/Broken_Sword)
-# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - Broken Sword: Shadow of the Templars – The Director's Cut](https://en.wikipedia.org/wiki/Broken_Sword:_Shadow_of_the_Templars_%E2%80%93_The_Director%27s_Cut)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - The Director's Cut](https://en.wikipedia.org/wiki/Broken_Sword:_Shadow_of_the_Templars_%E2%80%93_The_Director%27s_Cut)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword%3A+The+Shadow+of+the+Templars&gid=2332)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)
@@ -2360,21 +2356,16 @@
 # file: All Programs/Games/Cadaver/Program.txt = # info: Cadaver = Karadoc, who is a gold-hungry dwarf and just hopes to find a treasure, is on a mission to seek out and kill the necromancer Dianos, the sole remaining inhabitant of Castle Wulf.
 # file: All Programs/Games/Cadaver/Program.txt = # info: Cadaver: The Payoff = Dianos is dead. Karadoc has fulfilled The Cadaver contract. But collecting the reward will be more challenging than you had ever imagined.
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Year = 1990
-# file: All Programs/Games/Cadaver/Program.txt = # tag: Year = 1991 (The Payoff)
+# file: All Programs/Games/Cadaver/Program.txt = # tag: Year (The Payoff) = 1991
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Genre = Action
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Cadaver/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Category = Diagonal-down • Puzzle elements • Fantasy
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Media = Floppy Disk
 # file: All Programs/Games/Cadaver/Program.txt = # tag: Add-on
-# file: All Programs/Games/Cadaver/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Cadaver_(video_game))
-# file: All Programs/Games/Cadaver/Program.txt = # site: [MobyGames - Cadaver](https://www.mobygames.com/game/1980/cadaver/)
-# file: All Programs/Games/Cadaver/Program.txt = # site: [MobyGames - Cadaver: The Payoff](https://www.mobygames.com/game/10198/cadaver-the-payoff/)
-# file: All Programs/Games/Cadaver/Program.txt = # site: [AbandonwareDOS - Cadaver](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Cadaver&gid=166)
-# file: All Programs/Games/Cadaver/Program.txt = # site: [AbandonwareDOS - Cadaver: The Payoff](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Cadaver%3A+The+Payoff&gid=889)
-# file: All Programs/Games/Cadaver/Program.txt = # site: [MyAbandonware - Cadaver](https://www.myabandonware.com/game/cadaver-13x)
-# file: All Programs/Games/Cadaver/Program.txt = # site: [MyAbandonware - Cadaver: The Payoff](https://www.myabandonware.com/game/cadaver-the-payoff-258)
-# file: All Programs/Games/Cadaver/Program.txt = # site: [OldGames.sk](https://www.oldgames.sk/docs/cadaver/index.php)
+# file: All Programs/Games/Cadaver/Program.txt = # site: Cadaver = [Wikipedia](https://en.wikipedia.org/wiki/Cadaver_(video_game)) • [MobyGames](https://www.mobygames.com/game/1980/cadaver/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Cadaver&gid=166) • [MyAbandonware](https://www.myabandonware.com/game/cadaver-13x)
+# file: All Programs/Games/Cadaver/Program.txt = # site: Cadaver: The Payoff = [MobyGames](https://www.mobygames.com/game/10198/cadaver-the-payoff/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Cadaver%3A+The+Payoff&gid=889) • [MyAbandonware](https://www.myabandonware.com/game/cadaver-the-payoff-258)
+# file: All Programs/Games/Cadaver/Program.txt = # site: [OldGames.sk - Cadaver Secret Shrine](https://www.oldgames.sk/docs/cadaver/index.php)
 # file: All Programs/Games/Cadaver/Program.txt = #
 # file: All Programs/Games/Cadaver/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Cadaver/Program.txt = # text: - Audio options: **Sound Blaster**.
@@ -2501,27 +2492,19 @@
 # file: All Programs/Games/Civilization II/Program.txt = # name: Civilization II: Conflicts in Civilization
 # file: All Programs/Games/Civilization II/Program.txt = # name: Civilization II: Fantastic Worlds
 # file: All Programs/Games/Civilization II/Program.txt = # info: Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully.
-# file: All Programs/Games/Civilization II/Program.txt = # tag: Year = 1996 (Original & Conflicts in Civilization)
-# file: All Programs/Games/Civilization II/Program.txt = # tag: Year = 1997 (Fantastic Worlds)
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Year (Conflicts in Civilization) = 1996
+# file: All Programs/Games/Civilization II/Program.txt = # tag: Year (Fantastic Worlds) = 1997
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Genre = Strategy
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Platform = Windows 3.1x
 # file: All Programs/Games/Civilization II/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Category = Diagonal-down • Turn-based • 4X • Managerial • Turn-based strategy • Historical events • Post-apocalyptic • Sci-fi • Fantasy • Steampunk
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Compilation
-# file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia - Civilization II: Conflicts in Civilization](https://en.wikipedia.org/wiki/Civilization_II:_Conflicts_in_Civilization)
+# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II = [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II) • [MobyGames](https://www.mobygames.com/game/15/sid-meiers-civilization-ii/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization+2&gid=1894) • [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-453) • [Civilization Fandom](https://civilization.fandom.com/wiki/Civilization_II)
+# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II: Conflicts in Civilization = [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II:_Conflicts_in_Civilization) • [MobyGames](https://www.mobygames.com/game/1509/sid-meiers-civilization-ii-scenarios-conflicts-in-civilization/) • [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-scenarios-conflicts-in-civilization-c45) • [Civilization Fandom](https://civilization.fandom.com/wiki/Civilization_II:_Conflicts_in_Civilization)
+# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II: Fantastic Worlds = [MobyGames](https://www.mobygames.com/game/1593/civilization-ii-fantastic-worlds/) • [MyAbandonware](https://www.myabandonware.com/game/civilization-ii-fantastic-worlds-dvr) • [Civilization Fandom](https://civilization.fandom.com/wiki/Civ_II:_Fantastic_Worlds)
 # file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))
-# file: All Programs/Games/Civilization II/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/15/sid-meiers-civilization-ii/)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [MobyGames - Civilization II: Conflicts in Civilization](https://www.mobygames.com/game/1509/sid-meiers-civilization-ii-scenarios-conflicts-in-civilization/)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [MobyGames - Civilization II: Fantastic Worlds](https://www.mobygames.com/game/1593/civilization-ii-fantastic-worlds/)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization+2&gid=1894)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-453)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [MyAbandonware - Civilization II: Conflicts in Civilization](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-scenarios-conflicts-in-civilization-c45)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [MyAbandonware - Civilization II: Fantastic Worlds](https://www.myabandonware.com/game/civilization-ii-fantastic-worlds-dvr)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [Civilization Fandom](https://civilization.fandom.com/wiki/Civilization_II)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [Civilization Fandom - Civilization II: Conflicts in Civilization](https://civilization.fandom.com/wiki/Civilization_II:_Conflicts_in_Civilization)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [Civilization Fandom - Civilization II: Fantastic Worlds](https://civilization.fandom.com/wiki/Civ_II:_Fantastic_Worlds)
 # file: All Programs/Games/Civilization II/Program.txt = #
 # file: All Programs/Games/Civilization II/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Civilization II/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
@@ -2641,22 +2624,16 @@
 # file: All Programs/Games/Command & Conquer/Program.txt = # info: Welcome to the New World Order. A gritty high-tech world where the art of electronic intelligence and covert surveillance reigns supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power.
 # file: All Programs/Games/Command & Conquer/Program.txt = # info: Wikipedia = To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007.
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Year = 1995
-# file: All Programs/Games/Command & Conquer/Program.txt = # tag: Year = 1996 (The Covert Operations)
+# file: All Programs/Games/Command & Conquer/Program.txt = # tag: Year (The Covert Operations) = 1996
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Genre = Strategy
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: License = Freeware
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time strategy • Africa • Europe • Sci-fi • War
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Compilation
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game))
+# file: All Programs/Games/Command & Conquer/Program.txt = # site: Command & Conquer = [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)) • [MobyGames](https://www.mobygames.com/game/338/command-conquer/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer&gid=2345) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-2r7) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer_(1995))
+# file: All Programs/Games/Command & Conquer/Program.txt = # site: Command & Conquer: The Covert Operations = [MobyGames](https://www.mobygames.com/game/883/command-conquer-the-covert-operations/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-the-covert-operations-arg) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_The_Covert_Operations)
 # file: All Programs/Games/Command & Conquer/Program.txt = # site: [Wikipedia - Command & Conquer Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [MobyGames - Command & Conquer](https://www.mobygames.com/game/338/command-conquer/)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [MobyGames - Command & Conquer: The Covert Operations](https://www.mobygames.com/game/883/command-conquer-the-covert-operations/)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer&gid=2345)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [MyAbandonware - Command & Conquer](https://www.myabandonware.com/game/command-conquer-2r7)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [MyAbandonware - Command & Conquer: The Covert Operations](https://www.myabandonware.com/game/command-conquer-the-covert-operations-arg)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [Command & Conquer Fandom - Command & Conquer](https://cnc.fandom.com/wiki/Command_%26_Conquer_(1995))
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [Command & Conquer Fandom - Command & Conquer: The Covert Operations](https://cnc.fandom.com/wiki/Command_%26_Conquer:_The_Covert_Operations)
 # file: All Programs/Games/Command & Conquer/Program.txt = # site: Remastered Collection = [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/)
 # file: All Programs/Games/Command & Conquer/Program.txt = #
 # file: All Programs/Games/Command & Conquer/Program.txt = # text: ## Installation Notes
@@ -2792,25 +2769,17 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # info: Dark experiments have permanently altered time. Or have they? Now, Soviet tanks crush city after city while Allied cruisers shell bases. Spies lurk, land mines wait, and strange new technologies aid both sides in their struggle for ultimate control.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # info: Wikipedia = To mark the 13th anniversary of Command and Conquer and the announcement of Red Alert 3, EA released Command and Conquer: Red Alert as freeware.
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Year = 1996
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Year = 1997 (Counterstrike & The Aftermath)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Year (Counterstrike & The Aftermath) = 1997
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Genre = Strategy
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: License = Freeware
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time strategy • Europe • Sci-fi • War
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Compilation
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert = [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) • [MobyGames](https://www.mobygames.com/game/485/command-conquer-red-alert/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer%3A+Red+Alert&gid=1872) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-7pi) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert - Counterstrike = [MobyGames](https://www.mobygames.com/game/863/command-conquer-red-alert-counterstrike/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-counterstrike-7pk) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_Counterstrike)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert - The Aftermath = [MobyGames](https://www.mobygames.com/game/866/command-conquer-red-alert-the-aftermath/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-the-aftermath-7pj) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_The_Aftermath)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Wikipedia - Command & Conquer Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [MobyGames - Command & Conquer: Red Alert](https://www.mobygames.com/game/485/command-conquer-red-alert/)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [MobyGames - Command & Conquer: Red Alert - Counterstrike](https://www.mobygames.com/game/863/command-conquer-red-alert-counterstrike/)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [MobyGames - Command & Conquer: Red Alert - The Aftermath](https://www.mobygames.com/game/866/command-conquer-red-alert-the-aftermath/)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer%3A+Red+Alert&gid=1872)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [MyAbandonware - Command & Conquer: Red Alert](https://www.myabandonware.com/game/command-conquer-red-alert-7pi)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [MyAbandonware - Command & Conquer: Red Alert - Counterstrike](https://www.myabandonware.com/game/command-conquer-red-alert-counterstrike-7pk)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [MyAbandonware - Command & Conquer: Red Alert - The Aftermath](https://www.myabandonware.com/game/command-conquer-red-alert-the-aftermath-7pj)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Command & Conquer Fandom - Command & Conquer: Red Alert](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Command & Conquer Fandom - Command & Conquer: Red Alert - Counterstrike](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_Counterstrike)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Command & Conquer Fandom - Command & Conquer: Red Alert - The Aftermath](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_The_Aftermath)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Remastered Collection = [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = #
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: ## Installation Notes
@@ -3029,6 +2998,117 @@
 # file: All Programs/Games/D-Generation/Program.txt = # check: coverart.jpg = 4afc032cc4c4852ecd45046cea81ca16a2a920573afe1b67c0867173cadccae6
 # file: All Programs/Games/D-Generation/Program.txt = # asset: cdrom.iso = https://archive.org/download/D-Generation_-_MS-DOS_Game_-_MinscapeEng/DGENERATION.iso
 # file: All Programs/Games/D-Generation/Program.txt = # check: cdrom.iso = 3a7aac90048749663e9acc792a940eb4f425d04e922b5e8d02597edce730ac96
+#
+#
+# file: All Programs/Games/Dark Legions/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dark Legions/Program.txt = #
+# file: All Programs/Games/Dark Legions/Program.txt = # name: Dark Legions
+# file: All Programs/Games/Dark Legions/Program.txt = # info: You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in DARK LEGIONS has its strengths and weaknesses. Use them well you will be victorious; if you fail, abject humiliation will be the least of your worries.
+# file: All Programs/Games/Dark Legions/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/dark_legions).
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: Genre = Action • Strategy
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: Category = Diagonal-down • Top-down • Board game • Fighting • Fantasy
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Dark Legions/Program.txt = # tag: Patched • Copy Protection
+# file: All Programs/Games/Dark Legions/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Dark_Legions)
+# file: All Programs/Games/Dark Legions/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1350/dark-legions/)
+# file: All Programs/Games/Dark Legions/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Dark+Legions&gid=1249)
+# file: All Programs/Games/Dark Legions/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/dark-legions-2ci)
+# file: All Programs/Games/Dark Legions/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/dark-legions)
+# file: All Programs/Games/Dark Legions/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/dark_legions)
+# file: All Programs/Games/Dark Legions/Program.txt = #
+# file: All Programs/Games/Dark Legions/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dark Legions/Program.txt = # text: - System Detection: Press `ENTER` to **Continue**.
+# file: All Programs/Games/Dark Legions/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dark Legions/Program.txt = # text: - Audio configuration:
+# file: All Programs/Games/Dark Legions/Program.txt = # text:   - Select **I Will**.
+# file: All Programs/Games/Dark Legions/Program.txt = # text:   - Do you have the *WaveBlaster* daughter board installed? Select **Pro 16**.
+# file: All Programs/Games/Dark Legions/Program.txt = # text:   - Do you have two sound cards installed in your machine? Select **Use 2**.
+# file: All Programs/Games/Dark Legions/Program.txt = # text:   - Select a Source for Music: **Roland SoundCanvas**. Confirm the settings.
+# file: All Programs/Games/Dark Legions/Program.txt = # text:   - Select a Source for Digital Sound Effects: **Sound Blaster 16 Asp**. Confirm the settings.
+# file: All Programs/Games/Dark Legions/Program.txt = # text:
+# file: All Programs/Games/Dark Legions/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Dark Legions/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/Dark Legions/Program.txt = # text: - A desktop keyboard with *a numeric keypad* is preferred to play the two-player game.
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = [sdl]
+# file: All Programs/Games/Dark Legions/Program.txt = autolock = true
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = [autoexec]
+# file: All Programs/Games/Dark Legions/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dark Legions/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = IF NOT EXIST C:\DLEGIONS\DL.EXE GOTO F_INSTALL
+# file: All Programs/Games/Dark Legions/Program.txt = IF EXIST C:\DLEGIONS\DL.EXE GOTO F_START
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dark Legions/Program.txt = C:
+# file: All Programs/Games/Dark Legions/Program.txt = CD C:\
+# file: All Programs/Games/Dark Legions/Program.txt = MD UNZIP
+# file: All Programs/Games/Dark Legions/Program.txt = CD UNZIP
+# file: All Programs/Games/Dark Legions/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Dark Legions/Program.txt = CD C:\
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk04.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk05.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk06.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT A "./Assets/disk07.img" -t floppy
+# file: All Programs/Games/Dark Legions/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dark Legions/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dark Legions/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Dark Legions/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Dark Legions/Program.txt = PATCH.EXE
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = :F_START
+# file: All Programs/Games/Dark Legions/Program.txt = C:
+# file: All Programs/Games/Dark Legions/Program.txt = CD C:\DLEGIONS
+# file: All Programs/Games/Dark Legions/Program.txt = DL.EXE
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = :F_EXIT
+# file: All Programs/Games/Dark Legions/Program.txt = EXIT
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dark Legions/Program.txt
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4657224-dark-legions-dos-front-cover.jpg
+# file: All Programs/Games/Dark Legions/Program.txt = # check: coverart.jpg = bc6af2535592f2df68fb40a7255a3315cf6ab70473897b3a4ecace208eadacc3
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk01.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk1.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk01.img = 5fa785de1ae2a2dfeea7861e6f6401b45f3e24599ce36976985763d20db7c8a6
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk02.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk2.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk02.img = e59ff6205d25fd4382f2d94870f2dc0aa228ed5e84a2215c3c1bb6aadb968cd5
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk03.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk3.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk03.img = c160639531d595b526722512a8ef0da427ce585a86072dbd632458490ba52fce
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk04.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk4.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk04.img = 1cb84894f8974f0a14c58b89811aec7e4d8658926707adf2e109f7d2a081eef1
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk05.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk5.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk05.img = abe12959568f3893e51a96358e958f34d83a1e0307c6f57e53cf1b105e2b7664
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk06.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk6.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk06.img = e0bc949f9e0d14d3e55b8bcec63ac7a4c41b1d412c025809d6273f781356002a
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: disk07.img = https://archive.org/download/000863-DarkLegions/000863_dark_legions.7z/000863_dark_legions%2Fdisk7.img
+# file: All Programs/Games/Dark Legions/Program.txt = # check: disk07.img = 4e0218dc8077f0d8d7b5d0383d0754aca2cc26c3ae5a3bd4d0d3b5f915a1a18e
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Dark_Legions.pdf
+# file: All Programs/Games/Dark Legions/Program.txt = # check: manual.pdf = 50a139fc1454dfe7c5ce875b49126690bbb33222e4a74803a45446d706b26827
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: patch.zip = https://archive.org/download/DL3511_ZIP/DL3511.ZIP
+# file: All Programs/Games/Dark Legions/Program.txt = # check: patch.zip = 7cd70c15e837b512cd6c7af409260aeb4f438ed341cd0e19771aad87c3eeacec
+# file: All Programs/Games/Dark Legions/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Dark Legions/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -3791,6 +3871,221 @@
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # file: Assets/cdrom06.cue = FILE "cdrom06.bin" BINARY
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # file: Assets/cdrom06.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # file: Assets/cdrom06.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Gobliiins/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Gobliiins/Program.txt = #
+# file: All Programs/Games/Gobliiins/Program.txt = # name: Gobliiins
+# file: All Programs/Games/Gobliiins/Program.txt = # name: Gobliiins 1
+# file: All Programs/Games/Gobliiins/Program.txt = # name: Goblins
+# file: All Programs/Games/Gobliiins/Program.txt = # info: Can you help the Good King regain his sanity before you lose yours forever? Your mission is to track down the dark force abusing the Good King's voodoo doll. Find them, stop them, and usher in an era of peace and prosperity. Simple, huh? WRONG! Gobliiins is a warped and wonderful quest, filled with level after level of truly twisted object, inventory, and logic puzzles. You command Hooter, Dwayne, and BoBo, three eager imps with specific skills. Hooter casts spells. Dwayne can pick objects up and use them. BoBo has a mean right hook. Individually, they're no match for the dark force, but together... they're still no match... That's where you come in.
+# file: All Programs/Games/Gobliiins/Program.txt = # info: This game **is not abandonware 🚫** and **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack).
+# file: All Programs/Games/Gobliiins/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/Gobliiins/Program.txt = # tag: Genre = Puzzle
+# file: All Programs/Games/Gobliiins/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Gobliiins/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Gobliiins/Program.txt = # tag: Category = 3rd-person • Fantasy
+# file: All Programs/Games/Gobliiins/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Gobliiins/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Gobliiins_(1991))
+# file: All Programs/Games/Gobliiins/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1154/gobliiins/)
+# file: All Programs/Games/Gobliiins/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gobliiins&gid=1545)
+# file: All Programs/Games/Gobliiins/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/gobliiins-1f1)
+# file: All Programs/Games/Gobliiins/Program.txt = # site: Gobliiins Pack = [GOG 💰](https://www.gog.com/en/game/gobliiins_pack)
+# file: All Programs/Games/Gobliiins/Program.txt = #
+# file: All Programs/Games/Gobliiins/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Gobliiins/Program.txt = # text: - Choose your language.
+# file: All Programs/Games/Gobliiins/Program.txt = # text: - What do you want to install? Press `F1` for **Game**.
+# file: All Programs/Games/Gobliiins/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Gobliiins/Program.txt = # text: - Press `ENTER` to confirm the settings.
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = [sdl]
+# file: All Programs/Games/Gobliiins/Program.txt = autolock = true
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = [cpu]
+# file: All Programs/Games/Gobliiins/Program.txt = core = dynamic
+# file: All Programs/Games/Gobliiins/Program.txt = cputype = pentium
+# file: All Programs/Games/Gobliiins/Program.txt = cycles = max
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = [autoexec]
+# file: All Programs/Games/Gobliiins/Program.txt = @ECHO OFF
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Gobliiins/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = IF NOT EXIST C:\COKTEL\GOB1\GOB.EXE GOTO F_INSTALL
+# file: All Programs/Games/Gobliiins/Program.txt = IF EXIST C:\COKTEL\GOB1\GOB.EXE GOTO F_START
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = :F_INSTALL
+# file: All Programs/Games/Gobliiins/Program.txt = D:
+# file: All Programs/Games/Gobliiins/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Gobliiins/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = :F_START
+# file: All Programs/Games/Gobliiins/Program.txt = C:
+# file: All Programs/Games/Gobliiins/Program.txt = CD C:\COKTEL\GOB1
+# file: All Programs/Games/Gobliiins/Program.txt = GOB.EXE
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = :F_EXIT
+# file: All Programs/Games/Gobliiins/Program.txt = EXIT
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = :F_DEBUG
+# file: All Programs/Games/Gobliiins/Program.txt
+# file: All Programs/Games/Gobliiins/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6496085-gobliiins-dos-other.jpg
+# file: All Programs/Games/Gobliiins/Program.txt = # check: coverart.jpg = 62c747cb4066eb637802e60c7a01a09dd69a4dbeac523c471c074169be8189c4
+# file: All Programs/Games/Gobliiins/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Gobliiins_1_1991/Gobliiins_1_1991.zip/gob1%2Fcd%2FGobliiins.bin
+# file: All Programs/Games/Gobliiins/Program.txt = # check: cdrom.bin = f8ef06e14513c0aa49e3ebd863ea3281a316458ffc13f7523ce6091783b98e7f
+# file: All Programs/Games/Gobliiins/Program.txt = # asset: manual.pdf = https://archive.org/download/Gobliiins_-_Manual/Gobliiins_-_Manual.pdf
+# file: All Programs/Games/Gobliiins/Program.txt = # check: manual.pdf = 6655a86ae177bf54b0e5620a51964f526e6c48271d70b3faca4fec87a6524a54
+# file: All Programs/Games/Gobliiins/Program.txt = #
+# file: All Programs/Games/Gobliiins/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Gobliiins/Program.txt = # file: Assets/cdrom.cue = REM SESSION 01
+# file: All Programs/Games/Gobliiins/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Gobliiins/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Gobliiins/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Gobliiins/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 01:28:16
+#
+#
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = #
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # name: Gobliins 2: The Prince Buffoon
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # name: Goblins 2
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # info: Have you seen the three mischievous Gobliiins yet, those irresistibly funny and unpredictable characters? This time there are two of them: Angus, the diplomat, and Winkle, the practical joker. They set off to find a kidnapped young Prince by the evil Demon King. This imposter is trying to make a jester out of him. How wicked! Never forget that to progress through this action-packed adventure littered with traps, Fingus and Winkle often have to work together to combine strength and deceit, resulting in a couple of cheeky characters.
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # info: This game **is not abandonware 🚫** and **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack).
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # tag: Genre = Puzzle
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # tag: Category = 3rd-person • Fantasy
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Gobliins_2:_The_Prince_Buffoon_(1992))
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2625/gobliins-2-the-prince-buffoon/)
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gobliins+2%3A+The+Prince+Buffoon&gid=2129)
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/gobliins-2-the-prince-buffoon-2jc)
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # site: Gobliiins Pack = [GOG 💰](https://www.gog.com/en/game/gobliiins_pack)
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = #
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # text: - Choose your language.
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # text: - What do you want to install? Press `F1` for **Game**.
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # text: - Press `ENTER` to confirm the settings.
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = [sdl]
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = autolock = true
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = [cpu]
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = core = dynamic
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = cputype = pentium
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = cycles = max
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = [autoexec]
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = @ECHO OFF
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = IF NOT EXIST C:\COKTEL\GOBLIINS\GOB2.EXE GOTO F_INSTALL
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = IF EXIST C:\COKTEL\GOBLIINS\GOB2.EXE GOTO F_START
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = :F_INSTALL
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = D:
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = :F_START
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = C:
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = CD C:\COKTEL\GOBLIINS
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = GOB2.EXE
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = :F_EXIT
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = EXIT
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = :F_DEBUG
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/26374-gobliins-2-the-prince-buffoon-dos-front-cover.jpg
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # check: coverart.jpg = 2d23eee39e650e37b3c6aeb51d99a1711b87c62317f7afa00b3286b309f8fe42
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Gobliins_2_1992/Gobliins_2_1992.zip/gob2%2Fcd%2Fgob2.BIN
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # check: cdrom.bin = e5781a58eded1186f09a9ed3d778a85058836ebe434bf451c123cbc7f5b1b83c
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # asset: manual.pdf = https://archive.org/download/Gobliins_2_-_Manual/Gobliins_2_-_Manual.pdf
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # check: manual.pdf = f12d3db0e4cbe1614a90bb5d18064ef9cf49fef2dc2f9d1b8613c8d2b3c93871
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = #
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # file: Assets/cdrom.cue = REM SESSION 01
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Gobliins 2 - The Prince Buffoon/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 01:29:27
+#
+#
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Goblins Quest 3/Program.txt = #
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # name: Goblins Quest 3
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # name: Goblin's Quest 3
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # name: Goblins 3
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # info: Can you help the Good King regain his sanity before you lose yours forever? Your mission is to track down the dark force abusing the Good King's voodoo doll. Find them, stop them, and usher in an era of peace and prosperity. Simple, huh? WRONG! Gobliiins is a warped and wonderful quest, filled with level after level of truly twisted object, inventory, and logic puzzles. You command Hooter, Dwayne, and BoBo, three eager imps with specific skills. Hooter casts spells. Dwayne can pick objects up and use them. BoBo has a mean right hook. Individually, they're no match for the dark force, but together... they're still no match... That's where you come in.
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # info: This game **is not abandonware 🚫** and **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack).
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # tag: Genre = Puzzle
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # tag: Category = 3rd-person • Fantasy
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Goblins_Quest_3_(1993))
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2870/goblins-quest-3/)
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Goblins+3&gid=2244)
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/goblins-quest-3-1zc)
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # site: Gobliiins Pack = [GOG 💰](https://www.gog.com/en/game/gobliiins_pack)
+# file: All Programs/Games/Goblins Quest 3/Program.txt = #
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # text: - Choose your language.
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # text: - Press `F1` to select **Complete installation 116.5 MB**.
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # text: - Press `ENTER` to confirm the settings.
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = [sdl]
+# file: All Programs/Games/Goblins Quest 3/Program.txt = autolock = true
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = [cpu]
+# file: All Programs/Games/Goblins Quest 3/Program.txt = core = dynamic
+# file: All Programs/Games/Goblins Quest 3/Program.txt = cputype = pentium
+# file: All Programs/Games/Goblins Quest 3/Program.txt = cycles = max
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = [autoexec]
+# file: All Programs/Games/Goblins Quest 3/Program.txt = @ECHO OFF
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Goblins Quest 3/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = IF NOT EXIST C:\COKTEL\GOB3\GOB3.EXE GOTO F_INSTALL
+# file: All Programs/Games/Goblins Quest 3/Program.txt = IF EXIST C:\COKTEL\GOB3\GOB3.EXE GOTO F_START
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = :F_INSTALL
+# file: All Programs/Games/Goblins Quest 3/Program.txt = D:
+# file: All Programs/Games/Goblins Quest 3/Program.txt = INSTALL.COM
+# file: All Programs/Games/Goblins Quest 3/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = :F_START
+# file: All Programs/Games/Goblins Quest 3/Program.txt = C:
+# file: All Programs/Games/Goblins Quest 3/Program.txt = CD C:\COKTEL\GOB3
+# file: All Programs/Games/Goblins Quest 3/Program.txt = GOB3.EXE
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = :F_EXIT
+# file: All Programs/Games/Goblins Quest 3/Program.txt = EXIT
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = :F_DEBUG
+# file: All Programs/Games/Goblins Quest 3/Program.txt
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6223749-goblins-quest-3-dos-front-cover.jpg
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # check: coverart.jpg = 22bcf0f856522a35541d6a266f18488f41acff7d411b6da7273747edd7aebf03
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Goblins_3_1993/Goblins_3_1993.zip/gob3%2Fcd%2Fgob3.BIN
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # check: cdrom.bin = 075a466f16a04dae78b8fc596f744ab895802910dc61163b039871884be2aadd
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # asset: manual.pdf = https://www.starehry.eu/download/adventure/docs/Goblins.3-Manual.pdf
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # check: manual.pdf = d3c306b7a5bf234f148d37f5c6404f178182396a41861a66b8854d07e77cf28b
+# file: All Programs/Games/Goblins Quest 3/Program.txt = #
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # file: Assets/cdrom.cue = REM SESSION 01
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Goblins Quest 3/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 31:36:20
 #
 #
 # file: All Programs/Games/God of Thunder/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -4955,6 +5250,85 @@
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # check: cdrom.iso = 4715e3f70397c02208e1e55dabbff2b41ac4685677a3052843d9dfba02af9c38
 #
 #
+# file: All Programs/Games/Mission Critical/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Mission Critical/Program.txt = #
+# file: All Programs/Games/Mission Critical/Program.txt = # name: Mission Critical
+# file: All Programs/Games/Mission Critical/Program.txt = # info: After a savage battle in deep space, you are the only survivor aboard the USS Lexington, a badly damaged heavy cruiser. Your mission is to repair the hobbled ship and fend off the upcoming onslaught. Only then can you venture to an unexplored world 68 light years from Earth and discover the secret that could save the universe from interplanetary war.
+# file: All Programs/Games/Mission Critical/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/mission_critical) and [Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/).
+# file: All Programs/Games/Mission Critical/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Mission Critical/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Mission Critical/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Mission Critical/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Mission Critical/Program.txt = # tag: Category = 1st-person • Real-time • Graphic adventure • Post-apocalyptic • Sci-fi
+# file: All Programs/Games/Mission Critical/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Mission Critical/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Mission_Critical_(video_game))
+# file: All Programs/Games/Mission Critical/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1651/mission-critical/)
+# file: All Programs/Games/Mission Critical/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mission+Critical&gid=2457)
+# file: All Programs/Games/Mission Critical/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/mission-critical-a36)
+# file: All Programs/Games/Mission Critical/Program.txt = # site: [GOG 💰](https://gog.com/en/game/mission_critical)
+# file: All Programs/Games/Mission Critical/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/)
+# file: All Programs/Games/Mission Critical/Program.txt = #
+# file: All Programs/Games/Mission Critical/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Mission Critical/Program.txt = # text: - Installation Options: **Optimum Performance Installation**.
+# file: All Programs/Games/Mission Critical/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Mission Critical/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Mission Critical/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Mission Critical/Program.txt = # text:
+# file: All Programs/Games/Mission Critical/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Mission Critical/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Mission Critical/Program.txt = # text:   1. Mission Critical Disc #1
+# file: All Programs/Games/Mission Critical/Program.txt = # text:   2. Mission Critical Disc #2
+# file: All Programs/Games/Mission Critical/Program.txt = # text:   3. Mission Critical Disc #3
+# file: All Programs/Games/Mission Critical/Program.txt = # text:
+# file: All Programs/Games/Mission Critical/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Mission Critical/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Mission Critical/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Mission Critical/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = [sdl]
+# file: All Programs/Games/Mission Critical/Program.txt = autolock = true
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = [cpu]
+# file: All Programs/Games/Mission Critical/Program.txt = core = dynamic
+# file: All Programs/Games/Mission Critical/Program.txt = cputype = pentium
+# file: All Programs/Games/Mission Critical/Program.txt = cycles = max
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = [autoexec]
+# file: All Programs/Games/Mission Critical/Program.txt = @ECHO OFF
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Mission Critical/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" "./Assets/cdrom03.iso" -t iso
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = IF NOT EXIST C:\MISSION\MISSION.EXE GOTO F_INSTALL
+# file: All Programs/Games/Mission Critical/Program.txt = IF EXIST C:\MISSION\MISSION.EXE GOTO F_START
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = :F_INSTALL
+# file: All Programs/Games/Mission Critical/Program.txt = D:
+# file: All Programs/Games/Mission Critical/Program.txt = CD D:\MISSION
+# file: All Programs/Games/Mission Critical/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = :F_START
+# file: All Programs/Games/Mission Critical/Program.txt = C:
+# file: All Programs/Games/Mission Critical/Program.txt = CD C:\MISSION
+# file: All Programs/Games/Mission Critical/Program.txt = MISSION.EXE
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = :F_EXIT
+# file: All Programs/Games/Mission Critical/Program.txt = EXIT
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = :F_DEBUG
+# file: All Programs/Games/Mission Critical/Program.txt
+# file: All Programs/Games/Mission Critical/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/935064-mission-critical-dos-front-cover.jpg
+# file: All Programs/Games/Mission Critical/Program.txt = # check: coverart.jpg = b3d4b9d936145c5357885f2f6f7f81a1abc08223c90bb4cdc5e9c8722baad5fa
+# file: All Programs/Games/Mission Critical/Program.txt = # asset: cdrom01.iso = https://archive.org/download/mission-critical/Mission%20Critical%20%281995%29%28Legend%29%28Disc%201%20of%203%29.iso
+# file: All Programs/Games/Mission Critical/Program.txt = # check: cdrom01.iso = 7081b8f99424532519c4eb49dffcef84649cff22cd1f6adec3d4f682e4ba418a
+# file: All Programs/Games/Mission Critical/Program.txt = # asset: cdrom02.iso = https://archive.org/download/mission-critical/Mission%20Critical%20%281995%29%28Legend%29%28Disc%202%20of%203%29.iso
+# file: All Programs/Games/Mission Critical/Program.txt = # check: cdrom02.iso = 9b3d430c8495903a3570194773f4c2b7707518bfabdac1c03406f3af8612f256
+# file: All Programs/Games/Mission Critical/Program.txt = # asset: cdrom03.iso = https://archive.org/download/mission-critical/Mission%20Critical%20%281995%29%28Legend%29%28Disc%203%20of%203%29.iso
+# file: All Programs/Games/Mission Critical/Program.txt = # check: cdrom03.iso = 436cc1c3616bc946000ece6649ba173f33de93ba3d97d9dd2e4e28895566256b
+# file: All Programs/Games/Mission Critical/Program.txt = # asset: manual.pdf = https://archive.org/download/vgmuseum_legend_missioncritical-manual/missioncritical-manual.pdf
+# file: All Programs/Games/Mission Critical/Program.txt = # check: manual.pdf = 8a415a9de874f551afb49b36793b1fb4de9c3b88282e5d04d690d42186213faf
+#
+#
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = #
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # name: The Secret of Monkey Island
@@ -5141,7 +5515,7 @@
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Wikipedia - Oddworld Series](https://en.wikipedia.org/wiki/Oddworld)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1058/oddworld-abes-oddysee/)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/oddworld-abe-s-oddysee-cqh)
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Oddworld Fandom - Oddworld: Abe's Oddysee](https://oddworld.fandom.com/wiki/Oddworld:_Abe%27s_Oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Oddworld Fandom](https://oddworld.fandom.com/wiki/Oddworld:_Abe%27s_Oddysee)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee)
@@ -5255,25 +5629,17 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # info: Prince of Persia = While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out.
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # info: Prince of Persia 2: The Shadow and the Flame = The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond.
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Year = 1990
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Year = 1993 (The Shadow and the Flame)
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Year (The Shadow and the Flame) = 1993
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Genre = Action
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Category = Side view • Platform • Puzzle elements • Middle East
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Compilation • Copy Protection
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Wikipedia - Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game))
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Wikipedia - Prince of Persia 2: The Shadow and the Flame](https://en.wikipedia.org/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame)
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Prince of Persia = [Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)) • [MobyGames](https://www.mobygames.com/game/196/prince-of-persia/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia&gid=551) • [MyAbandonware](https://www.myabandonware.com/game/prince-of-persia-pd) • [Prince of Persia Fandom](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_(1989))
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Prince of Persia 2: The Shadow and the Flame = [Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame) • [MobyGames](https://www.mobygames.com/game/78/prince-of-persia-2-the-shadow-the-flame/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia+2%3A+The+Shadow+and+the+Flame&gid=1156) • [MyAbandonware](https://www.myabandonware.com/game/prince-of-persia-2-the-shadow-the-flame-29j) • [Prince of Persia Fandom](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Wikipedia - Prince of Persia Series](https://en.wikipedia.org/wiki/Prince_of_Persia)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MobyGames - Prince of Persia](https://www.mobygames.com/game/196/prince-of-persia/)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MobyGames - Prince of Persia 2: The Shadow and the Flame](https://www.mobygames.com/game/78/prince-of-persia-2-the-shadow-the-flame/)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MobyGames - Prince of Persia CD Collection (1995)](https://www.mobygames.com/game/16597/prince-of-persia-cd-collection/)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [AbandonwareDOS - Prince of Persia](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia&gid=551)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [AbandonwareDOS - Prince of Persia 2: The Shadow and the Flame](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia+2%3A+The+Shadow+and+the+Flame&gid=1156)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MyAbandonware - Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MyAbandonware - Prince of Persia 2: The Shadow and the Flame](https://www.myabandonware.com/game/prince-of-persia-2-the-shadow-the-flame-29j)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Prince of Persia Fandom - Prince of Persia](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_(1989))
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Prince of Persia Fandom - Prince of Persia 2: The Shadow and the Flame](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = #
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # text: - Installing Prince of Persia
@@ -5514,6 +5880,279 @@
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Shannara/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Shannara/Program.txt = #
+# file: All Programs/Games/Shannara/Program.txt = # name: Shannara
+# file: All Programs/Games/Shannara/Program.txt = # info: Brona, the ancient Warlock King, has returned! Slain decades ago, Brona's evil spirit has returned to wreak revenge upon those who killed him. Now, only the combined magic of the races can destroy him. You are Jak Ohmsford. Only you can overcome the ancestral hatreds that divide the Four Lands. And only you can wield the magic that will defeat Brona. It is your destiny to save your homeland-but the price is far higher than you could have ever imagined.
+# file: All Programs/Games/Shannara/Program.txt = # info: This game **is not abandonware 🚫** and used to be for sale on **Ziggurat**. However, it is no longer available digitally anymore.
+# file: All Programs/Games/Shannara/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Shannara/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Shannara/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Shannara/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Shannara/Program.txt = # tag: Category = 1st-person • Puzzle elements • Fantasy
+# file: All Programs/Games/Shannara/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Shannara/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Shannara_(video_game))
+# file: All Programs/Games/Shannara/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3208/shannara/)
+# file: All Programs/Games/Shannara/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shannara&gid=2464)
+# file: All Programs/Games/Shannara/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/shannara-2t8)
+# file: All Programs/Games/Shannara/Program.txt = #
+# file: All Programs/Games/Shannara/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Shannara/Program.txt = # text: - Installation Options: **Optimum Performance Installation**.
+# file: All Programs/Games/Shannara/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Shannara/Program.txt = # text:   - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Shannara/Program.txt = # text:   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = [sdl]
+# file: All Programs/Games/Shannara/Program.txt = autolock = true
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = [cpu]
+# file: All Programs/Games/Shannara/Program.txt = core = dynamic
+# file: All Programs/Games/Shannara/Program.txt = cputype = pentium
+# file: All Programs/Games/Shannara/Program.txt = cycles = max
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = [autoexec]
+# file: All Programs/Games/Shannara/Program.txt = @ECHO OFF
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Shannara/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = IF NOT EXIST C:\SHANNARA\SHANNARA.EXE GOTO F_INSTALL
+# file: All Programs/Games/Shannara/Program.txt = IF EXIST C:\SHANNARA\SHANNARA.EXE GOTO F_START
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = :F_INSTALL
+# file: All Programs/Games/Shannara/Program.txt = D:
+# file: All Programs/Games/Shannara/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = :F_START
+# file: All Programs/Games/Shannara/Program.txt = C:
+# file: All Programs/Games/Shannara/Program.txt = CD C:\SHANNARA
+# file: All Programs/Games/Shannara/Program.txt = SHANNARA.EXE
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = :F_EXIT
+# file: All Programs/Games/Shannara/Program.txt = EXIT
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = :F_DEBUG
+# file: All Programs/Games/Shannara/Program.txt
+# file: All Programs/Games/Shannara/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4086076-shannara-dos-front-cover.jpg
+# file: All Programs/Games/Shannara/Program.txt = # check: coverart.jpg = 0f67e56599792cf16d8553648e9a577118514d71d4ef57b3338c7350d3bb11de
+# file: All Programs/Games/Shannara/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Shannara_1995/Shannara_1995.zip/shannara%2Fcd%2FShannara.bin
+# file: All Programs/Games/Shannara/Program.txt = # check: cdrom.bin = dc8e620550df2aadc0e8b64dd1112f82b9db6b30572adb09478298f05df7f40e
+# file: All Programs/Games/Shannara/Program.txt = # asset: manual.pdf = https://www.oldgames.sk/downloads/oldgames/adventure/Shannara/Shannara-Manual.pdf
+# file: All Programs/Games/Shannara/Program.txt = # check: manual.pdf = 29c442c088e9bf9d29954ef9568dd6259d6fd38a9ff10fa2db3b75be3d9188f0
+# file: All Programs/Games/Shannara/Program.txt = #
+# file: All Programs/Games/Shannara/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Shannara/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Shannara/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = #
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # name: Sid Meier's Colonization
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # name: Colonization
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # name: Sid Meier's Colonization: Create A New Nation
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # info: Before you lie the promise that is the New World with all its peril and infinite possibility. Vast, lush green tracts of forest; freezing, crystal clear mountain rivers; plains stretching as far as the eye can see. Be its master! Colonization from Sid Meier. A story of discovery, exploration and territorial independence. Play the colonist, conquistador and diplomat facing the challenges and frustrations of building a new independent nation. Choose the European power you want to represent: French, Spanish, Dutch, or British. Use the wealth of the land to build up your position. Use deceit and force to outwit rivals. Use trade alliances to forge friendships and create new industries - all while holding back the possibility of revolt.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sid_meiers_colonization) and [Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/).
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Genre = Simulation • Strategy
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Category = Top-down • Turn-based • 4X • Managerial • Turn-based strategy • Europe • North America • South America • Historical events
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Patched
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/366/sid-meiers-colonization/)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Colonization&gid=1244)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-colonization-28t)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Civilization Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Colonization)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [GOG 💰](https://gog.com/en/game/sid_meiers_colonization)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = #
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text:
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: ### How to play this game on a larger display resolution?
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: - Select **2. Run Windows Setup** at program start-up.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: - Change **Display** settings to _**S3 ... [width]x[height] 256 colors SF.**_
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text:   - Replace *[width]x[height]* with your desired screen resolution, e.g. 800x600 or 1024x768.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text:   - Only select a display option that ends with *256 colors SF* as it is the most widely used format in games.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: - Accept the configuration shown above.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # text: - Press `ENTER` when prompted to **Keep Driver**.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [sdl]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = autolock = true
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [dosbox]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = memsize = 256
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [render]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = scaler = none
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [video]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = vmemsize = 4
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [cpu]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = core = normal
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = cycles = max
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [dos]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [ide, primary]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = int13fakeio = true
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = [autoexec]
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = @ECHO OFF
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = IF NOT EXIST C:\MPS\COLWIN\COLONIZE.EXE GOTO F_INSTALL
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = IF EXIST C:\MPS\COLWIN\COLONIZE.EXE GOTO F_START
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = :F_INSTALL
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = C:
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = COPY C:\RUNEXIT.EXE C:\MPS\COLWIN
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = CD C:\MPS\COLWIN
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = :F_START
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = CLS
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = ECHO Sid Meier's Colonization
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = ECHO.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = ECHO 1. Play Colonization
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = ECHO 2. Run Windows Setup
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = ECHO.
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = IF ERRORLEVEL==2 GOTO F_SETUP
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = IF ERRORLEVEL==1 GOTO F_MAIN
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = :F_MAIN
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = C:
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = C:\WINDOWS\WIN.COM C:\MPS\COLWIN\RUNEXIT.EXE C:\MPS\COLWIN\COLONIZE.EXE
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = :F_SETUP
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = C:
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = CD C:\WINDOWS
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = SETUP.EXE
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = GOTO F_START
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = :F_EXIT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = EXIT
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = :F_DEBUG
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8221939-sid-meiers-colonization-windows-3x-front-cover.jpg
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # check: coverart.jpg = 8b6da7b367becaafddd14cd8cb90758b6293b7c6e676fd2c14f110dc47fda13d
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # asset: cdrom.bin = https://archive.org/download/colonize_202105/Colonize.bin
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # check: cdrom.bin = c6cc7b4df36c904d8920b6092535d3649607655ced528d6724adba185722ca3c
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # asset: manual.pdf = https://archive.org/download/colonization-instruction-manual/Colonization-InstructionManual.pdf
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # check: manual.pdf = 8d0a832d0f32b53bf0342256184c77f37326dfa1b4b014e9ad852c4eb7ff6c52
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # asset: cards.pdf = https://archive.org/download/colonization-instruction-manual/Colonization-PlayerAidCards.pdf
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # check: cards.pdf = 73904518b4676d6a4b8e41f611183e045efe35deebff83afdaef70c2e44380e4
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # asset: supplement.pdf = https://archive.org/download/colonization-instruction-manual/Colonization-TechnicalSupplement.pdf
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # check: supplement.pdf = 5b209a8073732752d1cd2e63a81ffcb8ca8043a6c9fd7abcdd8d8d3cfce0a34f
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # asset: patch.zip = https://archive.org/download/COLV30_ZIP/COLV30.ZIP
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # check: patch.zip = 32086f650adc8848d8a323382cb801ff3f198fd8971ad0c747f12c9a4e91ca34
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = #
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 03:56:50
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 06:02:25
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 06:04:24
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 07:17:55
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 07:19:54
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 09:44:58
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 09:46:57
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 10:41:65
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 10:43:64
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 11:48:04
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 11:50:03
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 12:37:07
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 12:39:06
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 13:24:09
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 13:26:08
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 14:47:45
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 14:49:44
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 16:22:62
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:24:60
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 18:03:14
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 18:05:13
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 18:27:15
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 18:29:14
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 19:54:69
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 19:56:68
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 20:45:14
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 20:47:13
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 22:10:37
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 22:12:36
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 24:02:69
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 24:04:68
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 18 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 25:04:73
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 25:06:72
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 19 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 26:49:12
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 26:51:11
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 20 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 27:22:30
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 27:24:29
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 21 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 28:41:01
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 28:43:00
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 22 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 29:35:30
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:37:29
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 23 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 30:43:51
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 30:45:50
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 24 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 32:12:69
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 32:14:68
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 25 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 33:39:72
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 33:41:71
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 26 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 34:56:00
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 34:57:74
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =   TRACK 27 AUDIO
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 35:42:16
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 35:44:15
 #
 #
 # file: All Programs/Games/SimCity/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -5972,6 +6611,65 @@
 # file: All Programs/Games/Supaplex/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = #
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # name: Superhero League of Hoboken
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # info: The United States is a nightmare land of toxic waste, melted ice caps, and desperate shortages of oat bran. Horrible mutations roam the countryside, monsters spawned by radiation, environmental toxins, and unregulated bioengineering. But in a tiny corner of New Jersey, a small group of Superheroes has banded together. Their mission is to nurture the rebirth of a new society, to ease the suffering of the dark age, and to provide a place where Superheroes can always find a date on Saturday night.
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken) and [Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/).
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # tag: Genre = Adventure • Role-playing
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # tag: Category = 1st-person • Top-down • Puzzle elements • North America • Post-apocalyptic • Sci-fi • Comedy
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Superhero_League_of_Hoboken)
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1559/superhero-league-of-hoboken/)
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Superhero+League+of+Hoboken&gid=1938)
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/superhero-league-of-hoboken-2uv)
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken)
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/)
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = #
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # text: - Music Card: **Sound Blaster or compatible**.
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # text: - Digitized Sound: **Sound Blaster or compatible**.
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # text: - Sound Blaster IRQ: **IRQ 7**.
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # text: - Sound Blaster I/O Address: **220H**.
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = [sdl]
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = autolock = true
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = [autoexec]
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = @ECHO OFF
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = IF NOT EXIST C:\HOBOKEN\SLH.EXE GOTO F_INSTALL
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = IF EXIST C:\HOBOKEN\SLH.EXE GOTO F_START
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = :F_INSTALL
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = D:
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = :F_START
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = C:
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = CD C:\HOBOKEN
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = SLH.EXE
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = :F_EXIT
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = EXIT
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = :F_DEBUG
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8849733-superhero-league-of-hoboken-dos-front-cover.jpg
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # check: coverart.jpg = 4a6479bcfaef9ed6ccc4280fd5a429a41f4b6794f8784d6429392dfa7eb4ee7b
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # asset: cdrom.iso = https://archive.org/download/superhero-league-of-hoboken/Superhero%20League%20of%20Hoboken%20%281995%29%28Legend%29.iso
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # check: cdrom.iso = cdf2cfddff7fb37016a76644514a0f2f2c084a214407597db184b4cdb431b01a
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # asset: manual.pdf = https://www.starehry.eu/download/adventure/docs/Superhero-League-of-Hoboken_Manual.pdf
+# file: All Programs/Games/Superhero League of Hoboken/Program.txt = # check: manual.pdf = c52a70997aa86bacbd8a15f835151d9261c604963655ab8b2cc02a21461388f0
+#
+#
 # file: All Programs/Games/Teen Agent/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Teen Agent/Program.txt = #
 # file: All Programs/Games/Teen Agent/Program.txt = # name: Teen Agent
@@ -6368,7 +7066,7 @@
 #
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = #
-# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # name: The Even More Incredible Machine
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # name: The Even More! Incredible Machine
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # name: The Incredible Machine
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # info: It's time to strap on your inventor's helmet, crank up your machine and hang on! Blow up brick walls with bundles of dynamite. Knock bowling bowls onto conveyer belts with spring-loaded boxing gloves. Rummage through 50+ nifty gadgets and wacky devices in the parts bin. You will do a gazillion strange and fun things as you solve the 160 puzzles.
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Year = 1993
@@ -6380,11 +7078,9 @@
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Copy Protection
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game))
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
-# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2473/the-incredible-machine/)
-# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MobyGames - The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020)
-# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-1mg)
-# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MyAbandonware - The Even More Incredible Machine](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: Mega Pack = [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = #
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: ## Installation Notes
@@ -6647,6 +7343,166 @@
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =   TRACK 25 AUDIO
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     ISRC 9?40?6500542
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 54:15:36
+#
+#
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = #
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: The Lost Adventures of Legend
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Companions of Xanth
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Eric the Unready
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Spellcasting 101: Sorcerers get all the Girls
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Spellcasting 201: The Sorcerer's Appliance
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Spellcasting 301: Spring Break • Steve Meretzky's Spellcasting 301: Spring Break
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Gateway • Frederik Pohl's Gateway
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Gateway II: Homeworld
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # name: Timequest
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # info: The Lost Adventures is a compilation of eight award-winning adventures spanning the sci-fi, fantasy and comedy categories.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # info: Besides **Gateway**, all the games in this compilation **are not abandonware 🚫**. Two games, **Companions of Xanth** and **Gateway II: Homeworld**, are no longer available digitally. Other games are available on *GOG 💰* and *Steam 💰* (see below).
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Companions of Xanth) = 1993
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Eric the Unready) = 1993
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Spellcasting 101: Sorcerers get all the Girls) = 1990
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Spellcasting 201: The Sorcerer's Appliance) = 1991
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Spellcasting 301: Spring Break) = 1992
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Gateway) = 1992
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Gateway II: Homeworld) = 1993
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Year (Timequest) = 1991
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: License (Gateway) = Abandonware
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Companions of Xanth) = 1st-person • Graphic adventure • Puzzle elements • Fantasy • Comedy
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Eric the Unready) = Interactive fiction • Fantasy • Comedy
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Spellcasting 101: Sorcerers get all the Girls) = Interactive fiction • Puzzle elements • Fantasy • Adult • Comedy
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Spellcasting 201: The Sorcerer's Appliance) = Interactive fiction • Puzzle elements • Fantasy • Adult • Comedy
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Spellcasting 301: Spring Break) = Interactive fiction • Puzzle elements • Fantasy • Adult • Comedy
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Gateway) = Interactive fiction • Puzzle elements • Sci-fi
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Gateway II: Homeworld) = Interactive fiction • Puzzle elements • Sci-fi
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Category (Timequest) = Interactive fiction • Puzzle elements • Sci-fi
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # tag: Compilation
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: The Lost Adventures of Legend = [MobyGames](https://www.mobygames.com/game/1338/the-lost-adventures-of-legend/)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Companions of Xanth = [Wikipedia](https://en.wikipedia.org/wiki/Companions_of_Xanth) • [MobyGames](https://www.mobygames.com/game/319/companions-of-xanth/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Companions+of+Xanth&gid=959) • [MyAbandonware](https://www.myabandonware.com/game/companions-of-xanth-1yy)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Eric the Unready = [Wikipedia](https://en.wikipedia.org/wiki/Eric_the_Unready) • [MobyGames](https://www.mobygames.com/game/431/eric-the-unready/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Eric+the+Unready&gid=1303) • [MyAbandonware](https://www.myabandonware.com/game/eric-the-unready-2nv) • [GOG 💰](https://www.gog.com/en/game/eric_the_unready) • [Steam 💰](https://store.steampowered.com/app/1006450/Eric_The_Unready/)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Spellcasting 101: Sorcerers get all the Girls = [Wikipedia](https://en.wikipedia.org/wiki/Spellcasting_101:_Sorcerers_Get_All_the_Girls) • [MobyGames](https://www.mobygames.com/game/1027/spellcasting-101-sorcerers-get-all-the-girls/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Spellcasting+101%3A+Sorcerers+get+all+the+girls&gid=1257) • [MyAbandonware](https://www.myabandonware.com/game/spellcasting-101-sorcerers-get-all-the-girls-10m) • [GOG 💰](https://www.gog.com/en/game/spellcasting_123) • [Steam 💰](https://store.steampowered.com/app/1028460/Spellcasting_Collection/)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Spellcasting 201: The Sorcerer's Appliance = [Wikipedia](https://en.wikipedia.org/wiki/Spellcasting_201:_The_Sorcerer%27s_Appliance) • [MobyGames](https://www.mobygames.com/game/1083/spellcasting-201-the-sorcerers-appliance/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Spellcasting+201%3A+The+Sorcerer%27s+Appliance&gid=1322) • [MyAbandonware](https://www.myabandonware.com/game/spellcasting-201-the-sorcerer-s-appliance-19l) • [GOG 💰](https://www.gog.com/en/game/spellcasting_123) • [Steam 💰](https://store.steampowered.com/app/1028460/Spellcasting_Collection/)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Spellcasting 301: Spring Break = [Wikipedia](https://en.wikipedia.org/wiki/Spellcasting_301:_Spring_Break) • [MobyGames](https://www.mobygames.com/game/1028/steve-meretzkys-spellcasting-301-spring-break/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Spellcasting+301%3A+Spring+Break&gid=1357) • [MyAbandonware](https://www.myabandonware.com/game/steve-meretzky-s-spellcasting-301-spring-break-1ld) • [GOG 💰](https://www.gog.com/en/game/spellcasting_123) • [Steam 💰](https://store.steampowered.com/app/1028460/Spellcasting_Collection/)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Gateway = [Wikipedia](https://en.wikipedia.org/wiki/Gateway_(video_game)) • [MobyGames](https://www.mobygames.com/game/317/frederik-pohls-gateway/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Frederik+Pohl%27s+Gateway&gid=1361) • [MyAbandonware](https://www.myabandonware.com/game/frederik-pohl-s-gateway-1er)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Gateway II: Homeworld = [Wikipedia](https://en.wikipedia.org/wiki/Gateway_II:_Homeworld) • [MobyGames](https://www.mobygames.com/game/318/gateway-ii-homeworld/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gateway+2%3A+Homeworld&gid=1829) • [MyAbandonware](https://www.myabandonware.com/game/gateway-ii-homeworld-2a9)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # site: Timequest = [Wikipedia](https://en.wikipedia.org/wiki/Timequest) • [MobyGames](https://www.mobygames.com/game/1026/timequest/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Timequest&gid=2045) • [MyAbandonware](https://www.myabandonware.com/game/timequest-1ac) • [GOG 💰](https://gog.com/en/game/timequest) • [Steam 💰](https://store.steampowered.com/app/1297560/Timequest/)
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = #
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # text: - Press `ESC` to continue installing all the games.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # text: - Music and Sound Device: **Creative Labs Sound Blaster or compatible**.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # text: - Sound Blaster IRQ: **IRQ 7**.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # text: - Sound Blaster I/O Address: **220H**.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # text: - Use the default **drive** and **directory** for all the installation locations.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = [sdl]
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = autolock = true
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = [autoexec]
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF NOT EXIST C:\XANTH\XANTH.EXE GOTO F_INSTALL
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF EXIST C:\XANTH\XANTH.EXE GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = D:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = INSTALL.EXE
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CLS
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO The Lost Adventures of Legend
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 1. Play Companions of Xanth
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 2. Play Eric the Unready
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 3. Play Spellcasting 101: Sorcerers Get All the Girls
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 4. Play Spellcasting 201: The Sorcerer's Appliance
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 5. Play Spellcasting 301: Spring Break
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 6. Play Gateway
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 7. Play Gateway II: Homeworld
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 8. Play Timequest
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO 9. Exit Program
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = ECHO.
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CHOICE /C:123456789 /N "Please select:"
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==9 GOTO F_EXIT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==8 GOTO F_TQ
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==7 GOTO F_GW2
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==6 GOTO F_GW
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==5 GOTO F_S301
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==4 GOTO F_S201
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==3 GOTO F_S101
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==2 GOTO F_ERIC
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = IF ERRORLEVEL==1 GOTO F_XANTH
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_XANTH
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\XANTH
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_ERIC
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\ERIC
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_S101
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\S101
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_S201
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\S201
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_S301
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\S301
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_GW
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\GW
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_GW2
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\GW2
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_TQ
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = C:
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CD C:\TQ
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = CALL LEGEND.BAT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = GOTO F_START
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_EXIT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = EXIT
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/29932-the-lost-adventures-of-legend-dos-front-cover.jpg
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # check: coverart.jpg = bd63ca388155cfe9bc7cf59ba88d6866e0788d47dc3b7eb47f7dbd883ab80c55
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # asset: cdrom.bin = https://archive.org/download/lost-adventures-of-legend-the-usa/Lost%20Adventures%20of%20Legend%2C%20The%20%28USA%29.zip/Lost%20Adventures%20of%20Legend%2C%20The%20%28USA%29.bin
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # check: cdrom.bin = 3d703b92e958cd709eec32b4c350d452df5e8a8657f94f853d4e47124805635e
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # asset: manual.pdf = https://archive.org/download/manual-lost-adventures-of-legend/lostadv-manual.pdf
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # check: manual.pdf = 775d18f0cfd81116f4eee04c70c49497e3ade486dc1ce854c3dbcd24cffcccb9
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = #
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/The Lost Vikings/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -7079,6 +7935,193 @@
 # file: All Programs/Games/Titanic - Adventure Out of Time/Program.txt = # check: manual.pdf = b09935713f52c6b386fb35891099a8db0a44dceb7cca94921ca01e8168bf446d
 #
 #
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = #
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # name: Tomb Raider Gold
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # name: Tomb Raider 1
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # name: Tomb Raider: Unfinished Business
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # name: Tomb Raider featuring Lara Croft
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # info: Adventurer Lara Croft is on a quest to recover the pieces of an ancient artifact known as the Scion. With her fearless acrobatic style, she runs, jumps, swims and climbs her way toward the truth of its origins and powers - leaving only a trail of empty tombs and gun cartridges in her wake. Get ready to cross the globe and take on impossible odds while exploring Incan ruins, Ancient Rome, Egyptian Pyramids, and the Lost City of Atlantis in search of the fabled Scion.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # info: This game **is not abandonware 🚫** and **Tomb Raider 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/tomb_raider_123). **Tomb Raider I** is also available on [Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/).
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Year = 1998
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Category = Behind view • Platform • Puzzle elements • Africa • Europe • South America
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Add-on
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Wikipedia - Tomb Raider Series](https://en.wikipedia.org/wiki/Tomb_Raider)
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1601/tomb-raider-gold/)
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tomb+Raider&gid=1523)
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/tomb-raider-d7x)
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Tomb Raider Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: Tomb Raider 1+2+3 = [GOG 💰](https://www.gog.com/en/game/tomb_raider_123)
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/)
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = #
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text: - Installing **Tomb Raider**:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   - Sound Card Setup: Select **Auto Detect**, **Test**, and **Continue**.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   - Complete Setup: Select **Save Settings**.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text: - Installing **Tomb Raider: Unfinished Business**:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   - Sound Card Setup: Select **Auto Detect**, **Test**, and **Continue**.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   - Complete Setup: Select **Save Settings**.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text: - CD-ROM images will be mounted based on the selected game:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   1. Tomb Raider
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # text:   2. Tomb Raider: Unfinished Business
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = [autoexec]
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = @ECHO OFF
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = CLS
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = ECHO Tomb Raider Gold
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = ECHO.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF NOT EXIST C:\TOMBRAID\TOMB.EXE ECHO 1. Install and Play Tomb Raider
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF EXIST C:\TOMBRAID\TOMB.EXE ECHO 1. Play Tomb Raider
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF NOT EXIST C:\TOMBRAID\TOMBUB.EXE ECHO 2. Install and Play Tomb Raider: Unfinished Business
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF EXIST C:\TOMBRAID\TOMBUB.EXE ECHO 2. Play Tomb Raider: Unfinished Business
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = ECHO.
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF ERRORLEVEL==2 GOTO F_TOMBUB
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF ERRORLEVEL==1 GOTO F_TOMB
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_TOMB
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IMGMOUNT D "./Assets/cdrom01.cue" -t iso
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF NOT EXIST C:\TOMBRAID\TOMB.EXE GOTO F_TOMB_INSTALL
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF EXIST C:\TOMBRAID\TOMB.EXE GOTO F_TOMB_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_TOMB_INSTALL
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = D:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = INSTALLT.EXE
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_TOMB_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = C:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = CD C:\TOMBRAID
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = TOMB.EXE
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IMGMOUNT -u D
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = GOTO F_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_TOMBUB
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IMGMOUNT D "./Assets/cdrom02.cue" -t iso
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF NOT EXIST C:\TOMBRAID\TOMBUB.EXE GOTO F_TOMBUB_INSTALL
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IF EXIST C:\TOMBRAID\TOMBUB.EXE GOTO F_TOMBUB_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_TOMBUB_INSTALL
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = D:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = INSTALLT.EXE
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_TOMBUB_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = C:
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = CD C:\TOMBRAID
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = TOMBUB.EXE
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = IMGMOUNT -u D
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = GOTO F_START
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_EXIT
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = EXIT
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = :F_DEBUG
+# file: All Programs/Games/Tomb Raider Gold/Program.txt
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4048675-tomb-raider-gold-dos-front-cover.jpg
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: coverart.jpg = 4c6662aeef081ce126c8e4170dc54dab56c2b71f69d1fa67796d86f81b3b6fc3
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01a.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2001%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01a.bin = 084e76991629a1b5d4e65ca0f8a7728c6396540898c4f606e6f4f2409bfe8013
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01b.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2002%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01b.bin = 96d4f3ebb0199bafdad6ff5b3ba86a695c7b8d4c1956dc00958e31c75d18d623
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01c.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2003%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01c.bin = 3d8ee0673ecd9b862e1b3cdcd5ef19e0bcf780a88b632536c831f73759271b63
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01d.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2004%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01d.bin = 8203081778acabfdaca07b5b1a8ca5a7ddfe2752d9b02db6d02942a926bfe10a
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01e.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2005%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01e.bin = af583a047b5b9afb5748b6176e6be24cf218df8df36a48350a45b7a33e252d61
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01f.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2006%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01f.bin = 1f1504b3c76526da3eb1438d17122b900b978c170e7807639339727d65224061
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01g.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2007%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01g.bin = 9cae011b6566c5311bb3595ae2012109f372e04d27997937f650896d16511f2b
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01h.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2008%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01h.bin = 37d06480fafe5d394f1ad51ceebfb9a8c83aa38056f67093b468fc2bbcfd91b8
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01i.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2009%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01i.bin = 83af64e4e081618dcaef119bfbc554a36d69295d930a93a722082457428866ab
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom01j.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%201%29%20%28Track%2010%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom01j.bin = 9d931c702e720bc86b7522003cf99ff72da8987f0793814d5dcfeb1c343a012f
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom02a.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29%20%28Track%201%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom02a.bin = 9f004aaeaeb3ec026f921102c13f45ba9ad4861de0518c8fb4577a6627593a07
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom02b.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29%20%28Track%202%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom02b.bin = 974a080c1464460afbb57d8f6c4fce15b1260ef30121418712ab43db6b2ac598
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom02c.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29%20%28Track%203%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom02c.bin = e11dcc301a313cc1b37f871067d9b5ed74e64423e87a113f7190ce69cb5b6128
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: cdrom02d.bin = https://archive.org/download/TombRaiderGoldUSA/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29.zip/Tomb%20Raider%20Gold%20%28USA%29%20%28Disc%202%29%20%28Track%204%29.bin
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: cdrom02d.bin = ecda2bd5ae167fc8d4f0f2aa387cc5773722ca13ec8ba31d1957e1c5685fbd80
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # asset: manual.pdf = https://archive.org/download/tomb-raider-manual/Tomb_Raider_Manual.pdf
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # check: manual.pdf = 3adbb05fdb5d9957ec0639ed59c927ef776d79e173e2fda13b332bb1a1bf4569
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = #
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01a.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01b.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:74
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01c.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:69
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01d.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:74
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01e.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:73
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01f.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:74
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01g.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:72
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01h.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:73
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01i.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:73
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01j.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:01:72
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = #
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue = FILE "cdrom02a.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue = FILE "cdrom02b.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 01 00:01:74
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue = FILE "cdrom02c.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 01 00:01:74
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue = FILE "cdrom02d.bin" BINARY
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # file: Assets/cdrom02.cue =     INDEX 01 00:01:74
+#
+#
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = #
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # name: UFO: Enemy Unknown
@@ -7289,23 +8332,16 @@
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # info: Warcraft II: Beyond the Dark Portal = After destroying the mystic gate into Azeroth, the Humans discover that the rift which allows the Orcs passage into their world still exists. Human forces must now venture beyond the Dark Portal into Orcish lands to end the threat of yet another invasion by the hordes.
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # info: This game **is not abandonware 🚫** and **Battle.net Edition** release is available on [GOG 💰](https://www.gog.com/en/game/warcraft_2_battlenet_edition).
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Year = 1995
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Year = 1996 (Beyond the Dark Portal)
+# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Year (Beyond the Dark Portal) = 1996
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Genre = Strategy
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Category = Top-down • Real-time • Real-time strategy • Fantasy • Steampunk • War
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Compilation
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Wikipedia - Tides of Darkness](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Wikipedia - Beyond the Dark Portal](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
+# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Warcraft II: Tides of Darkness = [Wikipedia](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness) • [MobyGames](https://www.mobygames.com/game/1339/warcraft-ii-tides-of-darkness/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Warcraft+2%3A+Tides+of+Darkness&gid=1786) • [MyAbandonware](https://www.myabandonware.com/game/warcraft-ii-tides-of-darkness-2sh) • [Warcraft Fandom](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness)
+# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Warcraft II: Beyond the Dark Portal = [Wikipedia](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal) • [MobyGames](https://www.mobygames.com/game/1377/warcraft-ii-beyond-the-dark-portal/) • [MyAbandonware](https://www.myabandonware.com/game/warcraft-ii-beyond-the-dark-portal-4a5) • [Warcraft Fandom](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Wikipedia - Warcraft Series](https://en.wikipedia.org/wiki/Warcraft)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [MobyGames - Tides of Darkness](https://www.mobygames.com/game/1339/warcraft-ii-tides-of-darkness/)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [MobyGames - Beyond the Dark Portal](https://www.mobygames.com/game/1377/warcraft-ii-beyond-the-dark-portal/)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [AbandonwareDOS - Tides of Darkness](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Warcraft+2%3A+Tides+of+Darkness&gid=1786)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [MyAbandonware - Tides of Darkness](https://www.myabandonware.com/game/warcraft-ii-tides-of-darkness-2sh)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [MyAbandonware - Beyond the Dark Portal](https://www.myabandonware.com/game/warcraft-ii-beyond-the-dark-portal-4a5)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Warcraft Fandom - Tides of Darkness](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Warcraft Fandom - Beyond the Dark Portal](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Battle.net Edition = [GOG 💰](https://www.gog.com/en/game/warcraft_2_battlenet_edition)
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = #
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # text: ## Installation Notes
@@ -7900,6 +8936,7 @@
 # link: Games/By Genre/Action/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Action/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By Genre/Action/D-Generation = ../../../All Programs/Games/D-Generation
+# link: Games/By Genre/Action/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Genre/Action/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Action/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By Genre/Action/Fade to Black = ../../../All Programs/Games/Fade to Black
@@ -7916,6 +8953,7 @@
 # link: Games/By Genre/Action/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By Genre/Action/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Genre/Action/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
+# link: Games/By Genre/Action/Tomb Raider Gold = ../../../All Programs/Games/Tomb Raider Gold
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/3 Skulls of the Toltecs = ../../../All Programs/Games/3 Skulls of the Toltecs
 # link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
@@ -7930,14 +8968,21 @@
 # link: Games/By Genre/Adventure/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Genre/Adventure/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Genre/Adventure/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Genre/Adventure/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By Genre/Adventure/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
+# link: Games/By Genre/Adventure/Shannara = ../../../All Programs/Games/Shannara
+# link: Games/By Genre/Adventure/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
 # link: Games/By Genre/Adventure/The Dig = ../../../All Programs/Games/The Dig
+# link: Games/By Genre/Adventure/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
 # link: Games/By Genre/Adventure/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
 # link: Games/By Genre/Puzzle/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Puzzle/Boppin' = ../../../All Programs/Games/Boppin'
+# link: Games/By Genre/Puzzle/Gobliiins = ../../../All Programs/Games/Gobliiins
+# link: Games/By Genre/Puzzle/Gobliins 2 - The Prince Buffoon = ../../../All Programs/Games/Gobliins 2 - The Prince Buffoon
+# link: Games/By Genre/Puzzle/Goblins Quest 3 = ../../../All Programs/Games/Goblins Quest 3
 # link: Games/By Genre/Puzzle/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By Genre/Puzzle/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Genre/Puzzle/Robbo = ../../../All Programs/Games/Robbo
@@ -7953,9 +8998,11 @@
 # link: Games/By Genre/Role-playing/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By Genre/Role-playing/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Genre/Role-playing/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By Genre/Role-playing/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Genre/Role-playing/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Genre/Simulation/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Genre/Simulation/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Genre/Simulation/SimTower = ../../../All Programs/Games/SimTower
@@ -7970,11 +9017,13 @@
 # link: Games/By Genre/Strategy/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By Genre/Strategy/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Genre/Strategy/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
+# link: Games/By Genre/Strategy/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Genre/Strategy/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Genre/Strategy/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By Genre/Strategy/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By Genre/Strategy/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Genre/Strategy/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By Genre/Strategy/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Genre/Strategy/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Genre/Strategy/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By Genre/Strategy/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
@@ -8036,12 +9085,16 @@
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By License/Proprietary/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
+# link: Games/By License/Proprietary/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By License/Proprietary/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By License/Proprietary/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By License/Proprietary/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By License/Proprietary/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
+# link: Games/By License/Proprietary/Gobliiins = ../../../All Programs/Games/Gobliiins
+# link: Games/By License/Proprietary/Gobliins 2 - The Prince Buffoon = ../../../All Programs/Games/Gobliins 2 - The Prince Buffoon
+# link: Games/By License/Proprietary/Goblins Quest 3 = ../../../All Programs/Games/Goblins Quest 3
 # link: Games/By License/Proprietary/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By License/Proprietary/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By License/Proprietary/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
@@ -8049,15 +9102,21 @@
 # link: Games/By License/Proprietary/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By License/Proprietary/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By License/Proprietary/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By License/Proprietary/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By License/Proprietary/Shannara = ../../../All Programs/Games/Shannara
+# link: Games/By License/Proprietary/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
+# link: Games/By License/Proprietary/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By License/Proprietary/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By License/Proprietary/The Dig = ../../../All Programs/Games/The Dig
+# link: Games/By License/Proprietary/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
 # link: Games/By License/Proprietary/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By License/Proprietary/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
 # link: Games/By License/Proprietary/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
+# link: Games/By License/Proprietary/Tomb Raider Gold = ../../../All Programs/Games/Tomb Raider Gold
 # link: Games/By License/Proprietary/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
 # link: Games/By License/Proprietary/Warcraft - Orcs & Humans = ../../../All Programs/Games/Warcraft - Orcs & Humans
 # link: Games/By License/Proprietary/Warcraft II - Battle Chest = ../../../All Programs/Games/Warcraft II - Battle Chest
@@ -8085,6 +9144,7 @@
 # link: Games/By Platform/DOS/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Platform/DOS/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
+# link: Games/By Platform/DOS/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Platform/DOS/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Platform/DOS/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Platform/DOS/Electroman = ../../../All Programs/Games/Electroman
@@ -8094,6 +9154,9 @@
 # link: Games/By Platform/DOS/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Platform/DOS/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Platform/DOS/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
+# link: Games/By Platform/DOS/Gobliiins = ../../../All Programs/Games/Gobliiins
+# link: Games/By Platform/DOS/Gobliins 2 - The Prince Buffoon = ../../../All Programs/Games/Gobliins 2 - The Prince Buffoon
+# link: Games/By Platform/DOS/Goblins Quest 3 = ../../../All Programs/Games/Goblins Quest 3
 # link: Games/By Platform/DOS/God of Thunder = ../../../All Programs/Games/God of Thunder
 # link: Games/By Platform/DOS/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By Platform/DOS/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
@@ -8106,15 +9169,18 @@
 # link: Games/By Platform/DOS/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By Platform/DOS/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Platform/DOS/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Platform/DOS/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Platform/DOS/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By Platform/DOS/Robbo = ../../../All Programs/Games/Robbo
+# link: Games/By Platform/DOS/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Platform/DOS/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Platform/DOS/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By Platform/DOS/Supaplex = ../../../All Programs/Games/Supaplex
+# link: Games/By Platform/DOS/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Platform/DOS/Teen Agent = ../../../All Programs/Games/Teen Agent
 # link: Games/By Platform/DOS/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By Platform/DOS/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
@@ -8123,10 +9189,12 @@
 # link: Games/By Platform/DOS/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Platform/DOS/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
 # link: Games/By Platform/DOS/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
+# link: Games/By Platform/DOS/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
 # link: Games/By Platform/DOS/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Platform/DOS/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Platform/DOS/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By Platform/DOS/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
+# link: Games/By Platform/DOS/Tomb Raider Gold = ../../../All Programs/Games/Tomb Raider Gold
 # link: Games/By Platform/DOS/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
 # link: Games/By Platform/DOS/Warcraft - Orcs & Humans = ../../../All Programs/Games/Warcraft - Orcs & Humans
 # link: Games/By Platform/DOS/Warcraft II - Battle Chest = ../../../All Programs/Games/Warcraft II - Battle Chest
@@ -8139,6 +9207,7 @@
 # link: Games/By Platform/Windows 3.1x/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Platform/Windows 3.1x/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By Platform/Windows 3.1x/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
+# link: Games/By Platform/Windows 3.1x/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Platform/Windows 3.1x/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Platform/Windows 3.1x/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By Platform/Windows 3.1x/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine

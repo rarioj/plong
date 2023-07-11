@@ -9,7 +9,7 @@
 > ❝ Based on Komppa's work, Remedy released Death Rally for Windows as proprietary freeware on 20 October 2009. ❞ — *Wikipedia*
 >
 
-📌 ┃ Year: **1996** ┃ Genre: **Action • Racing** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **Top-down • Shooter** ┃ Media: **CD-ROM** 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Top-down • Shooter ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

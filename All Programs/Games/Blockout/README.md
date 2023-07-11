@@ -9,7 +9,7 @@
 > ❝ Blockout is an unlicensed, 3D version of Tetris. ❞ — *Wikipedia*
 >
 
-📌 ┃ Year: **1989** ┃ Genre: **Action • Puzzle** ┃ Platform: **DOS** ┃ License: **Freeware • Unlicensed** ┃ Category: **Top-down • Falling block puzzle** ┃ Media: **Floppy Disk** ┃ **Copy Protection** 
+📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Action • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware • Unlicensed ┃ **Category** ‣ Top-down • Falling block puzzle ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

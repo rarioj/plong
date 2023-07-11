@@ -9,11 +9,11 @@
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/). ❞
 >
 
-📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Top-down • Real-time • Graphic adventure • North America • Thriller** ┃ Media: **CD-ROM** 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Real-time • Graphic adventure • North America • Thriller ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Bad_Mojo)** ┃ **[MobyGames](https://www.mobygames.com/game/2238/bad-mojo/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/bad-mojo-3gm)** ┃ Redux: **[Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Bad_Mojo)** ┃ **[MobyGames](https://www.mobygames.com/game/2238/bad-mojo/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/bad-mojo-3gm)** ┃ **Redux** ‣ [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/) 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

@@ -9,7 +9,7 @@
 > ❝ In 2004, a downloadable version of the game was made available free of charge as part of the tenth anniversary of the series. ❞ — *Wikipedia*
 >
 
-📌 ┃ Year: **1994** ┃ Genre: **Role-playing** ┃ Platform: **DOS** ┃ License: **Freeware** ┃ Category: **1st-person • Action RPG • Sandbox • Fantasy** ┃ Media: **CD-ROM** 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 1st-person • Action RPG • Sandbox • Fantasy ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

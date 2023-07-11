@@ -7,11 +7,11 @@
 > ❝ A French company called Genoq has developed a series of new genetically engineered bioweapons, which have run out of control and taken over Genoq's Singaporean lab. The main character is a courier making an emergency delivery by a jet pack to one of Genoq's top researchers, Jean-Paul Derrida, who is oblivious to the events inside the building until the lab's doors lock behind him after he enters. His point of delivery is ten floors away, all of them crawling with bioweapons. ❞
 >
 
-📌 ┃ Year: **1991** ┃ Genre: **Action** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Puzzle elements • Sci-fi** ┃ Media: **CD-ROM** ┃ **No Manual** 
+📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Diagonal-down • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/D/Generation)** ┃ **[MobyGames](https://www.mobygames.com/game/1274/dgeneration/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=D%2FGeneration&gid=1164)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/d-generation-14l)** ┃ HD Remake: **[Steam 💰](https://store.steampowered.com/app/389740/DGeneration_HD/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/D/Generation)** ┃ **[MobyGames](https://www.mobygames.com/game/1274/dgeneration/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=D%2FGeneration&gid=1164)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/d-generation-14l)** ┃ **HD Remake** ‣ [Steam 💰](https://store.steampowered.com/app/389740/DGeneration_HD/) 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

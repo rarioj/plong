@@ -5,7 +5,7 @@
 > ❝ In a mysterious corner of the Forgotten Realms, powerful mages prepare for battle using magic long lost. You are one of those wizards, conjuring warriors, wyverns, sirens, wraiths and more. Armed with ancient artifacts, your troops march forward: to battle goblin hordes, dark wizards, and lords of chaos. Can you defeat your foes to become the master of the realm? ❞
 >
 
-📌 ┃ Year: **1996** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Diagonal-down • Real-time • Fantasy** ┃ Media: **CD-ROM** 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Diagonal-down • Real-time • Fantasy ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

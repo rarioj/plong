@@ -7,9 +7,9 @@
 > ❝ It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire. ❞
 >
 
-📌 ┃ Year: **1996** ┃ Genre: **Adventure** ┃ Platform: **Windows 3.1x** ┃ License: **Abandonware** ┃ Category: **1st-person • Puzzle elements • History • Detective** ┃ Media: **CD-ROM** ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
 
-📦 ┃ [DOSBox](https://www.dosbox.com/): **0.74-3 🟥 (unplayable)** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
+📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟥 (unplayable) ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
 📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/SPQR:_The_Empire%27s_Darkest_Hour)** ┃ **[MobyGames](https://www.mobygames.com/game/2664/spqr-the-empires-darkest-hour/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/spqr-the-empire-s-darkest-hour-3qe)** 
 

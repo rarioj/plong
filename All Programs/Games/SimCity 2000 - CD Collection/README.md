@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
 >
 
-📌 ┃ Year: **1993** ┃ Genre: **Simulation • Strategy** ┃ Platform: **Windows 3.1x** ┃ License: **Proprietary** ┃ Category: **Diagonal-down • Real-time • City building • Managerial • Contemporary** ┃ Media: **CD-ROM** ┃ **Add-on** 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • City building • Managerial • Contemporary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/SimCity_2000)** ┃ **[Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)** ┃ **[MobyGames](https://www.mobygames.com/game/657/simcity-2000/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity+2000&gid=630)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/simcity-2000-cd-collection-311)** ┃ **[SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_2000)** ┃ Special Edition: **[GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/SimCity_2000)** ┃ **[Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)** ┃ **[MobyGames](https://www.mobygames.com/game/657/simcity-2000/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity+2000&gid=630)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/simcity-2000-cd-collection-311)** ┃ **[SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_2000)** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition) 
 
 ## Installation Notes
 - Check all installation components: **Program Files**, **Cities**, **URK Art**, and **Scenarios**. Click **Continue**.

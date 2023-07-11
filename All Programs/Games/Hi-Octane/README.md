@@ -7,7 +7,7 @@
 > ❝ Racers drive to their death on the bleak streets of the 21st century. Hi-Octane puts you behind the wheel of an armour-plated Hov-Car capable of 400+mph. Race through city streets, open wastelands or deserts faster than a Ferrari and with accessories you'd never find on a Volvo (like a missile launcher and chain gun). If anyone gets in your way, remember your highway code: Mirror. Signal. Fire! ❞
 >
 
-📌 ┃ Year: **1995** ┃ Genre: **Racing** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **1st-person • Behind view • Shooter • Hovercraft • Sci-fi** ┃ Media: **CD-ROM** ┃ **Add-on • No Manual** 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Behind view • Shooter • Hovercraft • Sci-fi ┃ **Media** ‣ CD-ROM ┃ **Add-on • No Manual** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

@@ -7,7 +7,7 @@
 > ❝ High in the Andes, a biting wind howls through the Incas' ruined strongholds. Half a world away, the Pharaohs' tombs lie empty. In Italy, the Roman Colosseum decays. Everywhere, you see remnants of societies that thought they would endure forever. All are dust. But yours could be different. You could be the person in history who builds an empire that never falls. ❞
 >
 
-📌 ┃ Year: **1991** ┃ Genre: **Strategy** ┃ Platform: **DOS** ┃ License: **Abandonware** ┃ Category: **Top-down • Turn-based • 4X • Managerial • Turn-based strategy** ┃ Media: **Compressed Package** ┃ **Patched • Copy Protection** 
+📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Top-down • Turn-based • 4X • Managerial • Turn-based strategy ┃ **Media** ‣ Compressed Package ┃ **Patched • Copy Protection** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
