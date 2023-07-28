@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game))** ┃ **[Wikipedia - Alone in the Dark Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **[MobyGames](https://www.mobygames.com/game/907/alone-in-the-dark-2/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark+2&gid=1917)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-2-2nw)** ┃ **[Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_2)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/907/alone-in-the-dark-2/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark+2&gid=1917)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-2-2nw)** ┃ **[Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_2)** ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
 
 ## Installation Notes
 - Select **Install**.

@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Civilization_(video_game))** ┃ **[Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))** ┃ **[MobyGames](https://www.mobygames.com/game/585/sid-meiers-civilization/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization&gid=1390)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-1nj)** ┃ **[Civilization Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Civilization)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Civilization_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/585/sid-meiers-civilization/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization&gid=1390)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-1nj)** ┃ **[Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Civilization)** ┃ **[Series](https://en.wikipedia.org/wiki/Civilization_(series))** 
 
 ## Additional Notes
 - Starting the game:

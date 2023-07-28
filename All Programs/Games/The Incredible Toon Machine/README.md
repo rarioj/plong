@@ -9,7 +9,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Toon_Machine)** ┃ **[Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)** ┃ **[MobyGames](https://www.mobygames.com/game/9601/the-incredible-toon-machine/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Toon+Machine&gid=2124)** ┃ **Game Manual** ‣ [MyAbandonware](https://www.myabandonware.com/game/the-incredible-toon-machine-3le) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Toon_Machine)** ┃ **[MobyGames](https://www.mobygames.com/game/9601/the-incredible-toon-machine/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Toon+Machine&gid=2124)** ┃ **Game Manual** ‣ [MyAbandonware](https://www.myabandonware.com/game/the-incredible-toon-machine-3le) ┃ **[Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

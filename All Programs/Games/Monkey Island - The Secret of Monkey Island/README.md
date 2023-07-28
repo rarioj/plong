@@ -9,18 +9,14 @@
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition). ❞
 >
 
-📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy • Sea pirates • Comedy ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy • Sea pirates • Comedy ┃ **Media** ‣ Compressed Package 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)** ┃ **[Wikipedia - Monkey Island Series](https://en.wikipedia.org/wiki/Monkey_Island)** ┃ **[MobyGames](https://www.mobygames.com/game/616/the-secret-of-monkey-island/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Secret+of+Monkey+Island&gid=1082)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-secret-of-monkey-island-1ni)** ┃ **[OldGames.sk](https://www.oldgames.sk/en/game/secret-of-monkey-island-the/)** ┃ **Copy Protection** ‣ [Dial-A-Pirate Wheel](https://www.oldgames.sk/codewheel/secret-of-monkey-island-dial-a-pirate) ┃ **[Monkey Island Fandom](https://monkeyisland.fandom.com/wiki/The_Secret_of_Monkey_Island)** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition) 
-
-## Installation Notes
-- Hard drive on which to install program: **C:** and press `ENTER`.
-- Floppy drive to read installation disks: **C:** and press `ENTER`.
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)** ┃ **[MobyGames](https://www.mobygames.com/game/141074/the-secret-of-monkey-island-enhanced-version/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Secret+of+Monkey+Island&gid=1082)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-secret-of-monkey-island-1ni)** ┃ **[Fandom](https://monkeyisland.fandom.com/wiki/The_Secret_of_Monkey_Island)** ┃ **[Series](https://en.wikipedia.org/wiki/Monkey_Island)** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition) 
 
 ## Additional Notes
-- Consult the online [Dial-A-Pirate Wheel](https://www.oldgames.sk/codewheel/secret-of-monkey-island-dial-a-pirate) for the game copy protection.
+- Hotkey: CTRL+T to switch between Voice only, Voice + Text, and Text only.
 
 ![](Montage.png "The Secret of Monkey Island")
 

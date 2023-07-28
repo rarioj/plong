@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)** ┃ **[Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)** ┃ **[MobyGames](https://www.mobygames.com/game/521/x-com-ufo-defense/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Ufo+Defense&gid=1404)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/x-com-ufo-defense-1pl)** ┃ **[GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense)** ┃ **[Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)** ┃ **[MobyGames](https://www.mobygames.com/game/521/x-com-ufo-defense/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Ufo+Defense&gid=1404)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/x-com-ufo-defense-1pl)** ┃ **[Series](https://en.wikipedia.org/wiki/XCOM)** ┃ **[GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense)** ┃ **[Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/)** 
 
 ## Installation Notes
 - Choose Sound FX Board: **SoundBlaster 16**; Base Port: **220**; Irq: **7**; Dma: **1**; Sound Channels: **4**.

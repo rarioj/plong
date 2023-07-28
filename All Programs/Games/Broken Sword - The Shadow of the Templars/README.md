@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[Wikipedia - Broken Sword Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **[Wikipedia - The Director's Cut](https://en.wikipedia.org/wiki/Broken_Sword:_Shadow_of_the_Templars_%E2%80%93_The_Director%27s_Cut)** ┃ **[MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword%3A+The+Shadow+of+the+Templars&gid=2332)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)** ┃ **[Broken Sword Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **The Director's Cut** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword%3A+The+Shadow+of+the+Templars&gid=2332)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)** ┃ **[Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **The Director's Cut** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut) 
 
 ## Host Requirements
 - The [mdf2iso](https://github.com/excitoon/mdf2iso) tool is required to convert MDF CD-ROM format to ISO.

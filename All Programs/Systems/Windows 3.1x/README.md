@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_3.1x)** ┃ **[Microsoft Fandom](https://microsoft.fandom.com/wiki/Windows_3.1)** ┃ **[Windows 3.1x in DOSBox-Staging](https://github.com/dosbox-staging/dosbox-staging/wiki/Windows-3.1x)** ┃ **[Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)** ┃ **[SierraHelp - Graphics Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallGraphicsDrivers.html)** ┃ **[SierraHelp - Soundblaster 16 Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallSB.html)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_3.1x)** ┃ **[Fandom](https://microsoft.fandom.com/wiki/Windows_3.1)** ┃ **[Windows 3.1x in DOSBox-Staging](https://github.com/dosbox-staging/dosbox-staging/wiki/Windows-3.1x)** ┃ **[Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)** ┃ **[SierraHelp - Graphics Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallGraphicsDrivers.html)** ┃ **[SierraHelp - Soundblaster 16 Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallSB.html)** 
 
 ## Installation Notes
 - Step 1: Installing Windows 3.1x

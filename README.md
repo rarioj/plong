@@ -7,7 +7,7 @@
 > ❝ PLoNG is an attempt to preserve the memory of my gaming youth. ❞
 >
 
-📌 ┃ **Script Version** ‣ 1.0.23.7b ┃ **Type** ‣ Library ┃ **Library Version** ‣ 23.7c ┃ **Library Name** ‣ PLoNG 
+📌 ┃ **Script Version** ‣ 1.0.23.7b ┃ **Type** ‣ Library ┃ **Library Version** ‣ 23.7d ┃ **Library Name** ‣ PLoNG 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟥 (error at installation) ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_2)** ┃ **[Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)** ┃ **[MobyGames](https://www.mobygames.com/game/1605/the-incredible-machine-2/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine+2&gid=1906)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-2-1n2)** ┃ **Mega Pack** ‣ [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_2)** ┃ **[MobyGames](https://www.mobygames.com/game/1605/the-incredible-machine-2/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine+2&gid=1906)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-2-1n2)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)** ┃ **Mega Pack** ‣ [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack) 
 
 ## Installation Notes
 - Music: **Sound Blaster / AdLib Card (or compatibles)**.

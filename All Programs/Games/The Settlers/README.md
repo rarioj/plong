@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_(1993_video_game))** ┃ **[Wikipedia - The Settlers Series](https://en.wikipedia.org/wiki/The_Settlers)** ┃ **[MobyGames](https://www.mobygames.com/game/425/serf-city-life-is-feudal/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Settlers&gid=1858)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/serf-city-life-is-feudal-21o)** ┃ **History Collection** ‣ [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_(1993_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/425/serf-city-life-is-feudal/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Settlers&gid=1858)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/serf-city-life-is-feudal-21o)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Settlers)** ┃ **History Collection** ‣ [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection) 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

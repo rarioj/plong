@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis)** ┃ **[Wikipedia - Indiana Jones Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)** ┃ **[MobyGames](https://www.mobygames.com/game/316/indiana-jones-and-the-fate-of-atlantis/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Fate+of+Atlantis&gid=1180)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-fate-of-atlantis-1to)** ┃ **[GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis)** ┃ **[Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis)** ┃ **[MobyGames](https://www.mobygames.com/game/316/indiana-jones-and-the-fate-of-atlantis/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Fate+of+Atlantis&gid=1180)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-fate-of-atlantis-1to)** ┃ **[Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)** ┃ **[GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis)** ┃ **[Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/)** 
 
 ## Installation Notes
 - Setup Utility:

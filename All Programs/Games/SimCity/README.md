@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))** ┃ **[Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)** ┃ **[MobyGames](https://www.mobygames.com/game/848/simcity/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity&gid=2662)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/simcity-ri)** ┃ **[SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_(1989))** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/848/simcity/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity&gid=2662)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/simcity-ri)** ┃ **[Fandom](https://simcity.fandom.com/wiki/SimCity_(1989))** ┃ **[Series](https://en.wikipedia.org/wiki/SimCity)** 
 
 ## Installation Notes
 - Choose Video Display Mode: **VGA/MCGA 256 Color (320x200)** or **VGA 16 Color (640x480)**.

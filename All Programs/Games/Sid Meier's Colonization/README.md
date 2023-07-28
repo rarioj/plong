@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)** ┃ **[Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))** ┃ **[MobyGames](https://www.mobygames.com/game/366/sid-meiers-colonization/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Colonization&gid=1244)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-colonization-28t)** ┃ **[Civilization Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Colonization)** ┃ **[GOG 💰](https://gog.com/en/game/sid_meiers_colonization)** ┃ **[Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)** ┃ **[MobyGames](https://www.mobygames.com/game/366/sid-meiers-colonization/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Colonization&gid=1244)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-colonization-28t)** ┃ **[Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Colonization)** ┃ **[Series](https://en.wikipedia.org/wiki/Civilization_(series))** ┃ **[GOG 💰](https://gog.com/en/game/sid_meiers_colonization)** ┃ **[Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

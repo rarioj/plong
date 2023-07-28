@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))** ┃ **[Wikipedia - Tomb Raider Series](https://en.wikipedia.org/wiki/Tomb_Raider)** ┃ **[MobyGames](https://www.mobygames.com/game/1601/tomb-raider-gold/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tomb+Raider&gid=1523)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/tomb-raider-d7x)** ┃ **[Tomb Raider Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))** ┃ **Tomb Raider 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/tomb_raider_123) ┃ **[Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1601/tomb-raider-gold/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tomb+Raider&gid=1523)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/tomb-raider-d7x)** ┃ **[Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))** ┃ **[Series](https://en.wikipedia.org/wiki/Tomb_Raider)** ┃ **Tomb Raider 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/tomb_raider_123) ┃ **[Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/)** 
 
 ## Installation Notes
 - Installing **Tomb Raider**:

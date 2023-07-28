@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance)** ┃ **[Wikipedia - Jagged Alliance Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))** ┃ **[MobyGames](https://www.mobygames.com/game/1038/jagged-alliance/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jagged+Alliance&gid=2213)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-33e)** ┃ **[Jagged Alliance Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance)** ┃ **[GOG 💰](https://www.gog.com/en/game/jagged_alliance)** ┃ **Gold Edition** ‣ [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) ┃ **[Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance)** ┃ **[MobyGames](https://www.mobygames.com/game/1038/jagged-alliance/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jagged+Alliance&gid=2213)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-33e)** ┃ **[Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance)** ┃ **[Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/jagged_alliance)** ┃ **Gold Edition** ‣ [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) ┃ **[Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance)** 
 
 ## Installation Notes
 - Select **Install game files**.

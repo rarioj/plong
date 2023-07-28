@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Arena)** ┃ **[Wikipedia - The Elder Scrolls Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[MobyGames](https://www.mobygames.com/game/803/the-elder-scrolls-arena/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Elder+Scrolls%3A+Arena&gid=1832)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-arena-1tn)** ┃ **[The Elder Scrolls Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena)** ┃ **[Steam 🆓](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/)** ┃ **[Bethesda](https://elderscrolls.bethesda.net/en/arena)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Arena)** ┃ **[MobyGames](https://www.mobygames.com/game/803/the-elder-scrolls-arena/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Elder+Scrolls%3A+Arena&gid=1832)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-arena-1tn)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Steam 🆓](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/)** ┃ **[Bethesda](https://elderscrolls.bethesda.net/en/arena)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

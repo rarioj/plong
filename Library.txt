@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.7c
+# library-version: 23.7d
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -652,9 +652,9 @@
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Category = 3rd-person • Puzzle elements • Survival horror • Interwar • Horror
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Alone in the Dark/Program.txt = # tag: Compilation = Jack in the Dark
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: Alone in the Dark = [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)) • [MobyGames](https://www.mobygames.com/game/325/alone-in-the-dark/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark&gid=1737) • [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-1rg) • [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(1992))
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: Jack in the Dark = [MobyGames](https://www.mobygames.com/game/1231/jack-in-the-dark/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jack+in+the+Dark&gid=2731) • [MyAbandonware](https://www.myabandonware.com/game/jack-in-the-dark-2ab) • [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Jack_In_The_Dark)
-# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [Wikipedia - Alone in the Dark Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
+# file: All Programs/Games/Alone in the Dark/Program.txt = # site: Alone in the Dark = [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)) • [MobyGames](https://www.mobygames.com/game/325/alone-in-the-dark/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark&gid=1737) • [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-1rg) • [Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(1992))
+# file: All Programs/Games/Alone in the Dark/Program.txt = # site: Jack in the Dark = [MobyGames](https://www.mobygames.com/game/1231/jack-in-the-dark/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jack+in+the+Dark&gid=2731) • [MyAbandonware](https://www.myabandonware.com/game/jack-in-the-dark-2ab) • [Fandom](https://aloneinthedark.fandom.com/wiki/Jack_In_The_Dark)
+# file: All Programs/Games/Alone in the Dark/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
 # file: All Programs/Games/Alone in the Dark/Program.txt = # site: Alone in the Dark: The Trilogy 1+2+3 = [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123)
 # file: All Programs/Games/Alone in the Dark/Program.txt = #
 # file: All Programs/Games/Alone in the Dark/Program.txt = # text: ## Installation Notes
@@ -817,11 +817,11 @@
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # tag: Category = 3rd-person • Puzzle elements • Survival horror • Interwar • Detective • Horror
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_2_(video_game))
-# file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [Wikipedia - Alone in the Dark Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/907/alone-in-the-dark-2/)
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark+2&gid=1917)
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-2-2nw)
-# file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_2)
+# file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_2)
+# file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # site: Alone in the Dark: The Trilogy 1+2+3 = [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123)
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = #
 # file: All Programs/Games/Alone in the Dark 2/Program.txt = # text: ## Installation Notes
@@ -1254,11 +1254,11 @@
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # tag: Category = 3rd-person • Puzzle elements • Survival horror • Interwar • Horror
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)
-# file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [Wikipedia - Alone in the Dark Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/908/alone-in-the-dark-3/)
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark+3&gid=2325)
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-3-2y6)
-# file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [Alone in the Dark Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_3)
+# file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_3)
+# file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # site: Alone in the Dark: The Trilogy 1+2+3 = [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123)
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = #
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # text: ## Installation Notes
@@ -2281,12 +2281,11 @@
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # tag: Extra Command
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)
-# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - Broken Sword Series](https://en.wikipedia.org/wiki/Broken_Sword)
-# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Wikipedia - The Director's Cut](https://en.wikipedia.org/wiki/Broken_Sword:_Shadow_of_the_Templars_%E2%80%93_The_Director%27s_Cut)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword%3A+The+Shadow+of+the+Templars&gid=2332)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)
-# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Broken Sword Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)
+# file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Broken_Sword)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # site: The Director's Cut = [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut)
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = #
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # text: ## Host Requirements
@@ -2424,11 +2423,11 @@
 # file: All Programs/Games/Civilization/Program.txt = # tag: Media = Compressed Package
 # file: All Programs/Games/Civilization/Program.txt = # tag: Patched • Copy Protection
 # file: All Programs/Games/Civilization/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Civilization_(video_game))
-# file: All Programs/Games/Civilization/Program.txt = # site: [Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))
 # file: All Programs/Games/Civilization/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/585/sid-meiers-civilization/)
 # file: All Programs/Games/Civilization/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization&gid=1390)
 # file: All Programs/Games/Civilization/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-1nj)
-# file: All Programs/Games/Civilization/Program.txt = # site: [Civilization Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Civilization)
+# file: All Programs/Games/Civilization/Program.txt = # site: [Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Civilization)
+# file: All Programs/Games/Civilization/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Civilization_(series))
 # file: All Programs/Games/Civilization/Program.txt = #
 # file: All Programs/Games/Civilization/Program.txt = # text: ## Additional Notes
 # file: All Programs/Games/Civilization/Program.txt = # text: - Starting the game:
@@ -2501,10 +2500,10 @@
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Category = Diagonal-down • Turn-based • 4X • Managerial • Turn-based strategy • Historical events • Post-apocalyptic • Sci-fi • Fantasy • Steampunk
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Civilization II/Program.txt = # tag: Compilation
-# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II = [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II) • [MobyGames](https://www.mobygames.com/game/15/sid-meiers-civilization-ii/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization+2&gid=1894) • [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-453) • [Civilization Fandom](https://civilization.fandom.com/wiki/Civilization_II)
-# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II: Conflicts in Civilization = [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II:_Conflicts_in_Civilization) • [MobyGames](https://www.mobygames.com/game/1509/sid-meiers-civilization-ii-scenarios-conflicts-in-civilization/) • [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-scenarios-conflicts-in-civilization-c45) • [Civilization Fandom](https://civilization.fandom.com/wiki/Civilization_II:_Conflicts_in_Civilization)
-# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II: Fantastic Worlds = [MobyGames](https://www.mobygames.com/game/1593/civilization-ii-fantastic-worlds/) • [MyAbandonware](https://www.myabandonware.com/game/civilization-ii-fantastic-worlds-dvr) • [Civilization Fandom](https://civilization.fandom.com/wiki/Civ_II:_Fantastic_Worlds)
-# file: All Programs/Games/Civilization II/Program.txt = # site: [Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))
+# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II = [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II) • [MobyGames](https://www.mobygames.com/game/15/sid-meiers-civilization-ii/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Civilization+2&gid=1894) • [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-453) • [Fandom](https://civilization.fandom.com/wiki/Civilization_II)
+# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II: Conflicts in Civilization = [Wikipedia](https://en.wikipedia.org/wiki/Civilization_II:_Conflicts_in_Civilization) • [MobyGames](https://www.mobygames.com/game/1509/sid-meiers-civilization-ii-scenarios-conflicts-in-civilization/) • [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-civilization-ii-scenarios-conflicts-in-civilization-c45) • [Fandom](https://civilization.fandom.com/wiki/Civilization_II:_Conflicts_in_Civilization)
+# file: All Programs/Games/Civilization II/Program.txt = # site: Civilization II: Fantastic Worlds = [MobyGames](https://www.mobygames.com/game/1593/civilization-ii-fantastic-worlds/) • [MyAbandonware](https://www.myabandonware.com/game/civilization-ii-fantastic-worlds-dvr) • [Fandom](https://civilization.fandom.com/wiki/Civ_II:_Fantastic_Worlds)
+# file: All Programs/Games/Civilization II/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Civilization_(series))
 # file: All Programs/Games/Civilization II/Program.txt = #
 # file: All Programs/Games/Civilization II/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Civilization II/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
@@ -2631,9 +2630,9 @@
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time strategy • Africa • Europe • Sci-fi • War
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Command & Conquer/Program.txt = # tag: Compilation
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: Command & Conquer = [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)) • [MobyGames](https://www.mobygames.com/game/338/command-conquer/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer&gid=2345) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-2r7) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer_(1995))
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: Command & Conquer: The Covert Operations = [MobyGames](https://www.mobygames.com/game/883/command-conquer-the-covert-operations/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-the-covert-operations-arg) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_The_Covert_Operations)
-# file: All Programs/Games/Command & Conquer/Program.txt = # site: [Wikipedia - Command & Conquer Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)
+# file: All Programs/Games/Command & Conquer/Program.txt = # site: Command & Conquer = [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)) • [MobyGames](https://www.mobygames.com/game/338/command-conquer/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer&gid=2345) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-2r7) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer_(1995))
+# file: All Programs/Games/Command & Conquer/Program.txt = # site: Command & Conquer: The Covert Operations = [MobyGames](https://www.mobygames.com/game/883/command-conquer-the-covert-operations/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-the-covert-operations-arg) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_The_Covert_Operations)
+# file: All Programs/Games/Command & Conquer/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)
 # file: All Programs/Games/Command & Conquer/Program.txt = # site: Remastered Collection = [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/)
 # file: All Programs/Games/Command & Conquer/Program.txt = #
 # file: All Programs/Games/Command & Conquer/Program.txt = # text: ## Installation Notes
@@ -2776,10 +2775,10 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time strategy • Europe • Sci-fi • War
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # tag: Compilation
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert = [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) • [MobyGames](https://www.mobygames.com/game/485/command-conquer-red-alert/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer%3A+Red+Alert&gid=1872) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-7pi) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert - Counterstrike = [MobyGames](https://www.mobygames.com/game/863/command-conquer-red-alert-counterstrike/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-counterstrike-7pk) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_Counterstrike)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert - The Aftermath = [MobyGames](https://www.mobygames.com/game/866/command-conquer-red-alert-the-aftermath/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-the-aftermath-7pj) • [Command & Conquer Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_The_Aftermath)
-# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Wikipedia - Command & Conquer Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert = [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) • [MobyGames](https://www.mobygames.com/game/485/command-conquer-red-alert/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer%3A+Red+Alert&gid=1872) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-7pi) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert - Counterstrike = [MobyGames](https://www.mobygames.com/game/863/command-conquer-red-alert-counterstrike/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-counterstrike-7pk) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_Counterstrike)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Command & Conquer: Red Alert - The Aftermath = [MobyGames](https://www.mobygames.com/game/866/command-conquer-red-alert-the-aftermath/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-the-aftermath-7pj) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_The_Aftermath)
+# file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # site: Remastered Collection = [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/)
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = #
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # text: ## Installation Notes
@@ -3496,11 +3495,11 @@
 # file: All Programs/Games/Fallout/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Fallout/Program.txt = # tag: Patched
 # file: All Programs/Games/Fallout/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Fallout_(video_game))
-# file: All Programs/Games/Fallout/Program.txt = # site: [Wikipedia - Fallout Series](https://en.wikipedia.org/wiki/Fallout_(series))
 # file: All Programs/Games/Fallout/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/223/fallout/)
 # file: All Programs/Games/Fallout/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fallout&gid=1513)
 # file: All Programs/Games/Fallout/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/fallout-br3)
-# file: All Programs/Games/Fallout/Program.txt = # site: [Fallout Fandom](https://fallout.fandom.com/wiki/Fallout)
+# file: All Programs/Games/Fallout/Program.txt = # site: [Fandom](https://fallout.fandom.com/wiki/Fallout)
+# file: All Programs/Games/Fallout/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Fallout_(series))
 # file: All Programs/Games/Fallout/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/fallout)
 # file: All Programs/Games/Fallout/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/)
 # file: All Programs/Games/Fallout/Program.txt = #
@@ -3697,11 +3696,11 @@
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # tag: Patched
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers)
-# file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [Wikipedia - Gabriel Knight Series](https://en.wikipedia.org/wiki/Gabriel_Knight)
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/)
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gabriel+Knight%3A+Sins+of+the+Fathers&gid=1132)
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m)
-# file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [Gabriel Knight Fandom](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_(CD-ROM))
+# file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [Fandom](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_(CD-ROM))
+# file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Gabriel_Knight)
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers)
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/)
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = #
@@ -3781,11 +3780,11 @@
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # tag: Category = 3rd-person • Puzzle elements • Detective • Horror
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)
-# file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [Wikipedia - Gabriel Knight Series](https://en.wikipedia.org/wiki/Gabriel_Knight)
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/)
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gabriel+Knight+2%3A+The+Beast+Within&gid=2279)
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu)
-# file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [Gabriel Knight Fandom](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)
+# file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [Fandom](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)
+# file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Gabriel_Knight)
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within)
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/)
 # file: All Programs/Games/Gabriel Knight 2 - The Beast Within/Program.txt = #
@@ -4162,11 +4161,11 @@
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # tag: Patched
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic:_A_Strategic_Quest)
-# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Wikipedia - Heroes of Might and Magic Series](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic)
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/668/heroes-of-might-and-magic/)
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heroes+of+Might+and+Magic&gid=1789)
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/heroes-of-might-and-magic-2rr)
-# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Might and Magic Fandom](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic:_A_Strategic_Quest)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Fandom](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic:_A_Strategic_Quest)
+# file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic)
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic)
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # site: [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic/5928435d29e12307548b456a.html?lang=en_US)
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = #
@@ -4240,11 +4239,11 @@
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # tag: Patched
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_II)
-# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Wikipedia - Heroes of Might and Magic Series](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic)
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1513/heroes-of-might-and-magic-ii-the-succession-wars/)
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heroes+of+Might+and+Magic+II&gid=2434)
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/heroes-of-might-and-magic-ii-the-succession-wars-3l0)
-# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Might and Magic Fandom](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic_II:_The_Succession_Wars)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Fandom](https://mightandmagic.fandom.com/wiki/Heroes_of_Might_and_Magic_II:_The_Succession_Wars)
+# file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic)
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: Gold Edition = [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition)
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # site: Gold Edition = [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US)
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = #
@@ -4698,10 +4697,10 @@
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy • Interwar • Detective
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Fate_of_Atlantis)
-# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Wikipedia - Indiana Jones Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/316/indiana-jones-and-the-fate-of-atlantis/)
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Fate+of+Atlantis&gid=1180)
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-fate-of-atlantis-1to)
+# file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis)
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/)
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = #
@@ -4766,11 +4765,11 @@
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Interwar
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # tag: Media = Floppy Disk
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure)
-# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Wikipedia - Indiana Jones Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Last+Crusade&gid=1295)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-last-crusade-the-graphic-adventure-1ba)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/indiana-jones-and-the-last-crusade)
+# file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/)
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = #
@@ -4900,11 +4899,11 @@
 # file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Jagged Alliance/Program.txt = # tag: Patched
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance)
-# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Wikipedia - Jagged Alliance Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1038/jagged-alliance/)
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jagged+Alliance&gid=2213)
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-33e)
-# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Jagged Alliance Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance)
+# file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/jagged_alliance)
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: Gold Edition = [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/)
 # file: All Programs/Games/Jagged Alliance/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance)
@@ -4970,11 +4969,11 @@
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # tag: Patched • Extra Command
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance:_Deadly_Games)
-# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Wikipedia - Jagged Alliance Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2457/jagged-alliance-deadly-games/)
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Jagged+Alliance%3A+Deadly+Games&gid=2165)
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-deadly-games-cqd)
-# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Jagged Alliance Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance:_Deadly_Games)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance:_Deadly_Games)
+# file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: Patch = [Soggi.org](https://soggi.org/misc/game-patches.htm)
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games)
 # file: All Programs/Games/Jagged Alliance - Deadly Games/Program.txt = # site: Gold Edition = [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/)
@@ -5341,32 +5340,29 @@
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy • Sea pirates • Comedy
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Media = Floppy Disk
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # tag: Media = Compressed Package
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Wikipedia - Monkey Island Series](https://en.wikipedia.org/wiki/Monkey_Island)
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/616/the-secret-of-monkey-island/)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/141074/the-secret-of-monkey-island-enhanced-version/)
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Secret+of+Monkey+Island&gid=1082)
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-secret-of-monkey-island-1ni)
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [OldGames.sk](https://www.oldgames.sk/en/game/secret-of-monkey-island-the/)
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: Copy Protection = [Dial-A-Pirate Wheel](https://www.oldgames.sk/codewheel/secret-of-monkey-island-dial-a-pirate)
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Monkey Island Fandom](https://monkeyisland.fandom.com/wiki/The_Secret_of_Monkey_Island)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Fandom](https://monkeyisland.fandom.com/wiki/The_Secret_of_Monkey_Island)
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Monkey_Island)
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition)
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = #
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: ## Installation Notes
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Hard drive on which to install program: **C:** and press `ENTER`.
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Floppy drive to read installation disks: **C:** and press `ENTER`.
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text:
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: ## Additional Notes
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Consult the online [Dial-A-Pirate Wheel](https://www.oldgames.sk/codewheel/secret-of-monkey-island-dial-a-pirate) for the game copy protection.
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # text: - Hotkey: CTRL+T to switch between Voice only, Voice + Text, and Text only.
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = [sdl]
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = autolock = true
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = [cpu]
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = cycles = max
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = [autoexec]
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = @ECHO OFF
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = MOUNT X "./Assets"
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IF NOT EXIST C:\MONKEY\MONKEY.EXE GOTO F_INSTALL
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IF EXIST C:\MONKEY\MONKEY.EXE GOTO F_START
@@ -5374,16 +5370,13 @@
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = :F_INSTALL
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = C:
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = CD C:\
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = MD UNZIP
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = CD UNZIP
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = CD C:\
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = MD MONKEY
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = CD MONKEY
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = C:\UNZIP\UNZIP.EXE X:\GAME.ZIP
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = :F_START
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = C:
@@ -5397,14 +5390,12 @@
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4247669-the-secret-of-monkey-island-dos-front-cover.jpg
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: coverart.jpg = bbbf9f3dde4618b347860734ef0a9b1741c6c7fbbf064207135e48f33b90448b
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: disk01.img = https://archive.org/download/20220917_20220917_0541/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%201%29%20%5B%23%5D.ima
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: disk01.img = c6d443c3f5952b8f2fbdc5e0b28a5243c64178a23e4cc022844d8dc0f6cc1a3f
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: disk02.img = https://archive.org/download/20220917_20220917_0541/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%202%29%20%5B%23%5D.ima
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: disk02.img = 0f2b63b8406f850de488eb8393016445a5fcd803a063d4453ea4bd58002bbbc2
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: disk03.img = https://archive.org/download/20220917_20220917_0541/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%5B%23%5D.zip/Secret%20of%20Monkey%20Island%2C%20The%20%28VGA%29%20%281992%29%20%28v1.0%29%20%28Rerelease%29%20%281.44M%29%20%28Disk%203%29%20%5B%23%5D.ima
-# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: disk03.img = 5565eecad5706eb74116bc29f8071b00a2771bdcea590ca28319960cd0c42453
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: game.zip = https://archive.org/download/talkie1/talkie.zip
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: game.zip = e34dbc2781c2ad7f30f05d2cb9bb6a15787650219c28f4b3f3d8f6335bb970bc
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: manual.pdf = https://archive.org/download/mi-manual/mi-manual.pdf
 # file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: manual.pdf = e27235945be484d6179d4f911e89f4e8504c50cf5282634af13104242a3c9aaa
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Monkey Island - The Secret of Monkey Island/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -5419,32 +5410,29 @@
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Platform = DOS
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Sea pirates • Comedy
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Media = Floppy Disk
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # tag: Media = Compressed Package
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge)
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Wikipedia - Monkey Island Series](https://en.wikipedia.org/wiki/Monkey_Island)
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/)
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Monkey+Island+2%3A+LeChuck%27s+Revenge&gid=1280)
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/monkey-island-2-lechuck-s-revenge-1nh)
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [OldGames.sk](https://www.oldgames.sk/en/game/monkey-island-2-lechucks-revenge/)
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: Copy Protection = [Mix N Mojo Wheel](https://www.oldgames.sk/codewheel/monkey-island-2-mix-n-mojo)
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Monkey Island Fandom](https://monkeyisland.fandom.com/wiki/Monkey_Island_2:_LeChuck%27s_Revenge)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Fandom](https://monkeyisland.fandom.com/wiki/Monkey_Island_2:_LeChuck%27s_Revenge)
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Monkey_Island)
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge)
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = #
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: ## Installation Notes
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Hard drive on which to install program: **C:** and press `ENTER`.
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Floppy drive to read installation disks: **C:** and press `ENTER`.
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text:
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: ## Additional Notes
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Consult the online [Mix N Mojo Wheel](https://www.oldgames.sk/codewheel/monkey-island-2-mix-n-mojo) for the game copy protection.
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # text: - Hotkey: CTRL+T to switch between Voice only, Voice + Text, and Text only.
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = [sdl]
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = autolock = true
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = [cpu]
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = cycles = max
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = [autoexec]
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = @ECHO OFF
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = MOUNT X "./Assets"
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IF NOT EXIST C:\MONKEY2\MONKEY2.EXE GOTO F_INSTALL
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IF EXIST C:\MONKEY2\MONKEY2.EXE GOTO F_START
@@ -5452,22 +5440,13 @@
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = :F_INSTALL
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = C:
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = CD C:\
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk04.img" -t floppy
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT A "./Assets/disk05.img" -t floppy
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = COPY A:\*.*
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = IMGMOUNT -u A
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = MD UNZIP
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = CD UNZIP
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = CD C:\
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = MD MONKEY2
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = CD MONKEY2
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = C:\UNZIP\UNZIP.EXE X:\GAME.ZIP
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = :F_START
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = C:
@@ -5481,18 +5460,12 @@
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/1005042-monkey-island-2-lechucks-revenge-dos-front-cover.jpg
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: coverart.jpg = e48b319ade384d27cf7cb83927352e50a21c24571f061ac68efc358f83b8efee
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk01.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%201%29%20%5B%21%5D.ima
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk01.img = c79c09a974c8b5271e71c27514936090947457dff80aa2ee5466dbf2cf54b238
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk02.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%202%29%20%5B%21%5D.ima
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk02.img = f78851366b8b8ccc43b94c20c97e39500bf32c688138888fef2fbc3e59969fcd
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk03.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%203%29%20%5B%21%5D.ima
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk03.img = 9f99ca389b82e31b10a451f931830f7370c1e18287e503591b0b9ea0cdb02749
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk04.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%204%29%20%5B%21%5D.ima
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk04.img = 6452af8dfe7cb4bc9be6a47a2c556759a373cfb1a24c0d70a6e01a921a48deda
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: disk05.img = https://archive.org/download/20220917_20220917_0541/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%5B%21%5D.zip/Monkey%20Island%202%20-%20Le%20Chuck%27s%20Revenge%20%281991%29%20%28v1.0%29%20%281.44M%29%20%28Disk%205%29%20%5B%21%5D.ima
-# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: disk05.img = 384d4ce97bf77275ae474452482ceb2d6b87392b6cb7c8dbed036e8441472bbc
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: game.zip = https://archive.org/download/mi-2-ultimate-talkie-edition/MI2_Ultimate_Talkie_Edition.zip
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: game.zip = ce45514ff188e70741a715530eb6379fb3f0e6403606c778ea8343bcea331ee4
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: manual.pdf = https://archive.org/download/Monkey_Island_2/Monkey_Island_2.pdf
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: manual.pdf = 9d55de97af5ae09b82fac75f454dfde6fc410f351387d4146b295aba6ddb5a5f
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -5512,10 +5485,10 @@
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Category = Side view • Platform • Cyberpunk • Sci-fi
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Oddworld:_Abe%27s_Oddysee)
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Wikipedia - Oddworld Series](https://en.wikipedia.org/wiki/Oddworld)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1058/oddworld-abes-oddysee/)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/oddworld-abe-s-oddysee-cqh)
-# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Oddworld Fandom](https://oddworld.fandom.com/wiki/Oddworld:_Abe%27s_Oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Fandom](https://oddworld.fandom.com/wiki/Oddworld:_Abe%27s_Oddysee)
+# file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Oddworld)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/)
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee)
@@ -5636,9 +5609,9 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Category = Side view • Platform • Puzzle elements • Middle East
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # tag: Compilation • Copy Protection
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Prince of Persia = [Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)) • [MobyGames](https://www.mobygames.com/game/196/prince-of-persia/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia&gid=551) • [MyAbandonware](https://www.myabandonware.com/game/prince-of-persia-pd) • [Prince of Persia Fandom](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_(1989))
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Prince of Persia 2: The Shadow and the Flame = [Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame) • [MobyGames](https://www.mobygames.com/game/78/prince-of-persia-2-the-shadow-the-flame/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia+2%3A+The+Shadow+and+the+Flame&gid=1156) • [MyAbandonware](https://www.myabandonware.com/game/prince-of-persia-2-the-shadow-the-flame-29j) • [Prince of Persia Fandom](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame)
-# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Wikipedia - Prince of Persia Series](https://en.wikipedia.org/wiki/Prince_of_Persia)
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Prince of Persia = [Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)) • [MobyGames](https://www.mobygames.com/game/196/prince-of-persia/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia&gid=551) • [MyAbandonware](https://www.myabandonware.com/game/prince-of-persia-pd) • [Fandom](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_(1989))
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: Prince of Persia 2: The Shadow and the Flame = [Wikipedia](https://en.wikipedia.org/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame) • [MobyGames](https://www.mobygames.com/game/78/prince-of-persia-2-the-shadow-the-flame/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prince+of+Persia+2%3A+The+Shadow+and+the+Flame&gid=1156) • [MyAbandonware](https://www.myabandonware.com/game/prince-of-persia-2-the-shadow-the-flame-29j) • [Fandom](https://princeofpersia.fandom.com/wiki/Prince_of_Persia_2:_The_Shadow_and_the_Flame)
+# file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Prince_of_Persia)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # site: [MobyGames - Prince of Persia CD Collection (1995)](https://www.mobygames.com/game/16597/prince-of-persia-cd-collection/)
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = #
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # text: ## Installation Notes
@@ -5963,11 +5936,11 @@
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # tag: Patched
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)
-# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Wikipedia - Civilization Series](https://en.wikipedia.org/wiki/Civilization_(series))
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/366/sid-meiers-colonization/)
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Colonization&gid=1244)
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-colonization-28t)
-# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Civilization Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Colonization)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Colonization)
+# file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Civilization_(series))
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [GOG 💰](https://gog.com/en/game/sid_meiers_colonization)
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/)
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = #
@@ -6170,11 +6143,11 @@
 # file: All Programs/Games/SimCity/Program.txt = # tag: Category = Top-down • City building • Managerial • Contemporary
 # file: All Programs/Games/SimCity/Program.txt = # tag: Media = Compressed Package
 # file: All Programs/Games/SimCity/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SimCity_(1989_video_game))
-# file: All Programs/Games/SimCity/Program.txt = # site: [Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)
 # file: All Programs/Games/SimCity/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/848/simcity/)
 # file: All Programs/Games/SimCity/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity&gid=2662)
 # file: All Programs/Games/SimCity/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/simcity-ri)
-# file: All Programs/Games/SimCity/Program.txt = # site: [SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_(1989))
+# file: All Programs/Games/SimCity/Program.txt = # site: [Fandom](https://simcity.fandom.com/wiki/SimCity_(1989))
+# file: All Programs/Games/SimCity/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/SimCity)
 # file: All Programs/Games/SimCity/Program.txt = #
 # file: All Programs/Games/SimCity/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/SimCity/Program.txt = # text: - Choose Video Display Mode: **VGA/MCGA 256 Color (320x200)** or **VGA 16 Color (640x480)**.
@@ -6245,11 +6218,11 @@
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # tag: Add-on
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SimCity_2000)
-# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [Wikipedia - SimCity Series](https://en.wikipedia.org/wiki/SimCity)
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/657/simcity-2000/)
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=SimCity+2000&gid=630)
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/simcity-2000-cd-collection-311)
-# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [SimCity Fandom](https://simcity.fandom.com/wiki/SimCity_2000)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [Fandom](https://simcity.fandom.com/wiki/SimCity_2000)
+# file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/SimCity)
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition)
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = #
 # file: All Programs/Games/SimCity 2000 - CD Collection/Program.txt = # text: ## Installation Notes
@@ -6933,11 +6906,11 @@
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # tag: Category = 1st-person • Action RPG • Sandbox • Fantasy
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Arena)
-# file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [Wikipedia - The Elder Scrolls Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/803/the-elder-scrolls-arena/)
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Elder+Scrolls%3A+Arena&gid=1832)
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-arena-1tn)
-# file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [The Elder Scrolls Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena)
+# file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena)
+# file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [Steam 🆓](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/)
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = # site: [Bethesda](https://elderscrolls.bethesda.net/en/arena)
 # file: All Programs/Games/The Elder Scrolls - Arena/Program.txt = #
@@ -7002,11 +6975,11 @@
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # tag: Patched
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall)
-# file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [Wikipedia - The Elder Scrolls Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/778/the-elder-scrolls-chapter-ii-daggerfall/)
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Elder+Scrolls+2%3A+Daggerfall&gid=2396)
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-chapter-ii-daggerfall-3zw)
-# file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [The Elder Scrolls Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall)
+# file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall)
+# file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [Steam 🆓](https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/)
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = # site: [Bethesda](https://elderscrolls.bethesda.net/en/daggerfall)
 # file: All Programs/Games/The Elder Scrolls 2 - Daggerfall/Program.txt = #
@@ -7077,10 +7050,10 @@
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Media = Floppy Disk
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # tag: Copy Protection
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game))
-# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh)
+# file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # site: Mega Pack = [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack)
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = #
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # text: ## Installation Notes
@@ -7148,10 +7121,10 @@
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # tag: Category = Side view
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # tag: Media = Floppy Disk
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Machine_2)
-# file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1605/the-incredible-machine-2/)
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine+2&gid=1906)
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-2-1n2)
+# file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # site: Mega Pack = [GOG 💰](https://www.gog.com/en/game/the_incredible_machine_mega_pack)
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = #
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # text: ## Installation Notes
@@ -7219,10 +7192,10 @@
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Incredible_Toon_Machine)
-# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [Wikipedia - The Incredible Machine Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/9601/the-incredible-toon-machine/)
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Toon+Machine&gid=2124)
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: Game Manual = [MyAbandonware](https://www.myabandonware.com/game/the-incredible-toon-machine-3le)
+# file: All Programs/Games/The Incredible Toon Machine/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Incredible_Machine)
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = #
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Incredible Toon Machine/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
@@ -7575,11 +7548,11 @@
 # file: All Programs/Games/The Need for Speed/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/The Need for Speed/Program.txt = # tag: Patched
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Need_for_Speed)
-# file: All Programs/Games/The Need for Speed/Program.txt = # site: [Wikipedia - Need for Speed Series](https://en.wikipedia.org/wiki/Need_for_Speed)
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/654/the-need-for-speed-special-edition/)
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Need+for+Speed&gid=1293)
 # file: All Programs/Games/The Need for Speed/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-need-for-speed-special-edition-7q5)
-# file: All Programs/Games/The Need for Speed/Program.txt = # site: [Need for Speed Fandom](https://nfs.fandom.com/wiki/The_Need_for_Speed:_Special_Edition)
+# file: All Programs/Games/The Need for Speed/Program.txt = # site: [Fandom](https://nfs.fandom.com/wiki/The_Need_for_Speed:_Special_Edition)
+# file: All Programs/Games/The Need for Speed/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Need_for_Speed)
 # file: All Programs/Games/The Need for Speed/Program.txt = #
 # file: All Programs/Games/The Need for Speed/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/The Need for Speed/Program.txt = # text: - Sound Card: **Sound Blaster 16/32/AWE 32**.
@@ -7660,10 +7633,10 @@
 # file: All Programs/Games/The Settlers/Program.txt = # tag: Category = Diagonal-down • Real-time • City building • Managerial • Real-time strategy
 # file: All Programs/Games/The Settlers/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/The Settlers/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_(1993_video_game))
-# file: All Programs/Games/The Settlers/Program.txt = # site: [Wikipedia - The Settlers Series](https://en.wikipedia.org/wiki/The_Settlers)
 # file: All Programs/Games/The Settlers/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/425/serf-city-life-is-feudal/)
 # file: All Programs/Games/The Settlers/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Settlers&gid=1858)
 # file: All Programs/Games/The Settlers/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/serf-city-life-is-feudal-21o)
+# file: All Programs/Games/The Settlers/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Settlers)
 # file: All Programs/Games/The Settlers/Program.txt = # site: History Collection = [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection)
 # file: All Programs/Games/The Settlers/Program.txt = #
 # file: All Programs/Games/The Settlers/Program.txt = # text: ## Installation Notes
@@ -7728,12 +7701,12 @@
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Category = Diagonal-down • Real-time • City building • Managerial • Real-time strategy • Classical antiquity
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Settlers_II)
-# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [Wikipedia - The Settlers Series](https://en.wikipedia.org/wiki/The_Settlers)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/598/the-settlers-ii-veni-vidi-vici/)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MobyGames - Gold Edition](https://www.mobygames.com/game/20461/the-settlers-ii-gold-edition/)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Settlers+II%3A+Veni%2C+Vidi%2C+Vici&gid=2435)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-settlers-ii-veni-vidi-vici-3pv)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [MyAbandonware - Gold Edition](https://www.myabandonware.com/game/the-settlers-ii-gold-edition-2ag)
+# file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Settlers)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = # site: History Collection = [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection)
 # file: All Programs/Games/The Settlers II - Gold Edition/Program.txt = #
@@ -7951,11 +7924,11 @@
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # tag: Add-on
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))
-# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Wikipedia - Tomb Raider Series](https://en.wikipedia.org/wiki/Tomb_Raider)
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1601/tomb-raider-gold/)
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tomb+Raider&gid=1523)
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/tomb-raider-d7x)
-# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Tomb Raider Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))
+# file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Tomb_Raider)
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: Tomb Raider 1+2+3 = [GOG 💰](https://www.gog.com/en/game/tomb_raider_123)
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/)
 # file: All Programs/Games/Tomb Raider Gold/Program.txt = #
@@ -8137,10 +8110,10 @@
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # tag: Patched
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/X-COM:_UFO_Defense)
-# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/521/x-com-ufo-defense/)
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Ufo+Defense&gid=1404)
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/x-com-ufo-defense-1pl)
+# file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/XCOM)
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/xcom_ufo_defense)
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/7760/XCOM_UFO_Defense/)
 # file: All Programs/Games/UFO - Enemy Unknown/Program.txt = #
@@ -8234,11 +8207,11 @@
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # tag: Category = Top-down • Real-time • Real-time strategy • Fantasy • War
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
-# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [Wikipedia - Warcraft Series](https://en.wikipedia.org/wiki/Warcraft)
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/371/warcraft-orcs-humans/)
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Warcraft%3A+Orcs+and+Humans&gid=1279)
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/warcraft-orcs-humans-250)
-# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [Warcraft Fandom](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans)
+# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [Fandom](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans)
+# file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Warcraft)
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans)
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = #
 # file: All Programs/Games/Warcraft - Orcs & Humans/Program.txt = # text: ## Installation Notes
@@ -8339,9 +8312,9 @@
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Category = Top-down • Real-time • Real-time strategy • Fantasy • Steampunk • War
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # tag: Compilation
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Warcraft II: Tides of Darkness = [Wikipedia](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness) • [MobyGames](https://www.mobygames.com/game/1339/warcraft-ii-tides-of-darkness/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Warcraft+2%3A+Tides+of+Darkness&gid=1786) • [MyAbandonware](https://www.myabandonware.com/game/warcraft-ii-tides-of-darkness-2sh) • [Warcraft Fandom](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Warcraft II: Beyond the Dark Portal = [Wikipedia](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal) • [MobyGames](https://www.mobygames.com/game/1377/warcraft-ii-beyond-the-dark-portal/) • [MyAbandonware](https://www.myabandonware.com/game/warcraft-ii-beyond-the-dark-portal-4a5) • [Warcraft Fandom](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
-# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Wikipedia - Warcraft Series](https://en.wikipedia.org/wiki/Warcraft)
+# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Warcraft II: Tides of Darkness = [Wikipedia](https://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness) • [MobyGames](https://www.mobygames.com/game/1339/warcraft-ii-tides-of-darkness/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Warcraft+2%3A+Tides+of+Darkness&gid=1786) • [MyAbandonware](https://www.myabandonware.com/game/warcraft-ii-tides-of-darkness-2sh) • [Fandom](https://wowpedia.fandom.com/wiki/Warcraft_II:_Tides_of_Darkness)
+# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Warcraft II: Beyond the Dark Portal = [Wikipedia](https://en.wikipedia.org/wiki/Warcraft_II:_Beyond_the_Dark_Portal) • [MobyGames](https://www.mobygames.com/game/1377/warcraft-ii-beyond-the-dark-portal/) • [MyAbandonware](https://www.myabandonware.com/game/warcraft-ii-beyond-the-dark-portal-4a5) • [Fandom](https://wowpedia.fandom.com/wiki/Warcraft_II:_Beyond_the_Dark_Portal)
+# file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Warcraft)
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # site: Battle.net Edition = [GOG 💰](https://www.gog.com/en/game/warcraft_2_battlenet_edition)
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = #
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # text: ## Installation Notes
@@ -8497,10 +8470,10 @@
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Category = Diagonal-down • Real-time • Turn-based • Sci-fi
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Apocalypse)
-# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/349/x-com-apocalypse/)
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Apocalypse&gid=2178)
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/x-com-apocalypse-cxz)
+# file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/XCOM)
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/xcom_apocalypse)
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/)
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = #
@@ -8571,10 +8544,10 @@
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # tag: Patched
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep)
-# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Wikipedia - XCOM Series](https://en.wikipedia.org/wiki/XCOM)
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/543/x-com-terror-from-the-deep/)
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Terror+from+the+Deep&gid=1531)
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/x-com-terror-from-the-deep-1pk)
+# file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/XCOM)
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep)
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/)
 # file: All Programs/Games/X-COM - Terror from the Deep/Program.txt = #
@@ -8704,7 +8677,7 @@
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Add-on = S3 Graphics drivers • Sound Blaster drivers
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Extras = QuickTime • Video for Windows • Win32s • WinG
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Windows_3.1x)
-# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Microsoft Fandom](https://microsoft.fandom.com/wiki/Windows_3.1)
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Fandom](https://microsoft.fandom.com/wiki/Windows_3.1)
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Windows 3.1x in DOSBox-Staging](https://github.com/dosbox-staging/dosbox-staging/wiki/Windows-3.1x)
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # site: [SierraHelp - Graphics Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallGraphicsDrivers.html)
