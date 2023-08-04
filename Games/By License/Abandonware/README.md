@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (19)
+# 🗂️ Games ‣ By License ‣ Abandonware (21)
 
 > <table><tr><td width="255">
 >
@@ -175,6 +175,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/Thumbnail.png "Future Wars: Adventures in Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Future Wars: Adventures in Time](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/README.md)
+>
+> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ In the 43rd century, Earth is under attack by an alien race. The planet is well-protected by a formidable SDI defence that the aliens cannot penetrate. Until they hit on a plan, sabotage the defences before they are built by travelling back in time to plant delayed-action bombs at strategic places! Your adventure starts in the present day when, innocently attempting to avoid your boss at work, you stumble across a secret passage that transports you 'back in time' to the start of a quest that takes you into the Middle Ages, Prehistoric Times, and the distant future. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Hi-Octane/Thumbnail.png "Hi-Octane")
 >
 > </td>
@@ -226,6 +245,25 @@
 > ❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*
 >
 > ❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/Thumbnail.png "Railroad Tycoon Deluxe")
+>
+> </td>
+>
+> <td>
+>
+> ## [Railroad Tycoon Deluxe](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Top-down • Real-time • Managerial • Train ┃ **Media** ‣ CD-ROM ┃ **Copy Protection** 
+>
+> ❝ Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush or brush you from their path. ❞
 >
 >
 > </td></tr></table>

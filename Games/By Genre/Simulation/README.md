@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Simulation (7)
+# 🗂️ Games ‣ By Genre ‣ Simulation (10)
 
 > <table><tr><td width="255">
 >
@@ -36,6 +36,27 @@
 > ❝ Before you lie the promise that is the New World with all its peril and infinite possibility. Vast, lush green tracts of forest; freezing, crystal clear mountain rivers; plains stretching as far as the eye can see. Be its master! Colonization from Sid Meier. A story of discovery, exploration and territorial independence. Play the colonist, conquistador and diplomat facing the challenges and frustrations of building a new independent nation. Choose the European power you want to represent: French, Spanish, Dutch, or British. Use the wealth of the land to build up your position. Use deceit and force to outwit rivals. Use trade alliances to forge friendships and create new industries - all while holding back the possibility of revolt. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sid_meiers_colonization) and [Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Silent%20Hunter/Thumbnail.png "Silent Hunter")
+>
+> </td>
+>
+> <td>
+>
+> ## [Silent Hunter](../../../All%20Programs/Games/Silent%20Hunter/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware / Discontinued / Proprietary? ┃ **Category** ‣ 1st-person • Naval • Vehicular combat • Asia • Historical events • Oceania • World War II ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Silent Hunter is a full-featured and comprehensive look at World War II submarine warfare. Designed for a single-player, Silent Hunter lets you assume command of an American submarine in the Pacific. You have to sink as many enemy ships as possible. Do your job well and become a decorated naval hero earning assignments on bigger and better class subs as your career progresses. ❞
+>
+> ❝ This game is no longer available digitally anymore. ❞
 >
 >
 > </td></tr></table>
@@ -97,6 +118,48 @@
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Managerial ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
 > ❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Star%20Wars%20-%20TIE%20Fighter/Thumbnail.png "Star Wars: TIE Fighter")
+>
+> </td>
+>
+> <td>
+>
+> ## [Star Wars: TIE Fighter](../../../All%20Programs/Games/Star%20Wars%20-%20TIE%20Fighter/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Join the Imperial Navy and Save the Galaxy! Pirates raid interstellar traders. Terrorists threaten the galaxy. Through their treachery on Yavin, the alliance of Rebels and other criminals has threatened the very foundation of the Empire. As an Imperial Navy starfighter pilot, you will safeguard imperilled lives throughout the galaxy. Only the Emperor can save us from chaos and destruction. Join his cause in eliminating this rebel uprising as the Empire strikes back! ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Star%20Wars%20-%20X-Wing/Thumbnail.png "Star Wars: X-Wing")
+>
+> </td>
+>
+> <td>
+>
+> ## [Star Wars: X-Wing](../../../All%20Programs/Games/Star%20Wars%20-%20X-Wing/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >
 >
 > </td></tr></table>

@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.7d
+# library-version: 23.8a
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -1484,6 +1484,113 @@
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # file: Assets/cdrom.cue =   TRACK 61 AUDIO
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 46:04:20
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 46:06:18
+#
+#
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = #
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # name: An Elder Scrolls Legend: Battlespire
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # name: Battlespire
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # info: The Imperial Battle College has lost contact with the Battlespire, an elite training centre hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire's staff dead. The gate back to Tamriel is blocked and the facility is under siege by vile Daedra. The only way out is to go deep into darkness of the Daedric Realms.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire).
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: Genre = Role-playing
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: Category = 1st-person • Action RPG • Fantasy
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # tag: Patched
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/An_Elder_Scrolls_Legend:_Battlespire)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1579/an-elder-scrolls-legend-battlespire/)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=An+Elder+Scrolls+Legend%3A+Battlespire&gid=2734)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/an-elder-scrolls-legend-battlespire-bkn)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [Fandom](https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire)
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = #
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Select **Install Battlespire**.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Bypass the internal video driver? Select **Normal**.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Enable captions? Select **Yes**.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Would you like to disable or enable childguard? Select either one that suits your need.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text:   - Enter password if you enable childguard.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text:
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # text: - Disregard any warning about RAM+Swap. Press any key to start the game.
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = [sdl]
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = output = openglnb
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = autolock = true
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = [dosbox]
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = memsize = 48
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = [cpu]
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = core = dynamic
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = cycles = max
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = [autoexec]
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = @ECHO OFF
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = MOUNT C "./drive" -freesize 1024
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = IF NOT EXIST C:\BATSPIRE\SPIRE.BAT GOTO F_INSTALL
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = IF EXIST C:\BATSPIRE\SPIRE.BAT GOTO F_START
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = :F_INSTALL
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = D:
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = INSTALL.EXE
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = C:
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = CD C:\
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = MD UNZIP
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = CD UNZIP
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = C:
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = CD C:\BATSPIRE
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.EXE
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = :F_START
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = C:
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = CD C:\BATSPIRE
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = CALL SPIRE.BAT
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = :F_EXIT
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = EXIT
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = :F_DEBUG
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6485579-an-elder-scrolls-legend-battlespire-dos-front-cover.jpg
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # check: coverart.jpg = 888a9b9a3bf06234fd401eb1ba356dc69f95c0ffae3445598e4f212cac7de338
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Elder_Scrolls_Legend_An_-_Battlespire_1997/Elder_Scrolls_Legend_An_-_Battlespire_1997.zip/batspire%2Fcd%2FBattlespire.bin
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # check: cdrom.bin = 0dbf59b51a75bc1129b5c79d00868bfff58ca54894c25d1ff1b3dc5ae605d833
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # asset: manual.pdf = https://archive.org/download/battlespiremanual/Battlespire_Manual.pdf
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # check: manual.pdf = 357bb362b7d48b9c3b3bf3620d29c956295500a5fb2ba2da597559732d192ad2
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # asset: patch.exe = https://archive.org/download/msdos_Elder_Scrolls_Legend_An_-_Battlespire_1997/Elder_Scrolls_Legend_An_-_Battlespire_1997.zip/batspire%2Fbatpat15.exe
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # check: patch.exe = f54cc8b2cbc1bacf66dbbdc0c2debf8c6d52981285379e8713ce7f3fac1f1b8d
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = #
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 46:46:24
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 49:51:35
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 52:50:36
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 55:51:62
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 59:08:34
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 62:08:68
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 65:17:64
 #
 #
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -3682,6 +3789,134 @@
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = #
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨 (`F10` does not pop-up USER menu)
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) 🟩
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = #
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # name: Future Wars: Adventures in Time
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # name: Future Wars: Time Travellers
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # name: Time Travelers: The Menace
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # info: In the 43rd century, Earth is under attack by an alien race. The planet is well-protected by a formidable SDI defence that the aliens cannot penetrate. Until they hit on a plan, sabotage the defences before they are built by travelling back in time to plant delayed-action bombs at strategic places! Your adventure starts in the present day when, innocently attempting to avoid your boss at work, you stumble across a secret passage that transports you 'back in time' to the start of a quest that takes you into the Middle Ages, Prehistoric Times, and the distant future.
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # tag: Year = 1990
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Sci-fi
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Future_Wars)
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2205/future-wars-adventures-in-time/)
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Future+Wars%3A+Adventures+in+Time&gid=308)
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/future-wars-adventures-in-time-wf)
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = #
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # text: - Skip **Hard disk installation** (the game is already installed).
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # text: - Graphic Adapter: **MCGA card.** (the VGA card causes flickering animation).
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # text: - Sound Device: **MT32, LAPC1, CM 32L and CM 64.**
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # text: - Cursor Moves: **Mouse.**
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # text: - *Save configuration* and *Return to DOS*.
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = [sdl]
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = autolock = true
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = [autoexec]
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = @ECHO OFF
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = IF NOT EXIST C:\FW\FW.BAT GOTO F_INSTALL
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = IF EXIST C:\FW\FW.BAT GOTO F_START
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = :F_INSTALL
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = C:
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = MD FW
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = CD FW
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = COPY D:\FW\*.*
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = :F_START
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = C:
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = CD C:\FW
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = CALL FW.BAT
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = :F_EXIT
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = EXIT
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = :F_DEBUG
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4861316-future-wars-adventures-in-time-dos-other.jpg
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # check: coverart.jpg = ce666a7c5ea915e7830dbc327344729ea2a452630d18e4900131cc6a74551004
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Future_Wars_1989/Future_Wars_1989.zip/FWars%2FCD%2FFUTURE_WARS.bin
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # check: cdrom.bin = 64c1eaecb38ac2ca3e0427813886a3c0f146f053201b16ac7fa69d8135cd2416
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # asset: manual.pdf = https://archive.org/download/manual-futurewars/Manual.pdf
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # check: manual.pdf = 13c9c78d09a4a1face86bc4e3e1cf18e7475957323ce46cc3538c38f055bc025
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = #
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:21:17
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 02:16:04
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 04:46:17
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 07:23:69
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 09:58:42
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 12:37:64
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 15:15:34
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 15:26:19
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 15:36:49
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 15:48:19
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 15:59:34
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:10:37
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:22:12
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:33:14
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:45:24
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 16:56:49
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 18 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 17:08:14
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 19 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 17:19:62
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 20 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 17:33:04
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 21 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 20:16:32
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 22 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 22:23:39
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 23 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 24:29:72
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 24 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 26:33:74
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 25 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:37:29
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 26 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 32:28:49
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 27 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 35:07:04
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 28 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 37:10:32
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 29 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 39:48:22
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =   TRACK 30 AUDIO
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 40:32:67
+#
+#
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = #
 # file: All Programs/Games/Gabriel Knight - Sins of the Fathers/Program.txt = # name: Gabriel Knight: Sins of the Fathers
@@ -5700,6 +5935,73 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = #
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # name: Railroad Tycoon Deluxe
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # name: Sid Meier's Railroad Tycoon Deluxe
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # info: Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush or brush you from their path.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: Category = Top-down • Real-time • Managerial • Train
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Railroad_Tycoon_Deluxe)
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/4037/sid-meiers-railroad-tycoon-deluxe/)
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Railroad+Tycoon+Deluxe&gid=3198)
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-railroad-tycoon-deluxe-22z)
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = #
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text: - Reconfigure Hardware Options:
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:   - Music & Sound Effects Device: **SoundBlaster (orig.)**
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:   - Music Card Address: **Address 220**.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:   - Digitized Speech Device: **SoundBlaster (orig.)**
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:   - Speech Address: **Address 220**.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:   - Speech IRQ: **IRQ 7**.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:   - Speech DRQ: **DRQ 1**.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text: - **Exit to DOS**.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text:
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = [sdl]
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = autolock = true
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = [autoexec]
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = @ECHO OFF
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = IF NOT EXIST C:\RAILSDX\RDX.BAT GOTO F_INSTALL
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = IF EXIST C:\RAILSDX\RDX.BAT GOTO F_START
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = :F_INSTALL
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = D:
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = CALL HDINST.BAT
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = :F_START
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = C:
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = CD C:\RAILSDX
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = CALL RDX.BAT
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = :F_EXIT
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = EXIT
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = :F_DEBUG
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5156155-sid-meiers-railroad-tycoon-deluxe-dos-front-cover.jpg
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # check: coverart.jpg = f49df4e155cbf1b44441185a74718d8988e54443b8f0cb7590a40e9132ce7a5a
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # asset: cdrom.iso = https://archive.org/download/railroad-tycoon-deluxe/RAILSDX.cdr
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # check: cdrom.iso = 1bdd7b402a14de9a3902a8a528d8724bb88031196a724a953c0ee2c36de2e91d
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # asset: manual.pdf = https://archive.org/download/SID_MEIERS_RAILROAD_TYCOON_DELUXE/SID_MEIERS_RAILROAD_TYCOON_DELUXE.pdf
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # check: manual.pdf = 76f71448da6e883537d7313d51613a88b0cc2e0a365c0cd42ae43847f6e069ad
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # asset: card-map.pdf = https://archive.org/download/rrtpacrmsoidupfhgsodfh/rrtpacrmsoidupfhgsodfh.pdf
+# file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # check: card-map.pdf = d50d5e404712217c9bf88f5c7e77c86441c891467c8dadb2080fada7393b3f30
+#
+#
 # file: All Programs/Games/Robbo/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Robbo/Program.txt = #
 # file: All Programs/Games/Robbo/Program.txt = # name: Robbo
@@ -6128,6 +6430,65 @@
 # file: All Programs/Games/Sid Meier's Colonization/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 35:44:15
 #
 #
+# file: All Programs/Games/Silent Hunter/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Silent Hunter/Program.txt = #
+# file: All Programs/Games/Silent Hunter/Program.txt = # name: Silent Hunter
+# file: All Programs/Games/Silent Hunter/Program.txt = # info: Silent Hunter is a full-featured and comprehensive look at World War II submarine warfare. Designed for a single-player, Silent Hunter lets you assume command of an American submarine in the Pacific. You have to sink as many enemy ships as possible. Do your job well and become a decorated naval hero earning assignments on bigger and better class subs as your career progresses.
+# file: All Programs/Games/Silent Hunter/Program.txt = # info: This game is no longer available digitally anymore.
+# file: All Programs/Games/Silent Hunter/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Silent Hunter/Program.txt = # tag: Genre = Simulation
+# file: All Programs/Games/Silent Hunter/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Silent Hunter/Program.txt = # tag: License = Abandonware / Discontinued / Proprietary?
+# file: All Programs/Games/Silent Hunter/Program.txt = # tag: Category = 1st-person • Naval • Vehicular combat • Asia • Historical events • Oceania • World War II
+# file: All Programs/Games/Silent Hunter/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Silent Hunter/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Silent_Hunter_(video_game))
+# file: All Programs/Games/Silent Hunter/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/5356/silent-hunter/)
+# file: All Programs/Games/Silent Hunter/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/silent-hunter-2eg)
+# file: All Programs/Games/Silent Hunter/Program.txt = #
+# file: All Programs/Games/Silent Hunter/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Silent Hunter/Program.txt = # text: - Select **Maximum Install: Animations & Speech on HD 88 Megs D**.
+# file: All Programs/Games/Silent Hunter/Program.txt = # text: - Press `ENTER` to confirm System Detection.
+# file: All Programs/Games/Silent Hunter/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Silent Hunter/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = [sdl]
+# file: All Programs/Games/Silent Hunter/Program.txt = autolock = true
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = [cpu]
+# file: All Programs/Games/Silent Hunter/Program.txt = core = dynamic
+# file: All Programs/Games/Silent Hunter/Program.txt = cycles = max
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = [autoexec]
+# file: All Programs/Games/Silent Hunter/Program.txt = @ECHO OFF
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Silent Hunter/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = IF NOT EXIST C:\SILENT\SH.EXE GOTO F_INSTALL
+# file: All Programs/Games/Silent Hunter/Program.txt = IF EXIST C:\SILENT\SH.EXE GOTO F_START
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = :F_INSTALL
+# file: All Programs/Games/Silent Hunter/Program.txt = D:
+# file: All Programs/Games/Silent Hunter/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = :F_START
+# file: All Programs/Games/Silent Hunter/Program.txt = C:
+# file: All Programs/Games/Silent Hunter/Program.txt = CD C:\SILENT
+# file: All Programs/Games/Silent Hunter/Program.txt = SH.EXE
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = :F_EXIT
+# file: All Programs/Games/Silent Hunter/Program.txt = EXIT
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = :F_DEBUG
+# file: All Programs/Games/Silent Hunter/Program.txt
+# file: All Programs/Games/Silent Hunter/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5511071-silent-hunter-dos-front-cover.jpg
+# file: All Programs/Games/Silent Hunter/Program.txt = # check: coverart.jpg = 8b2785dd60974634d5a1150c6e3df8237299bf73f2e7e59473ec2da98b793df4
+# file: All Programs/Games/Silent Hunter/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Silent_Hunter_1996/Silent_Hunter_1996.zip/SilHnt%2Fcd%2FSHCE_V1_31.iso
+# file: All Programs/Games/Silent Hunter/Program.txt = # check: cdrom.iso = f97bc3bc3dc47ccfde9a4768722e7b4cf519637a9982775ac714d5737a84cfaf
+# file: All Programs/Games/Silent Hunter/Program.txt = # asset: manual.pdf = https://archive.org/download/Silent_Hunter/Silent_Hunter.pdf
+# file: All Programs/Games/Silent Hunter/Program.txt = # check: manual.pdf = 29d4e7380807b50d4deda38f28d7bc96360d7a941c7102fa0b9368b518d63c3a
+#
+#
 # file: All Programs/Games/SimCity/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/SimCity/Program.txt = #
 # file: All Programs/Games/SimCity/Program.txt = # name: SimCity
@@ -6449,6 +6810,149 @@
 # file: All Programs/Games/SimTower/Program.txt = # check: manual.pdf = d3ef5ffabda61bb30078e9339e2a573a80f169a7ed4ebb39a7103bbc16506edb
 # file: All Programs/Games/SimTower/Program.txt = # asset: patch.zip = https://archive.org/download/TOWERW11_ZIP/TOWERW11.ZIP
 # file: All Programs/Games/SimTower/Program.txt = # check: patch.zip = 2f5cffae644f2b42b7492fb03f366fb7f1c41b8565a8afa06d692f7ad37000c4
+#
+#
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = #
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # name: Star Wars: TIE Fighter
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # name: TIE Fighter
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # name: Star Wars: TIE Fighter - Collector's CD-ROM
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # info: Join the Imperial Navy and Save the Galaxy! Pirates raid interstellar traders. Terrorists threaten the galaxy. Through their treachery on Yavin, the alliance of Rebels and other criminals has threatened the very foundation of the Empire. As an Imperial Navy starfighter pilot, you will safeguard imperilled lives throughout the galaxy. Only the Emperor can save us from chaos and destruction. Join his cause in eliminating this rebel uprising as the Empire strikes back!
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # info: This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/).
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # tag: Genre = Action • Simulation
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # tag: Category = 1st-person • Space flight • Vehicular combat • Sci-fi
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_TIE_Fighter)
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/240/star-wars-tie-fighter/)
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Star+Wars%3A+TIE+Fighter&gid=2367)
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/star-wars-tie-fighter-2ei)
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Star_Wars:_X-Wing_(video_game_series))
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) • [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/)
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = #
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # text: - Select **Maximum Install**.
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # text: - Express or Custom Setup (E/C)? Press `E`. Follow auto-detection configuration and tests.
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # text: - Select **PLAY** to start the game (or **EXIT** to quit DOSBox).
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = [sdl]
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = autolock = true
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = [dosbox]
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = machine = vesa_nolfb
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = memsize = 16
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = [cpu]
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = core = auto
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = cputype = auto
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = cycles = auto
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = [autoexec]
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = @ECHO OFF
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = IF NOT EXIST C:\TIECD\TIE.EXE GOTO F_INSTALL
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = IF EXIST C:\TIECD\TIE.EXE GOTO F_START
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = :F_INSTALL
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = D:
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = :F_START
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = C:
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = CD C:\TIECD
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = TIE.EXE
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = :F_EXIT
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = EXIT
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = :F_DEBUG
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4036128-star-wars-tie-fighter-collectors-cd-rom-dos-front-cover.jpg
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # check: coverart.jpg = 7c99264c1f093c4a0133bd886d838e5fc69963a248d80ed5c379beab345adbb7
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # asset: cdrom.bin = https://archive.org/download/StarWarsTIEFighterCollectorsCDROMUSA/Star%20Wars%20-%20TIE%20Fighter%20-%20Collector%27s%20CD-ROM%20%28USA%29.zip/Star%20Wars%20-%20TIE%20Fighter%20-%20Collector%27s%20CD-ROM%20%28USA%29.bin
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # check: cdrom.bin = 1637b77402123720c4c27d2145c26996ad0e873dcc39ececcf8f4fec1ce97646
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # asset: manual.pdf = https://www.starehry.eu/download/simulation/docs/TIE.Fighter-Manual.pdf
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # check: manual.pdf = ada44b036608660e09a54a39dafc69fb121dde2ee2d78177a9b91d9487c67e01
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # asset: ref-card.pdf = https://www.starehry.eu/download/simulation/docs/TIE.Fighter-QRC.pdf
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # check: ref-card.pdf = 6c79cf46c3b4bc7a0890d36c72a9eebc4f9561e7d0add4d64da99c0687ae767e
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = #
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Star Wars - TIE Fighter/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = #
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # name: Star Wars: X-Wing
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # name: X-Wing
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # name: Star Wars: X-Wing - Space Combat Simulator
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # name: Star Wars: X-Wing - Collector's CD-ROM
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # info: It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion?
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # info: This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/).
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # tag: Genre = Action • Simulation
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # tag: Category = 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_X-Wing_(video_game))
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/536/star-wars-x-wing/)
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Star+Wars%3A+X-Wing&gid=1751)
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/star-wars-x-wing-1mp)
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Star_Wars:_X-Wing_(video_game_series))
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # site: Special Edition = [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) • [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/)
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = #
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # text: - **Install Required Files On Hard Disk**.
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # text: - Music and sound devices: Follow auto-detection configuration and tests.
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = [sdl]
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = autolock = true
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = [cpu]
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = core = dynamic
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = cputype = pentium
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = cycles = max
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = [autoexec]
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = @ECHO OFF
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = IF NOT EXIST C:\XWINGCD\XWINGCD.BAT GOTO F_INSTALL
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = IF EXIST C:\XWINGCD\XWINGCD.BAT GOTO F_START
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = :F_INSTALL
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = D:
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = :F_START
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = C:
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = CD C:\XWINGCD
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = CALL XWINGCD.BAT
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = :F_EXIT
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = EXIT
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = :F_DEBUG
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4034407-star-wars-x-wing-collectors-cd-rom-dos-front-cover.jpg
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # check: coverart.jpg = b9356d71b646d9d34aa37617017c5f8711c655b3703b3de17f3854cc4d130a3d
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # asset: cdrom.iso = https://archive.org/download/star-wars-x-wing/StarWarsXWing.zip/StarWarsXWing.iso
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # check: cdrom.iso = f60489ddb536b321247cc558448dd38232b07133d548e04f837dd4a430097da4
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # asset: manual.pdf = https://www.starehry.eu/download/simulation/docs/X-Wing-Manual.pdf
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # check: manual.pdf = d4596c98604a51d27d48a3aa7fa6aaac61b5f08ff129a391e7cdf0774e993a61
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # asset: ref-card.pdf = https://www.starehry.eu/download/simulation/docs/X-Wing-QRCard.pdf
+# file: All Programs/Games/Star Wars - X-Wing/Program.txt = # check: ref-card.pdf = 73147f693cf6b0c476040e98d24997b1ea95ffbf12f2a10f189c24bea276e139
 #
 #
 # file: All Programs/Games/Stargunner/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -6783,6 +7287,402 @@
 # file: All Programs/Games/Terminal Velocity/Program.txt = # check: cdrom.iso = f429b7a00305c8db7a13e16e01c678396c4a73262dd55b146fe2a5f144084b18
 # file: All Programs/Games/Terminal Velocity/Program.txt = # asset: manual.pdf = http://legacy.3drealms.com/tech/manuals/Terminal%20Velocity.pdf
 # file: All Programs/Games/Terminal Velocity/Program.txt = # check: manual.pdf = b0780ab1ae9313ff1e8ce6dab46366220ffde825259f0701cb0aeed493e5f8a4
+#
+#
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = #
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # name: Tex Murphy: Martian Memorandum
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # name: Tex Murphy 2
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # name: Martian Memorandum
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # info: It's 2039, six years after solving the Linsky murder case. The years have been less than kind to Tex Murphy. In post-holocaust San Francisco, he has been into constant radiation, but what's put the lines in his face are the years trying to stay afloat and recapture the glory of his first big case. While working on his first case, Tex stumbled into - and foiled - a conspiracy to dominate the world. Since then, he's been high and dry, trying to keep from being broke. Understandably, he jumps at an offer by the powerful Marshall Alexander.
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) and [Steam 💰](https://store.steampowered.com/app/302340/Tex_Murphy_Martian_Memorandum/).
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # tag: Category = Side view • Graphic adventure • Puzzle elements • Sci-fi • Detective
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Martian_Memorandum)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/222/martian-memorandum/)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Martian+Memorandum&gid=1514)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/martian-memorandum-17c)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Tex_Murphy)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: Mean Streets + Martian Memorandum = [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/302340/Tex_Murphy_Martian_Memorandum/)
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = #
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # text: - Select input device: Press `1` for **MOUSE**.
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # text: - Select device to play MIDI music: Press `1` for **ADLIB**.
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # text: - Select device which will play the digital sound effects and voices: Press `4` for **SOUND BLASTER**.
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # text: - Select Sound Blaster port number: Press `2` for **220H**.
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # text: - Select Sound Blaster interupt number: Press `4` for **7**.
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = [sdl]
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = autolock = true
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = [autoexec]
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = @ECHO OFF
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IF NOT EXIST C:\MARS\MM.EXE GOTO F_INSTALL
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IF EXIST C:\MARS\MM.EXE GOTO F_START
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = :F_INSTALL
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = CD C:\
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = MD MARS
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = CD MARS
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk04.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk05.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk06.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk07.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk08.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk09.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT A "./Assets/disk10.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = :F_START
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = CD C:\MARS
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = MM.EXE
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = :F_EXIT
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = EXIT
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = :F_DEBUG
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6530967-martian-memorandum-dos-front-cover.jpg
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: coverart.jpg = 26dfc8c70af2f22a233b1eba376d5a00eff76a8b5144c6d86df151f9ee3c0a27
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk01.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%201%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk01.img = cef37fc3cedb20f8bd568f57a30b7497fc3e52b92aa9a6f4661d29a4c32fa7bb
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk02.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%202%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk02.img = c06b4feb60aa7a1afcb06e12b7fb023c466465311aa3c32c055f6fc6b1ce90cf
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk03.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%203%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk03.img = d431ed0dc4038b76212d3216a15448365c8016e8980b1b67173ea8a86a955c19
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk04.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%204%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk04.img = 5c850688f3638066eafe595cacf96429e93ab976c01d59b2ad0a260c7b8b1850
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk05.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%205%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk05.img = d835eb59d7ad0307d78444609972e231050b51b9ab6b0f2294f05e754ebc32c0
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk06.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%206%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk06.img = 06f54ce12cd2266b55a3aa4b3707bf2cf264794cfb3acb100296c41b99bb3129
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk07.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%207%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk07.img = 5ce6ed07a12a583d34bc0ffcb0267e7f0b570338f2ed47792ffae48f98dfe4f3
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk08.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%208%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk08.img = 35bec5f32c83e6922bee5d76c5643606d997cc6ecf84afb25d28fb2c340ce808
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk09.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%209%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk09.img = afc255c0c3dbcb233ed50ad573795b0a0f6d0151eae3fe6eed7346f86ed1c97b
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: disk10.img = https://archive.org/download/20230607_20230607_0947/Martian%20Memorandum%20%281991%29%20%28720K%29%20%5B%23%5D.zip/Martian%20Memorandum%20%281991%29%20%28720K%29%20%28Disk%2010%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: disk10.img = 5e6a4c27469c200fa44316c56d417318c14f06d54e21e526575e5e408476b42e
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # asset: manual.pdf = https://archive.org/download/PrivateEyeMysteries1993Lasersoft/Martian_Memorandum-Manual.pdf
+# file: All Programs/Games/Tex Murphy - Martian Memorandum/Program.txt = # check: manual.pdf = 9be97be292ab53fee0622caa94aa5575cc5c109b1486f216914eee0da9455b29
+#
+#
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = #
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # name: Tex Murphy: Mean Streets
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # name: Tex Murphy 1
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # name: Mean Streets
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # info: It's the year 2033. Your name is Tex Murphy, a private investigator in San Francisco. A beautiful daughter of a university professor hired you to uncover the facts about her father's death. As the investigation begins, you expose the deaths of several prominent scientific community members. Are these deaths coincidental? Or is there something more sinister going on? And which characters could have a motive? Could it be J. Saint Gideon, the former head of British Intelligence? Could Frank Schimming, the President of the world's largest surveillance firm, be hiding something? Or what about Sylvia, the professor's daughter? Is she as innocent as she seems? And why is an infamous Detroit hitman in town?
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) and [Steam 💰](https://store.steampowered.com/app/302330/Tex_Murphy_Mean_Streets/).
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: Year = 1989
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: Category = Side view • Puzzle elements • Sci-fi • Detective
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # tag: Patched
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Mean_Streets_(video_game))
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/221/mean-streets/)
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mean+Streets&gid=1512)
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/mean-streets-p7)
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Tex_Murphy)
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: Mean Streets + Martian Memorandum = [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2)
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/302330/Tex_Murphy_Mean_Streets/)
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = #
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # text: - *Play MEAN STREETS*.
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # text: - Press `1` for **VGA/MCGA 320x200 256 color**.
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = [sdl]
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = autolock = true
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = [autoexec]
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = @ECHO OFF
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IF NOT EXIST C:\MSTREETS\MS.EXE GOTO F_INSTALL
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IF EXIST C:\MSTREETS\MS.EXE GOTO F_START
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = :F_INSTALL
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = CD C:\
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = MD UNZIP
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = CD UNZIP
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = CD C:\
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = MD MSTREETS
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = CD MSTREETS
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = :F_START
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = CD C:\MSTREETS
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = MS.EXE
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = :F_EXIT
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = EXIT
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = :F_DEBUG
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/326815-mean-streets-dos-front-cover.jpg
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: coverart.jpg = eefa77744e8231e91a16647c4c809acd70a375db3ac456a79d60a95ced960c6d
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: disk01.img = https://archive.org/download/20230607_20230607_0947/Mean%20Streets%20%281989%29%20%28v1.3%29%20%28720K%29%20%5B%23%5D.zip/Mean%20Streets%20%281989%29%20%28v1.3%29%20%28720K%29%20%28Disk%201%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: disk01.img = 0a977aa941e9d28f9e0899150568531e2b2c5d0b3530b052ff9c4f2f84c62163
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: disk02.img = https://archive.org/download/20230607_20230607_0947/Mean%20Streets%20%281989%29%20%28v1.3%29%20%28720K%29%20%5B%23%5D.zip/Mean%20Streets%20%281989%29%20%28v1.3%29%20%28720K%29%20%28Disk%202%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: disk02.img = d31079ec8296766df661a36f193b59f1f6781e4b5e3cccc7ab9b1233cb8ab98d
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: disk03.img = https://archive.org/download/20230607_20230607_0947/Mean%20Streets%20%281989%29%20%28v1.3%29%20%28720K%29%20%5B%23%5D.zip/Mean%20Streets%20%281989%29%20%28v1.3%29%20%28720K%29%20%28Disk%203%29%20%5B%23%5D.ima
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: disk03.img = 268c3d064b9db006d44d3615996928280a8f854d4c0b6693bc8e6ebf94c7d8f3
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: manual.pdf = https://archive.org/download/PrivateEyeMysteries1993Lasersoft/Mean_Streets_-_Manual_-_PC.pdf
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: manual.pdf = 2d0dffb1a42e88f6ca6aa4e2d1ac0e5e1a36c1bf9916f85699f0a3fe1fffee8a
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: infochart.pdf = https://archive.org/download/PrivateEyeMysteries1993Lasersoft/mean_streets_detective_information_chart.pdf
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: infochart.pdf = e922de4b68e4fbd6d7381f3287b504258cf5f3152851df1e87dd8f698578ea60
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: map.pdf = https://archive.org/download/PrivateEyeMysteries1993Lasersoft/Mean_Streets_-_Map_-_PC.pdf
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: map.pdf = 079c29d2b2071993f028d762f63ff331198e0c0eda49493cd9034532896bc612
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: patch.zip = https://archive.org/download/MEANST14_ZIP/MEANST14.ZIP
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: patch.zip = 394ddfcbd532a4ab22324dbf90ee298d6560d9fdbcdabaa01c7a0a5a14a1eafb
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Tex Murphy - Mean Streets/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = #
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # name: Tex Murphy: The Pandora Directive
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # name: Tex Murphy 4
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # name: The Pandora Directive
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # name: Pandora Device
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # info: The Government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes -- find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization?
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/).
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # tag: Category = 1st-person • Graphic adventure • Post-apocalyptic • Detective
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Pandora_Directive)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1454/the-pandora-directive/)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tex+Murphy%3A+The+Pandora+Directive&gid=2208)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-pandora-directive-crh)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Tex_Murphy)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/)
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = #
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: - Select **Install**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: - Set Sound Device:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   - Digital Format: Select **Auto Detect**, and perform **Sound Test**. Select **OK**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   - MIDI Music Format: Perform **Sound Test**. Select **OK**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: - Click **OK** to complete the installation.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   1. The Pandora Directive #1 to Drive D:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   2. The Pandora Directive #2 to Drive E:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   3. The Pandora Directive #3 to Drive F:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   4. The Pandora Directive #4 to Drive G:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   5. The Pandora Directive #5 to Drive H:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   6. The Pandora Directive #6 to Drive I:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text: - The first time the game is run, select **Config**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   - CD-ROM tab:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Assign Disk 1 to Drive **D:**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Assign Disk 2 to Drive **E:**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Assign Disk 3 to Drive **F:**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Assign Disk 4 to Drive **G:**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Assign Disk 5 to Drive **H:**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Assign Disk 6 to Drive **I:**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:   - Preferences tab:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # text:     - Captioning: **On**.
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = [sdl]
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = autolock = true
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = [autoexec]
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = @ECHO OFF
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" -t iso
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IMGMOUNT E "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IMGMOUNT F "./Assets/cdrom03.iso" -t iso
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IMGMOUNT G "./Assets/cdrom04.iso" -t iso
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IMGMOUNT H "./Assets/cdrom05.iso" -t iso
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IMGMOUNT I "./Assets/cdrom06.iso" -t iso
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IF NOT EXIST C:\PANDORA\PANDORA.BAT GOTO F_INSTALL
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = IF EXIST C:\PANDORA\PANDORA.BAT GOTO F_START
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = :F_INSTALL
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = D:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = :F_START
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = CD C:\PANDORA
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = CALL PANDORA.BAT
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = :F_EXIT
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = EXIT
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = :F_DEBUG
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4155131-the-pandora-directive-dos-front-cover.jpg
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: coverart.jpg = a663b31280715a21b313f633e1c0f1e233f8d3c7172bc01879587dc836903cb3
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: cdrom01.iso = https://archive.org/download/ThePandoraDirectiveRetailCopy/PANDORA_Disk1-Retail.ISO
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: cdrom01.iso = 5dd85c265e78abd7b73b928601c61676ac0e6f257e47509806d7bd5fb23172ff
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: cdrom02.iso = https://archive.org/download/ThePandoraDirectiveRetailCopy/PANDORA_Disk2-Retail.ISO
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: cdrom02.iso = 4f5db6541dc8e04ac21a24d969556526489b69934fbf2c5308231d2492d03a6c
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: cdrom03.iso = https://archive.org/download/ThePandoraDirectiveRetailCopy/PANDORA_Disk3-Retail.ISO
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: cdrom03.iso = 4aeeebe4edb5cd419569351fc150c7801b6ab2e926077888b1455fecf19c2daa
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: cdrom04.iso = https://archive.org/download/ThePandoraDirectiveRetailCopy/PANDORA_Disk4-Retail.ISO
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: cdrom04.iso = ed4e27f5bbb66992ae354458bf4d4172b14f94429d817dfd7404f2410f6c2c6b
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: cdrom05.iso = https://archive.org/download/ThePandoraDirectiveRetailCopy/PANDORA_Disk5-Retail.ISO
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: cdrom05.iso = b3aaf61e3a401dc02178401a6bbfc8e3bb1a59d7d8db036c7ee7527671d8545e
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: cdrom06.iso = https://archive.org/download/ThePandoraDirectiveRetailCopy/PANDORA_Disk6-Retail.ISO
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: cdrom06.iso = 68c027c420083a93fb343a41dea41a03bdb78819c6e618d992f6c2500e918759
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # asset: manual.pdf = https://steamcdn-a.akamaihd.net/steam/apps/302360/manuals/Manual.pdf
+# file: All Programs/Games/Tex Murphy - The Pandora Directive/Program.txt = # check: manual.pdf = e5ebc743c5e877c39845924377bd208e73214d18614dc7dd582ef6e038c9c3b6
+#
+#
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = #
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # name: Tex Murphy: Under a Killing Moon
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # name: Tex Murphy 3
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # name: Under a Killing Moon
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # info: As Tex Murphy, Private Investigator, you are in your seedy, 2nd-floor office in the heart of a run-down mutant part of town. You must stop the forces of evil before they destroy all mankind and rob you of your next unemployment check.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/).
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: Category = 1st-person • Graphic adventure • Puzzle elements • Post-apocalyptic • Sci-fi • Detective
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # tag: Patched
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Under_a_Killing_Moon)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/850/under-a-killing-moon/)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tex+Murphy%3A+Under+a+Killing+Moon&gid=2874)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/under-a-killing-moon-crg)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Tex_Murphy)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/)
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = #
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: - Select **Install Software**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: - Set Sound Device:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   - Digital Format: Select **Auto Detect**, and perform **Sound Test**. Select **OK**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   - MIDI Music Format: Perform **Sound Test**. Select **OK**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: - Configuration:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   - CD-ROM - Drive Assignment:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:     - Assign Disk 1 to Drive **D:**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:     - Assign Disk 2 to Drive **E:**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:     - Assign Disk 3 to Drive **F:**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:     - Assign Disk 4 to Drive **G:**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   - Miscellaneous - Captioning: **On**.
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   1. Under a Killing Moon Disc #1 to Drive D:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   2. Under a Killing Moon Disc #2 to Drive E:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   3. Under a Killing Moon Disc #3 to Drive F:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # text:   4. Under a Killing Moon Disc #4 to Drive G:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = [sdl]
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = autolock = true
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = [autoexec]
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = @ECHO OFF
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" -t iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = IMGMOUNT E "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = IMGMOUNT F "./Assets/cdrom03.iso" -t iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = IMGMOUNT G "./Assets/cdrom04.iso" -t iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = IF NOT EXIST C:\MOON\MOON.EXE GOTO F_INSTALL
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = IF EXIST C:\MOON\MOON.EXE GOTO F_START
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = :F_INSTALL
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = CD C:\
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = MD UNZIP
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = CD UNZIP
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = D:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = CD C:\MOON
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = :F_START
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = C:
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = CD C:\MOON
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = TEX197.EXE
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = :F_EXIT
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = EXIT
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = :F_DEBUG
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/419219-under-a-killing-moon-dos-front-cover.jpg
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: coverart.jpg = 3813eac99d51bb0a1c4a7beb00dcc9e6fd7867c2a1894f3516e25636f0385949
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: cdrom01.iso = https://archive.org/download/Under_a_Killing_Moon_1994_U.S._Gold/Under%20a%20Killing%20Moon%20%281994%29%28U.S.%20Gold%29%28Disc%201%20of%204%29.iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: cdrom01.iso = 3acf562ed447554515cd248ceddbd06c83991a09e2ed995d766ae56a0acd55a9
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: cdrom02.iso = https://archive.org/download/Under_a_Killing_Moon_1994_U.S._Gold/Under%20a%20Killing%20Moon%20%281994%29%28U.S.%20Gold%29%28Disc%202%20of%204%29.iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: cdrom02.iso = 1e149c6c779dbe072753d02bf137529d09c8e77031087295ab632044c7488e8e
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: cdrom03.iso = https://archive.org/download/Under_a_Killing_Moon_1994_U.S._Gold/Under%20a%20Killing%20Moon%20%281994%29%28U.S.%20Gold%29%28Disc%203%20of%204%29.iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: cdrom03.iso = fb63daea16f531dc9f791767f31516d57f1245ebf995323adfed463c57f596f8
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: cdrom04.iso = https://archive.org/download/Under_a_Killing_Moon_1994_U.S._Gold/Under%20a%20Killing%20Moon%20%281994%29%28U.S.%20Gold%29%28Disc%204%20of%204%29.iso
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: cdrom04.iso = 38faea19c104906fdb690c9b156d951a3d85a435eba40baa280376537adfc336
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: manual.pdf = https://archive.org/download/UNDER_A_KILLING_MOON/UNDER_A_KILLING_MOON.pdf
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: manual.pdf = 4f445d161a74cd7dc461ce7ac15f6ba65f5d4a5e08cd6bb1062e4e1d8360cac6
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: patch.zip = https://archive.org/download/UKM4_197_ZIP/UKM4_197.ZIP
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: patch.zip = 49e0b5309be59c36e8d40deb662739776aa3893c025d424ace9aa0f8794a6608
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Tex Murphy - Under a Killing Moon/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
 # file: All Programs/Games/The Amazing Spider-Man/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -8922,6 +9822,8 @@
 # link: Games/By Genre/Action/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Genre/Action/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By Genre/Action/Robbo = ../../../All Programs/Games/Robbo
+# link: Games/By Genre/Action/Star Wars - TIE Fighter = ../../../All Programs/Games/Star Wars - TIE Fighter
+# link: Games/By Genre/Action/Star Wars - X-Wing = ../../../All Programs/Games/Star Wars - X-Wing
 # link: Games/By Genre/Action/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By Genre/Action/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
 # link: Games/By Genre/Action/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
@@ -8934,6 +9836,7 @@
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
+# link: Games/By Genre/Adventure/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By Genre/Adventure/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Genre/Adventure/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
 # link: Games/By Genre/Adventure/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
@@ -8948,6 +9851,10 @@
 # link: Games/By Genre/Adventure/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Genre/Adventure/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
+# link: Games/By Genre/Adventure/Tex Murphy - Martian Memorandum = ../../../All Programs/Games/Tex Murphy - Martian Memorandum
+# link: Games/By Genre/Adventure/Tex Murphy - Mean Streets = ../../../All Programs/Games/Tex Murphy - Mean Streets
+# link: Games/By Genre/Adventure/Tex Murphy - The Pandora Directive = ../../../All Programs/Games/Tex Murphy - The Pandora Directive
+# link: Games/By Genre/Adventure/Tex Murphy - Under a Killing Moon = ../../../All Programs/Games/Tex Murphy - Under a Killing Moon
 # link: Games/By Genre/Adventure/The Dig = ../../../All Programs/Games/The Dig
 # link: Games/By Genre/Adventure/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
 # link: Games/By Genre/Adventure/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
@@ -8967,6 +9874,7 @@
 # link: Games/By Genre/Racing/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Genre/Racing/The Need for Speed = ../../../All Programs/Games/The Need for Speed
+# link: Games/By Genre/Role-playing/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By Genre/Role-playing/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By Genre/Role-playing/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By Genre/Role-playing/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
@@ -8976,9 +9884,12 @@
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Genre/Simulation/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
+# link: Games/By Genre/Simulation/Silent Hunter = ../../../All Programs/Games/Silent Hunter
 # link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
 # link: Games/By Genre/Simulation/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Genre/Simulation/SimTower = ../../../All Programs/Games/SimTower
+# link: Games/By Genre/Simulation/Star Wars - TIE Fighter = ../../../All Programs/Games/Star Wars - TIE Fighter
+# link: Games/By Genre/Simulation/Star Wars - X-Wing = ../../../All Programs/Games/Star Wars - X-Wing
 # link: Games/By Genre/Simulation/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By Genre/Simulation/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
 # link: Games/By Genre/Sports/4D Boxing = ../../../All Programs/Games/4D Boxing
@@ -8996,6 +9907,7 @@
 # link: Games/By Genre/Strategy/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By Genre/Strategy/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Genre/Strategy/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By Genre/Strategy/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By Genre/Strategy/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Genre/Strategy/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Genre/Strategy/The Settlers = ../../../All Programs/Games/The Settlers
@@ -9014,9 +9926,11 @@
 # link: Games/By License/Abandonware/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By License/Abandonware/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By License/Abandonware/Fade to Black = ../../../All Programs/Games/Fade to Black
+# link: Games/By License/Abandonware/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By License/Abandonware/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By License/Abandonware/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By License/Abandonware/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
@@ -9055,6 +9969,7 @@
 # link: Games/By License/Proprietary/Alone in the Dark = ../../../All Programs/Games/Alone in the Dark
 # link: Games/By License/Proprietary/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By License/Proprietary/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
+# link: Games/By License/Proprietary/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By License/Proprietary/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
@@ -9082,8 +9997,14 @@
 # link: Games/By License/Proprietary/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By License/Proprietary/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
+# link: Games/By License/Proprietary/Star Wars - TIE Fighter = ../../../All Programs/Games/Star Wars - TIE Fighter
+# link: Games/By License/Proprietary/Star Wars - X-Wing = ../../../All Programs/Games/Star Wars - X-Wing
 # link: Games/By License/Proprietary/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By License/Proprietary/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
+# link: Games/By License/Proprietary/Tex Murphy - Martian Memorandum = ../../../All Programs/Games/Tex Murphy - Martian Memorandum
+# link: Games/By License/Proprietary/Tex Murphy - Mean Streets = ../../../All Programs/Games/Tex Murphy - Mean Streets
+# link: Games/By License/Proprietary/Tex Murphy - The Pandora Directive = ../../../All Programs/Games/Tex Murphy - The Pandora Directive
+# link: Games/By License/Proprietary/Tex Murphy - Under a Killing Moon = ../../../All Programs/Games/Tex Murphy - Under a Killing Moon
 # link: Games/By License/Proprietary/The Dig = ../../../All Programs/Games/The Dig
 # link: Games/By License/Proprietary/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
 # link: Games/By License/Proprietary/The Settlers = ../../../All Programs/Games/The Settlers
@@ -9095,6 +10016,7 @@
 # link: Games/By License/Proprietary/Warcraft II - Battle Chest = ../../../All Programs/Games/Warcraft II - Battle Chest
 # link: Games/By License/Proprietary/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
 # link: Games/By License/Proprietary/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
+# link: Games/By License/Unknown/Silent Hunter = ../../../All Programs/Games/Silent Hunter
 # link: Games/By Platform/DOS/3 Skulls of the Toltecs = ../../../All Programs/Games/3 Skulls of the Toltecs
 # link: Games/By Platform/DOS/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By Platform/DOS/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
@@ -9103,6 +10025,7 @@
 # link: Games/By Platform/DOS/Alone in the Dark = ../../../All Programs/Games/Alone in the Dark
 # link: Games/By Platform/DOS/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By Platform/DOS/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
+# link: Games/By Platform/DOS/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By Platform/DOS/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By Platform/DOS/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By Platform/DOS/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
@@ -9125,6 +10048,7 @@
 # link: Games/By Platform/DOS/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By Platform/DOS/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Platform/DOS/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
+# link: Games/By Platform/DOS/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By Platform/DOS/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Platform/DOS/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
 # link: Games/By Platform/DOS/Gobliiins = ../../../All Programs/Games/Gobliiins
@@ -9148,14 +10072,22 @@
 # link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By Platform/DOS/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By Platform/DOS/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Platform/DOS/Shannara = ../../../All Programs/Games/Shannara
+# link: Games/By Platform/DOS/Silent Hunter = ../../../All Programs/Games/Silent Hunter
 # link: Games/By Platform/DOS/SimCity = ../../../All Programs/Games/SimCity
+# link: Games/By Platform/DOS/Star Wars - TIE Fighter = ../../../All Programs/Games/Star Wars - TIE Fighter
+# link: Games/By Platform/DOS/Star Wars - X-Wing = ../../../All Programs/Games/Star Wars - X-Wing
 # link: Games/By Platform/DOS/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By Platform/DOS/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By Platform/DOS/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Platform/DOS/Teen Agent = ../../../All Programs/Games/Teen Agent
 # link: Games/By Platform/DOS/Terminal Velocity = ../../../All Programs/Games/Terminal Velocity
+# link: Games/By Platform/DOS/Tex Murphy - Martian Memorandum = ../../../All Programs/Games/Tex Murphy - Martian Memorandum
+# link: Games/By Platform/DOS/Tex Murphy - Mean Streets = ../../../All Programs/Games/Tex Murphy - Mean Streets
+# link: Games/By Platform/DOS/Tex Murphy - The Pandora Directive = ../../../All Programs/Games/Tex Murphy - The Pandora Directive
+# link: Games/By Platform/DOS/Tex Murphy - Under a Killing Moon = ../../../All Programs/Games/Tex Murphy - Under a Killing Moon
 # link: Games/By Platform/DOS/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By Platform/DOS/The Dig = ../../../All Programs/Games/The Dig
 # link: Games/By Platform/DOS/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena

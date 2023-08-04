@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (22)
+# 🗂️ Games ‣ By Genre ‣ Strategy (23)
 
 > <table><tr><td width="255">
 >
@@ -257,6 +257,25 @@
 > ❝ The enemy is on the run. One more mortar shell should take them out. Still, your mission is to blow up the bridge by sundown, and Postie is starting to talk to himself again. Maybe you shouldn't let him keep that dynamite. Lock and load: it's time for Deadly Games. From the makers of Jagged Alliance, 1995's Game of the Year (Power Play magazine), comes the multiplayer strategy game with more new features than you can shake a grenade launcher at. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/Thumbnail.png "Railroad Tycoon Deluxe")
+>
+> </td>
+>
+> <td>
+>
+> ## [Railroad Tycoon Deluxe](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Top-down • Real-time • Managerial • Train ┃ **Media** ‣ CD-ROM ┃ **Copy Protection** 
+>
+> ❝ Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush or brush you from their path. ❞
 >
 >
 > </td></tr></table>

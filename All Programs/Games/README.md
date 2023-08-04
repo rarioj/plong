@@ -1,4 +1,4 @@
-# 🗂️ All Programs ‣ Games (90)
+# 🗂️ All Programs ‣ Games (100)
 
 > <table><tr><td width="255">
 >
@@ -158,6 +158,27 @@
 > ❝ Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must out-wit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there. ❞
 >
 > ❝ This game **is not abandonware 🚫** and **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](An%20Elder%20Scrolls%20Legend%20-%20Battlespire/Thumbnail.png "An Elder Scrolls Legend: Battlespire")
+>
+> </td>
+>
+> <td>
+>
+> ## [An Elder Scrolls Legend: Battlespire](An%20Elder%20Scrolls%20Legend%20-%20Battlespire/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Action RPG • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ The Imperial Battle College has lost contact with the Battlespire, an elite training centre hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire's staff dead. The gate back to Tamriel is blocked and the facility is under siege by vile Daedra. The only way out is to go deep into darkness of the Daedric Realms. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire). ❞
 >
 >
 > </td></tr></table>
@@ -700,6 +721,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](Future%20Wars%20-%20Adventures%20in%20Time/Thumbnail.png "Future Wars: Adventures in Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Future Wars: Adventures in Time](Future%20Wars%20-%20Adventures%20in%20Time/README.md)
+>
+> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ In the 43rd century, Earth is under attack by an alien race. The planet is well-protected by a formidable SDI defence that the aliens cannot penetrate. Until they hit on a plan, sabotage the defences before they are built by travelling back in time to plant delayed-action bombs at strategic places! Your adventure starts in the present day when, innocently attempting to avoid your boss at work, you stumble across a secret passage that transports you 'back in time' to the start of a quest that takes you into the Middle Ages, Prehistoric Times, and the distant future. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/Thumbnail.png "Gabriel Knight: Sins of the Fathers")
 >
 > </td>
@@ -1198,6 +1238,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](Railroad%20Tycoon%20Deluxe/Thumbnail.png "Railroad Tycoon Deluxe")
+>
+> </td>
+>
+> <td>
+>
+> ## [Railroad Tycoon Deluxe](Railroad%20Tycoon%20Deluxe/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Top-down • Real-time • Managerial • Train ┃ **Media** ‣ CD-ROM ┃ **Copy Protection** 
+>
+> ❝ Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush or brush you from their path. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Robbo/Thumbnail.png "Robbo")
 >
 > </td>
@@ -1280,6 +1339,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](Silent%20Hunter/Thumbnail.png "Silent Hunter")
+>
+> </td>
+>
+> <td>
+>
+> ## [Silent Hunter](Silent%20Hunter/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware / Discontinued / Proprietary? ┃ **Category** ‣ 1st-person • Naval • Vehicular combat • Asia • Historical events • Oceania • World War II ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Silent Hunter is a full-featured and comprehensive look at World War II submarine warfare. Designed for a single-player, Silent Hunter lets you assume command of an American submarine in the Pacific. You have to sink as many enemy ships as possible. Do your job well and become a decorated naval hero earning assignments on bigger and better class subs as your career progresses. ❞
+>
+> ❝ This game is no longer available digitally anymore. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](SimCity/Thumbnail.png "SimCity")
 >
 > </td>
@@ -1333,6 +1413,48 @@
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Managerial ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
 > ❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Star%20Wars%20-%20TIE%20Fighter/Thumbnail.png "Star Wars: TIE Fighter")
+>
+> </td>
+>
+> <td>
+>
+> ## [Star Wars: TIE Fighter](Star%20Wars%20-%20TIE%20Fighter/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Join the Imperial Navy and Save the Galaxy! Pirates raid interstellar traders. Terrorists threaten the galaxy. Through their treachery on Yavin, the alliance of Rebels and other criminals has threatened the very foundation of the Empire. As an Imperial Navy starfighter pilot, you will safeguard imperilled lives throughout the galaxy. Only the Emperor can save us from chaos and destruction. Join his cause in eliminating this rebel uprising as the Empire strikes back! ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Star%20Wars%20-%20X-Wing/Thumbnail.png "Star Wars: X-Wing")
+>
+> </td>
+>
+> <td>
+>
+> ## [Star Wars: X-Wing](Star%20Wars%20-%20X-Wing/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >
 >
 > </td></tr></table>
@@ -1438,6 +1560,90 @@
 > ❝ In the far future, armadas from surrounding systems have suddenly waged war on Earth, destroying critical installations and major cities. Earth is now on its knees. You are a pilot from the Ares Squadron flying the fastest, most dangerous crafts ever made. Currently, you are in the TV-202, a fighter few can handle. Given that the previous model, the TV-101, has chalked up more dead pilots than any experimental craft in history, many consider you lucky to be alive. You are in a flying coffin, outgunned and outmanned. But think how good a Saved-the-Known-Galaxy title will look on your resume. ❞
 >
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and a **Boosted Edition** release is available on [GOG 💰](https://www.gog.com/en/game/terminal_velocity_boosted_edition) and [Steam 💰](https://store.steampowered.com/app/1956430/Terminal_Velocity_Boosted_Edition/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Tex%20Murphy%20-%20Martian%20Memorandum/Thumbnail.png "Tex Murphy: Martian Memorandum")
+>
+> </td>
+>
+> <td>
+>
+> ## [Tex Murphy: Martian Memorandum](Tex%20Murphy%20-%20Martian%20Memorandum/README.md)
+>
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Sci-fi • Detective ┃ **Media** ‣ Floppy Disk 
+>
+> ❝ It's 2039, six years after solving the Linsky murder case. The years have been less than kind to Tex Murphy. In post-holocaust San Francisco, he has been into constant radiation, but what's put the lines in his face are the years trying to stay afloat and recapture the glory of his first big case. While working on his first case, Tex stumbled into - and foiled - a conspiracy to dominate the world. Since then, he's been high and dry, trying to keep from being broke. Understandably, he jumps at an offer by the powerful Marshall Alexander. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) and [Steam 💰](https://store.steampowered.com/app/302340/Tex_Murphy_Martian_Memorandum/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Tex%20Murphy%20-%20Mean%20Streets/Thumbnail.png "Tex Murphy: Mean Streets")
+>
+> </td>
+>
+> <td>
+>
+> ## [Tex Murphy: Mean Streets](Tex%20Murphy%20-%20Mean%20Streets/README.md)
+>
+> 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Puzzle elements • Sci-fi • Detective ┃ **Media** ‣ Floppy Disk ┃ **Patched** 
+>
+> ❝ It's the year 2033. Your name is Tex Murphy, a private investigator in San Francisco. A beautiful daughter of a university professor hired you to uncover the facts about her father's death. As the investigation begins, you expose the deaths of several prominent scientific community members. Are these deaths coincidental? Or is there something more sinister going on? And which characters could have a motive? Could it be J. Saint Gideon, the former head of British Intelligence? Could Frank Schimming, the President of the world's largest surveillance firm, be hiding something? Or what about Sylvia, the professor's daughter? Is she as innocent as she seems? And why is an infamous Detroit hitman in town? ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) and [Steam 💰](https://store.steampowered.com/app/302330/Tex_Murphy_Mean_Streets/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Tex%20Murphy%20-%20The%20Pandora%20Directive/Thumbnail.png "Tex Murphy: The Pandora Directive")
+>
+> </td>
+>
+> <td>
+>
+> ## [Tex Murphy: The Pandora Directive](Tex%20Murphy%20-%20The%20Pandora%20Directive/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Post-apocalyptic • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ The Government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes -- find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/Thumbnail.png "Tex Murphy: Under a Killing Moon")
+>
+> </td>
+>
+> <td>
+>
+> ## [Tex Murphy: Under a Killing Moon](Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements • Post-apocalyptic • Sci-fi • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ As Tex Murphy, Private Investigator, you are in your seedy, 2nd-floor office in the heart of a run-down mutant part of town. You must stop the forces of evil before they destroy all mankind and rob you of your next unemployment check. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞
 >
 >
 > </td></tr></table>

@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Action (31)
+# 🗂️ Games ‣ By Genre ‣ Action (33)
 
 > <table><tr><td width="255">
 >
@@ -507,6 +507,48 @@
 > ❝ After pulling too many mischievous pranks, Robbo found himself destined to live in a horrid maze designed to prevent the intelligent little robot from escaping. It is up to you to end Robbo's frustration and torture and find a way to freedom. Beware! Along the way, you will encounter giant spiders blocking the corridors, powerful cannons shooting missiles in random directions, and deadly electromagnets designed to destroy all metal objects, including Robbo! That is just the beginning. ❞
 >
 > ❝ On 25 June 2006, after obtaining approval from the rights holders, Maciej Miąsik released the three games from Epic Puzzle Pack, including The Adventures of Robbo, through the Classic DOS Games website under the Creative Commons BY-SA 2.5 license as freeware. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Star%20Wars%20-%20TIE%20Fighter/Thumbnail.png "Star Wars: TIE Fighter")
+>
+> </td>
+>
+> <td>
+>
+> ## [Star Wars: TIE Fighter](../../../All%20Programs/Games/Star%20Wars%20-%20TIE%20Fighter/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Join the Imperial Navy and Save the Galaxy! Pirates raid interstellar traders. Terrorists threaten the galaxy. Through their treachery on Yavin, the alliance of Rebels and other criminals has threatened the very foundation of the Empire. As an Imperial Navy starfighter pilot, you will safeguard imperilled lives throughout the galaxy. Only the Emperor can save us from chaos and destruction. Join his cause in eliminating this rebel uprising as the Empire strikes back! ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Star%20Wars%20-%20X-Wing/Thumbnail.png "Star Wars: X-Wing")
+>
+> </td>
+>
+> <td>
+>
+> ## [Star Wars: X-Wing](../../../All%20Programs/Games/Star%20Wars%20-%20X-Wing/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+>
+> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >
 >
 > </td></tr></table>
