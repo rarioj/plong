@@ -4,7 +4,7 @@
 
 「**Battlespire**」
 
-> ❝ The Imperial Battle College has lost contact with the Battlespire, an elite training centre hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire's staff dead. The gate back to Tamriel is blocked and the facility is under siege by vile Daedra. The only way out is to go deep into darkness of the Daedric Realms. ❞
+> ❝ The Imperial Battle College has lost contact with the Battlespire, an elite training centre hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire's staff dead. The gate back to Tamriel is blocked. The facility is under siege by vile Daedra. The only way out is to go deep into the darkness of the Daedric Realms. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire). ❞
 >

@@ -4,9 +4,9 @@
 
 「**Heroes of Might and Magic II**」「**Heroes 2**」
 
-> ❝ After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good and one evil vie for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death! ❞
+> ❝ After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good, one evil, fight for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death! ❞
 >
-> ❝ This version is the original **The Succession Wars** release for DOS. An expansion add-on: *"Heroes of Might and Magic II: The Price of Loyalty"* is available with the **Gold Edition** release. This game **is not abandonware 🚫** and a **Gold Edition** release is available on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US). ❞
+> ❝ This game **is not abandonware 🚫**. This version is the original **The Succession Wars** release for DOS. The expansion add-on, **The Price of Loyalty**, is available with the **Gold Edition** release on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US). ❞
 >
 
 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Turn-based • RPG elements • Turn-based strategy • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 

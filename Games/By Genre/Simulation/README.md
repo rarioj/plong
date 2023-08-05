@@ -98,7 +98,7 @@
 >
 > ❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞
 >
-> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
+> ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
 >
 >
 > </td></tr></table>
@@ -136,9 +136,9 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Join the Imperial Navy and Save the Galaxy! Pirates raid interstellar traders. Terrorists threaten the galaxy. Through their treachery on Yavin, the alliance of Rebels and other criminals has threatened the very foundation of the Empire. As an Imperial Navy starfighter pilot, you will safeguard imperilled lives throughout the galaxy. Only the Emperor can save us from chaos and destruction. Join his cause in eliminating this rebel uprising as the Empire strikes back! ❞
+> ❝ Join the Imperial Navy and Save the Galaxy! Pirates raid interstellar traders. Terrorists threaten the galaxy. Through their treachery on Yavin, the alliance of Rebels and other criminals has threatened the very foundation of the Galactic Empire. As an Imperial Navy starfighter pilot, you will safeguard imperilled lives throughout the galaxy. Only the Emperor can save us from chaos and destruction. Join his cause in eliminating this rebel uprising. ❞
 >
-> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/). ❞
+> ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/). ❞
 >
 >
 > </td></tr></table>
@@ -157,9 +157,9 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
 >
-> ❝ This game **is not abandonware 🚫** and a **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
+> ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >
 >
 > </td></tr></table>
@@ -180,7 +180,7 @@
 >
 > ❝ Have you always wanted to be a boss? Then you should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing; or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords. ❞
 >
-> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫** and is a part of a **History Collection** edition available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). ❞
+> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **History Collection** release is available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). ❞
 >
 >
 > </td></tr></table>
@@ -201,7 +201,7 @@
 >
 > ❝ The Settler II is a strategy-laden economic simulation and the follow-up to the hugely successful Settlers. Your objective in this highly addictive game is to promote economic growth and prosperity. Your tasks include mining raw materials, farming, hunting, fishing, and expanding borders. You will also be encouraged to trade with the inhabitants of remote islands. ❞
 >
-> ❝ This game **is not abandonware 🚫** and is part of a **History Collection** edition on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). The **Gold Edition** is also available on [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition). ❞
+> ❝ This game **is not abandonware 🚫**. A **History Collection** release is available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). The **Gold Edition** release is on [GOG 💰](https://www.gog.com/en/game/the_settlers_2_gold_edition). ❞
 >
 >
 > </td></tr></table>

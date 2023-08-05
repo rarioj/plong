@@ -4,7 +4,7 @@
 
 「**Tex Murphy 3**」「**Under a Killing Moon**」
 
-> ❝ As Tex Murphy, Private Investigator, you are in your seedy, 2nd-floor office in the heart of a run-down mutant part of town. You must stop the forces of evil before they destroy all mankind and rob you of your next unemployment check. ❞
+> ❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. Then a priceless statuette is stolen. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞
 >

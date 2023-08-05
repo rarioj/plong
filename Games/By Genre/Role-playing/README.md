@@ -12,7 +12,7 @@
 >
 > 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Action RPG • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ The Imperial Battle College has lost contact with the Battlespire, an elite training centre hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire's staff dead. The gate back to Tamriel is blocked and the facility is under siege by vile Daedra. The only way out is to go deep into darkness of the Daedric Realms. ❞
+> ❝ The Imperial Battle College has lost contact with the Battlespire, an elite training centre hidden in a pocket realm of Oblivion. An agent sent to investigate discovers the Battlespire's staff dead. The gate back to Tamriel is blocked. The facility is under siege by vile Daedra. The only way out is to go deep into the darkness of the Daedric Realms. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire). ❞
 >
@@ -75,7 +75,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Role-playing • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Turn-based • Tactical RPG • Contemporary ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ The island of Metavira is invaluable as the only known source of the Fallow tree, whose sap is a vital ingredient in a precious medicinal sap. As the tree is seedless and cannot reproduce, the limited quantity of sap is of great concern. Jack and Brenda Richards, a father and daughter scientist team, are dedicated to researching the delicate procedure necessary to tap the trees and finding a cure for its infertility. Lucas Santino, a once trusted fellow researcher, now traitorous, has his agenda. Motivated by greed, Santino seeks to control the only source of the Fallow tree's sap and has nearly succeeded in taking over the island. Jack and Brenda turn to you, a person with connections to A.I.M. (the Association of International Mercenaries), their only hope of regaining control of the island. ❞
+> ❝ The island of Metavira is invaluable as the only known source of the Fallow tree, whose sap is a vital ingredient in a precious medicinal sap. As the tree is seedless and cannot reproduce, the limited quantity of sap is of great concern. Jack and Brenda Richards, a father and daughter scientist team, are dedicated to researching the delicate procedure necessary to tap the trees and finding a cure for its infertility. Lucas Santino, a once trusted fellow researcher, now traitorous, has his agenda. Motivated by greed, Santino seeks to control the only source of the Fallow tree's sap and has nearly succeeded in taking over the island. Jack and Brenda turn to you, a person with connections to AIM (Association of International Mercenaries), their only hope of regaining control of the island. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/jagged_alliance), [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) (**Gold Edition** includes Deadly Games), and [Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance). ❞
 >
@@ -138,7 +138,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 1st-person • Action RPG • Sandbox • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ The imperial battlemage Jagar Tharn betrays Emperor Uriel Septim by imprisoning him in an alternate dimension, assuming the Emperor’s identity and place on the throne. A lone prisoner must travel to Tamriel’s most famous and dangerous sites to collect the shattered Staff of Chaos, save the Emperor and free the Empire. ❞
+> ❝ Emperor Uriel Septim VII is betrayed by Imperial Battlemage Jagar Tharn and imprisoned in another realm. You alone are left to travel the vast continent of Tamriel in search of the legendary Staff of Chaos that will allow you to rescue the true Emperor and restore peace to the Third Empire. ❞
 >
 > ❝ In 2004, a downloadable version of the game was made available free of charge as part of the tenth anniversary of the series. ❞ — *Wikipedia*
 >

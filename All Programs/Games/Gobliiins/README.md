@@ -4,9 +4,9 @@
 
 「**Gobliiins 1**」「**Goblins**」
 
-> ❝ Can you help the Good King regain his sanity before you lose yours forever? Your mission is to track down the dark force abusing the Good King's voodoo doll. Find them, stop them, and usher in an era of peace and prosperity. Simple, huh? WRONG! Gobliiins is a warped and wonderful quest, filled with level after level of truly twisted object, inventory, and logic puzzles. You command Hooter, Dwayne, and BoBo, three eager imps with specific skills. Hooter casts spells. Dwayne can pick objects up and use them. BoBo has a mean right hook. Individually, they're no match for the dark force, but together... they're still no match... That's where you come in. ❞
+> ❝ Can you help the Good King regain his sanity before you lose yours forever? Your mission is to track down the dark force abusing the Good King's voodoo doll. Find them, stop them, and usher in an era of peace and prosperity. Simple, huh? Wrong! Gobliiins is a warped and wonderful quest, filled with level after level of a truly twisted object, inventory, and logic puzzles. You command Hooter, Dwayne, and BoBo, three eager imps with specific skills. Hooter casts spells. Dwayne can pick objects up and use them. BoBo has a mean right hook. Individually, they're no match for the dark force, but together, they're still no match. That's where you come in. ❞
 >
-> ❝ This game **is not abandonware 🚫** and **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
+> ❝ This game **is not abandonware 🚫**. A **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
 >
 
 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Fantasy ┃ **Media** ‣ CD-ROM 

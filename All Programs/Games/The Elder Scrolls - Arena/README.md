@@ -4,7 +4,7 @@
 
 「**The Elder Scrolls: Chapter One - Arena**」「**Arena** (Short Name)」
 
-> ❝ The imperial battlemage Jagar Tharn betrays Emperor Uriel Septim by imprisoning him in an alternate dimension, assuming the Emperor’s identity and place on the throne. A lone prisoner must travel to Tamriel’s most famous and dangerous sites to collect the shattered Staff of Chaos, save the Emperor and free the Empire. ❞
+> ❝ Emperor Uriel Septim VII is betrayed by Imperial Battlemage Jagar Tharn and imprisoned in another realm. You alone are left to travel the vast continent of Tamriel in search of the legendary Staff of Chaos that will allow you to rescue the true Emperor and restore peace to the Third Empire. ❞
 >
 > ❝ In 2004, a downloadable version of the game was made available free of charge as part of the tenth anniversary of the series. ❞ — *Wikipedia*
 >

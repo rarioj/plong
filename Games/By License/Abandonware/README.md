@@ -149,6 +149,8 @@
 >
 > ❝ A French company called Genoq has developed a series of new genetically engineered bioweapons, which have run out of control and taken over Genoq's Singaporean lab. The main character is a courier making an emergency delivery by a jet pack to one of Genoq's top researchers, Jean-Paul Derrida, who is oblivious to the events inside the building until the lab's doors lock behind him after he enters. His point of delivery is ten floors away, all of them crawling with bioweapons. ❞
 >
+> ❝ This version is the original/legacy release for DOS. An **HD Remake** release is available on [Steam 💰](https://store.steampowered.com/app/389740/DGeneration_HD/). ❞
+>
 >
 > </td></tr></table>
 
@@ -282,7 +284,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
 >
-> ❝ It's up to you. Succeed, and you save the Empire. Fail, and Rome is history. Explore the streets, temples and secret labyrinths of the Roman Forum in your quest to save the Empire. ❞
+> ❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞
 >
 >
 > </td></tr></table>
@@ -320,7 +322,7 @@
 >
 > 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Platform ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 >
-> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio’s turf — six movie sets packed with robots, electrified floors, doors that aren’t there and walls coated with a chemical that keeps Spidey’s webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
+> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio's turf — six movie sets packed with robots, electrified floors, doors that aren't there and walls coated with a chemical that keeps Spidey's webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
 >
 >
 > </td></tr></table>

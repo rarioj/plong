@@ -4,9 +4,9 @@
 
 「**Goblin's Quest 3**」「**Goblins 3**」
 
-> ❝ Can you help the Good King regain his sanity before you lose yours forever? Your mission is to track down the dark force abusing the Good King's voodoo doll. Find them, stop them, and usher in an era of peace and prosperity. Simple, huh? WRONG! Gobliiins is a warped and wonderful quest, filled with level after level of truly twisted object, inventory, and logic puzzles. You command Hooter, Dwayne, and BoBo, three eager imps with specific skills. Hooter casts spells. Dwayne can pick objects up and use them. BoBo has a mean right hook. Individually, they're no match for the dark force, but together... they're still no match... That's where you come in. ❞
+> ❝ There is a mysterious labyrinth harbouring great secrets that might fulfil the wishes of those who discover them. Two countries ruled by Queen Xina and King Bodd have been competing over the right to explore the maze. However, strange events started happening one after the other: the labyrinth guardian died, his daughter disappeared, and King Bodd fell under some curse. A goblin reporter named Blount gets caught amid these events as he attempts to interview the queen and the king. Blount also gets bitten by a werewolf, falls in love, and must find a way to deal with both predicaments. ❞
 >
-> ❝ This game **is not abandonware 🚫** and **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
+> ❝ This game **is not abandonware 🚫**. A **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
 >
 
 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Fantasy ┃ **Media** ‣ CD-ROM 
