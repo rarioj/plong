@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Proprietary (51)
+# 🗂️ Games ‣ By License ‣ Proprietary (53)
 
 > <table><tr><td width="255">
 >
@@ -162,6 +162,48 @@
 > ❝ Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life. ❞
 >
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/Thumbnail.png "Call of Cthulhu: Prisoner of Ice")
+>
+> </td>
+>
+> <td>
+>
+> ## [Call of Cthulhu: Prisoner of Ice](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar • Horror ┃ **Media** ‣ Compressed Package 
+>
+> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny but beware - the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/Thumbnail.png "Call of Cthulhu: Shadow of the Comet")
+>
+> </td>
+>
+> <td>
+>
+> ## [Call of Cthulhu: Shadow of the Comet](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞
 >
 >
 > </td></tr></table>

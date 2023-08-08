@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Platform ‣ Windows 3.1x (11)
+# 🗂️ Games ‣ By Platform ‣ Windows 3.1x (14)
 
 > <table><tr><td width="255">
 >
@@ -61,6 +61,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Dark%20Seed%20II/Thumbnail.png "Dark Seed II")
+>
+> </td>
+>
+> <td>
+>
+> ## [Dark Seed II](../../../All%20Programs/Games/Dark%20Seed%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Detective • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ In his hometown, Mike's high school sweetheart, Rita, is found murdered after the high school reunion. Unfortunately, Mike has no recollection of the events that night, even though he was with Rita. Mike becomes the prime suspect and now must work to clear his name. In digging up the dirty little secrets of his neighbours, Mike unwittingly stumbles into the Dark World, a place he thought he would never see again. The ancients have returned to exact revenge on Mike and unleash an evil entity into the Normal World. As Mike Dawson, you must clear your name and stop the ancients from carrying out their most ingenious scheme yet. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png "Deadlock: Planetary Conquest")
 >
 > </td>
@@ -74,6 +93,44 @@
 > ❝ Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Lost%20Mind%20of%20Dr.%20Brain/Thumbnail.png "The Lost Mind of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Lost Mind of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Lost%20Mind%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
+>
+> ❝ What a HEADACHE! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Time%20Warp%20of%20Dr.%20Brain/Thumbnail.png "The Time Warp of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Time Warp of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Time%20Warp%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
+>
+> ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
 >
 >
 > </td></tr></table>
@@ -109,7 +166,7 @@
 >
 > ## [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM 
 >
 > ❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞
 >

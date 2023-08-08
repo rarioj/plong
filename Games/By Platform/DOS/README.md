@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Platform ‣ DOS (89)
+# 🗂️ Games ‣ By Platform ‣ DOS (96)
 
 > <table><tr><td width="255">
 >
@@ -393,6 +393,48 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/Thumbnail.png "Call of Cthulhu: Prisoner of Ice")
+>
+> </td>
+>
+> <td>
+>
+> ## [Call of Cthulhu: Prisoner of Ice](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar • Horror ┃ **Media** ‣ Compressed Package 
+>
+> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny but beware - the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/Thumbnail.png "Call of Cthulhu: Shadow of the Comet")
+>
+> </td>
+>
+> <td>
+>
+> ## [Call of Cthulhu: Shadow of the Comet](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Civilization")
 >
 > </td>
@@ -496,6 +538,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Dark%20Seed/Thumbnail.png "Dark Seed")
+>
+> </td>
+>
+> <td>
+>
+> ## [Dark Seed](../../../All%20Programs/Games/Dark%20Seed/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You are Mike Dawson, a science fiction writer who purchased an old Victorian house. As you explore your new home, you soon discover you have bought more than you bargained for. Control the fate of two worlds: The world as we know it and the dark world of an ancient and dying civilization. Unlock the secret of a sinister plot and discover the dark passage to their world, a place more terrifying than your darkest nightmare. Time is running out. You are on a collision course with destiny, and only you can save yourself and the world from a cruel fate. All of humanity depends on you. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Death%20Gate/Thumbnail.png "Death Gate")
 >
 > </td>
@@ -532,6 +593,82 @@
 > ❝ Enter the corrupt racing world of Death Rally, where defensive driving means annihilating your opponents. You'll become ravenous for the power and glory of being the best at Death Rally, but first, you must pay your dues. Put the pedal to the metal and smash, blast and obliterate the competition to earn the chance to face the undefeated master, "The Adversary." Make deals with loan sharks and mob bosses to get the cash you need to build the ultimate battle racing machine. Remember, no trick is too dirty, and no spectator is too innocent - in your savage quest for the checkered flag. ❞
 >
 > ❝ Based on Komppa's work, Remedy released Death Rally for Windows as proprietary freeware on 20 October 2009. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Discworld/Thumbnail.png "Discworld")
+>
+> </td>
+>
+> <td>
+>
+> ## [Discworld](../../../All%20Programs/Games/Discworld/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ You will find wizards, dragons, heroes, and household hygiene specialists. There is danger here, but there is also custard around the place. Discworld is a fantasy world with a low reality threshold. The real world keeps on breaking through, but Discworld changes it. However, because it is a fantasy world, there are some things that it has to have, and one of them is a certain tendency to experience some trouble with dragons. Unfortunately, a dragon is now ravaging Ankh-Morpork, the world's leading city. Many people consider this a civic improvement, but Ankh-Morpork needs a hero. All they have, however, is Rincewind, a wizard whose only talent is that he is not, in fact, dead yet. He also has the Luggage, the nastiest piece of travelware in the Universe. With that at his side, there is probably no limit to things he can fail to do. Oh, did I say he? I meant you. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Discworld%20II/Thumbnail.png "Discworld II: Missing presumed...!?")
+>
+> </td>
+>
+> <td>
+>
+> ## [Discworld II: Missing presumed...!?](../../../All%20Programs/Games/Discworld%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ Death has gone missing. It means those whose time is up are faltering around in limbo. A hero is needed to bring him back. But there's only Rincewind, an incompetent wizard and highly trained coward. You won't catch Rincewind running away. He is too fast. Unfortunately, he is all standing between people and the horrible prospect of immortality. No one wants that, do they? ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20Castle%20of%20Dr.%20Brain/Thumbnail.png "Castle of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [Castle of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20Castle%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Real-time • Graphic adventure • Mini-games • Math • Reading • Science ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+>
+> ❝ Are you the most creative person you know? Can you react quickly to new challenges? Would you like to save the world from certain destruction? Do you need a job? I need an assistant to help me explore the inner workings of time, space and reality. The successful candidate will have a thirst for knowledge, a sense of humour, and a love of pizza. Apply in person at the Castle of Dr Brain. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/Thumbnail.png "The Island of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • 3rd-person ┃ **Media** ‣ Floppy Disk ┃ **Patched • Copy Protection** 
+>
+> ❝ In the sequel to Castle of Dr Brain, you will have to assist Dr Brain in retrieving a battery for one of his experiments - the plans were stolen by Dr Brain's archrival scientist. To beat the scientist, you tour the Island of Dr Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels; and even find a use for a bunch of pink flamingoes! ❞
 >
 >
 > </td></tr></table>

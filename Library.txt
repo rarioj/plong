@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.8b
+# library-version: 23.8c
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -2516,6 +2516,132 @@
 # file: All Programs/Games/Cadaver/Program.txt = # check: manual.txt = ce14e07d3de6cfadaa0053c0adf394d06047f7c22beb831b323332fae173ec22
 #
 #
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = #
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # name: Call of Cthulhu: Prisoner of Ice
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # name: Prisoner of Ice
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # info: Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny but beware - the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror!
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/).
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Interwar • Horror
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # tag: Media = Compressed Package
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Prisoner_of_Ice)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/376/prisoner-of-ice/)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Prisoner+of+Ice&gid=1554)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/prisoner-of-ice-32x)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/prisoner-of-ice)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/)
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = #
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: ## Host Requirements
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: - The **unzip** tool is required to extract the compressed package.
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text:
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: - Sound effects card configuration: **SB16**; Port: **220**; IRQ: **7**; DMA: **1** - *Test sound effects*.
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: - Configure music card: **SB Pro/16** - *Test music*.
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # text: - *Save and start-up game*.
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = [sdl]
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = output = overlay
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = autolock = true
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = [cpu]
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = core = dynamic
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = cycles = max
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = [autoexec]
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = @ECHO OFF
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = #MOUNT D "./Assets/pice/cd-eur" -t cdrom
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = MOUNT D "./Assets/pice/cd-us" -t cdrom
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = :F_START
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = D:
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = #ICE320.EXE
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = ICE640.EXE
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = :F_EXIT
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = EXIT
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = :F_DEBUG
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4099115-prisoner-of-ice-dos-front-cover.jpg
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # check: coverart.jpg = 58c81a7888a781fe8cd48fbc57a112830852a94de728cbbcd169101bb6cfa5f0
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # asset: game.zip = https://archive.org/download/msdos_Prisoner_of_Ice_1995/Prisoner_of_Ice_1995.zip
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # check: game.zip = af9679a0bba9dad7776c91736120ab34d3a37b32f5f53b312f25d9e3eafe8014
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Prisoner_of_Ice.pdf
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # check: manual.pdf = d5508d9f3c4b9f7251af18c752df211165af2f34b30ca89b747e7a72d2662969
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = #
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # code: if [[ ! -x "$(command -v unzip)" ]]; then sdc__message__error "Missing unzip."; exit 1; else true; fi
+# file: All Programs/Games/Call of Cthulhu - Prisoner of Ice/Program.txt = # code: if [[ ! -f "Assets/pice/cd-us/ice640.exe" ]]; then cd ./Assets && unzip game.zip; else true; fi
+#
+#
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = #
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # name: Call of Cthulhu: Shadow of the Comet
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # name: Shadow of the Comet
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # info: The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients.
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/).
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # tag: Category = Side view • Graphic adventure • Puzzle elements • Horror
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Shadow_of_the_Comet)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/132/call-of-cthulhu-shadow-of-the-comet/)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shadow+of+the+Comet&gid=2866)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/call-of-cthulhu-shadow-of-the-comet-21v)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/call-of-cthulu-shadow-of-the-comet)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/)
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = #
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # text: - Select *language* and then **Install**.
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = [sdl]
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = autolock = true
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = [autoexec]
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = @ECHO OFF
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = IF NOT EXIST C:\INFOGRAM\SHADOW.CD\INSTALL.OPT GOTO F_INSTALL
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = IF EXIST C:\INFOGRAM\SHADOW.CD\INSTALL.OPT GOTO F_START
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = :F_INSTALL
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = D:
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = :F_START
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = D:
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = SHADOW.EXE
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = :F_EXIT
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = EXIT
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = :F_DEBUG
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4022611-call-of-cthulhu-shadow-of-the-comet-dos-front-cover.jpg
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # check: coverart.jpg = 6b676fa372935e904511a6c84939ee10517c1dbf14874332a9bb03ba9c3727b7
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # asset: cdrom.bin = https://archive.org/download/CallOfCthulhuShadowOfTheCometEuropeEnFrDeEsIt/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.bin
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # check: cdrom.bin = 878dc201d1974543d0f8d6d58cbd091a82df6049fd099288e6574f99802390a9
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Call_of_Cthulu_-_Shadow_of_the_Comet.pdf
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # check: manual.pdf = 872aff60bf0b27ac5c0e5bb529a9a8b13cae92874810029f302f95c093ae2709
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = #
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Civilization/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Civilization/Program.txt = #
 # file: All Programs/Games/Civilization/Program.txt = # name: Civilization
@@ -3218,6 +3344,151 @@
 # file: All Programs/Games/Dark Legions/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Dark Seed/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dark Seed/Program.txt = #
+# file: All Programs/Games/Dark Seed/Program.txt = # name: Dark Seed
+# file: All Programs/Games/Dark Seed/Program.txt = # info: You are Mike Dawson, a science fiction writer who purchased an old Victorian house. As you explore your new home, you soon discover you have bought more than you bargained for. Control the fate of two worlds: The world as we know it and the dark world of an ancient and dying civilization. Unlock the secret of a sinister plot and discover the dark passage to their world, a place more terrifying than your darkest nightmare. Time is running out. You are on a collision course with destiny, and only you can save yourself and the world from a cruel fate. All of humanity depends on you.
+# file: All Programs/Games/Dark Seed/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Dark Seed/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Dark Seed/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Dark Seed/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dark Seed/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Horror
+# file: All Programs/Games/Dark Seed/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Dark Seed/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Dark_Seed_(video_game))
+# file: All Programs/Games/Dark Seed/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/302/dark-seed/)
+# file: All Programs/Games/Dark Seed/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Dark+Seed&gid=1312)
+# file: All Programs/Games/Dark Seed/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/dark-seed-1dl)
+# file: All Programs/Games/Dark Seed/Program.txt = #
+# file: All Programs/Games/Dark Seed/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dark Seed/Program.txt = # text: - Shall we continue? Press `Y`.
+# file: All Programs/Games/Dark Seed/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = [sdl]
+# file: All Programs/Games/Dark Seed/Program.txt = autolock = true
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = [autoexec]
+# file: All Programs/Games/Dark Seed/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dark Seed/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = IF NOT EXIST C:\DARKSEED\DS.BAT GOTO F_INSTALL
+# file: All Programs/Games/Dark Seed/Program.txt = IF EXIST C:\DARKSEED\DS.BAT GOTO F_START
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dark Seed/Program.txt = D:
+# file: All Programs/Games/Dark Seed/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = :F_START
+# file: All Programs/Games/Dark Seed/Program.txt = C:
+# file: All Programs/Games/Dark Seed/Program.txt = CD C:\DARKSEED
+# file: All Programs/Games/Dark Seed/Program.txt = CALL DS.BAT
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = :F_EXIT
+# file: All Programs/Games/Dark Seed/Program.txt = EXIT
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dark Seed/Program.txt
+# file: All Programs/Games/Dark Seed/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4456510-dark-seed-dos-front-cover.jpg
+# file: All Programs/Games/Dark Seed/Program.txt = # check: coverart.jpg = 135af525daea7f80e1fcf0b99eb7826947a8f46f187d463e944815b554c446d3
+# file: All Programs/Games/Dark Seed/Program.txt = # asset: cdrom.bin = https://archive.org/download/DarkseedUSA/Dark%20Seed%20%28USA%29.zip/Dark%20Seed%20%28USA%29.bin
+# file: All Programs/Games/Dark Seed/Program.txt = # check: cdrom.bin = 0d7deed5df11e55cb6daa12c9d034e431efdfa9bf9343c6f6626a91171b113cc
+# file: All Programs/Games/Dark Seed/Program.txt = # asset: manual.pdf = https://archive.org/download/DARK_SEED/DARK_SEED.pdf
+# file: All Programs/Games/Dark Seed/Program.txt = # check: manual.pdf = 7cf2e39fcbe2864610b4d1cedcd492f6c18d3fe5e6438a892bf27ed58f53f80e
+# file: All Programs/Games/Dark Seed/Program.txt = # asset: refcard.pdf = https://archive.org/download/DARK_SEED_QUICK_REFERENCE_CARD/DARK_SEED_QUICK_REFERENCE_CARD.pdf
+# file: All Programs/Games/Dark Seed/Program.txt = # check: refcard.pdf = 1102ac6065e1eac38f8de3c0628c078a040a3b8180b51dfe305fad161f82cda6
+# file: All Programs/Games/Dark Seed/Program.txt = #
+# file: All Programs/Games/Dark Seed/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Dark Seed/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Dark Seed/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Dark Seed II/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dark Seed II/Program.txt = #
+# file: All Programs/Games/Dark Seed II/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Dark Seed II/Program.txt = # name: Dark Seed II
+# file: All Programs/Games/Dark Seed II/Program.txt = # info: In his hometown, Mike's high school sweetheart, Rita, is found murdered after the high school reunion. Unfortunately, Mike has no recollection of the events that night, even though he was with Rita. Mike becomes the prime suspect and now must work to clear his name. In digging up the dirty little secrets of his neighbours, Mike unwittingly stumbles into the Dark World, a place he thought he would never see again. The ancients have returned to exact revenge on Mike and unleash an evil entity into the Normal World. As Mike Dawson, you must clear your name and stop the ancients from carrying out their most ingenious scheme yet.
+# file: All Programs/Games/Dark Seed II/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Dark Seed II/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Dark Seed II/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Dark Seed II/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dark Seed II/Program.txt = # tag: Category = Side view • Detective • Horror
+# file: All Programs/Games/Dark Seed II/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Dark Seed II/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Dark_Seed_II)
+# file: All Programs/Games/Dark Seed II/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/4257/dark-seed-ii/)
+# file: All Programs/Games/Dark Seed II/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/dark-seed-ii-1rx)
+# file: All Programs/Games/Dark Seed II/Program.txt = #
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: - Dark Seed II Installation: Click **Continue**.
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: - Select **Medium: scene data files, 40MB** installation level.
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: - Do not install *Video for Windows*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Dark Seed II/Program.txt = # text:
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Dark Seed II/Program.txt = # text: - In the game **Options**:
+# file: All Programs/Games/Dark Seed II/Program.txt = # text:   - 320x240 Animations: Select **640x480, zoom by 2**.
+# file: All Programs/Games/Dark Seed II/Program.txt = # text:   - Dialog Option: Select **Audio and Text**.
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [sdl]
+# file: All Programs/Games/Dark Seed II/Program.txt = autolock = true
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [dosbox]
+# file: All Programs/Games/Dark Seed II/Program.txt = memsize = 256
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [render]
+# file: All Programs/Games/Dark Seed II/Program.txt = scaler = none
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [video]
+# file: All Programs/Games/Dark Seed II/Program.txt = vmemsize = 4
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [cpu]
+# file: All Programs/Games/Dark Seed II/Program.txt = core = normal
+# file: All Programs/Games/Dark Seed II/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Dark Seed II/Program.txt = cycles = max
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [dos]
+# file: All Programs/Games/Dark Seed II/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Dark Seed II/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [ide, primary]
+# file: All Programs/Games/Dark Seed II/Program.txt = int13fakeio = true
+# file: All Programs/Games/Dark Seed II/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = [autoexec]
+# file: All Programs/Games/Dark Seed II/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dark Seed II/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = IF NOT EXIST C:\DARKSEED\DARK0001.EXE GOTO F_INSTALL
+# file: All Programs/Games/Dark Seed II/Program.txt = IF EXIST C:\DARKSEED\DARK0001.EXE GOTO F_START
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dark Seed II/Program.txt = C:
+# file: All Programs/Games/Dark Seed II/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dark Seed II/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Dark Seed II/Program.txt = COPY C:\RUNEXIT.EXE C:\DARKSEED
+# file: All Programs/Games/Dark Seed II/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = :F_START
+# file: All Programs/Games/Dark Seed II/Program.txt = C:
+# file: All Programs/Games/Dark Seed II/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dark Seed II/Program.txt = C:\WINDOWS\WIN.COM C:\DARKSEED\RUNEXIT.EXE C:\DARKSEED\DARK0001.EXE
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = :F_EXIT
+# file: All Programs/Games/Dark Seed II/Program.txt = EXIT
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dark Seed II/Program.txt
+# file: All Programs/Games/Dark Seed II/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5209458-dark-seed-ii-windows-3x-front-cover.jpg
+# file: All Programs/Games/Dark Seed II/Program.txt = # check: coverart.jpg = b9d933e3a647a0ad9ee941cd048f7e5605733b7b1767173e0892e699932f0763
+# file: All Programs/Games/Dark Seed II/Program.txt = # asset: cdrom.iso = https://archive.org/download/dark-seed-ii-1995-cyberdreams/Dark%20Seed%20II%20%281995%29%28Cyberdreams%29.iso
+# file: All Programs/Games/Dark Seed II/Program.txt = # check: cdrom.iso = a5582f0ee9aec7336efc256764bcb2d10cd6673d62ad355b3e7f1a3e2b6c17e9
+# file: All Programs/Games/Dark Seed II/Program.txt = # asset: manual.pdf = https://archive.org/download/Dark_Seed_2_Manual/Dark_Seed_2_Manual.pdf
+# file: All Programs/Games/Dark Seed II/Program.txt = # check: manual.pdf = cddb5d4d80f0dbeabf9e8f1bbb320b599fc3e6a79fa54d3289569eef5ca69c8c
+#
+#
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = #
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # snapshot: ../../Systems/Windows 3.1x
@@ -3460,6 +3731,535 @@
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Discworld/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Discworld/Program.txt = #
+# file: All Programs/Games/Discworld/Program.txt = # name: Discworld
+# file: All Programs/Games/Discworld/Program.txt = # name: Discworld: The Trouble With Dragons
+# file: All Programs/Games/Discworld/Program.txt = # name: Terry Pratchett's Discworld
+# file: All Programs/Games/Discworld/Program.txt = # info: You will find wizards, dragons, heroes, and household hygiene specialists. There is danger here, but there is also custard around the place. Discworld is a fantasy world with a low reality threshold. The real world keeps on breaking through, but Discworld changes it. However, because it is a fantasy world, there are some things that it has to have, and one of them is a certain tendency to experience some trouble with dragons. Unfortunately, a dragon is now ravaging Ankh-Morpork, the world's leading city. Many people consider this a civic improvement, but Ankh-Morpork needs a hero. All they have, however, is Rincewind, a wizard whose only talent is that he is not, in fact, dead yet. He also has the Luggage, the nastiest piece of travelware in the Universe. With that at his side, there is probably no limit to things he can fail to do. Oh, did I say he? I meant you.
+# file: All Programs/Games/Discworld/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Discworld/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Discworld/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Discworld/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Discworld/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy
+# file: All Programs/Games/Discworld/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Discworld/Program.txt = # tag: Patched
+# file: All Programs/Games/Discworld/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Discworld_(video_game))
+# file: All Programs/Games/Discworld/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/184/discworld/)
+# file: All Programs/Games/Discworld/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Discworld&gid=1380)
+# file: All Programs/Games/Discworld/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/discworld-2r9)
+# file: All Programs/Games/Discworld/Program.txt = #
+# file: All Programs/Games/Discworld/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Discworld/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Discworld/Program.txt = # text: - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Discworld/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = [sdl]
+# file: All Programs/Games/Discworld/Program.txt = autolock = true
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = [cpu]
+# file: All Programs/Games/Discworld/Program.txt = core = dynamic
+# file: All Programs/Games/Discworld/Program.txt = cycles = max
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = [autoexec]
+# file: All Programs/Games/Discworld/Program.txt = @ECHO OFF
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Discworld/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Discworld/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = IF NOT EXIST C:\DISCWLD.CD\DISC.BAT GOTO F_INSTALL
+# file: All Programs/Games/Discworld/Program.txt = IF EXIST C:\DISCWLD.CD\DISC.BAT GOTO F_START
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = :F_INSTALL
+# file: All Programs/Games/Discworld/Program.txt = C:
+# file: All Programs/Games/Discworld/Program.txt = CD C:\
+# file: All Programs/Games/Discworld/Program.txt = MD UNZIP
+# file: All Programs/Games/Discworld/Program.txt = CD UNZIP
+# file: All Programs/Games/Discworld/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Discworld/Program.txt = CD C:\
+# file: All Programs/Games/Discworld/Program.txt = C:\UNZIP\UNZIP.EXE X:\PATCH.ZIP
+# file: All Programs/Games/Discworld/Program.txt = D:
+# file: All Programs/Games/Discworld/Program.txt = DWU.EXE -i
+# file: All Programs/Games/Discworld/Program.txt = CALL GDRIVERS.BAT
+# file: All Programs/Games/Discworld/Program.txt = C:
+# file: All Programs/Games/Discworld/Program.txt = CD C:\
+# file: All Programs/Games/Discworld/Program.txt = CALL UPDATE.BAT C:
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = :F_START
+# file: All Programs/Games/Discworld/Program.txt = C:
+# file: All Programs/Games/Discworld/Program.txt = CD C:\DISCWLD.CD
+# file: All Programs/Games/Discworld/Program.txt = CALL DISC.BAT
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = :F_EXIT
+# file: All Programs/Games/Discworld/Program.txt = EXIT
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = :F_DEBUG
+# file: All Programs/Games/Discworld/Program.txt
+# file: All Programs/Games/Discworld/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4160699-discworld-dos-front-cover.jpg
+# file: All Programs/Games/Discworld/Program.txt = # check: coverart.jpg = 3f8b956aa9de9e8658a1d3a6894ed9033723008659123dba2390d75a870cc82d
+# file: All Programs/Games/Discworld/Program.txt = # asset: cdrom.iso = https://archive.org/download/discworld-directors-cut-dos-iso-en/Discworld_Directors_Cut_DOS_ISO_EN.zip/Discworld_Directors_Cut_DOS_ISO_EN%2FGame%20Files%2FDiscworld_DOS_CD_19950512_original.iso
+# file: All Programs/Games/Discworld/Program.txt = # check: cdrom.iso = 5354f74582375b1f6350e33b4dfd5df6b2bcd79a30f471a9307e017235570e05
+# file: All Programs/Games/Discworld/Program.txt = # asset: manual.pdf = https://archive.org/download/discworld-manual/Discworld-Manual.pdf
+# file: All Programs/Games/Discworld/Program.txt = # check: manual.pdf = 87e299f52ffc72b9294c79b7aefb462cc560c6c853817777506df2a4e8cd1ec2
+# file: All Programs/Games/Discworld/Program.txt = # asset: patch.zip = https://archive.org/download/DISC_UP_ZIP/DISC_UP.ZIP
+# file: All Programs/Games/Discworld/Program.txt = # check: patch.zip = 9e101b7f72a491014838e3d2c0904812f3f75216deef714981c59bde56c28b47
+# file: All Programs/Games/Discworld/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Discworld/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Discworld II/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Discworld II/Program.txt = #
+# file: All Programs/Games/Discworld II/Program.txt = # name: Discworld II: Missing presumed...!?
+# file: All Programs/Games/Discworld II/Program.txt = # name: Discworld II: Mortality Bytes! = North American
+# file: All Programs/Games/Discworld II/Program.txt = # name: Discworld II
+# file: All Programs/Games/Discworld II/Program.txt = # info: Death has gone missing. It means those whose time is up are faltering around in limbo. A hero is needed to bring him back. But there's only Rincewind, an incompetent wizard and highly trained coward. You won't catch Rincewind running away. He is too fast. Unfortunately, he is all standing between people and the horrible prospect of immortality. No one wants that, do they?
+# file: All Programs/Games/Discworld II/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Discworld II/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Discworld II/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Discworld II/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Discworld II/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy
+# file: All Programs/Games/Discworld II/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Discworld II/Program.txt = # tag: Patched
+# file: All Programs/Games/Discworld II/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Discworld_II:_Missing_Presumed...!%3F)
+# file: All Programs/Games/Discworld II/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1370/discworld-ii-mortality-bytes/)
+# file: All Programs/Games/Discworld II/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Discworld+2%3A+Mortality+Bytes%21&gid=2209)
+# file: All Programs/Games/Discworld II/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/discworld-ii-mortality-bytes-48i)
+# file: All Programs/Games/Discworld II/Program.txt = #
+# file: All Programs/Games/Discworld II/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Discworld II/Program.txt = # text: - Press `ENTER` to begin video mode analysis.
+# file: All Programs/Games/Discworld II/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Discworld II/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = [sdl]
+# file: All Programs/Games/Discworld II/Program.txt = autolock = true
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = [cpu]
+# file: All Programs/Games/Discworld II/Program.txt = core = dynamic
+# file: All Programs/Games/Discworld II/Program.txt = cycles = max
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = [autoexec]
+# file: All Programs/Games/Discworld II/Program.txt = @ECHO OFF
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Discworld II/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Discworld II/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = IF NOT EXIST C:\DW2\DW2.BAT GOTO F_INSTALL
+# file: All Programs/Games/Discworld II/Program.txt = IF EXIST C:\DW2\DW2.BAT GOTO F_START
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = :F_INSTALL
+# file: All Programs/Games/Discworld II/Program.txt = C:
+# file: All Programs/Games/Discworld II/Program.txt = CD C:\
+# file: All Programs/Games/Discworld II/Program.txt = MD UNZIP
+# file: All Programs/Games/Discworld II/Program.txt = CD UNZIP
+# file: All Programs/Games/Discworld II/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Discworld II/Program.txt = D:
+# file: All Programs/Games/Discworld II/Program.txt = INSDOS.EXE
+# file: All Programs/Games/Discworld II/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Discworld II/Program.txt = SETSOUND.EXE
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = :F_START
+# file: All Programs/Games/Discworld II/Program.txt = C:
+# file: All Programs/Games/Discworld II/Program.txt = CD C:\DW2
+# file: All Programs/Games/Discworld II/Program.txt = CALL DW2
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = :F_EXIT
+# file: All Programs/Games/Discworld II/Program.txt = EXIT
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = :F_DEBUG
+# file: All Programs/Games/Discworld II/Program.txt
+# file: All Programs/Games/Discworld II/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4497298-discworld-ii-mortality-bytes-dos-front-cover.jpg
+# file: All Programs/Games/Discworld II/Program.txt = # check: coverart.jpg = f2328b74ea89458b53b9850fc0c25f01a49ac75ffddb9233a9fecf8b3625c248
+# file: All Programs/Games/Discworld II/Program.txt = # asset: cdrom01.iso = https://archive.org/download/msdos_Discworld_2_-_Missing_Presumed_1996/Discworld_2_-_Missing_Presumed_1996.zip/dw2%2Fcd%2F%5BPC-CD%5D%20Discworld%20II%20-%20Disc%201.iso
+# file: All Programs/Games/Discworld II/Program.txt = # check: cdrom01.iso = 4aaf7d18e694dfddff67dbee2bc253606f70e4ea4a305a94d64345244f910dc8
+# file: All Programs/Games/Discworld II/Program.txt = # asset: cdrom02.iso = https://archive.org/download/msdos_Discworld_2_-_Missing_Presumed_1996/Discworld_2_-_Missing_Presumed_1996.zip/dw2%2Fcd%2F%5BPC-CD%5D%20Discworld%20II%20-%20Disc%202.iso
+# file: All Programs/Games/Discworld II/Program.txt = # check: cdrom02.iso = 9a59b226250a634803100fa3b8aace1efff77fa6cbb30c48cabd1f84ebd6fda3
+# file: All Programs/Games/Discworld II/Program.txt = # asset: manual.pdf = https://archive.org/download/DISCWORLD_II_MORTALITY_BYTES/DISCWORLD_II_MORTALITY_BYTES.pdf
+# file: All Programs/Games/Discworld II/Program.txt = # check: manual.pdf = 3781c06aa9d809fb52756f175b92a3577b5403662f4bad1c47934a982d7a557c
+# file: All Programs/Games/Discworld II/Program.txt = # asset: patch.zip = https://archive.org/download/dw2ptch3/dw2ptch3.zip
+# file: All Programs/Games/Discworld II/Program.txt = # check: patch.zip = 78107739ee6216feaf0befb5b060fdba144025627bb907eeb3c79ddb75f2621e
+# file: All Programs/Games/Discworld II/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Discworld II/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # name: Castle of Dr. Brain
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # name: Dr. Brain 1
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # name: Mathemagical Mansion
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # info: Are you the most creative person you know? Can you react quickly to new challenges? Would you like to save the world from certain destruction? Do you need a job? I need an assistant to help me explore the inner workings of time, space and reality. The successful candidate will have a thirst for knowledge, a sense of humour, and a love of pizza. Apply in person at the Castle of Dr Brain.
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: Genre = Educational • Puzzle
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: Category = 1st-person • Real-time • Graphic adventure • Mini-games • Math • Reading • Science
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # tag: Copy Protection
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Castle_of_Dr._Brain)
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1523/castle-of-dr-brain/)
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Castle+of+Dr.+Brain&gid=2075)
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/castle-of-dr-brain-1b8)
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Dr._Brain)
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/castle-of-dr-brain)
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text:   - Please type the letter of the hard drive to which you want to install this game: Press `C`.
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text: - Accept these choices and begin installation.
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text:
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = [sdl]
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = autolock = true
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = [autoexec]
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = IF NOT EXIST C:\SIERRA\BRAIN\BRAIN.BAT GOTO F_INSTALL
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = IF EXIST C:\SIERRA\BRAIN\BRAIN.BAT GOTO F_START
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = CD C:\
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = MD A
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = CD A
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = MOUNT A "./drive/A"
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = A:
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = MOUNT -u A
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = :F_START
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = CD C:\SIERRA\BRAIN
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = CALL BRAIN.BAT
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = :F_EXIT
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = EXIT
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/344147-castle-of-dr-brain-dos-front-cover.jpg
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # check: coverart.jpg = 713a04df9d20f3f57ab2db78d8707db3993c8a26c2c57634f3949047511f6509
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # asset: disk01.img = https://archive.org/download/20220303_20220303_0527/Castle%20of%20Dr.%20Brain%20%28256%20Color%29%20%28v1.1%2C%20Int.%201.16.92%29%20%281.44M%29%20%5B%21%5D.zip/Castle%20of%20Dr.%20Brain%20%28256%20Color%29%20%28v1.1%2C%20Int.%201.16.92%29%20%281.44M%29%20%28Startup%20-%20Disk%201%29%20%5B%21%5D.ima
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # check: disk01.img = d03d66df9c1adad82b5cb8752e111137eec5030dc5e639844dc7a332b807c6d9
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # asset: disk02.img = https://archive.org/download/20220303_20220303_0527/Castle%20of%20Dr.%20Brain%20%28256%20Color%29%20%28v1.1%2C%20Int.%201.16.92%29%20%281.44M%29%20%5B%21%5D.zip/Castle%20of%20Dr.%20Brain%20%28256%20Color%29%20%28v1.1%2C%20Int.%201.16.92%29%20%281.44M%29%20%28Disk%202%29%20%5B%21%5D.ima
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # check: disk02.img = 621e3dff74479a36debf9166522319151388e62ad6c6f5ac26fab27c1e4e9737
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Castle_of_Dr._Brain.pdf
+# file: All Programs/Games/Dr. Brain - Castle of Dr. Brain/Program.txt = # check: manual.pdf = 4293802aa1036175c1ce38820f8559f16e930200521df4a6815b36ea8312d0dd
+#
+#
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # name: The Island of Dr. Brain
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # name: Dr. Brain 2
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # info: In the sequel to Castle of Dr Brain, you will have to assist Dr Brain in retrieving a battery for one of his experiments - the plans were stolen by Dr Brain's archrival scientist. To beat the scientist, you tour the Island of Dr Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels; and even find a use for a bunch of pink flamingoes!
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: Genre = Educational • Puzzle
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: Category = 1st-person • 3rd-person
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: Media = Floppy Disk
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # tag: Patched • Copy Protection
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Island_of_Dr._Brain)
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1524/the-island-of-dr-brain/)
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Island+of+Dr.+Brain&gid=1256)
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-island-of-dr-brain-1j6)
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Dr._Brain)
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/island-of-dr-brain)
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text:   - Please type the letter of the hard drive to which you want to install this game: Press `C`.
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: - Accept these choices and begin installation.
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: - Would you like to **(I)nstall** or **(E)xit**? Press `I`.
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text:
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # text: - Consult `Assets/manual.pdf` for the game copy protection.
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = [sdl]
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = autolock = true
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = [autoexec]
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IF NOT EXIST C:\SIERRA\BRAIN2\BRAIN2.BAT GOTO F_INSTALL
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IF EXIST C:\SIERRA\BRAIN2\BRAIN2.BAT GOTO F_START
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CD C:\
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = MD A
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CD A
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IMGMOUNT A "./Assets/disk01.img" -t floppy
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IMGMOUNT A "./Assets/disk02.img" -t floppy
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IMGMOUNT A "./Assets/disk03.img" -t floppy
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = COPY A:\*.*
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = IMGMOUNT -u A
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = MOUNT A "./drive/A"
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = A:
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = MOUNT -u A
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CD C:\
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = MD UNZIP
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CD UNZIP
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CD C:\SIERRA\BRAIN2
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = :F_START
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CD C:\SIERRA\BRAIN2
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = CALL BRAIN2.BAT
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = :F_EXIT
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = EXIT
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3975817-the-island-of-dr-brain-dos-front-cover.jpg
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: coverart.jpg = e165cdf1bc9b6fc50fb063f8c9d89c87f6a70c1556efe091e818cd4cd0f1b32b
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: disk01.img = https://archive.org/download/20220303_20220303_0527/Island%20of%20Dr.%20Brain%20%28v1.1%2C%20Int.%202.3.93%29%20%281.44M%29%20%5B%23%5D.zip/Island%20of%20Dr.%20Brain%20%28v1.1%2C%20Int.%202.3.93%29%20%281.44M%29%20%28Startup%20-%20Disk%201%29%20%5B%23%5D.ima
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: disk01.img = cb71f92bf7ff23cab1af976c79f6b0f909098907224a9482c410fae78b3fcbd3
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: disk02.img = https://archive.org/download/20220303_20220303_0527/Island%20of%20Dr.%20Brain%20%28v1.1%2C%20Int.%202.3.93%29%20%281.44M%29%20%5B%23%5D.zip/Island%20of%20Dr.%20Brain%20%28v1.1%2C%20Int.%202.3.93%29%20%281.44M%29%20%28Disk%202%29%20%5B%23%5D.ima
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: disk02.img = c3208eee2226b0c58ea1d7b1a7054d89782e8ca69fb2b2a3ba3680c60be13f3d
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: disk03.img = https://archive.org/download/20220303_20220303_0527/Island%20of%20Dr.%20Brain%20%28v1.1%2C%20Int.%202.3.93%29%20%281.44M%29%20%5B%23%5D.zip/Island%20of%20Dr.%20Brain%20%28v1.1%2C%20Int.%202.3.93%29%20%281.44M%29%20%28Disk%203%29%20%5B%23%5D.ima
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: disk03.img = 9931ae9e9854b1cb7115d9ad0c03018c15efcc10a216302d97ab14c9fa7ed4c4
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Island_of_Dr._Brain.pdf
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: manual.pdf = 79afe724af1732a3d4d3616818ba8cdb97cc7a81f328fa77216837acccd309ca
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: patch.zip = https://archive.org/download/DB2PATCH_ZIP/DB2PATCH.ZIP
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: patch.zip = d7d21a11fd70abc3e6343fc16a1068ca3be71de610b3a47e07e269b0a79ac33a
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Dr. Brain - The Island of Dr. Brain/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # name: The Lost Mind of Dr. Brain
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # name: Dr. Brain 3
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # info: What a HEADACHE! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures!
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: Genre = Educational • Puzzle
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: Category = Graphics • Math • Science
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # tag: In-Game Manual
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Mind_of_Dr._Brain)
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2605/the-lost-mind-of-dr-brain/)
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-lost-mind-of-dr-brain-3ma)
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Dr._Brain)
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Click **Install**.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Do you want to perform this test before installing? Click **No**.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Click **Yes** on the System Test Results to continue with the installation anyway.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Warning popup can be ignored (we are not using in Windows 95).
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Click **Exit** to finish installation.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [sdl]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = autolock = true
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [dosbox]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = memsize = 256
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [render]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = scaler = none
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [video]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = vmemsize = 4
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [cpu]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = core = normal
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = cycles = max
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [dos]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [ide, primary]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = int13fakeio = true
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = [autoexec]
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = IF NOT EXIST C:\SIERRA\DRBRAIN3\SIERRA.INF GOTO F_INSTALL
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = IF EXIST C:\SIERRA\DRBRAIN3\SIERRA.INF GOTO F_START
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CD C:\
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = MD HELPDIR
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CD HELPDIR
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = COPY D:\HELPDIR\*.*
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = COPY C:\RUNEXIT.EXE
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CD C:\
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = :F_START
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CLS
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = ECHO The Lost Mind of Dr. Brain
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = ECHO.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = ECHO 1. Play Dr. Brain
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = ECHO 2. Read Manual
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = ECHO 3. Exit Program
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = ECHO.
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CHOICE /C:123 /N "Please select:"
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = IF ERRORLEVEL==3 GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = IF ERRORLEVEL==2 GOTO F_READ
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = IF ERRORLEVEL==1 GOTO F_PLAY
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = :F_PLAY
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = C:\WINDOWS\WIN.COM C:\RUNEXIT.EXE D:\DRBRAIN3.EXE
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = :F_READ
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = C:\WINDOWS\WIN.COM C:\HELPDIR\RUNEXIT.EXE C:\HELPDIR\MVIEWER2.EXE C:\HELPDIR\DRBRAIN3.MVB
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = :F_EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = EXIT
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3984547-the-lost-mind-of-dr-brain-windows-front-cover.jpg
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # check: coverart.jpg = 774070d2f5ffbed0443d285fb8ec93c5e3a0c332bbaa37162cc15ba517105454
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # asset: cdrom.iso = https://archive.org/download/The_Lost_Mind_Of_Dr_Brain_-_MS-DOS_Game_SierraEng/TheLostMindOfDrBrain_Sierra.iso
+# file: All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain/Program.txt = # check: cdrom.iso = 5fe948bf6e4d314977473a873572de8ec96ec604e48a2485fcb6ea529c10f9d9
+#
+#
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 (unplayable)
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟥 (unplayable)
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # name: The Time Warp of Dr. Brain
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # name: Dr. Brain 4
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # info: Dr Brain gets trapped in the space-time (dis)continuum. Now he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time!
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: Genre = Educational • Puzzle
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: Category = Side view • Graphics • Math • Science
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # tag: In-Game Manual
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain)
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/)
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf)
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Dr._Brain)
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - Click **Install**.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - Do you want to perform this test before installing? Click **No**.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - Click **Yes** on the System Test Results to continue with the installation anyway.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - On-Line Registration. Click **No**.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - Click **Exit** to finish installation.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text:
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text: - The `RUNEXIT.EXE` tool does not work with this program as it requires Windows 3.1x to be fully loaded with Sound Driver stereo sound.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text:   - Play the game by double-clicking **The Wime Warp of Dr. Brain** icon.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # text:   - Read the game manual by double-clicking **Dr. Brain Help** icon.
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [sdl]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = autolock = true
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [dosbox]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = memsize = 256
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [render]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = scaler = none
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [video]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = vmemsize = 4
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [cpu]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = core = normal
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = cycles = max
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [dos]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [ide, primary]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = int13fakeio = true
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = [autoexec]
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = IF NOT EXIST C:\SIERRA\DRBRAIN4\DRBRAIN4.EXE GOTO F_INSTALL
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = IF EXIST C:\SIERRA\DRBRAIN4\DRBRAIN4.EXE GOTO F_START
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = CD C:\
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = :F_START
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = C:
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = C:\WINDOWS\WIN.COM
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = :F_EXIT
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = EXIT
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4044365-the-time-warp-of-dr-brain-windows-front-cover.jpg
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # check: coverart.jpg = 0c1c1eec3bd9dda2994019a5aef65b733c2f843aa0b551871238e60cf770179b
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # asset: cdrom.bin = https://archive.org/download/time-warp-of-dr.-brain-the-usa-en-fr-de-alt/Time%20Warp%20of%20Dr.%20Brain%2C%20The%20%28USA%29%20%28En%2CFr%2CDe%29%20%28Alt%29.zip/Time%20Warp%20of%20Dr.%20Brain%2C%20The%20%28USA%29%20%28En%2CFr%2CDe%29%20%28Alt%29.bin
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # check: cdrom.bin = 21d1169c36e70186cc5ae95fe0d902b7a3e7fa9314c7e71b87642044d36f061f
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = #
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/Electroman/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -3792,7 +4592,7 @@
 #
 # file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = #
-# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨 (`F10` does not pop-up USER menu)
+# file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨 (`F10` button does not open USER menu)
 # file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) 🟩
 # file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
 # file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = #
@@ -6081,7 +6881,6 @@
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Category = 1st-person • Puzzle elements • History • Detective
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Media = CD-ROM
-# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # tag: Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/SPQR:_The_Empire%27s_Darkest_Hour)
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2664/spqr-the-empires-darkest-hour/)
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/spqr-the-empire-s-darkest-hour-3qe)
@@ -6091,9 +6890,6 @@
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Check only **SPQR**, your Windows 3.1x has both QuickTime and WinG installed.
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
-# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text:
-# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: ## Known Issues
-# file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # text: - DOSBox 0.74-3 🟥 — Unplayable. Program installs but does not run.
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = [sdl]
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = autolock = true
@@ -9835,7 +10631,13 @@
 # link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
+# link: Games/By Genre/Adventure/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
+# link: Games/By Genre/Adventure/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
+# link: Games/By Genre/Adventure/Dark Seed = ../../../All Programs/Games/Dark Seed
+# link: Games/By Genre/Adventure/Dark Seed II = ../../../All Programs/Games/Dark Seed II
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
+# link: Games/By Genre/Adventure/Discworld = ../../../All Programs/Games/Discworld
+# link: Games/By Genre/Adventure/Discworld II = ../../../All Programs/Games/Discworld II
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By Genre/Adventure/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By Genre/Adventure/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
@@ -9859,8 +10661,16 @@
 # link: Games/By Genre/Adventure/The Dig = ../../../All Programs/Games/The Dig
 # link: Games/By Genre/Adventure/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
 # link: Games/By Genre/Adventure/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
+# link: Games/By Genre/Educational/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
+# link: Games/By Genre/Educational/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
+# link: Games/By Genre/Educational/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
+# link: Games/By Genre/Educational/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
 # link: Games/By Genre/Puzzle/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Puzzle/Boppin' = ../../../All Programs/Games/Boppin'
+# link: Games/By Genre/Puzzle/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
+# link: Games/By Genre/Puzzle/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
+# link: Games/By Genre/Puzzle/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
+# link: Games/By Genre/Puzzle/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
 # link: Games/By Genre/Puzzle/Gobliiins = ../../../All Programs/Games/Gobliiins
 # link: Games/By Genre/Puzzle/Gobliins 2 - The Prince Buffoon = ../../../All Programs/Games/Gobliins 2 - The Prince Buffoon
 # link: Games/By Genre/Puzzle/Goblins Quest 3 = ../../../All Programs/Games/Goblins Quest 3
@@ -9926,6 +10736,14 @@
 # link: Games/By License/Abandonware/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By License/Abandonware/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By License/Abandonware/D-Generation = ../../../All Programs/Games/D-Generation
+# link: Games/By License/Abandonware/Dark Seed = ../../../All Programs/Games/Dark Seed
+# link: Games/By License/Abandonware/Dark Seed II = ../../../All Programs/Games/Dark Seed II
+# link: Games/By License/Abandonware/Discworld = ../../../All Programs/Games/Discworld
+# link: Games/By License/Abandonware/Discworld II = ../../../All Programs/Games/Discworld II
+# link: Games/By License/Abandonware/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
+# link: Games/By License/Abandonware/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
+# link: Games/By License/Abandonware/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
+# link: Games/By License/Abandonware/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
 # link: Games/By License/Abandonware/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By License/Abandonware/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
@@ -9974,6 +10792,8 @@
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By License/Proprietary/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
+# link: Games/By License/Proprietary/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
+# link: Games/By License/Proprietary/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
 # link: Games/By License/Proprietary/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
@@ -10037,13 +10857,20 @@
 # link: Games/By Platform/DOS/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By Platform/DOS/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Platform/DOS/Cadaver = ../../../All Programs/Games/Cadaver
+# link: Games/By Platform/DOS/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
+# link: Games/By Platform/DOS/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
 # link: Games/By Platform/DOS/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By Platform/DOS/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Platform/DOS/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Platform/DOS/Dark Legions = ../../../All Programs/Games/Dark Legions
+# link: Games/By Platform/DOS/Dark Seed = ../../../All Programs/Games/Dark Seed
 # link: Games/By Platform/DOS/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Platform/DOS/Death Rally = ../../../All Programs/Games/Death Rally
+# link: Games/By Platform/DOS/Discworld = ../../../All Programs/Games/Discworld
+# link: Games/By Platform/DOS/Discworld II = ../../../All Programs/Games/Discworld II
+# link: Games/By Platform/DOS/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
+# link: Games/By Platform/DOS/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
 # link: Games/By Platform/DOS/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By Platform/DOS/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Platform/DOS/Fallout = ../../../All Programs/Games/Fallout
@@ -10110,7 +10937,10 @@
 # link: Games/By Platform/Windows 3.1x/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Platform/Windows 3.1x/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
 # link: Games/By Platform/Windows 3.1x/Civilization II = ../../../All Programs/Games/Civilization II
+# link: Games/By Platform/Windows 3.1x/Dark Seed II = ../../../All Programs/Games/Dark Seed II
 # link: Games/By Platform/Windows 3.1x/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Platform/Windows 3.1x/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
+# link: Games/By Platform/Windows 3.1x/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
 # link: Games/By Platform/Windows 3.1x/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By Platform/Windows 3.1x/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By Platform/Windows 3.1x/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization

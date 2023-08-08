@@ -7,7 +7,7 @@
 > ❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟥 (unplayable) ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
@@ -18,9 +18,6 @@
 - Check only **SPQR**, your Windows 3.1x has both QuickTime and WinG installed.
 - Use the default **drive** and **directory** for the installation location.
 - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
-
-## Known Issues
-- DOSBox 0.74-3 🟥 — Unplayable. Program installs but does not run.
 
 ![](Montage.png "SPQR: The Empire's Darkest Hour")
 

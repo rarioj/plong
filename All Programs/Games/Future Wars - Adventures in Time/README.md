@@ -9,7 +9,7 @@
 
 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
 
-📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟨 (`F10` does not pop-up USER menu) ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
+📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟨 (`F10` button does not open USER menu) ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
 📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Future_Wars)** ┃ **[MobyGames](https://www.mobygames.com/game/2205/future-wars-adventures-in-time/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Future+Wars%3A+Adventures+in+Time&gid=308)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/future-wars-adventures-in-time-wf)** 
 

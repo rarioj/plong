@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (21)
+# 🗂️ Games ‣ By License ‣ Abandonware (29)
 
 > <table><tr><td width="255">
 >
@@ -158,6 +158,158 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Dark%20Seed/Thumbnail.png "Dark Seed")
+>
+> </td>
+>
+> <td>
+>
+> ## [Dark Seed](../../../All%20Programs/Games/Dark%20Seed/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You are Mike Dawson, a science fiction writer who purchased an old Victorian house. As you explore your new home, you soon discover you have bought more than you bargained for. Control the fate of two worlds: The world as we know it and the dark world of an ancient and dying civilization. Unlock the secret of a sinister plot and discover the dark passage to their world, a place more terrifying than your darkest nightmare. Time is running out. You are on a collision course with destiny, and only you can save yourself and the world from a cruel fate. All of humanity depends on you. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dark%20Seed%20II/Thumbnail.png "Dark Seed II")
+>
+> </td>
+>
+> <td>
+>
+> ## [Dark Seed II](../../../All%20Programs/Games/Dark%20Seed%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Detective • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ In his hometown, Mike's high school sweetheart, Rita, is found murdered after the high school reunion. Unfortunately, Mike has no recollection of the events that night, even though he was with Rita. Mike becomes the prime suspect and now must work to clear his name. In digging up the dirty little secrets of his neighbours, Mike unwittingly stumbles into the Dark World, a place he thought he would never see again. The ancients have returned to exact revenge on Mike and unleash an evil entity into the Normal World. As Mike Dawson, you must clear your name and stop the ancients from carrying out their most ingenious scheme yet. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Discworld/Thumbnail.png "Discworld")
+>
+> </td>
+>
+> <td>
+>
+> ## [Discworld](../../../All%20Programs/Games/Discworld/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ You will find wizards, dragons, heroes, and household hygiene specialists. There is danger here, but there is also custard around the place. Discworld is a fantasy world with a low reality threshold. The real world keeps on breaking through, but Discworld changes it. However, because it is a fantasy world, there are some things that it has to have, and one of them is a certain tendency to experience some trouble with dragons. Unfortunately, a dragon is now ravaging Ankh-Morpork, the world's leading city. Many people consider this a civic improvement, but Ankh-Morpork needs a hero. All they have, however, is Rincewind, a wizard whose only talent is that he is not, in fact, dead yet. He also has the Luggage, the nastiest piece of travelware in the Universe. With that at his side, there is probably no limit to things he can fail to do. Oh, did I say he? I meant you. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Discworld%20II/Thumbnail.png "Discworld II: Missing presumed...!?")
+>
+> </td>
+>
+> <td>
+>
+> ## [Discworld II: Missing presumed...!?](../../../All%20Programs/Games/Discworld%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ Death has gone missing. It means those whose time is up are faltering around in limbo. A hero is needed to bring him back. But there's only Rincewind, an incompetent wizard and highly trained coward. You won't catch Rincewind running away. He is too fast. Unfortunately, he is all standing between people and the horrible prospect of immortality. No one wants that, do they? ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20Castle%20of%20Dr.%20Brain/Thumbnail.png "Castle of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [Castle of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20Castle%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Real-time • Graphic adventure • Mini-games • Math • Reading • Science ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+>
+> ❝ Are you the most creative person you know? Can you react quickly to new challenges? Would you like to save the world from certain destruction? Do you need a job? I need an assistant to help me explore the inner workings of time, space and reality. The successful candidate will have a thirst for knowledge, a sense of humour, and a love of pizza. Apply in person at the Castle of Dr Brain. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/Thumbnail.png "The Island of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • 3rd-person ┃ **Media** ‣ Floppy Disk ┃ **Patched • Copy Protection** 
+>
+> ❝ In the sequel to Castle of Dr Brain, you will have to assist Dr Brain in retrieving a battery for one of his experiments - the plans were stolen by Dr Brain's archrival scientist. To beat the scientist, you tour the Island of Dr Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels; and even find a use for a bunch of pink flamingoes! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Lost%20Mind%20of%20Dr.%20Brain/Thumbnail.png "The Lost Mind of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Lost Mind of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Lost%20Mind%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
+>
+> ❝ What a HEADACHE! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Time%20Warp%20of%20Dr.%20Brain/Thumbnail.png "The Time Warp of Dr. Brain")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Time Warp of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Time%20Warp%20of%20Dr.%20Brain/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
+>
+> ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png "Fade to Black")
 >
 > </td>
@@ -282,7 +434,7 @@
 >
 > ## [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command** 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • History • Detective ┃ **Media** ‣ CD-ROM 
 >
 > ❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞
 >
