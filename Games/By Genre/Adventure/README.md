@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (34)
+# 🗂️ Games ‣ By Genre ‣ Adventure (44)
 
 > <table><tr><td width="255">
 >
@@ -15,6 +15,27 @@
 > ❝ Saddle up and mosey on into town for one of the most challenging, hilarious and exciting adventures this side of Texas! The treasures of the Toltecs are within your reach - riches beyond your wildest dreams. But first, you must locate the three skulls. And believe me - it isn't that easy. You must travel through the wild west and encounter multiple characters, the good, the bad and the downright ugly! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs) and [Steam 💰](https://store.steampowered.com/app/977300/Fenimore_Fillmore_3_Skulls_of_the_Toltecs/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/Thumbnail.png "Amazon: Guardians of Eden")
+>
+> </td>
+>
+> <td>
+>
+> ## [Amazon: Guardians of Eden](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • South America ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Journey back to 1957 on an expedition to the dark heart of the Amazon Basin. A desperate, crazed message sends you on a perilous search through a land where legends come to life, danger hides behind every corner, and incredible treasures await. The plot follows the adventure of Jason Roberts. Roberts starts his expedition to help find his brother and eventually races for a lost treasure. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden). ❞
 >
 >
 > </td></tr></table>
@@ -120,6 +141,25 @@
 > ❝ The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/Thumbnail.png "Callahan's Crosstime Saloon")
+>
+> </td>
+>
+> <td>
+>
+> ## [Callahan's Crosstime Saloon](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ The Gods have decided that our very Universe is closing. The regulars in Callahan’s Crosstime Saloon can either drink up and go home or do something about it. But Callahan’s is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe. ❞
 >
 >
 > </td></tr></table>
@@ -391,6 +431,90 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia//Thumbnail.png "The Legend of Kyrandia - Book One")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Legend of Kyrandia - Book One](../../../All%20Programs/Games/Legend%20of%20Kyrandia//README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/Thumbnail.png "The Legend of Kyrandia - Book Two: Hand of Fate")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Legend of Kyrandia - Book Two: Hand of Fate](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Now you see it. Now you don’t. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/Thumbnail.png "The Legend of Kyrandia - Book Three: Malcolm's Revenge")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Legend of Kyrandia - Book Three: Malcolm's Revenge](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ As punishment for the murder of Kyrandia’s King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Loom/Thumbnail.png "Loom")
+>
+> </td>
+>
+> <td>
+>
+> ## [Loom](../../../All%20Programs/Games/Loom/README.md)
+>
+> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Long after the passing of the Second Shadow, when dragons ruled the twilight sky and the stars were bright and numerous, came the Age of the Great Guilds. Blacksmiths, Shepherds, Clerics. Each dedicates themself to the absolute control of secret knowledge. Another such Guild was the Weavers. Over the centuries, their craft transcended the limits of physical cloth - until they wove the very fabric of reality itself. Now, a strange power has swept the Weavers into oblivion, leaving behind one Weaver boy to unravel the mystery. Help young Bobbin rescue his Guild. You might save the Universe from an unspeakable catastrophe. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/loom) and [Steam 💰](https://store.steampowered.com/app/32340/LOOM/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png "Lure of the Temptress")
 >
 > </td>
@@ -467,6 +591,27 @@
 > ❝ I thought I had killed the Ghost Pirate LeChuck for good. Wrong. How many times can that bloated old fool die? Other pirates tell me there's no escape. "When LeChuck wants you dead, you're dead", they say. Legend has it that the treasure of Big Whoop holds the key to great power. I must find it before LeChuck finds me. ❞
 >
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Return%20to%20Zork/Thumbnail.png "Return to Zork")
+>
+> </td>
+>
+> <td>
+>
+> ## [Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞
 >
 >
 > </td></tr></table>
@@ -662,6 +807,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/The%20Gene%20Machine/Thumbnail.png "The Gene Machine")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Gene Machine](../../../All%20Programs/Games/The%20Gene%20Machine/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H’s or don’t take afternoon tea, there is at least one garrison of Her Majesty’s Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/Thumbnail.png "The Lost Adventures of Legend")
 >
 > </td>
@@ -675,6 +839,44 @@
 > ❝ The Lost Adventures is a compilation of eight award-winning adventures spanning the sci-fi, fantasy and comedy categories. ❞
 >
 > ❝ Besides **Gateway**, all the games in this compilation **are not abandonware 🚫**. Two games, **Companions of Xanth** and **Gateway II: Homeworld**, are no longer available digitally. Other games are available on *GOG 💰* and *Steam 💰*. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/Thumbnail.png "The Lost Files of Sherlock Holmes: Case of the Rose Tattoo")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Lost Files of Sherlock Holmes: Case of the Rose Tattoo](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation you are called on to unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It’s all in a day’s work for the world’s most famous detective. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/Thumbnail.png "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world’s most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard’s Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
 >
 >
 > </td></tr></table>

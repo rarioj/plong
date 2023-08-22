@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (29)
+# 🗂️ Games ‣ By License ‣ Abandonware (33)
 
 > <table><tr><td width="255">
 >
@@ -91,6 +91,25 @@
 > ❝ Karadoc, who is a gold-hungry dwarf and just hopes to find a treasure, is on a mission to seek out and kill the necromancer Dianos, the sole remaining inhabitant of Castle Wulf. ❞ — *Cadaver*
 >
 > ❝ Dianos is dead. Karadoc has fulfilled The Cadaver contract. But collecting the reward will be more challenging than you had ever imagined. ❞ — *Cadaver: The Payoff*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/Thumbnail.png "Callahan's Crosstime Saloon")
+>
+> </td>
+>
+> <td>
+>
+> ## [Callahan's Crosstime Saloon](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ The Gods have decided that our very Universe is closing. The regulars in Callahan’s Crosstime Saloon can either drink up and go home or do something about it. But Callahan’s is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe. ❞
 >
 >
 > </td></tr></table>
@@ -502,6 +521,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/The%20Gene%20Machine/Thumbnail.png "The Gene Machine")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Gene Machine](../../../All%20Programs/Games/The%20Gene%20Machine/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H’s or don’t take afternoon tea, there is at least one garrison of Her Majesty’s Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/The%20Incredible%20Machine%202/Thumbnail.png "The Incredible Machine 2")
 >
 > </td>
@@ -532,6 +570,44 @@
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Don't try this stuff at home. These guys are professionals! Drop a piano on Al E. Cat's head! (Konk!) Entice Sid Mouse to sit on hat pins! (Boink!) Smash Al in the foot with a really HUMONGOUS ANVIL! (Crunch!). See the Toons All-Star Pros wince, howl, or get steamed as they chase each other through nearly 100 different slapstick puzzle plots. Plots written and directed by YOU! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/Thumbnail.png "The Lost Files of Sherlock Holmes: Case of the Rose Tattoo")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Lost Files of Sherlock Holmes: Case of the Rose Tattoo](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation you are called on to unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It’s all in a day’s work for the world’s most famous detective. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/Thumbnail.png "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world’s most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard’s Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
 >
 >
 > </td></tr></table>

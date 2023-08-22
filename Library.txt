@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.8c
+# library-version: 23.8d
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -1486,6 +1486,68 @@
 # file: All Programs/Games/Alone in the Dark 3/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 46:06:18
 #
 #
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = #
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # name: Amazon: Guardians of Eden
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # info: Journey back to 1957 on an expedition to the dark heart of the Amazon Basin. A desperate, crazed message sends you on a perilous search through a land where legends come to life, danger hides behind every corner, and incredible treasures await. The plot follows the adventure of Jason Roberts. Roberts starts his expedition to help find his brother and eventually races for a lost treasure.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden).
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • South America
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Amazon:_Guardians_of_Eden)
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3287/amazon-guardians-of-eden/)
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Amazon%3A+Guardians+of+Eden&gid=3136)
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/amazon-guardians-of-eden-1bz)
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden)
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/amazon-guardians-of-eden)
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = #
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Enter the letter that corresponds to your CDROM drive: Press `D`.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Select the level(s) of hints you want available during the game: Pick your choice (Press `0`, `1`, `2`, or `3`).
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Select device to play MIDI music: Press `6`.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Select Sound Blaster port address: Press `2`.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Select Sound Blaster interrupt number: Press `7`.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Select Sound Blaster Pro DMA channel: Press `1`.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # text: - Select the device which will play digital sound effects and voices: Press `4`.
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = [sdl]
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = autolock = true
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = [autoexec]
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = @ECHO OFF
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = IF NOT EXIST C:\AMAZON\AMAZON.EXE GOTO F_INSTALL
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = IF EXIST C:\AMAZON\AMAZON.EXE GOTO F_START
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = :F_INSTALL
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = D:
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = :F_START
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = C:
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = CD C:\AMAZON
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = AMAZON.EXE
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = :F_EXIT
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = EXIT
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = :F_DEBUG
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4854222-amazon-guardians-of-eden-dos-front-cover.jpg
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # check: coverart.jpg = a1ace5f8c49e77a69eab0d5a7e52b7e38a7afc79f8a60d8d7dda85f8952455d4
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # asset: cdrom.iso = https://archive.org/download/20230613_20230613_0544/Amazon%20-%20Guardians%20of%20Eden%20%281993%29.zip/Amazon%20-%20Guardians%20of%20Eden%20%281993%29.iso
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # check: cdrom.iso = a1f00718b4c0abc1dcae18a1aeefd1907a15b6b279c6a34613d0c83e032db015
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Amazon_-_Guardians_of_Eden.pdf
+# file: All Programs/Games/Amazon - Guardians of Eden/Program.txt = # check: manual.pdf = e25602964301f0ff8c066b52ab8e5058968debdf669bcf66d62f34ae0728db9f
+#
+#
 # file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = #
 # file: All Programs/Games/An Elder Scrolls Legend - Battlespire/Program.txt = # name: An Elder Scrolls Legend: Battlespire
@@ -2640,6 +2702,72 @@
 # file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Call of Cthulhu - Shadow of the Comet/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = #
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # name: Callahan's Crosstime Saloon
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # info: The Gods have decided that our very Universe is closing. The regulars in Callahan’s Crosstime Saloon can either drink up and go home or do something about it. But Callahan’s is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe.
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Category = 1st-person • Puzzle elements • Sci-fi
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon_(video_game))
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2150/callahans-crosstime-saloon/)
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Callahan%27s+Crosstime+Saloon&gid=2116)
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/callahan-s-crosstime-saloon-a1d)
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = #
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # text: - Installation Options: **Optimum Performance Installation**.
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # text: - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = [sdl]
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = autolock = true
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = [cpu]
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = core = dynamic
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = cputype = pentium
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = cycles = max
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = [autoexec]
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = @ECHO OFF
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = IF NOT EXIST C:\CCS\CCS.EXE GOTO F_INSTALL
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = IF EXIST C:\CCS\CCS.EXE GOTO F_START
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = :F_INSTALL
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = D:
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = :F_START
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = C:
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = CD C:\CCS
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = CCS.EXE
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = :F_EXIT
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = EXIT
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = :F_DEBUG
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5109915-callahans-crosstime-saloon-dos-front-cover.jpg
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # check: coverart.jpg = 3c8a9e3e24dec0ebdd88a8aa0e7f7710af2767a18e533a203be8c131916407fe
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # asset: cdrom.bin = https://archive.org/download/20230314_20230314_2059/CD/redump.org/Callahan%27s%20Crosstime%20Saloon%20%28USA%29.zip/Callahan%27s%20Crosstime%20Saloon%20%28USA%29.bin
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # check: cdrom.bin = 3fa5f21a75cb9c6c5a42e1531ca14804e6c513900ac4270548fda6cf698e3fa5
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # asset: manual.pdf = https://archive.org/download/callahans-crosstime-saloon-mr-abandonware/Callahan%27s%20Crosstime%20Saloon.7z/Callahan%27s%20Crosstime%20Saloon%20Manual.pdf
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # check: manual.pdf = 2827a80c3173f96a6c42a028daaf70ae7b9a983a7d91526d284170be5f152f9d
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # asset: guide.pdf = https://archive.org/download/callahans-crosstime-saloon-mr-abandonware/Callahan%27s%20Crosstime%20Saloon.7z/Callahan%27s%20Crosstime%20Saloon%20Guide.pdf
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # check: guide.pdf = 4a38f9114db45609f817a8a83d64e598ace480ad255e5e4a700e102b86e81a30
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = #
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/Civilization/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -6159,6 +6287,203 @@
 # file: All Programs/Games/Jetpack/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = #
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # name: The Legend of Kyrandia - Book One
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # name: Fables & Fiends: The Legend of Kyrandia
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # name: Kyrandia 1
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # info: Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia).
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Kyrandia)
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/394/fables-fiends-the-legend-of-kyrandia-book-one/)
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Kyrandia&gid=1427)
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/fables-fiends-the-legend-of-kyrandia-book-one-1rk)
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia)
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/legend-of-kyrandia-book-1)
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = #
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text: - Select preferred language.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text: - Setup Main Menu: Select **1. Setup IBM PC Compatibles**.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text:   - Please select your video system: Select **1. VGA 256k+ video RAM**.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text:   - Play sound from: Select **2. Sound Blaster**.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text:   - Play digitized samples from: Select **2. Sound Blaster**.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text:   - Do you want to use a mouse? Select **1. Yes, use a mouse.**
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # text:   - Select **3. Exit Setup** to start the game.
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = [sdl]
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = autolock = true
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = [cpu]
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = cycles = max
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = [autoexec]
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = @ECHO OFF
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = IF NOT EXIST C:\WESTWOOD\KYRACD\MAIN.EXE GOTO F_INSTALL
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = IF EXIST C:\WESTWOOD\KYRACD\MAIN.EXE GOTO F_START
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = :F_INSTALL
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = D:
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = :F_START
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = C:
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = CD C:\WESTWOOD\KYRACD
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = MAIN.EXE
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = :F_EXIT
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = EXIT
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = :F_DEBUG
+# file: All Programs/Games/Legend of Kyrandia/Program.txt
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8763595-fables-fiends-the-legend-of-kyrandia-book-one-dos-front-cover.jpg
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # check: coverart.jpg = ce555e6a60b92a67ecb238be923fbeed35b225eef9fe4b71cfd985d7dea7f516
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Legend_of_Kyrandia_Book_1_1992/Legend_of_Kyrandia_Book_1_1992.zip/kyra1%2Fcd%2FFables%20%26%20Fiends%20-%20Book%201%20-%20The%20Legend%20of%20Kyrandia.iso
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # check: cdrom.iso = 918e266de3432facfbe364a152e59cf99b75ccc68f90e220e813017d88af50ca
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Legend_of_Kyrandia_Book_1.pdf
+# file: All Programs/Games/Legend of Kyrandia/Program.txt = # check: manual.pdf = aa14f7fee6fb275594fb34b4ab19173a245c00acc425d302a9f6d98e3601ae1e
+#
+#
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = #
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: The Legend of Kyrandia - Book Two: Hand of Fate
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: Fables & Fiends: Hand of Fate
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: Kyrandia 2
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: Kyrandia II: The Hand of Fate
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: The Legend of Kyrandia: Hand of Fate
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # info: Now you see it. Now you don’t. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia.
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate).
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Kyrandia:_Hand_of_Fate)
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/871/fables-fiends-hand-of-fate/)
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Kyrandia+2%3A+Hand+of+fate&gid=1442)
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/fables-fiends-hand-of-fate-21z)
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate)
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/legend-of-kyrandia-book-2-the-hand-of-fate)
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = #
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # text: - Select preferred language.
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # text: - Play music from: Select **3. Sound Blaster Pro / 16**.
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # text: - Play digitized samples? Select **1. Yes, play digitized samples.**
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = [sdl]
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = autolock = true
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = [cpu]
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = cycles = max
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = [autoexec]
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = @ECHO OFF
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = IF NOT EXIST C:\WESTWOOD\HOFCD\HOFCD.EXE GOTO F_INSTALL
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = IF EXIST C:\WESTWOOD\HOFCD\HOFCD.EXE GOTO F_START
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = :F_INSTALL
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = D:
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = :F_START
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = C:
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = CD C:\WESTWOOD\HOFCD
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = HOFCD.EXE
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = :F_EXIT
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = EXIT
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = :F_DEBUG
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5031572-fables-fiends-hand-of-fate-dos-front-cover.jpg
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # check: coverart.jpg = 5ccf9887c744cd685971e723239292d3839644703798995459300da3649a5ee1
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Legend_of_Kyrandia_Book_2_-_The_Hand_of_Fate_1993/Legend_of_Kyrandia_Book_2_-_The_Hand_of_Fate_1993.zip/kyra2%2Fcd%2FFables%20%26%20Fiends%20-%20Book%202%20-%20The%20Hand%20of%20Fate.iso
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # check: cdrom.iso = 5e8df21602b6463ecf27401b3696af21dbac1bbe6d67b6651496ef5db2f58235
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Legend_of_Kyrandia_Book_2_-_The_Hand_of_Fate.pdf
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # check: manual.pdf = 1f579a0776a41f18cacf11f00e53412c28e7c2156c283c32c7d8445321700242
+#
+#
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = #
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: The Legend of Kyrandia - Book Three: Malcolm's Revenge
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: Fables & Fiends: Malcolm's Revenge
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: Kyrandia 3
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: Kyrandia III: Malcolm's Revenge
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: The Legend of Kyrandia: Malcolm's Revenge
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # info: As punishment for the murder of Kyrandia’s King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine.
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge).
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Fantasy
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Kyrandia:_Malcolm%27s_Revenge)
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/872/the-legend-of-kyrandia-book-3-malcolms-revenge/)
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Kyrandia+3%3A+Malcolm%27s+Revenge&gid=1450)
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-legend-of-kyrandia-book-3-malcolm-s-revenge-2x5)
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # site: [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge)
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/legend-of-kyrandia-book-3-malcolms-revenge)
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = #
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # text: - Select preferred language.
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # text: - Would you like us to detect possible sound drivers for your sound card? Select **Yes**.
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # text: - Test and confirm the selected sound cards.
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = [sdl]
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = autolock = true
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = [cpu]
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = cycles = max
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = [autoexec]
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = @ECHO OFF
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = IF NOT EXIST C:\WESTWOOD\MALCOLM\MAIN.EXE GOTO F_INSTALL
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = IF EXIST C:\WESTWOOD\MALCOLM\MAIN.EXE GOTO F_START
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = :F_INSTALL
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = D:
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = :F_START
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = C:
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = CD C:\WESTWOOD\MALCOLM
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = MAIN.EXE
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = :F_EXIT
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = EXIT
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = :F_DEBUG
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4127508-the-legend-of-kyrandia-book-3-malcolms-revenge-dos-front-cover.jpg
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # check: coverart.jpg = c5c4a32741c3b8211137e9ed1d32429dc72af33ad16e560973f639b0df76f42e
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Legend_of_Kyrandia_Book_3_-_Malcolms_Revenge_1994/Legend_of_Kyrandia_Book_3_-_Malcolms_Revenge_1994.zip/kyra3%2Fcd%2FFables%20%26%20Fiends%20-%20Book%203%20-%20Malcolm%27s%20Revenge.iso
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # check: cdrom.iso = 2a2b0c14f7799f87713411deacace1909bd63beb530e485ecacf53929c13610c
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Legend_of_Kyrandia_Book_3_-_Malcolm-s_Revenge.pdf
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # check: manual.pdf = 405378bc3aef580cfd9428c222dffc36b32294c4a6cd75ace1d07b0541c3034f
+#
+#
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = #
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # snapshot: ../../Systems/Windows 3.1x
@@ -6241,6 +6566,57 @@
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # check: cdrom.iso = 100317cdfb0b61b26fbb20c52d42e0dc925abdd14cec790e539ee6105daf72e1
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # asset: manual.pdf = https://archive.org/download/pkmm_Lode_Runner_the_Legend_Returns/Lode_Runner_the_Legend_Returns.pdf
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # check: manual.pdf = 5dfb8c3f76b15752ca1cba26381324f2264b4267d2cb2f80d79e4a5912c2d28c
+#
+#
+# file: All Programs/Games/Loom/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Loom/Program.txt = #
+# file: All Programs/Games/Loom/Program.txt = # name: Loom
+# file: All Programs/Games/Loom/Program.txt = # info: Long after the passing of the Second Shadow, when dragons ruled the twilight sky and the stars were bright and numerous, came the Age of the Great Guilds. Blacksmiths, Shepherds, Clerics. Each dedicates themself to the absolute control of secret knowledge. Another such Guild was the Weavers. Over the centuries, their craft transcended the limits of physical cloth - until they wove the very fabric of reality itself. Now, a strange power has swept the Weavers into oblivion, leaving behind one Weaver boy to unravel the mystery. Help young Bobbin rescue his Guild. You might save the Universe from an unspeakable catastrophe.
+# file: All Programs/Games/Loom/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/loom) and [Steam 💰](https://store.steampowered.com/app/32340/LOOM/).
+# file: All Programs/Games/Loom/Program.txt = # tag: Year = 1990
+# file: All Programs/Games/Loom/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Loom/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Loom/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Loom/Program.txt = # tag: Category = Side view • Graphic adventure • Puzzle elements • Fantasy
+# file: All Programs/Games/Loom/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Loom/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Loom_(video_game))
+# file: All Programs/Games/Loom/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/176/loom/)
+# file: All Programs/Games/Loom/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Loom&gid=1051)
+# file: All Programs/Games/Loom/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/loom-xw)
+# file: All Programs/Games/Loom/Program.txt = # site: [GOG 💰](https://gog.com/en/game/loom)
+# file: All Programs/Games/Loom/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/32340/LOOM/)
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = [sdl]
+# file: All Programs/Games/Loom/Program.txt = autolock = true
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = [autoexec]
+# file: All Programs/Games/Loom/Program.txt = @ECHO OFF
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Loom/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = D:
+# file: All Programs/Games/Loom/Program.txt = LOOM.EXE
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = :F_EXIT
+# file: All Programs/Games/Loom/Program.txt = EXIT
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = :F_DEBUG
+# file: All Programs/Games/Loom/Program.txt
+# file: All Programs/Games/Loom/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/9078518-loom-dos-front-cover.jpg
+# file: All Programs/Games/Loom/Program.txt = # check: coverart.jpg = a99ed0788e112ed53590d9a0dcf98650f47f140f875a3e99b2dd743bbd73689a
+# file: All Programs/Games/Loom/Program.txt = # asset: cdrom.bin = https://archive.org/download/loom_20220205/loom_cue.zip/loom.bin
+# file: All Programs/Games/Loom/Program.txt = # check: cdrom.bin = fd0c8ff3f858fe750ea1faf4db66e82b7a58609e513277b4e0133e2c589e85ee
+# file: All Programs/Games/Loom/Program.txt = # asset: manual.pdf = https://archive.org/download/LOOM/LOOM.pdf
+# file: All Programs/Games/Loom/Program.txt = # check: manual.pdf = 82b67171db7fc8de8bda1497441795f0f6b3f77442646cea2dce64a80a2d38fc
+# file: All Programs/Games/Loom/Program.txt = # asset: hintbook.pdf = https://archive.org/download/Loom_Hint_Book_Revealed/Loom_Hint_Book_Revealed.pdf
+# file: All Programs/Games/Loom/Program.txt = # check: hintbook.pdf = c57e565c7b4dcb1b17c8363155ba7c509fe86d75813a244ef3455f2e52a812fc
+# file: All Programs/Games/Loom/Program.txt = #
+# file: All Programs/Games/Loom/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Loom/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 AUDIO
+# file: All Programs/Games/Loom/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Loom/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Loom/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 05:00:00
 #
 #
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -6801,6 +7177,80 @@
 # file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # check: manual.pdf = 76f71448da6e883537d7313d51613a88b0cc2e0a365c0cd42ae43847f6e069ad
 # file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # asset: card-map.pdf = https://archive.org/download/rrtpacrmsoidupfhgsodfh/rrtpacrmsoidupfhgsodfh.pdf
 # file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # check: card-map.pdf = d50d5e404712217c9bf88f5c7e77c86441c891467c8dadb2080fada7393b3f30
+#
+#
+# file: All Programs/Games/Return to Zork/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Return to Zork/Program.txt = #
+# file: All Programs/Games/Return to Zork/Program.txt = # name: Return to Zork
+# file: All Programs/Games/Return to Zork/Program.txt = # name: Return to Zork: An Epic Adventure in the Great Underground Empire
+# file: All Programs/Games/Return to Zork/Program.txt = # info: Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet.
+# file: All Programs/Games/Return to Zork/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/).
+# file: All Programs/Games/Return to Zork/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Return to Zork/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Return to Zork/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Return to Zork/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Return to Zork/Program.txt = # tag: Category = 1st-person • Graphic adventure • Puzzle elements
+# file: All Programs/Games/Return to Zork/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Return to Zork/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Return_to_Zork)
+# file: All Programs/Games/Return to Zork/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1219/return-to-zork/)
+# file: All Programs/Games/Return to Zork/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Return+to+Zork&gid=1870)
+# file: All Programs/Games/Return to Zork/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/return-to-zork-200)
+# file: All Programs/Games/Return to Zork/Program.txt = # site: [GOG 💰](https://gog.com/en/game/return_to_zork)
+# file: All Programs/Games/Return to Zork/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/)
+# file: All Programs/Games/Return to Zork/Program.txt = #
+# file: All Programs/Games/Return to Zork/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Return to Zork/Program.txt = # text:   - Do you want to copy the project file to your hard disk? Press `Y` and `ENTER`.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Setup to launch from Windows? Press `N` and `ENTER`.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Do you want to change the settings right now? Press `ENTER`.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Please select a sound device: **Creative Labs Sound Blaster 16**.
+# file: All Programs/Games/Return to Zork/Program.txt = # text:   - Enter an I/O address for the sound card: **220**.
+# file: All Programs/Games/Return to Zork/Program.txt = # text:   - Enter an IRQ number for the sound card: **7**.
+# file: All Programs/Games/Return to Zork/Program.txt = # text:   - Enter an extra/DMA value for the sound card: **1**.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Please select a music device: **Creative Labs Sound Blaster 16**.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Please select additional system options: Press `ENTER`.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Please select a CD-ROM drive for Return to Zork CD-ROM: **Drive D:**.
+# file: All Programs/Games/Return to Zork/Program.txt = # text: - Press `ENTER` to confirm and start the game.
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = [sdl]
+# file: All Programs/Games/Return to Zork/Program.txt = autolock = true
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = [cpu]
+# file: All Programs/Games/Return to Zork/Program.txt = core = dynamic
+# file: All Programs/Games/Return to Zork/Program.txt = cputype = pentium
+# file: All Programs/Games/Return to Zork/Program.txt = cycles = max
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = [autoexec]
+# file: All Programs/Games/Return to Zork/Program.txt = @ECHO OFF
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Return to Zork/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = IF NOT EXIST C:\RTZ-CD\RTZ.BAT GOTO F_INSTALL
+# file: All Programs/Games/Return to Zork/Program.txt = IF EXIST C:\RTZ-CD\RTZ.BAT GOTO F_START
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = :F_INSTALL
+# file: All Programs/Games/Return to Zork/Program.txt = D:
+# file: All Programs/Games/Return to Zork/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = :F_START
+# file: All Programs/Games/Return to Zork/Program.txt = C:
+# file: All Programs/Games/Return to Zork/Program.txt = CD C:\RTZ-CD
+# file: All Programs/Games/Return to Zork/Program.txt = CALL RTZ.BAT
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = :F_EXIT
+# file: All Programs/Games/Return to Zork/Program.txt = EXIT
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = :F_DEBUG
+# file: All Programs/Games/Return to Zork/Program.txt
+# file: All Programs/Games/Return to Zork/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4132346-return-to-zork-dos-front-cover.jpg
+# file: All Programs/Games/Return to Zork/Program.txt = # check: coverart.jpg = d883951c3794174cac69eaf4086e3a94fab5dd9650bc333f61199920041d4867
+# file: All Programs/Games/Return to Zork/Program.txt = # asset: cdrom.iso = https://archive.org/download/return-to-zork/RTZ.iso
+# file: All Programs/Games/Return to Zork/Program.txt = # check: cdrom.iso = e8c8982bdbd517572c86996f579b60cd02dbaafd4d6056c2131ea8f7cd132a74
+# file: All Programs/Games/Return to Zork/Program.txt = # asset: manual.pdf = https://archive.org/download/Return_to_Zork/Return_to_Zork.pdf
+# file: All Programs/Games/Return to Zork/Program.txt = # check: manual.pdf = 3a05a5721f008cd1fdda90495e6d1bae5a5a1744b1cc161420b2f02e8de45394
+# file: All Programs/Games/Return to Zork/Program.txt = # asset: frobozzica.pdf = https://archive.org/download/ReturnToZork/frobozzica.pdf
+# file: All Programs/Games/Return to Zork/Program.txt = # check: frobozzica.pdf = 879f3b9a6d80629255f6b65fcd9640b1b23f0973dd3c9b8e3d0ef9bde07463c1
 #
 #
 # file: All Programs/Games/Robbo/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -8801,6 +9251,80 @@
 # file: All Programs/Games/The Even More Incredible Machine/Program.txt = # check: manual.pdf = 435b96926bda8f72f6990be4e0b74d974d8d00c4dbaea1b14adf7ab8c8003378
 #
 #
+# file: All Programs/Games/The Gene Machine/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Gene Machine/Program.txt = #
+# file: All Programs/Games/The Gene Machine/Program.txt = # name: The Gene Machine
+# file: All Programs/Games/The Gene Machine/Program.txt = # name: The Gene Machine: The Great British Adventure
+# file: All Programs/Games/The Gene Machine/Program.txt = # info: It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H’s or don’t take afternoon tea, there is at least one garrison of Her Majesty’s Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam.
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Steampunk
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Gene Machine/Program.txt = # tag: Patched
+# file: All Programs/Games/The Gene Machine/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Gene_Machine)
+# file: All Programs/Games/The Gene Machine/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1121/the-gene-machine/)
+# file: All Programs/Games/The Gene Machine/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Gene+Machine&gid=1635)
+# file: All Programs/Games/The Gene Machine/Program.txt = # site: Manual = [MyAbandonware](https://www.myabandonware.com/game/the-gene-machine-brm)
+# file: All Programs/Games/The Gene Machine/Program.txt = #
+# file: All Programs/Games/The Gene Machine/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Gene Machine/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/The Gene Machine/Program.txt = # text: - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/The Gene Machine/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = [sdl]
+# file: All Programs/Games/The Gene Machine/Program.txt = autolock = true
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = [cpu]
+# file: All Programs/Games/The Gene Machine/Program.txt = core = dynamic
+# file: All Programs/Games/The Gene Machine/Program.txt = cputype = pentium
+# file: All Programs/Games/The Gene Machine/Program.txt = cycles = max
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = [autoexec]
+# file: All Programs/Games/The Gene Machine/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Gene Machine/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/The Gene Machine/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = IF NOT EXIST C:\GENE\GENE.BAT GOTO F_INSTALL
+# file: All Programs/Games/The Gene Machine/Program.txt = IF EXIST C:\GENE\GENE.BAT GOTO F_START
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Gene Machine/Program.txt = C:
+# file: All Programs/Games/The Gene Machine/Program.txt = CD C:\
+# file: All Programs/Games/The Gene Machine/Program.txt = MD UNZIP
+# file: All Programs/Games/The Gene Machine/Program.txt = CD UNZIP
+# file: All Programs/Games/The Gene Machine/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/The Gene Machine/Program.txt = D:
+# file: All Programs/Games/The Gene Machine/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/The Gene Machine/Program.txt = C:
+# file: All Programs/Games/The Gene Machine/Program.txt = CD C:\GENE
+# file: All Programs/Games/The Gene Machine/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = :F_START
+# file: All Programs/Games/The Gene Machine/Program.txt = C:
+# file: All Programs/Games/The Gene Machine/Program.txt = CD C:\GENE
+# file: All Programs/Games/The Gene Machine/Program.txt = CALL GENE.BAT
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = :F_EXIT
+# file: All Programs/Games/The Gene Machine/Program.txt = EXIT
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Gene Machine/Program.txt
+# file: All Programs/Games/The Gene Machine/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/78647-the-gene-machine-dos-front-cover.jpg
+# file: All Programs/Games/The Gene Machine/Program.txt = # check: coverart.jpg = ce9223fba4149df483bae7b1075104bf9d0ea6c2e309071b4fd4119403de7571
+# file: All Programs/Games/The Gene Machine/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Gene_Machine_The_1996/Gene_Machine_The_1996.zip/genem%2Fcd%2Fthegenemachine.iso
+# file: All Programs/Games/The Gene Machine/Program.txt = # check: cdrom.iso = 133902852c0bd99485819e5cd599c1c86108eb5f15df318a1ebe0f32a89acc46
+# file: All Programs/Games/The Gene Machine/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/tx5-the-gene-machine
+# file: All Programs/Games/The Gene Machine/Program.txt = # check: manual.pdf = 7148a0552f70f562ee90eb722cca591929634b3f22c4c3552c6c8834f8316cb4
+# file: All Programs/Games/The Gene Machine/Program.txt = # asset: patch.zip = https://archive.org/download/GMACH107/GMACH107.ZIP
+# file: All Programs/Games/The Gene Machine/Program.txt = # check: patch.zip = d7e0ae17d985385d1dcafbbd5625ef1e187fdb58a54cb7a77a280d1c96c05a34
+# file: All Programs/Games/The Gene Machine/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/The Gene Machine/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = #
 # file: All Programs/Games/The Incredible Machine 2/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 (error at installation)
@@ -9173,6 +9697,122 @@
 # file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/The Lost Adventures of Legend/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = #
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # name: The Lost Files of Sherlock Holmes: Case of the Rose Tattoo
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # name: The Lost Files of Sherlock Holmes 2
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # name: The Case of the Rose Tattoo
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # info: Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation you are called on to unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It’s all in a day’s work for the world’s most famous detective.
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Detective
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Files_of_Sherlock_Holmes:_The_Case_of_the_Rose_Tattoo)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/4407/the-lost-files-of-sherlock-holmes-case-of-the-rose-tattoo/)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Lost+Files+of+Sherlock+Holmes%3A+The+Case+of+the+Rose+Tattoo&gid=3092)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-lost-files-of-sherlock-holmes-case-of-the-rose-tattoo-cem)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/sherlock-holmes-the-case-of-the-rose-tattoo)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = #
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # text: - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = [sdl]
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = autolock = true
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = [cpu]
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = core = dynamic
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = cputype = pentium
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = cycles = max
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = [autoexec]
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = IF NOT EXIST C:\HOLMES2\HOLMES2.BAT GOTO F_INSTALL
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = IF EXIST C:\HOLMES2\HOLMES2.BAT GOTO F_START
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = D:
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = :F_START
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = C:
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = CD C:\HOLMES2
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = CALL HOLMES2.BAT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = :F_EXIT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = EXIT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/9653550-the-lost-files-of-sherlock-holmes-case-of-the-rose-tattoo-dos-fr.jpg
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # check: coverart.jpg = 55ea4965b18c657d6309253b33757f3a2b06fe410fa01f97147fba5d51086212
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # asset: cdrom.iso = https://archive.org/download/The_lost_files_of_Sherlock_Holmes_Case_of_the_Rose_Tattoo_Electronic_Arts_1996/The%20lost%20files%20of%20Sherlock%20Holmes%20Case%20of%20the%20Rose%20Tattoo%20%28Electronic%20Arts%29%281996%29.iso
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # check: cdrom.iso = 735033376452c22025144bcf6c5b626ea41087df426b964e3fd3482540cb9e82
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Sherlock_Holmes_-_The_Case_of_the_Rose_Tattoo.pdf
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # check: manual.pdf = 0f31fe1118e749c21bd1ecc91c843e92e360fa59ed42dac34153fe7c60139b6d
+#
+#
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = #
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # name: The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # name: The Case of the Serrated Scalpel
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # name: The Lost Files of Sherlock Holmes
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # info: London, 1888. Scotland Yard summoned Sherlock Holmes, the world’s most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard’s Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt.
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Year = 1992
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Detective
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Files_of_Sherlock_Holmes)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3441/the-lost-files-of-sherlock-holmes/)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Lost+Files+of+Sherlock+Holmes%3A+The+Case+of+the+Serrated+Scalpel&gid=1678)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/the-lost-files-of-sherlock-holmes-1v4)
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = [sdl]
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = autolock = true
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = [autoexec]
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = @ECHO OFF
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = IF NOT EXIST C:\HOLMES\HOLMES.BAT GOTO F_INSTALL
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = IF EXIST C:\HOLMES\HOLMES.BAT GOTO F_START
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = :F_INSTALL
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = C:
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = CD C:\
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = MD HOLMES
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = CD HOLMES
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = COPY D:\HITSQUAD\HOLMES\*.*
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = :F_START
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = C:
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = CD C:\HOLMES
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = CALL HOLMES.BAT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = :F_EXIT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = EXIT
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = :F_DEBUG
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5386636-the-lost-files-of-sherlock-holmes-dos-front-cover.jpg
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # check: coverart.jpg = d2bcbd07771dbaf2eee73aa9e182335788bfb453028a24c4311f665bb8ab9bba
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # asset: cdrom.iso = https://archive.org/download/lost-files-of-sherlock-holmes-cdrom/Lost%20Files%20of%20Sherlock%20Holmes%2C%20The%20%281994%29%28Hit%20Squad%29.iso
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # check: cdrom.iso = 813b16e5d40eec428e5b10673faa478be8e9c6d625437937c82e6edd1129c195
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # asset: manual.pdf = https://archive.org/download/lost-files-of-sherlock-holmes-msdos-manual/Manual.pdf
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # check: manual.pdf = d5d5a327e276cb19f616050787c99bce3ac9ee7568254543abae2ad7a147c315
 #
 #
 # file: All Programs/Games/The Lost Vikings/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -10628,11 +11268,13 @@
 # link: Games/By Genre/Action/Tomb Raider Gold = ../../../All Programs/Games/Tomb Raider Gold
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/3 Skulls of the Toltecs = ../../../All Programs/Games/3 Skulls of the Toltecs
+# link: Games/By Genre/Adventure/Amazon - Guardians of Eden = ../../../All Programs/Games/Amazon - Guardians of Eden
 # link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Genre/Adventure/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
 # link: Games/By Genre/Adventure/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
+# link: Games/By Genre/Adventure/Callahan's Crosstime Saloon = ../../../All Programs/Games/Callahan's Crosstime Saloon
 # link: Games/By Genre/Adventure/Dark Seed = ../../../All Programs/Games/Dark Seed
 # link: Games/By Genre/Adventure/Dark Seed II = ../../../All Programs/Games/Dark Seed II
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
@@ -10646,10 +11288,15 @@
 # link: Games/By Genre/Adventure/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
 # link: Games/By Genre/Adventure/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
+# link: Games/By Genre/Adventure/Legend of Kyrandia = ../../../All Programs/Games/Legend of Kyrandia/
+# link: Games/By Genre/Adventure/Legend of Kyrandia 2 - Hand of fate = ../../../All Programs/Games/Legend of Kyrandia 2 - Hand of fate
+# link: Games/By Genre/Adventure/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
+# link: Games/By Genre/Adventure/Loom = ../../../All Programs/Games/Loom
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Genre/Adventure/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Genre/Adventure/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Genre/Adventure/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
+# link: Games/By Genre/Adventure/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Genre/Adventure/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By Genre/Adventure/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Genre/Adventure/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
@@ -10659,7 +11306,10 @@
 # link: Games/By Genre/Adventure/Tex Murphy - The Pandora Directive = ../../../All Programs/Games/Tex Murphy - The Pandora Directive
 # link: Games/By Genre/Adventure/Tex Murphy - Under a Killing Moon = ../../../All Programs/Games/Tex Murphy - Under a Killing Moon
 # link: Games/By Genre/Adventure/The Dig = ../../../All Programs/Games/The Dig
+# link: Games/By Genre/Adventure/The Gene Machine = ../../../All Programs/Games/The Gene Machine
 # link: Games/By Genre/Adventure/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
+# link: Games/By Genre/Adventure/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo
+# link: Games/By Genre/Adventure/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel
 # link: Games/By Genre/Adventure/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
 # link: Games/By Genre/Educational/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
 # link: Games/By Genre/Educational/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
@@ -10733,6 +11383,7 @@
 # link: Games/By License/Abandonware/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By License/Abandonware/Cadaver = ../../../All Programs/Games/Cadaver
+# link: Games/By License/Abandonware/Callahan's Crosstime Saloon = ../../../All Programs/Games/Callahan's Crosstime Saloon
 # link: Games/By License/Abandonware/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By License/Abandonware/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By License/Abandonware/D-Generation = ../../../All Programs/Games/D-Generation
@@ -10754,8 +11405,11 @@
 # link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By License/Abandonware/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
+# link: Games/By License/Abandonware/The Gene Machine = ../../../All Programs/Games/The Gene Machine
 # link: Games/By License/Abandonware/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By License/Abandonware/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
+# link: Games/By License/Abandonware/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo
+# link: Games/By License/Abandonware/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel
 # link: Games/By License/Abandonware/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By License/Freeware/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By License/Freeware/Abuse = ../../../All Programs/Games/Abuse
@@ -10788,6 +11442,7 @@
 # link: Games/By License/Proprietary/Alone in the Dark = ../../../All Programs/Games/Alone in the Dark
 # link: Games/By License/Proprietary/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By License/Proprietary/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
+# link: Games/By License/Proprietary/Amazon - Guardians of Eden = ../../../All Programs/Games/Amazon - Guardians of Eden
 # link: Games/By License/Proprietary/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By License/Proprietary/Bad Mojo = ../../../All Programs/Games/Bad Mojo
@@ -10811,10 +11466,15 @@
 # link: Games/By License/Proprietary/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By License/Proprietary/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By License/Proprietary/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
+# link: Games/By License/Proprietary/Legend of Kyrandia = ../../../All Programs/Games/Legend of Kyrandia/
+# link: Games/By License/Proprietary/Legend of Kyrandia 2 - Hand of fate = ../../../All Programs/Games/Legend of Kyrandia 2 - Hand of fate
+# link: Games/By License/Proprietary/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
+# link: Games/By License/Proprietary/Loom = ../../../All Programs/Games/Loom
 # link: Games/By License/Proprietary/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By License/Proprietary/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By License/Proprietary/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By License/Proprietary/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
@@ -10846,6 +11506,7 @@
 # link: Games/By Platform/DOS/Alone in the Dark = ../../../All Programs/Games/Alone in the Dark
 # link: Games/By Platform/DOS/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By Platform/DOS/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
+# link: Games/By Platform/DOS/Amazon - Guardians of Eden = ../../../All Programs/Games/Amazon - Guardians of Eden
 # link: Games/By Platform/DOS/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By Platform/DOS/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By Platform/DOS/Ascendancy = ../../../All Programs/Games/Ascendancy
@@ -10859,6 +11520,7 @@
 # link: Games/By Platform/DOS/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By Platform/DOS/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
 # link: Games/By Platform/DOS/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
+# link: Games/By Platform/DOS/Callahan's Crosstime Saloon = ../../../All Programs/Games/Callahan's Crosstime Saloon
 # link: Games/By Platform/DOS/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By Platform/DOS/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Platform/DOS/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
@@ -10893,6 +11555,10 @@
 # link: Games/By Platform/DOS/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Platform/DOS/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By Platform/DOS/Jetpack = ../../../All Programs/Games/Jetpack
+# link: Games/By Platform/DOS/Legend of Kyrandia = ../../../All Programs/Games/Legend of Kyrandia/
+# link: Games/By Platform/DOS/Legend of Kyrandia 2 - Hand of fate = ../../../All Programs/Games/Legend of Kyrandia 2 - Hand of fate
+# link: Games/By Platform/DOS/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
+# link: Games/By Platform/DOS/Loom = ../../../All Programs/Games/Loom
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Platform/DOS/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Platform/DOS/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
@@ -10901,6 +11567,7 @@
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By Platform/DOS/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
+# link: Games/By Platform/DOS/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Platform/DOS/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Platform/DOS/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Platform/DOS/Silent Hunter = ../../../All Programs/Games/Silent Hunter
@@ -10921,8 +11588,11 @@
 # link: Games/By Platform/DOS/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Platform/DOS/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
 # link: Games/By Platform/DOS/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
+# link: Games/By Platform/DOS/The Gene Machine = ../../../All Programs/Games/The Gene Machine
 # link: Games/By Platform/DOS/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By Platform/DOS/The Lost Adventures of Legend = ../../../All Programs/Games/The Lost Adventures of Legend
+# link: Games/By Platform/DOS/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo
+# link: Games/By Platform/DOS/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel
 # link: Games/By Platform/DOS/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Platform/DOS/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Platform/DOS/The Settlers = ../../../All Programs/Games/The Settlers

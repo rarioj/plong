@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Proprietary (53)
+# 🗂️ Games ‣ By License ‣ Proprietary (59)
 
 > <table><tr><td width="255">
 >
@@ -78,6 +78,27 @@
 > ❝ Super-sleuth Edward Carnby is back in the saddle in the gritty virtual adventure! This time, the detective travels to the Wild West ghost town of Slaughter Gulch to piece together a dusty puzzle: the mysterious disappearance of Hollywood heroine Emily Hartwood and her film crew. But before Carnby can break the curse that grips the town, he must outwit and out-draw the trigger-happy sharpshooters, deranged prospectors, and bloodthirsty lost souls who lurk there. ❞
 >
 > ❝ This game **is not abandonware 🚫**. **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/Thumbnail.png "Amazon: Guardians of Eden")
+>
+> </td>
+>
+> <td>
+>
+> ## [Amazon: Guardians of Eden](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • South America ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Journey back to 1957 on an expedition to the dark heart of the Amazon Basin. A desperate, crazed message sends you on a perilous search through a land where legends come to life, danger hides behind every corner, and incredible treasures await. The plot follows the adventure of Jason Roberts. Roberts starts his expedition to help find his brother and eventually races for a lost treasure. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden). ❞
 >
 >
 > </td></tr></table>
@@ -571,6 +592,90 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia//Thumbnail.png "The Legend of Kyrandia - Book One")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Legend of Kyrandia - Book One](../../../All%20Programs/Games/Legend%20of%20Kyrandia//README.md)
+>
+> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/Thumbnail.png "The Legend of Kyrandia - Book Two: Hand of Fate")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Legend of Kyrandia - Book Two: Hand of Fate](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Now you see it. Now you don’t. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/Thumbnail.png "The Legend of Kyrandia - Book Three: Malcolm's Revenge")
+>
+> </td>
+>
+> <td>
+>
+> ## [The Legend of Kyrandia - Book Three: Malcolm's Revenge](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ As punishment for the murder of Kyrandia’s King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Loom/Thumbnail.png "Loom")
+>
+> </td>
+>
+> <td>
+>
+> ## [Loom](../../../All%20Programs/Games/Loom/README.md)
+>
+> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Long after the passing of the Second Shadow, when dragons ruled the twilight sky and the stars were bright and numerous, came the Age of the Great Guilds. Blacksmiths, Shepherds, Clerics. Each dedicates themself to the absolute control of secret knowledge. Another such Guild was the Weavers. Over the centuries, their craft transcended the limits of physical cloth - until they wove the very fabric of reality itself. Now, a strange power has swept the Weavers into oblivion, leaving behind one Weaver boy to unravel the mystery. Help young Bobbin rescue his Guild. You might save the Universe from an unspeakable catastrophe. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/loom) and [Steam 💰](https://store.steampowered.com/app/32340/LOOM/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Mission%20Critical/Thumbnail.png "Mission Critical")
 >
 > </td>
@@ -647,6 +752,27 @@
 > ❝ As Abe, you can whistle, laugh, hiss, and fart. In a lush world of diabolical danger where everyone wants to eat you, you are the skinny guy with no weapons. Run, jump, hide, scramble and talk your way past the ugliest bunch of carnivorous crustaceans ever created. Unlock your special powers to figure out your foes, and you might save your race. If not, you are for dinner! Enter Oddworld, a surreal, sensory overload of pure gaming and claim your destiny. Saviour. Or salami. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee), [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/), and [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Return%20to%20Zork/Thumbnail.png "Return to Zork")
+>
+> </td>
+>
+> <td>
+>
+> ## [Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞
 >
 >
 > </td></tr></table>
