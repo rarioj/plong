@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Proprietary (59)
+# 🗂️ Games ‣ By License ‣ Proprietary (65)
 
 > <table><tr><td width="255">
 >
@@ -254,6 +254,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/Thumbnail.png "Day of the Tentacle")
+>
+> </td>
+>
+> <td>
+>
+> ## [Day of the Tentacle](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Comedy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure featuring cartoon-style animation and over 100 zany sound effects. ❞
+>
+> ❝ This version is the original/legacy release for DOS. A **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/day_of_the_tentacle_remastered). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Deadlock%20-%20Planetary%20Conquest/Thumbnail.png "Deadlock: Planetary Conquest")
 >
 > </td>
@@ -332,6 +353,27 @@
 > ❝ You are Conrad B. Hart, Galaxis Bureau of Investigation Agent, stranded on a far-away planet after discovering an alien plot to overtake Earth. You must travel and find your way through four planets back to Earth and foil the aliens' sinister and deadly plans. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Full%20Throttle/Thumbnail.png "Full Throttle")
+>
+> </td>
+>
+> <td>
+>
+> ## [Full Throttle](../../../All%20Programs/Games/Full%20Throttle/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Motorcycle • Contemporary • Crime ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You're Ben. You're on the road. You're indestructible. You'll do whatever it takes to clear your name from a bum murder rap - Like fighting ugly gangs with futuristic bikes and Neolithic weapons, running big-rigs off the road at 100 mph, making people pay. But that is what happens when you live your life at Full Throttle. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/full_throttle_remastered). ❞
 >
 >
 > </td></tr></table>
@@ -623,7 +665,7 @@
 >
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Now you see it. Now you don’t. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. ❞
+> ❝ Now you see it. Now you don't. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate). ❞
 >
@@ -644,9 +686,30 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ As punishment for the murder of Kyrandia’s King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine. ❞
+> ❝ As punishment for the murder of Kyrandia's King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/Thumbnail.png "Lighthouse: The Dark Being")
+>
+> </td>
+>
+> <td>
+>
+> ## [Lighthouse: The Dark Being](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. An exotic parallel universe is terrorized by a Dark Being. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. You are summoned on a rescue mission; lives and worlds hang in the balance. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and desolate world. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being). ❞
 >
 >
 > </td></tr></table>
@@ -760,6 +823,48 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Phantasmagoria/Thumbnail.png "Phantasmagoria")
+>
+> </td>
+>
+> <td>
+>
+> ## [Phantasmagoria](../../../All%20Programs/Games/Phantasmagoria/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Horror ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ It seemed like a dream come true for Adrienne Delaney and Don Gordon. A beautiful mansion on its own private island. The perfect place to build a life together. But an ominous presence lurks within the halls, the rooms, and every passageway of this mysterious home. The previous owner, a 19th-century master illusionist, left behind a twisted trail of terror. Quickly, the blissful life Adrienne and Don hoped for begins to unravel into a terrible nightmare. With your help, Adrienne must uncover the clues and gather the objects she needs in a desperate attempt to save her husband from an insidious evil that holds him in its ever-tightening grip. Discover the mansion's hidden rooms, explore the island, and try to find the mystery man with the secret to the past. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria) and [Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria: A Puzzle of Flesh")
+>
+> </td>
+>
+> <td>
+>
+> ## [Phantasmagoria: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Puzzle elements • Sci-fi • Horror • Romance ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ Curtis Craig is a quiet young man. He has a steady job and a lovely girlfriend. He's been out of the mental hospital for exactly one year. All Curtis wants is to live a normal-happy life, but something seems to have other plans. Strange events, inexplicable and terrifying, begin happening all-around him, making him doubt his sanity. Then, the murders start, with evidence pointing directly to Curtis. Propelled by desperation and ravening madness, he will discover a secret so bizzare it is beyond human comprehension. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria_2) and [Steam 💰](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Return%20to%20Zork/Thumbnail.png "Return to Zork")
 >
 > </td>
@@ -773,6 +878,27 @@
 > ❝ Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/Thumbnail.png "Sam & Max: Hit the Road")
+>
+> </td>
+>
+> <td>
+>
+> ## [Sam & Max: Hit the Road](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Mini-games • Puzzle elements • Fantasy • Comedy • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Grab your nightstick, squeal like a siren, and Hit the Road with Sam & Max, Freelance Police, as they attempt to crack their case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure. Help our frightening, furry flatfoots find the fugitive freak! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road). ❞
 >
 >
 > </td></tr></table>

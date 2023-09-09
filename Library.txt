@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.8d
+# library-version: 23.9a
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -1727,6 +1727,63 @@
 # file: All Programs/Games/Anvil of Dawn/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = #
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # name: Are You Afraid of the Dark? The Tale of Orpheo's Curse
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # name: Are You Afraid of the Dark? The Tale of Orpheo's Curse: A Ghostly Adventure Game
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # info: You are a brother and sister team trapped inside a haunted theatre. You discover Orpheo, the Mad Magician, has put an evil curse on it, or so you think. Dare to explore this ghoulish theatre as you search for clues to unlock the mystery. Remember, surprises await you at every turn. Watch out! You'll encounter strange and twisted characters. Listen closely to the talking ghosts. Search for clues as you solve dozens of puzzles.
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # tag: Category = 1st-person • Detective • Horror
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Are_You_Afraid_of_the_Dark%3F_The_Tale_of_Orpheo%27s_Curse)
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/9583/are-you-afraid-of-the-dark-the-tale-of-orpheos-curse/)
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/are-you-afraid-of-the-dark-the-tale-of-orpheo-s-curse-332)
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = #
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = [sdl]
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = autolock = true
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = [cpu]
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = core = dynamic
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = cputype = pentium
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = cycles = max
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = [autoexec]
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = @ECHO OFF
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = IF NOT EXIST C:\VNM\AFRAID\AFRAID.BAT GOTO F_INSTALL
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = IF EXIST C:\VNM\AFRAID\AFRAID.BAT GOTO F_START
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = :F_INSTALL
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = D:
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = :F_START
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = C:
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = CD C:\VNM\AFRAID
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = CALL AFRAID.BAT
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = :F_EXIT
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = EXIT
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = :F_DEBUG
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3901015-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse-dos-front-c.jpg
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # check: coverart.jpg = 5e07540c6521049fb48dce7324cc52dd7577a9ddeca71841c4ef0cb9d78548cd
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # asset: cdrom.iso = https://archive.org/download/are-you-afraid-of-the-dark-the-tale-of-orpheos-curse/Are%20You%20Afraid%20of%20the%20Dark%20-%20The%20Tale%20of%20Orpheo%27s%20Curse%20%281994%29%28Viacom%20New%20Media%29.iso
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # check: cdrom.iso = a020c3ad7445262f20a8685efb58a5b05504cfec937028fd0a957717f350f6c2
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/4ft-are-you-afraid-of-the-dark-the-tale-of-orpheo-s-curse
+# file: All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse/Program.txt = # check: manual.pdf = 9d572c351917f936105d67694cd551c7ec2b62dafd3cade3be5c1b9bba2adaa4
+#
+#
 # file: All Programs/Games/Ascendancy/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Ascendancy/Program.txt = #
 # file: All Programs/Games/Ascendancy/Program.txt = # name: Ascendancy
@@ -2707,7 +2764,7 @@
 # file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = #
 # file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # name: Callahan's Crosstime Saloon
-# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # info: The Gods have decided that our very Universe is closing. The regulars in Callahan’s Crosstime Saloon can either drink up and go home or do something about it. But Callahan’s is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe.
+# file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # info: The Gods have decided that our very Universe is closing. The regulars in Callahan's Crosstime Saloon can either drink up and go home or do something about it. But Callahan's is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe.
 # file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Year = 1997
 # file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Genre = Adventure
 # file: All Programs/Games/Callahan's Crosstime Saloon/Program.txt = # tag: Platform = DOS
@@ -3617,6 +3674,73 @@
 # file: All Programs/Games/Dark Seed II/Program.txt = # check: manual.pdf = cddb5d4d80f0dbeabf9e8f1bbb320b599fc3e6a79fa54d3289569eef5ca69c8c
 #
 #
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Day of the Tentacle/Program.txt = #
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # name: Day of the Tentacle
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # name: Maniac Mansion: Day of the Tentacle
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # name: Maniac Mansion II
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # info: Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure featuring cartoon-style animation and over 100 zany sound effects.
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # info: This version is the original/legacy release for DOS. A **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/day_of_the_tentacle_remastered).
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # tag: Category = Side view • Graphic adventure • Puzzle elements • Comedy
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Day_of_the_Tentacle)
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/719/maniac-mansion-day-of-the-tentacle/)
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Day+of+the+Tentacle&gid=1304)
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/maniac-mansion-day-of-the-tentacle-1t0)
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # site: Remastered = [GOG 💰](https://www.gog.com/en/game/day_of_the_tentacle_remastered)
+# file: All Programs/Games/Day of the Tentacle/Program.txt = #
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # text: - Setup Utility:
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # text:   - Music: **SoundBlaster & Compatibles / AdLib**.
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # text:   - Voice: **SoundBlaster & Compatibles**; Port: **220**; IRQ: **7**; Buffer: **8** [*DOSBox-X and DOSBox-Staging*] or **2** [*DOSBox*].
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # text:   - Control: **Mouse + keyboard**.
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # text:   - Press `ESC` to Exit Setup and press `Y` to Save Settings.
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = [sdl]
+# file: All Programs/Games/Day of the Tentacle/Program.txt = autolock = true
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = [cpu]
+# file: All Programs/Games/Day of the Tentacle/Program.txt = cycles = max
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = [autoexec]
+# file: All Programs/Games/Day of the Tentacle/Program.txt = @ECHO OFF
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Day of the Tentacle/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = IF NOT EXIST C:\DOTT.CD\DOT.INI GOTO F_INSTALL
+# file: All Programs/Games/Day of the Tentacle/Program.txt = IF EXIST C:\DOTT.CD\DOT.INI GOTO F_START
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = :F_INSTALL
+# file: All Programs/Games/Day of the Tentacle/Program.txt = D:
+# file: All Programs/Games/Day of the Tentacle/Program.txt = CD D:\DOTT
+# file: All Programs/Games/Day of the Tentacle/Program.txt = CALL DOTT.BAT
+# file: All Programs/Games/Day of the Tentacle/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = :F_START
+# file: All Programs/Games/Day of the Tentacle/Program.txt = D:
+# file: All Programs/Games/Day of the Tentacle/Program.txt = CD D:\DOTT
+# file: All Programs/Games/Day of the Tentacle/Program.txt = TENTACLE.EXE
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = :F_EXIT
+# file: All Programs/Games/Day of the Tentacle/Program.txt = EXIT
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = :F_DEBUG
+# file: All Programs/Games/Day of the Tentacle/Program.txt
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5861518-maniac-mansion-day-of-the-tentacle-dos-front-cover.jpg
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # check: coverart.jpg = 1d8ae49d137326fee60048823a485adc3ead588fdbda3952ca504714506c3920
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # asset: cdrom.iso = https://archive.org/download/day-of-the-tentacle-iso/dott.iso
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # check: cdrom.iso = 2fab3bf3217d1e5437ad71057b41afb88b189b751a040b457f3a3f3c31c5c877
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # asset: manual.pdf = https://archive.org/download/Day_of_the_Tentacle/Day_of_the_Tentacle.pdf
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # check: manual.pdf = c73ab9933fd98d8ffaa0b211ce8c60beb49d4ac86b0059184b8ef7ada2f556ad
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # asset: hintbook.pdf = https://archive.org/download/Day_Of_The_Tentacle_HintBook/Day_Of_The_Tentacle_HintBook.pdf
+# file: All Programs/Games/Day of the Tentacle/Program.txt = # check: hintbook.pdf = 41c423420ec50849c50f7ed0091be58bb6bc906c5a4291b3c83ff08f7936af1b
+#
+#
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = #
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # snapshot: ../../Systems/Windows 3.1x
@@ -4390,6 +4514,136 @@
 # file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = #
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # name: Lost Secret of the Rainforest
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # name: EcoQuest 2: Lost Secret of the Rainforest
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # name: EcoQuest 2
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # info: Lost Secret of the Rainforest is a trek through lush jungles, mysterious caverns, and ancient ruins atop craggy, mist-covered peaks. This adventure requires that you defeat the real-life dangers threatening the rainforests of South America. As you explore this exotic ecosystem, you will encounter endangered animal species, rare flora, and remote native cultures. Your challenge is to prevent their extinction by poachers and other outlaws who would destroy the environment to satisfy their greed. If you're successful, you will learn the truth behind the enigmatic face of the rainforest.
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # tag: Genre = Adventure • Educational
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Ecology • Detective
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # tag: Media = Compressed Package
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest)
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/)
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest+2%3A+Lost+Secret+of+the+Rainforest&gid=2594)
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/lost-secret-of-the-rainforest-1rb)
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = [sdl]
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = autolock = true
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = [autoexec]
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = @ECHO OFF
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = IF NOT EXIST C:\ECO2\SIERRA.EXE GOTO F_INSTALL
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = IF EXIST C:\ECO2\SIERRA.EXE GOTO F_START
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = :F_INSTALL
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = C:
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = CD C:\
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = MD UNZIP
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = CD UNZIP
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = CD C:\
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = MD ECO2
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = CD ECO2
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = C:\UNZIP\UNZIP.EXE X:\GAME.ZIP
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = :F_START
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = C:
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = CD C:\ECO2
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = SIERRA.EXE
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = :F_EXIT
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = EXIT
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = :F_DEBUG
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4223992-lost-secret-of-the-rainforest-dos-front-cover.jpg
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # check: coverart.jpg = 54232eae09e7f756c15d4896c7083fdab847f05f50bb7a64c249391067d3e3df
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # asset: game.zip = https://archive.org/download/Various_DOS_Abandonware_Ark/Ecoquest%202%20Lost%20Secret%20Of%20The%20Rainforest%20%281993%29%28Sierra%20Online%29.zip
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # check: game.zip = 4623c9273130457e472a338917a14ca2cf1ac252c73d5132a92bffdb8f898399
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/11oa-lost-secret-of-the-rainforest
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # check: manual.pdf = 5bf3e848ce9c856ce461b2730beeb176a9748cfc7a9682810877d7e904b8ee7b
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # asset: hintbook.pdf = https://www.myabandonware.com/download/11oc-lost-secret-of-the-rainforest
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # check: hintbook.pdf = a25a483af62e0345a26950df6aa4d741e7ca832beba18872aa295bb493cbc9e2
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = #
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # name: EcoQuest: The Search for Cetus
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # name: EcoQuest 1
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # info: Set out on a challenging undersea odyssey as you discover a delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the environmental issues facing each of us today. You'll also have the adventure of your life. Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the ruins of ancient civilizations and rescue sea creatures that got hurt or poisoned by pollution. Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # tag: Genre = Adventure • Educational
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Ecology
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest:_The_Search_for_Cetus)
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/)
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest%3A+The+Search+for+Cetus&gid=2593)
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/ecoquest-the-search-for-cetus-1ra)
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = #
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Please type the letter of the hard drive to which you want to install this game: Press `C`.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Graphics adapter: **VGA or IBM PS2 - 256 Colors**.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Music: **Sound Blaster / AdLib Card (or compatibles)**.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Speech/sound effects: **Sound Blaster**.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Joystick: **Don't use a joystick**.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Mouse: **Use Microsoft compatible mouse**.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Memory: **Use your machine's extra memory**.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Accept these choices and begin installation.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # text: - Do you wish to install everything but the speech files to your hard drive (y/n)? Press `Y`.
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = [sdl]
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = autolock = true
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = [autoexec]
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = @ECHO OFF
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = IF NOT EXIST C:\SIERRA\ECO\ECO.BAT GOTO F_INSTALL
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = IF EXIST C:\SIERRA\ECO\ECO.BAT GOTO F_START
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = :F_INSTALL
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = D:
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = :F_START
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = C:
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = CD C:\SIERRA\ECO
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = CALL ECO.BAT
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = :F_EXIT
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = EXIT
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = :F_DEBUG
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4346806-ecoquest-the-search-for-cetus-dos-front-cover.jpg
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # check: coverart.jpg = 518c14420f9cbb8422734a0ccbcb43e9bd07a8bce9fbedf589b91fa054be58e0
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # asset: cdrom.bin = https://archive.org/download/eco-quest-the-search-for-cetus-usa-rerelease/EcoQuest%20-%20The%20Search%20for%20Cetus%20%28USA%29%20%28Rerelease%29.zip/EcoQuest%20-%20The%20Search%20for%20Cetus%20%28USA%29%20%28Rerelease%29.bin
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # check: cdrom.bin = 5ac38194e85a25c7b1d923f4d2a8a81c3476b683f38c072be093b1ac9d7d373d
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # asset: manual.pdf = https://archive.org/download/Ecoquest_1_Econews/Ecoquest_1_Econews.pdf
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # check: manual.pdf = 8fce23bcc78e766dacdae1384e3fe1a4aa9ebd6b9326cf51f1044ec029a6c392
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # asset: hintbook.pdf = https://archive.org/download/EcoQuest_1_Search_For_Cetus_Hint_Book/EcoQuest_1_Search_For_Cetus_Hint_Book.pdf
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # check: hintbook.pdf = 7a29cfaf0827781a8bb7014af4898c1447da37b56ce2f4ae42affd6e7035a7e6
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = #
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/EcoQuest - The Search for Cetus/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Electroman/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Electroman/Program.txt = #
 # file: All Programs/Games/Electroman/Program.txt = # name: Electroman
@@ -4716,6 +4970,76 @@
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.img" BINARY
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE2/2352
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Full Throttle/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Full Throttle/Program.txt = #
+# file: All Programs/Games/Full Throttle/Program.txt = # name: Full Throttle
+# file: All Programs/Games/Full Throttle/Program.txt = # info: You're Ben. You're on the road. You're indestructible. You'll do whatever it takes to clear your name from a bum murder rap - Like fighting ugly gangs with futuristic bikes and Neolithic weapons, running big-rigs off the road at 100 mph, making people pay. But that is what happens when you live your life at Full Throttle.
+# file: All Programs/Games/Full Throttle/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/full_throttle_remastered).
+# file: All Programs/Games/Full Throttle/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Full Throttle/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Full Throttle/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Full Throttle/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Full Throttle/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Motorcycle • Contemporary • Crime
+# file: All Programs/Games/Full Throttle/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Full Throttle/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Full_Throttle_(1995_video_game))
+# file: All Programs/Games/Full Throttle/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/940/full-throttle/)
+# file: All Programs/Games/Full Throttle/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Full+Throttle&gid=2262)
+# file: All Programs/Games/Full Throttle/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/full-throttle-33c)
+# file: All Programs/Games/Full Throttle/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/full_throttle_remastered)
+# file: All Programs/Games/Full Throttle/Program.txt = #
+# file: All Programs/Games/Full Throttle/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Full Throttle/Program.txt = # text: - Select **Install Full Throttle**.
+# file: All Programs/Games/Full Throttle/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Full Throttle/Program.txt = # text: - Express or Custom Setup (E/C)? Press `E`. Follow auto-detection configuration and tests.
+# file: All Programs/Games/Full Throttle/Program.txt = # text: - Now you're ready to go! Press `ENTER`.
+# file: All Programs/Games/Full Throttle/Program.txt = # text: - Would you like to make a bootdisk? Press `ESC`.
+# file: All Programs/Games/Full Throttle/Program.txt = # text: - Select **Exit** to start the game.
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = [sdl]
+# file: All Programs/Games/Full Throttle/Program.txt = autolock = true
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = [cpu]
+# file: All Programs/Games/Full Throttle/Program.txt = core = dynamic
+# file: All Programs/Games/Full Throttle/Program.txt = cputype = pentium
+# file: All Programs/Games/Full Throttle/Program.txt = cycles = max
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = [autoexec]
+# file: All Programs/Games/Full Throttle/Program.txt = @ECHO OFF
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Full Throttle/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = IF NOT EXIST C:\THROTTLE\THROTTLE.EXE GOTO F_INSTALL
+# file: All Programs/Games/Full Throttle/Program.txt = IF EXIST C:\THROTTLE\THROTTLE.EXE GOTO F_START
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = :F_INSTALL
+# file: All Programs/Games/Full Throttle/Program.txt = D:
+# file: All Programs/Games/Full Throttle/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = :F_START
+# file: All Programs/Games/Full Throttle/Program.txt = C:
+# file: All Programs/Games/Full Throttle/Program.txt = CD C:\THROTTLE
+# file: All Programs/Games/Full Throttle/Program.txt = THROTTLE.EXE
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = :F_EXIT
+# file: All Programs/Games/Full Throttle/Program.txt = EXIT
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = :F_DEBUG
+# file: All Programs/Games/Full Throttle/Program.txt
+# file: All Programs/Games/Full Throttle/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8241431-full-throttle-dos-front-cover.jpg
+# file: All Programs/Games/Full Throttle/Program.txt = # check: coverart.jpg = 4e0152bea1395cba9e635ec7c193ca73e53be433525787283f15a600d7ee4df7
+# file: All Programs/Games/Full Throttle/Program.txt = # asset: cdrom.bin = https://archive.org/download/FullThrottleUSA/Full%20Throttle%20%28USA%29%20%28Rerelease%29.zip/Full%20Throttle%20%28USA%29%20%28Rerelease%29.bin
+# file: All Programs/Games/Full Throttle/Program.txt = # check: cdrom.bin = 6ad7ec7d396c67fa89191fc4d14059f1843660b8055195595758614423da0716
+# file: All Programs/Games/Full Throttle/Program.txt = # asset: manual.pdf = https://archive.org/download/Full_Throttle/Full_Throttle.pdf
+# file: All Programs/Games/Full Throttle/Program.txt = # check: manual.pdf = bd38b727ed230d9e3f9747a47ae8ede825bf6ac191c5376b03e599285408f8cb
+# file: All Programs/Games/Full Throttle/Program.txt = # asset: guide.pdf = https://archive.org/download/Full_Throttle_Guide/Full_Throttle_Guide.pdf
+# file: All Programs/Games/Full Throttle/Program.txt = # check: guide.pdf = 9ac45d6ce8af121ca6b134ccdcd8084a550372d705651ce489200eb24d67d478
+# file: All Programs/Games/Full Throttle/Program.txt = #
+# file: All Programs/Games/Full Throttle/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Full Throttle/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Full Throttle/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/Future Wars - Adventures in Time/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -6361,7 +6685,7 @@
 # file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: Kyrandia 2
 # file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: Kyrandia II: The Hand of Fate
 # file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # name: The Legend of Kyrandia: Hand of Fate
-# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # info: Now you see it. Now you don’t. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia.
+# file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # info: Now you see it. Now you don't. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia.
 # file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate).
 # file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Year = 1993
 # file: All Programs/Games/Legend of Kyrandia 2 - Hand of fate/Program.txt = # tag: Genre = Adventure
@@ -6426,7 +6750,7 @@
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: Kyrandia 3
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: Kyrandia III: Malcolm's Revenge
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # name: The Legend of Kyrandia: Malcolm's Revenge
-# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # info: As punishment for the murder of Kyrandia’s King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine.
+# file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # info: As punishment for the murder of Kyrandia's King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine.
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge).
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Year = 1994
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # tag: Genre = Adventure
@@ -6482,6 +6806,79 @@
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # check: cdrom.iso = 2a2b0c14f7799f87713411deacace1909bd63beb530e485ecacf53929c13610c
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Legend_of_Kyrandia_Book_3_-_Malcolm-s_Revenge.pdf
 # file: All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge/Program.txt = # check: manual.pdf = 405378bc3aef580cfd9428c222dffc36b32294c4a6cd75ace1d07b0541c3034f
+#
+#
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = #
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # name: Lighthouse: The Dark Being
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # info: Pass through a shimmering portal into a world teeming with invention, discovery, and evil. An exotic parallel universe is terrorized by a Dark Being. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. You are summoned on a rescue mission; lives and worlds hang in the balance. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and desolate world.
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being).
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # tag: Category = 1st-person • Puzzle elements • Steampunk
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Lighthouse:_The_Dark_Being)
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/266/lighthouse-the-dark-being/)
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3)
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # site: [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being)
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = #
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: - Select **Accept these choices and begin installation**.
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text:
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text:   1. Lighthouse: The Dark Being Disc #1
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text:   2. Lighthouse: The Dark Being Disc #2
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text:
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = [sdl]
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = autolock = true
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = [cpu]
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = core = dynamic
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = cputype = pentium
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = cycles = max
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = [autoexec]
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = @ECHO OFF
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = IF NOT EXIST C:\SIERRA\LIGHTDOS\LIGHT.BAT GOTO F_INSTALL
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = IF EXIST C:\SIERRA\LIGHTDOS\LIGHT.BAT GOTO F_START
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = :F_INSTALL
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = D:
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = :F_START
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = C:
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = CD C:\SIERRA\LIGHTDOS
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = CALL LIGHT.BAT
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = :F_EXIT
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = EXIT
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = :F_DEBUG
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4378065-lighthouse-the-dark-being-dos-front-cover.jpg
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # check: coverart.jpg = 433f030feeb630aa5cfc61b29284dafec492f4ff6bd6029a2d0a27ecd2ef6b9b
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # asset: cdrom01.iso = https://archive.org/download/Sierra_Lighthouse_The_Dark_Being_MSDOS_1996_Eng/Sierra-Lighthouse-MSDOS-Eng-CD1of2.iso
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # check: cdrom01.iso = f1e9e6c693684b8f67138c61189c132bab3bb7156efb422b54191ebb7d5bf6c0
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # asset: cdrom02.iso = https://archive.org/download/Sierra_Lighthouse_The_Dark_Being_MSDOS_1996_Eng/Sierra-Lighthouse-MSDOS-Eng-CD2of2.iso
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # check: cdrom02.iso = cdbd9a3a2d9e0880896dec4dd30a6d6090e4f03aaa6465aa14c62a996614e531
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # asset: manual.pdf = https://archive.org/download/lighthouse-manual/Lighthouse_Manual.pdf
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # check: manual.pdf = 671c34a0bc4cc40755a822a4b7ac777e08520a97b8a82d206be639850b242c0f
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # asset: handbook.pdf = https://archive.org/download/lighthouse-manual/Lighthouse_Players_Handbook.pdf
+# file: All Programs/Games/Lighthouse - The Dark Being/Program.txt = # check: handbook.pdf = 6cb6252e902bd7562bcda195c1fc6a0f7bdcc103757503df4912d7926a814955
 #
 #
 # file: All Programs/Games/Lode Runner - The Legend Returns/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -7005,6 +7402,286 @@
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # check: cdrom.iso = 684b9670b1cd5421ef3f2086e8be2e39d858ce1fd6eec6a3708375ad47ca7272
 #
 #
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = #
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # name: Pepper's Adventures in Time
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # name: Twisty History
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # info: Pepper has a big problem. Her Uncle Fred, the family's scientist, has scrambled colonial America into one big hysterical, historical omelette! It looks like the British is about to win the war this time, unless you can set the facts straight! If you want a help with this sticky situation, you'll have to talk to Ben Franklin, but be careful! Uncle Fred's confused him, too! You'll have to help Ben out, or the world will never know Ben. You'll be amazed by his wisdom and cracked up by his sense of humour! It is too much for one kid to handle, so Pepper brought some backup - her mischievous mutt, Lockjaw. You'll get to play as a dog! Do all the doggie things you've always wanted to try. Sniff out mysteries. Dig holes. Chew things up. BITE PEOPLE!
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # tag: Genre = Adventure • Educational
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # tag: Category = Side view • Real-time • Graphic adventure • History • Science • North America
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # tag: Media = Compressed Package
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Pepper%27s_Adventures_in_Time)
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/6312/peppers-adventures-in-time/)
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper%27s+Adventures+in+Time&gid=1927)
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws)
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/peppers-adventures-in-time)
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = [sdl]
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = autolock = true
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = [autoexec]
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = @ECHO OFF
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = IF NOT EXIST C:\PEPPER\SIERRA.EXE GOTO F_INSTALL
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = IF EXIST C:\PEPPER\SIERRA.EXE GOTO F_START
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = :F_INSTALL
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = C:
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = CD C:\
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = MD UNZIP
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = CD UNZIP
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = CD C:\
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = MD PEPPER
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = CD PEPPER
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = C:\UNZIP\UNZIP.EXE X:\GAME.ZIP
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = :F_START
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = C:
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = CD C:\PEPPER
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = SIERRA.EXE
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = :F_EXIT
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = EXIT
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = :F_DEBUG
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6724174-peppers-adventures-in-time-dos-front-cover.jpg
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # check: coverart.jpg = 38cafb30ad2bb2230b306773293be9cc1d713fcac28be5adcba9bd5008d6d584
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # asset: game.zip = https://archive.org/download/PeppersAdventuresInTime/Peppers%20Adventures%20in%20Time.zip
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # check: game.zip = 2788cbe7019cbf54ec2d74f46fe0fccaf063e6abcaa8dc6cce264b55a7f8f211
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Pepper-s_Adventures_in_Time.pdf
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # check: manual.pdf = 61029272b218d53dfd97db3065c75d70ce18424fa3a249529b4629a816c44555
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Phantasmagoria/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Phantasmagoria/Program.txt = #
+# file: All Programs/Games/Phantasmagoria/Program.txt = # name: Phantasmagoria
+# file: All Programs/Games/Phantasmagoria/Program.txt = # name: Roberta Williams' Phantasmagoria
+# file: All Programs/Games/Phantasmagoria/Program.txt = # info: It seemed like a dream come true for Adrienne Delaney and Don Gordon. A beautiful mansion on its own private island. The perfect place to build a life together. But an ominous presence lurks within the halls, the rooms, and every passageway of this mysterious home. The previous owner, a 19th-century master illusionist, left behind a twisted trail of terror. Quickly, the blissful life Adrienne and Don hoped for begins to unravel into a terrible nightmare. With your help, Adrienne must uncover the clues and gather the objects she needs in a desperate attempt to save her husband from an insidious evil that holds him in its ever-tightening grip. Discover the mansion's hidden rooms, explore the island, and try to find the mystery man with the secret to the past.
+# file: All Programs/Games/Phantasmagoria/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria) and [Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/).
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: Category = 1st-person • 3rd-person • Horror
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Phantasmagoria/Program.txt = # tag: Patched
+# file: All Programs/Games/Phantasmagoria/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game))
+# file: All Programs/Games/Phantasmagoria/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/)
+# file: All Programs/Games/Phantasmagoria/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria&gid=3141)
+# file: All Programs/Games/Phantasmagoria/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/roberta-williams-phantasmagoria-32t)
+# file: All Programs/Games/Phantasmagoria/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/phantasmagoria)
+# file: All Programs/Games/Phantasmagoria/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/)
+# file: All Programs/Games/Phantasmagoria/Program.txt = #
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - Accept these choices and begin installation.
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - Do you want to perform hardware tests? (Y/N). Press `N`.
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   1. Phantasmagoria Disc #1
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   2. Phantasmagoria Disc #2
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   3. Phantasmagoria Disc #3
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   4. Phantasmagoria Disc #4
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   5. Phantasmagoria Disc #5
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   6. Phantasmagoria Disc #6
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:   7. Phantasmagoria Disc #7
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text:
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Phantasmagoria/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = [sdl]
+# file: All Programs/Games/Phantasmagoria/Program.txt = autolock = true
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = [cpu]
+# file: All Programs/Games/Phantasmagoria/Program.txt = core = dynamic
+# file: All Programs/Games/Phantasmagoria/Program.txt = cputype = pentium
+# file: All Programs/Games/Phantasmagoria/Program.txt = cycles = max
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = [autoexec]
+# file: All Programs/Games/Phantasmagoria/Program.txt = @ECHO OFF
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Phantasmagoria/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" "./Assets/cdrom03.iso" "./Assets/cdrom04.iso" "./Assets/cdrom05.iso" "./Assets/cdrom06.iso" "./Assets/cdrom07.iso" -t iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = IF NOT EXIST C:\SIERRA\SCARYDOS\SIERRA.EXE GOTO F_INSTALL
+# file: All Programs/Games/Phantasmagoria/Program.txt = IF EXIST C:\SIERRA\SCARYDOS\SIERRA.EXE GOTO F_START
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = :F_INSTALL
+# file: All Programs/Games/Phantasmagoria/Program.txt = C:
+# file: All Programs/Games/Phantasmagoria/Program.txt = CD C:\
+# file: All Programs/Games/Phantasmagoria/Program.txt = MD UNZIP
+# file: All Programs/Games/Phantasmagoria/Program.txt = CD UNZIP
+# file: All Programs/Games/Phantasmagoria/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Phantasmagoria/Program.txt = D:
+# file: All Programs/Games/Phantasmagoria/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Phantasmagoria/Program.txt = C:
+# file: All Programs/Games/Phantasmagoria/Program.txt = CD C:\SIERRA\SCARYDOS
+# file: All Programs/Games/Phantasmagoria/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = :F_START
+# file: All Programs/Games/Phantasmagoria/Program.txt = C:
+# file: All Programs/Games/Phantasmagoria/Program.txt = CD C:\SIERRA\SCARYDOS
+# file: All Programs/Games/Phantasmagoria/Program.txt = SIERRA.EXE
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = :F_EXIT
+# file: All Programs/Games/Phantasmagoria/Program.txt = EXIT
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = :F_DEBUG
+# file: All Programs/Games/Phantasmagoria/Program.txt
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5543437-roberta-williams-phantasmagoria-dos-front-cover.jpg
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: coverart.jpg = 6003d60fdd96e3904e4c31f933a9080bdc3b3f421953a4eb6024cf75676ecdd8
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom01.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%201.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom01.iso = aeb36ca92cdecb156789fbe085d9ddc855413ba462cdc1cca730a6e04a655c38
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom02.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%202.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom02.iso = 3c57b78e10161d69e3f73d88b456140fe0f83501d05a5b31edd4ef2826de5891
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom03.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%203.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom03.iso = 76e169b15b44f7e6983a2c9e7d9f5ee256a7be1a7ad515dedf9a9dec66278087
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom04.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%204.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom04.iso = e60b10d296885df9f929b5cdead3842b076db9e81e9bfae1cb15bcab29bdf3d8
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom05.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%205.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom05.iso = 4ea7a4197d6592b5b96d9fc969117685505ba47b666fadb2ee020ad8c71da8d8
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom06.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%206.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom06.iso = 395f199178d244360826f3e87aa91e64370bf350397c3b7ee125deb49d30e700
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: cdrom07.iso = https://archive.org/download/phantasmagoria-disc-1/Phantasmagoria%20Disc%207.iso
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: cdrom07.iso = bd9a3dceb973cac045d338d59f74de46f76926eb743635f749653eead51ed49f
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: manual.pdf = https://archive.org/download/Phantasmagoria_-_Manual/Phantasmagoria_-_Manual.pdf
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: manual.pdf = 1898e97d385ab9e9ed5299ea9c3b511abd924a7a5fe83ad1f689ffdd958d9be5
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: patch.zip = https://archive.org/download/PHANT11_ZIP/PHANT11.ZIP
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: patch.zip = 051527747181cfba1ab6d310221ffbe868ac81db366c602c7abe3382a903109a
+# file: All Programs/Games/Phantasmagoria/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Phantasmagoria/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = #
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # name: Phantasmagoria: A Puzzle of Flesh
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # name: Phantasmagoria 2
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # info: Curtis Craig is a quiet young man. He has a steady job and a lovely girlfriend. He's been out of the mental hospital for exactly one year. All Curtis wants is to live a normal-happy life, but something seems to have other plans. Strange events, inexplicable and terrifying, begin happening all-around him, making him doubt his sanity. Then, the murders start, with evidence pointing directly to Curtis. Propelled by desperation and ravening madness, he will discover a secret so bizzare it is beyond human comprehension.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria_2) and [Steam 💰](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/).
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: Category = 1st-person • 3rd-person • Puzzle elements • Sci-fi • Horror • Romance
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # tag: Patched
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria%3A+A+Puzzle+of+Flesh&gid=3475)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/phantasmagoria-a-puzzle-of-flesh-csm)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/phantasmagoria_2)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = #
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - Installation involves converting Windows 95 version of the game to DOS.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   - Please type the drive letter of your CD-ROM. Press `D`.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   - Please type the letter of the hard drive... Press `C`.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   - Use the default **directory** for the installation location. Press `ENTER`.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   - Please select how much hard disk space you would like to use: Press `L`.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - Accept these choices and begin installation.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - Optional: Intense password lock. Enter password or press `ENTER` for none.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   1. Phantasmagoria: A Puzzle of Flesh Disc #1
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   2. Phantasmagoria: A Puzzle of Flesh Disc #2
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   3. Phantasmagoria: A Puzzle of Flesh Disc #3
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   4. Phantasmagoria: A Puzzle of Flesh Disc #4
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:   5. Phantasmagoria: A Puzzle of Flesh Disc #5
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text:
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = [sdl]
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = autolock = true
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = [cpu]
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = core = dynamic
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = cputype = pentium
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = cycles = max
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = [autoexec]
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = @ECHO OFF
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MOUNT V "./variant"
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = IF EXIST V:\DOSBOX.ENV MOUNT C "./drive" -freesize 1024
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = IF EXIST V:\STAGING.ENV MOUNT C "./drive" -freesize 2048
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = IF EXIST V:\X.ENV MOUNT C "./drive" -freesize 2048
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MOUNT -u V
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" "./Assets/cdrom03.iso" "./Assets/cdrom04.iso" "./Assets/cdrom05.iso" -t iso
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = IF NOT EXIST C:\SIERRA\P2DOS\P2DOS.BAT GOTO F_INSTALL
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = IF EXIST C:\SIERRA\P2DOS\P2DOS.BAT GOTO F_START
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = :F_INSTALL
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = C:
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CD C:\
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MD UNZIP
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CD UNZIP
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CD ..
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MD INSTALL
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CD INSTALL
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = C:\UNZIP\UNZIP.EXE X:\INSTALL.ZIP
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = P2DOSPAT.EXE
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MD C:\SIERRA
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = MD C:\SIERRA\P2DOS
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = #CALL PATCH2.BAT C D foo \SIERRA\P2DOS \
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CALL PATCH.BAT
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = C:
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CD C:\SIERRA\P2DOS
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = C:\UNZIP\UNZIP.EXE -o X:\PATCH.ZIP
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = :F_START
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = C:
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CD C:\SIERRA\P2DOS
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = CALL P2DOS.BAT
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = :F_EXIT
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = EXIT
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = :F_DEBUG
+# file: All Programs/Games/Phantasmagoria 2/Program.txt
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8103401-phantasmagoria-a-puzzle-of-flesh-dos-front-cover.jpg
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: coverart.jpg = 5f61e2bc25bedd7ea54ea6434a64a90672065083208c6979f540f4f227c382eb
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom01.iso = https://archive.org/download/phantas-2-1/PHANTAS2_1.ISO
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom01.iso = 70eba927376750d278ae9dd6d717c1e0c123f7d59512d6fc2a0c148b1b40f1a6
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom02.iso = https://archive.org/download/phantas-2-1/PHANTAS2_2.ISO
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom02.iso = 2790b0bcdeb3a90ac15f636e7c0840add27b9da4a94c0132ec75c503d08aeb25
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom03.iso = https://archive.org/download/phantas-2-1/PHANTAS2_3.ISO
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom03.iso = a78aa8190374f022ce725903136f85f44aa7d1b6c8872886ccd2ae1fa5293f7b
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom04.iso = https://archive.org/download/phantas-2-1/PHANTAS2_4.ISO
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom04.iso = 74dfc59932f10b7e241aff511ed4721dab1dbf61aca0cb7557d45323811bd714
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom05.iso = https://archive.org/download/phantas-2-1/PHANTAS2_5.ISO
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom05.iso = f84d5e8798eac5cf8d82800dbb5f414646eba07c046747cbd8c9009365785012
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: install.zip = https://archive.org/download/P2DOSPAT/P2DOSPAT.ZIP
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: install.zip = 1c3c61df7c42e92068b31bb510273b2efeac6b9522a2bfbe4cc81a1d33bba363
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: patch.zip = http://www.sierrahelp.com/Files/Patches/Phantasmagoria/Phantasmagoria2(DACBLAST).zip
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: patch.zip = 105ff3ee1ce65bf7303d6d53513e10ab07c535de4b5d6033457a397b87990ee9
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: manual.pdf = https://archive.org/download/Phantasmagoria_2_A_Puzzle_of_Flesh/Phantasmagoria_2_A_Puzzle_of_Flesh.pdf
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: manual.pdf = cd66adf485124e09a6fd27170a18197762525fb7e49d90aec0bca8a469830a0d
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = #
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # name: Prince of Persia CD Collection
@@ -7402,6 +8079,103 @@
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/SPQR - The Empire's Darkest Hour/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = #
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # name: Sam & Max: Hit the Road
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # info: Grab your nightstick, squeal like a siren, and Hit the Road with Sam & Max, Freelance Police, as they attempt to crack their case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure. Help our frightening, furry flatfoots find the fugitive freak!
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road).
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # tag: Category = Side view • Graphic adventure • Mini-games • Puzzle elements • Fantasy • Comedy • Detective
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Sam_%26_Max_Hit_the_Road)
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/745/sam-max-hit-the-road/)
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sam+and+Max+Hit+the+Road&gid=2404)
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sam-max-hit-the-road-1vb)
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Sam_%26_Max)
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # site: [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road)
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = #
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # text: - Soundcard: Select **Sound Blaster 16**.
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # text: - Port: Select **220 default**.
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # text: - Test *Music* and *Digital Sound*.
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # text: - Select **Leave This Silly Program**.
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # text: - Save Current Options (y/n)? Press `Y`.
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = [sdl]
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = autolock = true
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = [cpu]
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = core = dynamic
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = cputype = pentium
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = cycles = max
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = [autoexec]
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = @ECHO OFF
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = IF NOT EXIST C:\SAMNMAX.CD\SETMUSE.INI GOTO F_INSTALL
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = IF EXIST C:\SAMNMAX.CD\SETMUSE.INI GOTO F_START
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = :F_INSTALL
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = D:
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = CALL SETUP.BAT
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = :F_START
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = D:
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = CALL SAMNMAX.BAT
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = :F_EXIT
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = EXIT
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = :F_DEBUG
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5201298-sam-max-hit-the-road-dos-front-cover.jpg
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: coverart.jpg = 39eb86e91504c73261d50923e53498612aa23fe04bafc2d6925ac98510652444
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: cdrom_01.bin = https://archive.org/download/sam-max-hit-the-road-usa/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29.zip/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29%20%28Track%201%29.bin
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: cdrom_01.bin = 9d88466298d2db5a30b7534dbeafa76060958764ffdbcaab6adfd4e3b69a60cf
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: cdrom_02.bin = https://archive.org/download/sam-max-hit-the-road-usa/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29.zip/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29%20%28Track%202%29.bin
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: cdrom_02.bin = 3da7b1b0c5e9f149054da98e94ae97e97f04dd4744eb1b5361453a22c6d9e550
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: cdrom_03.bin = https://archive.org/download/sam-max-hit-the-road-usa/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29.zip/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29%20%28Track%203%29.bin
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: cdrom_03.bin = d465ebf0f0981006b19066fd1535d2008a58e3961f487e7d46fb3b25b6ec3d54
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: cdrom_04.bin = https://archive.org/download/sam-max-hit-the-road-usa/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29.zip/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29%20%28Track%204%29.bin
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: cdrom_04.bin = 9e9ea2296fd4dc4a1ec894c8851fd3f138a1efb43f20bf3dbf08144d20b49500
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: cdrom_05.bin = https://archive.org/download/sam-max-hit-the-road-usa/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29.zip/Sam%20%26%20Max%20Hit%20the%20Road%20%28USA%29%20%28Alt%29%20%28Track%205%29.bin
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: cdrom_05.bin = f7cac7afb5bcd5128a12ffa4ac43ebda40a35bd7a4c5dec01aaa5564dede30c8
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: manual.pdf = https://archive.org/download/sammax_road_manual/sammax_road_manual.pdf
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: manual.pdf = 8ae6affa50832c654f625e90a38c33ce1b8b8fbfcf48ae28a36c4db2f7f7cc5d
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # asset: refcard.pdf = https://archive.org/download/sammax_road_manual/sammax_road_refcard.pdf
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # check: refcard.pdf = d147022aff9122fce75df450e630607a3bb41de5a9e63d9b9bcdfebef30c3c27
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = #
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_01.bin" BINARY
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_02.bin" BINARY
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     FLAGS PRE
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_03.bin" BINARY
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     FLAGS PRE
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_04.bin" BINARY
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     FLAGS PRE
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_05.bin" BINARY
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     FLAGS PRE
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
 #
 #
 # file: All Programs/Games/Shannara/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -9255,7 +10029,7 @@
 # file: All Programs/Games/The Gene Machine/Program.txt = #
 # file: All Programs/Games/The Gene Machine/Program.txt = # name: The Gene Machine
 # file: All Programs/Games/The Gene Machine/Program.txt = # name: The Gene Machine: The Great British Adventure
-# file: All Programs/Games/The Gene Machine/Program.txt = # info: It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H’s or don’t take afternoon tea, there is at least one garrison of Her Majesty’s Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam.
+# file: All Programs/Games/The Gene Machine/Program.txt = # info: It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam.
 # file: All Programs/Games/The Gene Machine/Program.txt = # tag: Year = 1996
 # file: All Programs/Games/The Gene Machine/Program.txt = # tag: Genre = Adventure
 # file: All Programs/Games/The Gene Machine/Program.txt = # tag: Platform = DOS
@@ -9704,7 +10478,7 @@
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # name: The Lost Files of Sherlock Holmes: Case of the Rose Tattoo
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # name: The Lost Files of Sherlock Holmes 2
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # name: The Case of the Rose Tattoo
-# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # info: Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation you are called on to unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It’s all in a day’s work for the world’s most famous detective.
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # info: Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation you are called on to unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It's all in a day's work for the world's most famous detective.
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Year = 1996
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Genre = Adventure
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo/Program.txt = # tag: Platform = DOS
@@ -9766,7 +10540,7 @@
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # name: The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # name: The Case of the Serrated Scalpel
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # name: The Lost Files of Sherlock Holmes
-# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # info: London, 1888. Scotland Yard summoned Sherlock Holmes, the world’s most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard’s Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt.
+# file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # info: London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt.
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Year = 1992
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Genre = Adventure
 # file: All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel/Program.txt = # tag: Platform = DOS
@@ -11269,6 +12043,7 @@
 # link: Games/By Genre/Action/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Genre/Adventure/3 Skulls of the Toltecs = ../../../All Programs/Games/3 Skulls of the Toltecs
 # link: Games/By Genre/Adventure/Amazon - Guardians of Eden = ../../../All Programs/Games/Amazon - Guardians of Eden
+# link: Games/By Genre/Adventure/Are You Afraid of the Dark? The Tale of Orpheo's Curse = ../../../All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse
 # link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
@@ -11277,10 +12052,14 @@
 # link: Games/By Genre/Adventure/Callahan's Crosstime Saloon = ../../../All Programs/Games/Callahan's Crosstime Saloon
 # link: Games/By Genre/Adventure/Dark Seed = ../../../All Programs/Games/Dark Seed
 # link: Games/By Genre/Adventure/Dark Seed II = ../../../All Programs/Games/Dark Seed II
+# link: Games/By Genre/Adventure/Day of the Tentacle = ../../../All Programs/Games/Day of the Tentacle
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Genre/Adventure/Discworld = ../../../All Programs/Games/Discworld
 # link: Games/By Genre/Adventure/Discworld II = ../../../All Programs/Games/Discworld II
+# link: Games/By Genre/Adventure/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
+# link: Games/By Genre/Adventure/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
+# link: Games/By Genre/Adventure/Full Throttle = ../../../All Programs/Games/Full Throttle
 # link: Games/By Genre/Adventure/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By Genre/Adventure/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Genre/Adventure/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
@@ -11291,13 +12070,18 @@
 # link: Games/By Genre/Adventure/Legend of Kyrandia = ../../../All Programs/Games/Legend of Kyrandia/
 # link: Games/By Genre/Adventure/Legend of Kyrandia 2 - Hand of fate = ../../../All Programs/Games/Legend of Kyrandia 2 - Hand of fate
 # link: Games/By Genre/Adventure/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
+# link: Games/By Genre/Adventure/Lighthouse - The Dark Being = ../../../All Programs/Games/Lighthouse - The Dark Being
 # link: Games/By Genre/Adventure/Loom = ../../../All Programs/Games/Loom
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Genre/Adventure/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Genre/Adventure/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Genre/Adventure/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
+# link: Games/By Genre/Adventure/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
+# link: Games/By Genre/Adventure/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
+# link: Games/By Genre/Adventure/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
 # link: Games/By Genre/Adventure/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Genre/Adventure/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
+# link: Games/By Genre/Adventure/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
 # link: Games/By Genre/Adventure/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Genre/Adventure/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
@@ -11315,6 +12099,9 @@
 # link: Games/By Genre/Educational/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
 # link: Games/By Genre/Educational/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
 # link: Games/By Genre/Educational/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
+# link: Games/By Genre/Educational/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
+# link: Games/By Genre/Educational/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
+# link: Games/By Genre/Educational/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
 # link: Games/By Genre/Puzzle/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Puzzle/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By Genre/Puzzle/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
@@ -11379,6 +12166,7 @@
 # link: Games/By Genre/Strategy/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
 # link: Games/By Genre/Strategy/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By License/Abandonware/4D Boxing = ../../../All Programs/Games/4D Boxing
+# link: Games/By License/Abandonware/Are You Afraid of the Dark? The Tale of Orpheo's Curse = ../../../All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By License/Abandonware/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
@@ -11395,10 +12183,13 @@
 # link: Games/By License/Abandonware/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
 # link: Games/By License/Abandonware/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
 # link: Games/By License/Abandonware/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
+# link: Games/By License/Abandonware/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
+# link: Games/By License/Abandonware/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By License/Abandonware/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By License/Abandonware/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By License/Abandonware/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By License/Abandonware/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By License/Abandonware/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By License/Abandonware/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
@@ -11450,10 +12241,12 @@
 # link: Games/By License/Proprietary/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
 # link: Games/By License/Proprietary/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
 # link: Games/By License/Proprietary/Dark Legions = ../../../All Programs/Games/Dark Legions
+# link: Games/By License/Proprietary/Day of the Tentacle = ../../../All Programs/Games/Day of the Tentacle
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By License/Proprietary/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By License/Proprietary/Flashback = ../../../All Programs/Games/Flashback
+# link: Games/By License/Proprietary/Full Throttle = ../../../All Programs/Games/Full Throttle
 # link: Games/By License/Proprietary/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By License/Proprietary/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
 # link: Games/By License/Proprietary/Gobliiins = ../../../All Programs/Games/Gobliiins
@@ -11469,12 +12262,16 @@
 # link: Games/By License/Proprietary/Legend of Kyrandia = ../../../All Programs/Games/Legend of Kyrandia/
 # link: Games/By License/Proprietary/Legend of Kyrandia 2 - Hand of fate = ../../../All Programs/Games/Legend of Kyrandia 2 - Hand of fate
 # link: Games/By License/Proprietary/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
+# link: Games/By License/Proprietary/Lighthouse - The Dark Being = ../../../All Programs/Games/Lighthouse - The Dark Being
 # link: Games/By License/Proprietary/Loom = ../../../All Programs/Games/Loom
 # link: Games/By License/Proprietary/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By License/Proprietary/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
+# link: Games/By License/Proprietary/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
 # link: Games/By License/Proprietary/Return to Zork = ../../../All Programs/Games/Return to Zork
+# link: Games/By License/Proprietary/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
 # link: Games/By License/Proprietary/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By License/Proprietary/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
@@ -11509,6 +12306,7 @@
 # link: Games/By Platform/DOS/Amazon - Guardians of Eden = ../../../All Programs/Games/Amazon - Guardians of Eden
 # link: Games/By Platform/DOS/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By Platform/DOS/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
+# link: Games/By Platform/DOS/Are You Afraid of the Dark? The Tale of Orpheo's Curse = ../../../All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse
 # link: Games/By Platform/DOS/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By Platform/DOS/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Platform/DOS/Bio Menace = ../../../All Programs/Games/Bio Menace
@@ -11527,17 +12325,21 @@
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Platform/DOS/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Platform/DOS/Dark Seed = ../../../All Programs/Games/Dark Seed
+# link: Games/By Platform/DOS/Day of the Tentacle = ../../../All Programs/Games/Day of the Tentacle
 # link: Games/By Platform/DOS/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Platform/DOS/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Platform/DOS/Discworld = ../../../All Programs/Games/Discworld
 # link: Games/By Platform/DOS/Discworld II = ../../../All Programs/Games/Discworld II
 # link: Games/By Platform/DOS/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
 # link: Games/By Platform/DOS/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
+# link: Games/By Platform/DOS/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
+# link: Games/By Platform/DOS/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By Platform/DOS/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By Platform/DOS/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Platform/DOS/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By Platform/DOS/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Platform/DOS/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
+# link: Games/By Platform/DOS/Full Throttle = ../../../All Programs/Games/Full Throttle
 # link: Games/By Platform/DOS/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By Platform/DOS/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Platform/DOS/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
@@ -11558,6 +12360,7 @@
 # link: Games/By Platform/DOS/Legend of Kyrandia = ../../../All Programs/Games/Legend of Kyrandia/
 # link: Games/By Platform/DOS/Legend of Kyrandia 2 - Hand of fate = ../../../All Programs/Games/Legend of Kyrandia 2 - Hand of fate
 # link: Games/By Platform/DOS/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
+# link: Games/By Platform/DOS/Lighthouse - The Dark Being = ../../../All Programs/Games/Lighthouse - The Dark Being
 # link: Games/By Platform/DOS/Loom = ../../../All Programs/Games/Loom
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By Platform/DOS/Mission Critical = ../../../All Programs/Games/Mission Critical
@@ -11565,10 +12368,14 @@
 # link: Games/By Platform/DOS/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
+# link: Games/By Platform/DOS/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
+# link: Games/By Platform/DOS/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
+# link: Games/By Platform/DOS/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
 # link: Games/By Platform/DOS/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By Platform/DOS/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By Platform/DOS/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Platform/DOS/Robbo = ../../../All Programs/Games/Robbo
+# link: Games/By Platform/DOS/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
 # link: Games/By Platform/DOS/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Platform/DOS/Silent Hunter = ../../../All Programs/Games/Silent Hunter
 # link: Games/By Platform/DOS/SimCity = ../../../All Programs/Games/SimCity

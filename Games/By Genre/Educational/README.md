@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Educational (4)
+# 🗂️ Games ‣ By Genre ‣ Educational (7)
 
 > <table><tr><td width="255">
 >
@@ -70,6 +70,63 @@
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
 >
 > ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")
+>
+> </td>
+>
+> <td>
+>
+> ## [Lost Secret of the Rainforest](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Ecology • Detective ┃ **Media** ‣ Compressed Package 
+>
+> ❝ Lost Secret of the Rainforest is a trek through lush jungles, mysterious caverns, and ancient ruins atop craggy, mist-covered peaks. This adventure requires that you defeat the real-life dangers threatening the rainforests of South America. As you explore this exotic ecosystem, you will encounter endangered animal species, rare flora, and remote native cultures. Your challenge is to prevent their extinction by poachers and other outlaws who would destroy the environment to satisfy their greed. If you're successful, you will learn the truth behind the enigmatic face of the rainforest. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/Thumbnail.png "EcoQuest: The Search for Cetus")
+>
+> </td>
+>
+> <td>
+>
+> ## [EcoQuest: The Search for Cetus](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/README.md)
+>
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Ecology ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Set out on a challenging undersea odyssey as you discover a delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the environmental issues facing each of us today. You'll also have the adventure of your life. Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the ruins of ancient civilizations and rescue sea creatures that got hurt or poisoned by pollution. Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/Thumbnail.png "Pepper's Adventures in Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Pepper's Adventures in Time](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Real-time • Graphic adventure • History • Science • North America ┃ **Media** ‣ Compressed Package 
+>
+> ❝ Pepper has a big problem. Her Uncle Fred, the family's scientist, has scrambled colonial America into one big hysterical, historical omelette! It looks like the British is about to win the war this time, unless you can set the facts straight! If you want a help with this sticky situation, you'll have to talk to Ben Franklin, but be careful! Uncle Fred's confused him, too! You'll have to help Ben out, or the world will never know Ben. You'll be amazed by his wisdom and cracked up by his sense of humour! It is too much for one kid to handle, so Pepper brought some backup - her mischievous mutt, Lockjaw. You'll get to play as a dog! Do all the doggie things you've always wanted to try. Sniff out mysteries. Dig holes. Chew things up. BITE PEOPLE! ❞
 >
 >
 > </td></tr></table>

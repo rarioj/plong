@@ -2,7 +2,7 @@
 
 # Callahan's Crosstime Saloon
 
-> ❝ The Gods have decided that our very Universe is closing. The regulars in Callahan’s Crosstime Saloon can either drink up and go home or do something about it. But Callahan’s is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe. ❞
+> ❝ The Gods have decided that our very Universe is closing. The regulars in Callahan's Crosstime Saloon can either drink up and go home or do something about it. But Callahan's is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe. ❞
 >
 
 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
