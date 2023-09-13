@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Proprietary (65)
+# 🗂️ Games ‣ By License ‣ Proprietary (75)
 
 > <table><tr><td width="255">
 >
@@ -225,6 +225,90 @@
 > ❝ The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Crusader%20-%20No%20Regret/Thumbnail.png "Crusader: No Regret")
+>
+> </td>
+>
+> <td>
+>
+> ## [Crusader: No Regret](../../../All%20Programs/Games/Crusader%20-%20No%20Regret/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You're a renegade Silencer out to settle a score with the powerful World Economic Consortium. Only your instincts, agility and firepower can get you through in one piece to the ultimate confrontation with your greatest enemy. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/crusader_no_regret). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Crusader%20-%20No%20Remorse/Thumbnail.png "Crusader: No Remorse")
+>
+> </td>
+>
+> <td>
+>
+> ## [Crusader: No Remorse](../../../All%20Programs/Games/Crusader%20-%20No%20Remorse/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ As a Silencer, one of the elite enforcers of the World Economic Consortium, you're supposed to be incorruptible. But if the system you serve is utterly corrupt, where does that leave you? You go to the Resistance, the same pack you used to hunt down. Your former employers better watch their backs because you're coming after them with all the firepower at your command - No pity, no mercy, no remorse. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/crusader_no_remorse). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Cyberia/Thumbnail.png "Cyberia")
+>
+> </td>
+>
+> <td>
+>
+> ## [Cyberia](../../../All%20Programs/Games/Cyberia/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Puzzle elements • Rail shooter • Cyberpunk • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ In a future where global terrorists rule and mankind lives on the brink of destruction, the ultimate doomsday device has just been discovered beneath the frozen wasteland of the Northern Asia. Codenamed Cyberia, it was designed in an era of long forgotten peace by the most brilliant minds in nano and cybernetic technology. In an ancient world of hope, it was to be the ultimate protector of a new order. In 2027, it stands as the instrument of humanity's destruction. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/cyberia) and [Steam 💰](https://store.steampowered.com/app/624080/Cyberia/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Cyberia%202%20-%20Resurrection/Thumbnail.png "Cyberia 2: Resurrection")
+>
+> </td>
+>
+> <td>
+>
+> ## [Cyberia 2: Resurrection](../../../All%20Programs/Games/Cyberia%202%20-%20Resurrection/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Behind view • Rail shooter • Cyberpunk ┃ **Media** ‣ CD-ROM 
+>
+> ❝ In Cyberia2, the player once again takes the role of master cyber hacker Zak Kingston. After spending three years in cryonic hibernation, Zak has been mysteriously revived by a band of rebels bent on employing his services for a series of covert missions that will bring down the Free World Alliance (FWA) once and for all. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/cyberia_2_resurrection) and [Steam 💰](https://store.steampowered.com/app/717720/Cyberia_2_Resurrection/). ❞
 >
 >
 > </td></tr></table>
@@ -487,6 +571,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Heretic/Thumbnail.png "Heretic: Shadow of the Serpent Riders")
+>
+> </td>
+>
+> <td>
+>
+> ## [Heretic: Shadow of the Serpent Riders](../../../All%20Programs/Games/Heretic/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Evil grows darkest in the shadow. This chapter comes to its evil conclusion with Heretic: Shadow of the Serpent Riders. Undead creatures and bestial horrors have done the unthinkable - callously slaughtering your entire race. But the nightmare has just begun. Wielding ungodly weapons such as the Firemace or Hellstaff and casting spells from the tomes of power, you must seek your vengeance or die trying. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/). A **Heretic + Hexen Collection** release is available on [GOG 💰](https://www.gog.com/game/heretic_hexen_collection). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Heroes%20of%20Might%20and%20Magic%20-%20A%20Strategic%20Quest/Thumbnail.png "Heroes of Might and Magic: A Strategic Quest")
 >
 > </td>
@@ -521,6 +626,27 @@
 > ❝ After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good, one evil, fight for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death! ❞
 >
 > ❝ This game **is not abandonware 🚫**. This version is the original **The Succession Wars** release for DOS. The expansion add-on, **The Price of Loyalty**, is available with the **Gold Edition** release on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Hexen%20-%20Beyond%20Heretic/Thumbnail.png "Hexen: Beyond Heretic")
+>
+> </td>
+>
+> <td>
+>
+> ## [Hexen: Beyond Heretic](../../../All%20Programs/Games/Hexen%20-%20Beyond%20Heretic/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ While you were battling the evil forces of D'Sparil, the other Serpent Riders were busy sowing the seeds of destruction in alternate dimensions. One such dimension is the decaying world where Hexen takes place. A world littered with the mangled corpses of nonbelievers and inhabited by the undead followers that executed them. Only three humans: a warrior, a mage, and a cleric - have escaped the leaders' vicious spell. Three brave souls have the sword to crush the evil regime that threatens to destroy the world forever. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/hexen_beyond_heretic) and [Steam 💰](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/). ❞
 >
 >
 > </td></tr></table>
@@ -739,6 +865,69 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Magic%20Carpet%202%20-%20The%20Netherworlds/Thumbnail.png "Magic Carpet 2: The Netherworlds")
+>
+> </td>
+>
+> <td>
+>
+> ## [Magic Carpet 2: The Netherworlds](../../../All%20Programs/Games/Magic%20Carpet%202%20-%20The%20Netherworlds/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Flight • Fantasy ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed as you unfurl the magic carpet and battle hordes of vile creatures in your quest to purge the NETHERWORDLS of evil. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet_2_the_netherworlds). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Magic%20Carpet%20Plus/Thumbnail.png "Magic Carpet Plus")
+>
+> </td>
+>
+> <td>
+>
+> ## [Magic Carpet Plus](../../../All%20Programs/Games/Magic%20Carpet%20Plus/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Flight • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
+>
+> ❝ You're flying just feet above real landscapes. There's a dragon in front of you, kilter crabs behind and some guy on another carpet cutting you to ribbons. Not enough power for the accelerate spell. Damn. Looks like you're going to have to fight this one out. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Mega%20Man%20X/Thumbnail.png "Mega Man X")
+>
+> </td>
+>
+> <td>
+>
+> ## [Mega Man X](../../../All%20Programs/Games/Mega%20Man%20X/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Arcade • Platform • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
+>
+> ❝ This game **is not abandonware 🚫**. The **Mega Man X Legacy Collection** release is available on [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Mission%20Critical/Thumbnail.png "Mission Critical")
 >
 > </td>
@@ -815,6 +1004,27 @@
 > ❝ As Abe, you can whistle, laugh, hiss, and fart. In a lush world of diabolical danger where everyone wants to eat you, you are the skinny guy with no weapons. Run, jump, hide, scramble and talk your way past the ugliest bunch of carnivorous crustaceans ever created. Unlock your special powers to figure out your foes, and you might save your race. If not, you are for dinner! Enter Oddworld, a surreal, sensory overload of pure gaming and claim your destiny. Saviour. Or salami. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee), [Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/), and [Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Out%20of%20This%20World/Thumbnail.png "Out of This World")
+>
+> </td>
+>
+> <td>
+>
+> ## [Out of This World](../../../All%20Programs/Games/Out%20of%20This%20World/README.md)
+>
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Platform • Puzzle elements • Shooter • Sci-fi ┃ **Media** ‣ Compressed Package 
+>
+> ❝ There was only one chance out of one million such an accident could happen. As for the consequences, nobody could have foreseen them. Certainly not Lester, who finds himself lost in an unknown and utterly hostile world. However, he will rediscover the genuine meaning of freedom won by fighting, the feeling that each day is a new victory. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/another_world_20th_anniversary_edition). ❞
 >
 >
 > </td></tr></table>

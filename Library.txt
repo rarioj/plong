@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.9a
+# library-version: 23.9b
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -3364,6 +3364,259 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # file: Assets/am.ins = Command & Conquer: Red Alert - The Aftermath Installed
 #
 #
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Crusader - No Regret/Program.txt = #
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # name: Crusader: No Regret
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # name: Crusader: No Regret - The Next Chapter
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # info: You're a renegade Silencer out to settle a score with the powerful World Economic Consortium. Only your instincts, agility and firepower can get you through in one piece to the ultimate confrontation with your greatest enemy.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/crusader_no_regret).
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # tag: Category = Diagonal-down • Shooter • Sci-fi
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Crusader:_No_Regret)
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/852/crusader-no-regret/)
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Crusader%3A+No+Regret&gid=1721)
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/crusader-no-regret-bpn)
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # site: [GOG 💰](https://gog.com/en/game/crusader_no_regret)
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/crusader-no-regret)
+# file: All Programs/Games/Crusader - No Regret/Program.txt = #
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text:   - Would you like to change the destination path? **No**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Would you like digital sound effects: **Yes**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text:   - Please select sound card: **Sound Blaster 16/AWE 32**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text:   - Please select port: **0x220**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text:   - Please select IRQ: **7**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text:   - Please select DMA: **5**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Select control type: **Keyboard/Mouse**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Would you like subtitles: **Yes**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Would you like to have 16-bit color video: **Yes**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Please choose video size: **Large Video**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # text: - Select **Continue installation**.
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = [sdl]
+# file: All Programs/Games/Crusader - No Regret/Program.txt = autolock = true
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = [cpu]
+# file: All Programs/Games/Crusader - No Regret/Program.txt = cycles = max
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = [autoexec]
+# file: All Programs/Games/Crusader - No Regret/Program.txt = @ECHO OFF
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Crusader - No Regret/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t cdrom
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = IF NOT EXIST C:\REGRET\REGRET.EXE GOTO F_INSTALL
+# file: All Programs/Games/Crusader - No Regret/Program.txt = IF EXIST C:\REGRET\REGRET.EXE GOTO F_START
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = :F_INSTALL
+# file: All Programs/Games/Crusader - No Regret/Program.txt = D:
+# file: All Programs/Games/Crusader - No Regret/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = :F_START
+# file: All Programs/Games/Crusader - No Regret/Program.txt = C:
+# file: All Programs/Games/Crusader - No Regret/Program.txt = CD C:\REGRET
+# file: All Programs/Games/Crusader - No Regret/Program.txt = REGRET.EXE
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = :F_EXIT
+# file: All Programs/Games/Crusader - No Regret/Program.txt = EXIT
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = :F_DEBUG
+# file: All Programs/Games/Crusader - No Regret/Program.txt
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3938479-crusader-no-regret-dos-front-cover.jpg
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # check: coverart.jpg = d31fa448513a380eaf2ad001dc07557a9045a30b8c1bbe724879b436b352961c
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # asset: cdrom.iso = https://archive.org/download/CrusaderNoRegret_1996/Cru1.06.iso
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # check: cdrom.iso = 725cc5743bc8771fcfacfee1f13ad8e0b09487765829563d8d892ab784cda7f9
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Crusader_-__No_Regret.pdf
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # check: manual.pdf = d163195516b50a62b0239941594f29ae430e3377a73a6310d63516cb2b7eab15
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # asset: guide.pdf = https://archive.org/download/Crusader_No_Regret_Guide/Crusader_No_Regret_Guide.pdf
+# file: All Programs/Games/Crusader - No Regret/Program.txt = # check: guide.pdf = 2eeed10522e1271f2cc0175538dffca953ed9df5d11b0411a3567f99bd5e1554
+#
+#
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = #
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # name: Crusader: No Remorse
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # info: As a Silencer, one of the elite enforcers of the World Economic Consortium, you're supposed to be incorruptible. But if the system you serve is utterly corrupt, where does that leave you? You go to the Resistance, the same pack you used to hunt down. Your former employers better watch their backs because you're coming after them with all the firepower at your command - No pity, no mercy, no remorse.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/crusader_no_remorse).
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # tag: Category = Diagonal-down • Shooter • Sci-fi
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Crusader:_No_Remorse)
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/851/crusader-no-remorse/)
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Crusader%3A+No+Remorse&gid=1160)
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/crusader-no-remorse-2qz)
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/crusader_no_remorse)
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # site: Manual = [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/crusader-no-remorse)
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = #
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text:   - Would you like to change the destination path? **No**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Please choose install type: **Full install 55 Megs**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Would you like digital sound effects: **Yes**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text:   - Please select sound card: **Sound Blaster 16**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text:   - Please select port: **0x220**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text:   - Please select IRQ: **7**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text:   - Please select DMA: **5**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Select control type: **Keyboard/Mouse**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Would you like subtitles: **Yes**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Please choose video size: **Large Video**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # text: - Select **Continue installation**.
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = [sdl]
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = autolock = true
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = [cpu]
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = cycles = max
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = [autoexec]
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = @ECHO OFF
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t cdrom
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = IF NOT EXIST C:\CRUSADER\CRUSADER.EXE GOTO F_INSTALL
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = IF EXIST C:\CRUSADER\CRUSADER.EXE GOTO F_START
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = :F_INSTALL
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = D:
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = :F_START
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = C:
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = CD C:\CRUSADER
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = CRUSADER.EXE
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = :F_EXIT
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = EXIT
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = :F_DEBUG
+# file: All Programs/Games/Crusader - No Remorse/Program.txt
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3914695-crusader-no-remorse-dos-front-cover.jpg
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # check: coverart.jpg = 94a19a88915ac47868d63f13845733c9238330a1d361e294cc467ac117ef0cc1
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # asset: cdrom.iso = https://archive.org/download/Crusader_-_No_Remorse_v1.23_1995_Origin/Crusader%20-%20No%20Remorse%20v1.23%20%281995%29%28Origin%29.iso
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # check: cdrom.iso = c27d77d215253b8c1ef3c5b16cc33aff63e759a843bbcd177a42f6a64dc063c7
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Crusader_-__No_Remorse.pdf
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # check: manual.pdf = 961d845b0106581df78be0c5c0f3887fbc57f817ebe6cda87b863e25bdf37853
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # asset: cluebook.pdf = https://archive.org/download/Crusader_No_Remorse_Cluebook/Crusader_No_Remorse_Cluebook.pdf
+# file: All Programs/Games/Crusader - No Remorse/Program.txt = # check: cluebook.pdf = 3287da52ad179e4f6de861e9aeeb08377c664c09f2894863eff3845cd6785cc8
+#
+#
+# file: All Programs/Games/Cyberia/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Cyberia/Program.txt = #
+# file: All Programs/Games/Cyberia/Program.txt = # name: Cyberia
+# file: All Programs/Games/Cyberia/Program.txt = # name: Cyberia: -experience the future-
+# file: All Programs/Games/Cyberia/Program.txt = # info: In a future where global terrorists rule and mankind lives on the brink of destruction, the ultimate doomsday device has just been discovered beneath the frozen wasteland of the Northern Asia. Codenamed Cyberia, it was designed in an era of long forgotten peace by the most brilliant minds in nano and cybernetic technology. In an ancient world of hope, it was to be the ultimate protector of a new order. In 2027, it stands as the instrument of humanity's destruction.
+# file: All Programs/Games/Cyberia/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/cyberia) and [Steam 💰](https://store.steampowered.com/app/624080/Cyberia/).
+# file: All Programs/Games/Cyberia/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Cyberia/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Cyberia/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Cyberia/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Cyberia/Program.txt = # tag: Category = 1st-person • 3rd-person • Puzzle elements • Rail shooter • Cyberpunk • Sci-fi
+# file: All Programs/Games/Cyberia/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Cyberia/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Cyberia_(video_game))
+# file: All Programs/Games/Cyberia/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/810/cyberia/)
+# file: All Programs/Games/Cyberia/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/cyberia-7pp)
+# file: All Programs/Games/Cyberia/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/cyberia)
+# file: All Programs/Games/Cyberia/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/624080/Cyberia/)
+# file: All Programs/Games/Cyberia/Program.txt = #
+# file: All Programs/Games/Cyberia/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Cyberia/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = [sdl]
+# file: All Programs/Games/Cyberia/Program.txt = autolock = true
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = [autoexec]
+# file: All Programs/Games/Cyberia/Program.txt = @ECHO OFF
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Cyberia/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = IF NOT EXIST C:\CYBERIA\CYBERIA.BAT GOTO F_INSTALL
+# file: All Programs/Games/Cyberia/Program.txt = IF EXIST C:\CYBERIA\CYBERIA.BAT GOTO F_START
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = :F_INSTALL
+# file: All Programs/Games/Cyberia/Program.txt = D:
+# file: All Programs/Games/Cyberia/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = :F_START
+# file: All Programs/Games/Cyberia/Program.txt = C:
+# file: All Programs/Games/Cyberia/Program.txt = CD C:\CYBERIA
+# file: All Programs/Games/Cyberia/Program.txt = CALL CYBERIA.BAT
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = :F_EXIT
+# file: All Programs/Games/Cyberia/Program.txt = EXIT
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = :F_DEBUG
+# file: All Programs/Games/Cyberia/Program.txt
+# file: All Programs/Games/Cyberia/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4137850-cyberia-dos-front-cover.jpg
+# file: All Programs/Games/Cyberia/Program.txt = # check: coverart.jpg = 470dc1c8f2b1c277e247a236896e1c2339061ba6845a1fedeb9bdcb5dd15b24a
+# file: All Programs/Games/Cyberia/Program.txt = # asset: cdrom.iso = https://archive.org/download/msdos_Cyberia_1994/Cyberia_1994.zip/cyberia%2Fcd%2FCYBERIA.iso
+# file: All Programs/Games/Cyberia/Program.txt = # check: cdrom.iso = 4ed006248a3146f1aeae5231bb71210fa2b7c816cfca26d73e03ac6c345edf63
+# file: All Programs/Games/Cyberia/Program.txt = # asset: manual.pdf = https://archive.org/download/Cyberia_Manual_cbz/Cyberia_Manual.pdf
+# file: All Programs/Games/Cyberia/Program.txt = # check: manual.pdf = 493d81fee789b38a905b91ce0b5c050e7a0b6f48c61ca6112ec35a6cd9484b63
+#
+#
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = #
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # name: Cyberia 2: Resurrection
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # name: Cyberia 2
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # info: In Cyberia2, the player once again takes the role of master cyber hacker Zak Kingston. After spending three years in cryonic hibernation, Zak has been mysteriously revived by a band of rebels bent on employing his services for a series of covert missions that will bring down the Free World Alliance (FWA) once and for all.
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/cyberia_2_resurrection) and [Steam 💰](https://store.steampowered.com/app/717720/Cyberia_2_Resurrection/).
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # tag: Category = 1st-person • Behind view • Rail shooter • Cyberpunk
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Cyberia_(video_game)#Cyberia_2:_Resurrection)
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/809/cyberia-2-resurrection/)
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/cyberia-2-resurrection-cia)
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # site: [GOG 💰](https://gog.com/en/game/cyberia_2_resurrection)
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/717720/Cyberia_2_Resurrection/)
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = #
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text:   1. Cyberia 2: Resurrection Disc #1
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text:   2. Cyberia 2: Resurrection Disc #2
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text:
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = [sdl]
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = autolock = true
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = [autoexec]
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = @ECHO OFF
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = D:
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = CALL CYBERIA2.BAT
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = :F_EXIT
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = EXIT
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = :F_DEBUG
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8764398-cyberia-2-resurrection-dos-front-cover.jpg
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # check: coverart.jpg = 776f6d7364bfae9543d6befa4a05667ea518a789952f955ca253a36eec243fad
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # asset: cdrom01.iso = https://archive.org/download/Xatrix_Entertainment_Cyberia_2_Resurrection_MSDOS_Win95_1996_Eng/Xatrix-Cyberia2Resurrection-MSDOSWin95-Eng-CD1of2.iso
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # check: cdrom01.iso = da0bfd3e16c3522ab5c68f2acd98da17807525b51fd13e7c7114f7a4eac71a53
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # asset: cdrom02.iso = https://archive.org/download/Xatrix_Entertainment_Cyberia_2_Resurrection_MSDOS_Win95_1996_Eng/Xatrix-Cyberia2Resurrection-MSDOSWin95-Eng-CD2of2.iso
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # check: cdrom02.iso = 89dfa3267175d5f38f85ee98fbe66cb55809b31ec79371eca393866b5095d8e0
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # asset: manual.pdf = https://archive.org/download/Cyberia_2_Manual_cbz/Cyberia_2_Manual.pdf
+# file: All Programs/Games/Cyberia 2 - Resurrection/Program.txt = # check: manual.pdf = d709e5b4b0653d1629d38a3cda4de898e07dc43795310f5d9206620aebc3dfb0
+#
+#
 # file: All Programs/Games/D-Generation/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/D-Generation/Program.txt = #
 # file: All Programs/Games/D-Generation/Program.txt = # name: D/Generation
@@ -5635,6 +5888,79 @@
 # file: All Programs/Games/God of Thunder/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Heretic/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Heretic/Program.txt = #
+# file: All Programs/Games/Heretic/Program.txt = # name: Heretic: Shadow of the Serpent Riders
+# file: All Programs/Games/Heretic/Program.txt = # name: Heretic
+# file: All Programs/Games/Heretic/Program.txt = # info: Evil grows darkest in the shadow. This chapter comes to its evil conclusion with Heretic: Shadow of the Serpent Riders. Undead creatures and bestial horrors have done the unthinkable - callously slaughtering your entire race. But the nightmare has just begun. Wielding ungodly weapons such as the Firemace or Hellstaff and casting spells from the tomes of power, you must seek your vengeance or die trying.
+# file: All Programs/Games/Heretic/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/). A **Heretic + Hexen Collection** release is available on [GOG 💰](https://www.gog.com/game/heretic_hexen_collection).
+# file: All Programs/Games/Heretic/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Heretic/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Heretic/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Heretic/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Heretic/Program.txt = # tag: Category = 1st-person • Shooter • Fantasy
+# file: All Programs/Games/Heretic/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Heretic/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Heretic_(video_game))
+# file: All Programs/Games/Heretic/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1929/heretic-shadow-of-the-serpent-riders/)
+# file: All Programs/Games/Heretic/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heretic&gid=1251)
+# file: All Programs/Games/Heretic/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/heretic-shadow-of-the-serpent-riders-dq4)
+# file: All Programs/Games/Heretic/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/)
+# file: All Programs/Games/Heretic/Program.txt = # site: Heretic + Hexen Collection = [GOG 💰](https://www.gog.com/game/heretic_hexen_collection)
+# file: All Programs/Games/Heretic/Program.txt = #
+# file: All Programs/Games/Heretic/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Heretic/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Controller Type: **Keyboard + Mouse**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Select Music Card: **Sound Blaster**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Select Port Address: **220**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Select Sound FX Device: **Sound Blaster**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Select Port Address: **220**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Select IRQ: **7**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Select DMA Channel: **1**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - Number of Sound FX to Mix: **6**.
+# file: All Programs/Games/Heretic/Program.txt = # text: - **Save parameters and launch Heretic**.
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = [sdl]
+# file: All Programs/Games/Heretic/Program.txt = autolock = true
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = [cpu]
+# file: All Programs/Games/Heretic/Program.txt = cycles = max
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = [autoexec]
+# file: All Programs/Games/Heretic/Program.txt = @ECHO OFF
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Heretic/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = IF NOT EXIST C:\HERETIC\HERETIC.EXE GOTO F_INSTALL
+# file: All Programs/Games/Heretic/Program.txt = IF EXIST C:\HERETIC\HERETIC.EXE GOTO F_START
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = :F_INSTALL
+# file: All Programs/Games/Heretic/Program.txt = D:
+# file: All Programs/Games/Heretic/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Heretic/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = :F_START
+# file: All Programs/Games/Heretic/Program.txt = C:
+# file: All Programs/Games/Heretic/Program.txt = CD C:\HERETIC
+# file: All Programs/Games/Heretic/Program.txt = HERETIC.EXE
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = :F_EXIT
+# file: All Programs/Games/Heretic/Program.txt = EXIT
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = :F_DEBUG
+# file: All Programs/Games/Heretic/Program.txt
+# file: All Programs/Games/Heretic/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/98956-heretic-shadow-of-the-serpent-riders-dos-front-cover.jpg
+# file: All Programs/Games/Heretic/Program.txt = # check: coverart.jpg = 78c40e2cccb6cfaf68b23e41a17bc9f7a61a281db606bd6a216a05638f3d1ba6
+# file: All Programs/Games/Heretic/Program.txt = # asset: cdrom.bin = https://archive.org/download/hereticshadowoftheserpentridersusarerelease/Heretic%20-%20Shadow%20of%20the%20Serpent%20Riders%20%28USA%29%20%28Rerelease%29.zip/Heretic%20-%20Shadow%20of%20the%20Serpent%20Riders%20%28USA%29%20%28Rerelease%29.bin
+# file: All Programs/Games/Heretic/Program.txt = # check: cdrom.bin = 2a60d2c614855dcc176b34fc0f91dc520220ace1ad5b7d3dbc0703ec6ef5f97f
+# file: All Programs/Games/Heretic/Program.txt = # asset: manual.pdf = https://archive.org/download/msdos_heretic_1994_202003/Heretic.pdf
+# file: All Programs/Games/Heretic/Program.txt = # check: manual.pdf = 135170c219c66f83c8375f4fc6327fa90d3a0031acf30d709d51e15c1ce90051
+# file: All Programs/Games/Heretic/Program.txt = #
+# file: All Programs/Games/Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = #
 # file: All Programs/Games/Heroes of Might and Magic - A Strategic Quest/Program.txt = # name: Heroes of Might and Magic: A Strategic Quest
@@ -6032,6 +6358,207 @@
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_43.bin" BINARY
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =   TRACK 43 AUDIO
 # file: All Programs/Games/Heroes of Might and Magic II - The Succession Wars/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = #
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # name: Hexen: Beyond Heretic
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # name: Hexen
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # name: Heretic 2
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # info: While you were battling the evil forces of D'Sparil, the other Serpent Riders were busy sowing the seeds of destruction in alternate dimensions. One such dimension is the decaying world where Hexen takes place. A world littered with the mangled corpses of nonbelievers and inhabited by the undead followers that executed them. Only three humans: a warrior, a mage, and a cleric - have escaped the leaders' vicious spell. Three brave souls have the sword to crush the evil regime that threatens to destroy the world forever.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/hexen_beyond_heretic) and [Steam 💰](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/).
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # tag: Category = 1st-person • Shooter • Fantasy
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic)
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1938/hexen-beyond-heretic/)
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hexen%3A+Beyond+Heretic&gid=1143)
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/hexen-beyond-heretic-2bd)
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/hexen_beyond_heretic)
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/)
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = #
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Exit the README file by pressing `ALT` + `X` (macOS: `fn + option` + `X`).
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Controller Type: **Keyboard + Mouse**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Select Music Card: **Sound Blaster**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Select Port Address: **220**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Select Sound FX Device: **Sound Blaster**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Select Port Address: **220**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Select IRQ: **7**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Select DMA Channel: **1**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - Number of Sound FX to Mix: **6**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # text: - **Save parameters and launch Hexen**.
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = [sdl]
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = autolock = true
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = [cpu]
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = cycles = max
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = [autoexec]
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = @ECHO OFF
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = IF NOT EXIST C:\HEXEN\HEXEN.EXE GOTO F_INSTALL
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = IF EXIST C:\HEXEN\HEXEN.EXE GOTO F_START
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = :F_INSTALL
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = D:
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = :F_START
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = C:
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = CD C:\HEXEN
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = HEXEN.EXE
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = :F_EXIT
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = EXIT
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = :F_DEBUG
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6477483-hexen-beyond-heretic-dos-front-cover.jpg
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: coverart.jpg = 0e09310ad1d05a9a497c2edca29fc9100879eec5f14984745f0528a39a042e76
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_01.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2001%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_01.bin = 0b1e33e2193fe59abad3ffbb4cb2fb608464652846175842d4a27496921bf7b6
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_02.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2002%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_02.bin = a0375acb02b7c6577309afd9629f98ddfbc9ae9b78459982f9c15bb189623945
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_03.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2003%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_03.bin = fe2a1dfb0e1b84b874b15423d6591bfc661a7b84426a0f8cc454a0ddf2ad9bd6
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_04.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2004%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_04.bin = d4332299f5cfe0f934cae2d07c0db383d246d92d94f6e7a2736b3a240479715a
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_05.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2005%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_05.bin = af98c1001334f8a8eef3b5eff81de3e5552bd6bb7d27fddfba7b2640f9e4f367
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_06.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2006%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_06.bin = b26ceb32518e8a05065e1b6f2e6dd12626f85c2b6c9f47e237865b4445269e65
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_07.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2007%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_07.bin = 8be6a527acf2445fc4a0d7a4f5d87a8d060814eddb441a865f5ec329ccad2788
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_08.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2008%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_08.bin = 8d1578fa194978d04cd411e19c662299817975fb02f03387021a392354148dd9
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_09.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2009%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_09.bin = 1673b95ba11581c4f52d2334071fdbd05438536a8d7f6c5e73545358077d759a
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_10.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2010%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_10.bin = dbe1a8f49689b206bc12621e8d47955e0400e6fbb2b6b4aa322d01ad09239e88
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_11.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2011%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_11.bin = fd3babf62381a79d4510148bcc45303c6026f78ab2620cbf43da4025f50454b0
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_12.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2012%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_12.bin = 4f89365247c0cf501332d2e5e283a26a9c8ec8eb539b80172048d51a4a0a8a79
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_13.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2013%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_13.bin = b178a39651f8ced49b5e4f37c82cefdcaec4a23cce5226aa32eaa05e7f5a394b
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_14.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2014%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_14.bin = 2e96082853ac0d5653f469de2ab034fec3156ea3baffe7b9bd87c4c5b81fd9e2
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_15.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2015%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_15.bin = 51b2458bba97f5f7f595ecebfa900b8f8456206f5668c12a49b5f7fde2f35103
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_16.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2016%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_16.bin = 469eb046856387ad5715e4a209194d4192661966769bee68a5ed3cf18f86d4cb
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_17.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2017%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_17.bin = 33396b2a8dfcf7a5dabba3c4b7ab1e69789dd12f0039662ebd440514fc6c0089
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_18.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2018%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_18.bin = 1d007aab7bbf73f805f59613efe04aef9892c538aaf6485e409c8660bf524d01
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_19.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2019%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_19.bin = 2f3469b48eaea355ea627ffd5ddcb523e4b17a7d9bd3527eefd67692be008a7a
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_20.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2020%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_20.bin = d3d91ce74fcd7c27c2dc6fc32003a60404ecc2cd957fc40796c63f0b3f9465fa
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_21.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2021%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_21.bin = 59618a49a505a8e3d1e0c2e6f602013203ad76bf69e741cf880d1c06bcc21e06
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: cdrom_22.bin = https://archive.org/download/hexenbeyondhereticeurope/Hexen%20-%20Beyond%20Heretic%20%28Europe%29.zip/Hexen%20-%20Beyond%20Heretic%20%28Europe%29%20%28Track%2022%29.bin
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: cdrom_22.bin = ce164d0b929103420efd367b32c4363bb22479870d169127e6a3a71528e75e3d
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # asset: manual.pdf = https://archive.org/download/Hexen_Beyond_Heretic-Manual/Hexen_Beyond_Heretic-Manual.pdf
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # check: manual.pdf = e45cb292df5d4c78d76bb5acd7af1afe56e314887da3522800c6b232987eabcb
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = #
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_01.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_02.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_03.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_04.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_05.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_06.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_07.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_08.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_09.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_10.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_11.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_12.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_13.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_14.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_15.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_16.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_17.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_18.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 18 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_19.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 19 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_20.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 20 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_21.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 21 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom_22.bin" BINARY
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =   TRACK 22 AUDIO
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Hexen - Beyond Heretic/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
 #
 #
 # file: All Programs/Games/Hi-Octane/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -7058,6 +7585,262 @@
 # file: All Programs/Games/Lure of the Temptress/Program.txt = # check: cdrom.iso = 4715e3f70397c02208e1e55dabbff2b41ac4685677a3052843d9dfba02af9c38
 #
 #
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = #
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # name: Magic Carpet 2: The Netherworlds
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # name: Magic Carpet 2
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # info: Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed as you unfurl the magic carpet and battle hordes of vile creatures in your quest to purge the NETHERWORDLS of evil.
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet_2_the_netherworlds).
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # tag: Category = 1st-person • Shooter • Flight • Fantasy
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Magic_Carpet_2)
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/790/magic-carpet-2-the-netherworlds/)
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Magic+Carpet+2%3A+The+Netherworlds&gid=2966)
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/magic-carpet-2-the-netherworlds-2w2)
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/magic_carpet_2_the_netherworlds)
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = #
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # text: - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # text:
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # text: - Press `R` in-game to switch to 640x480 VGA mode.
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = [sdl]
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = autolock = true
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = [dosbox]
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = memsize = 64
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = [cpu]
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = cycles = auto
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = [autoexec]
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = @ECHO OFF
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = IF NOT EXIST C:\NETHERW\CDATA\VERSION.DAT GOTO F_INSTALL
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = IF EXIST C:\NETHERW\CDATA\VERSION.DAT GOTO F_START
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = :F_INSTALL
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = D:
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = CALL NWSETUP.BAT
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = :F_START
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = D:
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = NETHERW.EXE
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = :F_EXIT
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = EXIT
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = :F_DEBUG
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4681137-magic-carpet-2-the-netherworlds-dos-front-cover.jpg
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # check: coverart.jpg = 78de9de5fa2b65c3b749b64cfbbb6a0ef47cc7003c2a7e84e1cff79a2e6be604
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # asset: cdrom.bin = https://archive.org/download/magiccarpet2thenetherworlds1995.iso/Magic%20Carpet%202%20%20-%20The%20Netherworlds%20%281995%29.iso.bin
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # check: cdrom.bin = b6e248ad43bdf959cdd55fbf9c6646a8b8c7d2faccc385a7acfa8a9409a92935
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # asset: manual.pdf = https://archive.org/download/Magic_Carpet_2_Manual-Playguide/Magic_Carpet_2_Manual-Playguide.pdf
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # check: manual.pdf = dbe666c99756be6330e5ec7743b77a8758c57766a7c8c56d8dce7defb22b7c14
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # asset: refcard.pdf = https://archive.org/download/magic-carpet-2-quick-reference-card-pc/Magic_Carpet_2_-_Quick_Reference_Card_-_PC.pdf
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # check: refcard.pdf = 3af155d780c4756eba5aee8d287c3972b24069fc1a8e40ca8cd86f0ca28e2360
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # asset: guide.pdf = https://archive.org/download/extras_msdos_Magic_Carpet_Plus_1995/Magic%20Carpet%201%262%20-%20Guide.pdf
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # check: guide.pdf = 73cbfb678ccc91c47e668942ce78a602da36954e575cfcae3ec58c034dc08d4d
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = #
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 18:59:63
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 19:50:68
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 20:53:32
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 21:47:52
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 22:18:64
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 22:53:07
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 23:41:11
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 24:13:15
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 25:13:29
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 26:06:41
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 26:54:54
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 27:37:71
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 28:19:16
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:06:03
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:58:03
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 30:36:27
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 18 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 31:24:18
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 19 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 31:53:15
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 20 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 32:46:44
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 21 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 33:05:49
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 22 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 33:42:60
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 23 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 34:23:67
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 24 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 35:01:03
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 25 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 36:04:06
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 26 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 36:53:48
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 27 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 37:45:54
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =   TRACK 28 AUDIO
+# file: All Programs/Games/Magic Carpet 2 - The Netherworlds/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 37:53:17
+#
+#
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = #
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # name: Magic Carpet Plus
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # name: Magic Carpet
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # name: Magic Carpet DX
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # name: Magic Carpet: Hidden Worlds
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # info: You're flying just feet above real landscapes. There's a dragon in front of you, kilter crabs behind and some guy on another carpet cutting you to ribbons. Not enough power for the accelerate spell. Damn. Looks like you're going to have to fight this one out.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet).
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: Category = 1st-person • Shooter • Flight • Fantasy
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # tag: Compilation
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Magic_Carpet_(video_game))
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # site: MobyGames = [Magic Carpet Plus](https://www.mobygames.com/game/15665/magic-carpet-plus/) • [Magic Carpet](https://www.mobygames.com/game/361/magic-carpet/) • [Magic Carpet: Hidden Worlds](https://www.mobygames.com/game/738/magic-carpet-the-hidden-worlds/)
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Magic+Carpet&gid=1491)
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # site: MyAbandonware = [Magic Carpet Plus](https://www.myabandonware.com/game/magic-carpet-plus-2f5) • [Magic Carpet](https://www.myabandonware.com/game/magic-carpet-2f4)
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/magic_carpet)
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = #
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text: - First time setup:
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text:   - Sound source: **SoundBlaster 16**.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text:   - Music source: **SoundBlaster 16 FM**.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text:   - Sound I/O: **220**.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text:   - Sound IRQ: **7**.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text:   - Sound DMA: **1**.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text:   - Yes/No: **Yes**.
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text: - Press `R` in-game to switch to 640x480 VGA mode (also prevents the game from going too fast).
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # text: - When the game runs too fast or too slow, you can cycle up or down to adjust the speed: [DOSBox Special Keys](https://www.dosbox.com/wiki/Special_Keys).
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = [sdl]
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = autolock = true
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = [dosbox]
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = memsize = 64
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = [cpu]
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = cycles = fixed 64000
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = cycleup = 8000
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = cycledown = 8000
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = [autoexec]
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = @ECHO OFF
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = D:
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = CARPET.EXE
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = :F_EXIT
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = EXIT
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = :F_DEBUG
+# file: All Programs/Games/Magic Carpet Plus/Program.txt
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8109814-magic-carpet-plus-dos-front-cover.jpg
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # check: coverart.jpg = 50885e053ed2f85992f21d50cb51fd2b42a533eaf9ab4417c8e2717ba7ea29e3
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # asset: cdrom.iso = https://archive.org/download/Magic_Carpet_Plus_1995_Electronic_Arts_CDD7579/Magic%20Carpet%20Plus%20%281995%29%28Electronic%20Arts%29%5BCDD7579%5D.iso
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # check: cdrom.iso = f32388a36c074e90fde8de1286d8a5fdeae67feb3e81d63d67c72abc7569de00
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # asset: manual.pdf = https://archive.org/download/extras_msdos_Magic_Carpet_Plus_1995/Magic_Carpet_-_Manual_-_PC.pdf
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # check: manual.pdf = 2e4df4bd4ddf47b53f6def899b153a753d412ff7dd3177ff1bfb92420ef6aa89
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # asset: refcard.pdf = https://archive.org/download/Magic_Carpet_Plus_Quick_Reference_Card/Magic_Carpet_Plus_Quick_Reference_Card.pdf
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # check: refcard.pdf = 862c22bd3ff9a60ced88192918dffc036834059d5faea80089f7fe171f4304de
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # asset: guide.pdf = https://archive.org/download/extras_msdos_Magic_Carpet_Plus_1995/Magic%20Carpet%201%262%20-%20Guide.pdf
+# file: All Programs/Games/Magic Carpet Plus/Program.txt = # check: guide.pdf = 73cbfb678ccc91c47e668942ce78a602da36954e575cfcae3ec58c034dc08d4d
+#
+#
+# file: All Programs/Games/Mega Man X/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Mega Man X/Program.txt = #
+# file: All Programs/Games/Mega Man X/Program.txt = # name: Mega Man X
+# file: All Programs/Games/Mega Man X/Program.txt = # name: Rockman X
+# file: All Programs/Games/Mega Man X/Program.txt = # info: Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate.
+# file: All Programs/Games/Mega Man X/Program.txt = # info: This game **is not abandonware 🚫**. The **Mega Man X Legacy Collection** release is available on [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/).
+# file: All Programs/Games/Mega Man X/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Mega Man X/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Mega Man X/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Mega Man X/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Mega Man X/Program.txt = # tag: Category = Side view • Arcade • Platform • Shooter • Sci-fi
+# file: All Programs/Games/Mega Man X/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1334/mega-man-x/)
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mega+Man+X&gid=1990)
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/mega-man-x-2wh)
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Mega_Man_X)
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [Fandom](https://megaman.fandom.com/wiki/Mega_Man_X_(video_game))
+# file: All Programs/Games/Mega Man X/Program.txt = # site: Mega Man X Legacy Collection = [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/)
+# file: All Programs/Games/Mega Man X/Program.txt = #
+# file: All Programs/Games/Mega Man X/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Mega Man X/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Mega Man X/Program.txt = # text:   - Select **ACCEPT CONFIGURATION**.
+# file: All Programs/Games/Mega Man X/Program.txt = # text: - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Mega Man X/Program.txt = # text: - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = [autoexec]
+# file: All Programs/Games/Mega Man X/Program.txt = @ECHO OFF
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Mega Man X/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = IF NOT EXIST C:\MMX\MMX.BAT GOTO F_INSTALL
+# file: All Programs/Games/Mega Man X/Program.txt = IF EXIST C:\MMX\MMX.BAT GOTO F_START
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = :F_INSTALL
+# file: All Programs/Games/Mega Man X/Program.txt = D:
+# file: All Programs/Games/Mega Man X/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = :F_START
+# file: All Programs/Games/Mega Man X/Program.txt = C:
+# file: All Programs/Games/Mega Man X/Program.txt = CD C:\MMX
+# file: All Programs/Games/Mega Man X/Program.txt = CALL MMX.BAT
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = :F_EXIT
+# file: All Programs/Games/Mega Man X/Program.txt = EXIT
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = :F_DEBUG
+# file: All Programs/Games/Mega Man X/Program.txt
+# file: All Programs/Games/Mega Man X/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4781510-mega-man-x-dos-front-cover.jpg
+# file: All Programs/Games/Mega Man X/Program.txt = # check: coverart.jpg = 633964abe04c4bfb8ae509d35fb63c1c741c2a4c99515f8ff8b1eb25bcdc3362
+# file: All Programs/Games/Mega Man X/Program.txt = # asset: cdrom.bin = https://archive.org/download/MegaManXUSA/Mega%20Man%20X%20%28USA%29.zip/Mega%20Man%20X%20%28USA%29.bin
+# file: All Programs/Games/Mega Man X/Program.txt = # check: cdrom.bin = 2ae5a74321e7cdf26e7d088180db203f9ccc0a74bc0568958c573871af65d3aa
+# file: All Programs/Games/Mega Man X/Program.txt = # asset: manual-snes.pdf = https://archive.org/download/snes_Mega_Man_X_USA/Mega_Man_X_USA.pdf
+# file: All Programs/Games/Mega Man X/Program.txt = # check: manual-snes.pdf = 8717b081a233bc97994d11db55e1e4b9f8148348e187bd268b2f3f1dc18391b0
+# file: All Programs/Games/Mega Man X/Program.txt = #
+# file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Mission Critical/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Mission Critical/Program.txt = #
 # file: All Programs/Games/Mission Critical/Program.txt = # name: Mission Critical
@@ -7402,6 +8185,77 @@
 # file: All Programs/Games/One Must Fall 2097/Program.txt = # check: cdrom.iso = 684b9670b1cd5421ef3f2086e8be2e39d858ce1fd6eec6a3708375ad47ca7272
 #
 #
+# file: All Programs/Games/Out of This World/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Out of This World/Program.txt = #
+# file: All Programs/Games/Out of This World/Program.txt = # name: Out of This World
+# file: All Programs/Games/Out of This World/Program.txt = # name: Another World
+# file: All Programs/Games/Out of This World/Program.txt = # name: Outer World
+# file: All Programs/Games/Out of This World/Program.txt = # info: There was only one chance out of one million such an accident could happen. As for the consequences, nobody could have foreseen them. Certainly not Lester, who finds himself lost in an unknown and utterly hostile world. However, he will rediscover the genuine meaning of freedom won by fighting, the feeling that each day is a new victory.
+# file: All Programs/Games/Out of This World/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/another_world_20th_anniversary_edition).
+# file: All Programs/Games/Out of This World/Program.txt = # tag: Year = 1991
+# file: All Programs/Games/Out of This World/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Out of This World/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Out of This World/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Out of This World/Program.txt = # tag: Category = Side view • Platform • Puzzle elements • Shooter • Sci-fi
+# file: All Programs/Games/Out of This World/Program.txt = # tag: Media = Compressed Package
+# file: All Programs/Games/Out of This World/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Another_World_(video_game))
+# file: All Programs/Games/Out of This World/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/564/out-of-this-world/)
+# file: All Programs/Games/Out of This World/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Another+World&gid=1410)
+# file: All Programs/Games/Out of This World/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/out-of-this-world-18g)
+# file: All Programs/Games/Out of This World/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/another_world_20th_anniversary_edition)
+# file: All Programs/Games/Out of This World/Program.txt = #
+# file: All Programs/Games/Out of This World/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Out of This World/Program.txt = # text: - Graphics Adapter: **VGA Card**.
+# file: All Programs/Games/Out of This World/Program.txt = # text: - Sound Device: **Sound Blaster Card at 10 KHz ( fast machine )**.
+# file: All Programs/Games/Out of This World/Program.txt = # text: - Moves: **Keyboard**.
+# file: All Programs/Games/Out of This World/Program.txt = # text:
+# file: All Programs/Games/Out of This World/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Out of This World/Program.txt = # text: - A memory manager has been detected that may impair performance: Press `1` to proceed.
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = [cpu]
+# file: All Programs/Games/Out of This World/Program.txt = cycles = max
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = [autoexec]
+# file: All Programs/Games/Out of This World/Program.txt = @ECHO OFF
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Out of This World/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = IF NOT EXIST C:\WORLD\WORLD.EXE GOTO F_INSTALL
+# file: All Programs/Games/Out of This World/Program.txt = IF EXIST C:\WORLD\WORLD.EXE GOTO F_START
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = :F_INSTALL
+# file: All Programs/Games/Out of This World/Program.txt = C:
+# file: All Programs/Games/Out of This World/Program.txt = CD C:\
+# file: All Programs/Games/Out of This World/Program.txt = MD UNZIP
+# file: All Programs/Games/Out of This World/Program.txt = CD UNZIP
+# file: All Programs/Games/Out of This World/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/Out of This World/Program.txt = CD C:\
+# file: All Programs/Games/Out of This World/Program.txt = MD WORLD
+# file: All Programs/Games/Out of This World/Program.txt = CD WORLD
+# file: All Programs/Games/Out of This World/Program.txt = C:\UNZIP\UNZIP.EXE X:\GAME.ZIP
+# file: All Programs/Games/Out of This World/Program.txt = SETUP.EXE
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = :F_START
+# file: All Programs/Games/Out of This World/Program.txt = C:
+# file: All Programs/Games/Out of This World/Program.txt = CD C:\WORLD
+# file: All Programs/Games/Out of This World/Program.txt = WORLD.EXE
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = :F_EXIT
+# file: All Programs/Games/Out of This World/Program.txt = EXIT
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = :F_DEBUG
+# file: All Programs/Games/Out of This World/Program.txt
+# file: All Programs/Games/Out of This World/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4000515-out-of-this-world-dos-front-cover.jpg
+# file: All Programs/Games/Out of This World/Program.txt = # check: coverart.jpg = cacd7958bd1693c1301b716044a6308b8acdb4139fa53bbf56bc681fd494a881
+# file: All Programs/Games/Out of This World/Program.txt = # asset: game.zip = https://archive.org/download/anotherworld_msdos/WORLD.zip
+# file: All Programs/Games/Out of This World/Program.txt = # check: game.zip = 81a66d3abfc746ce21ddda03699f65522ebccfbf058af283acaac25710aed8de
+# file: All Programs/Games/Out of This World/Program.txt = # asset: manual.pdf = https://archive.org/download/outofthisworldmanualdosen/Out-of-This-World_Manual_DOS_EN.pdf
+# file: All Programs/Games/Out of This World/Program.txt = # check: manual.pdf = 64ce578667879080a60774db00acabdd77475930d0c5d9c11533c734522c58eb
+# file: All Programs/Games/Out of This World/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/Out of This World/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
 # file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Pepper's Adventures in Time/Program.txt = #
 # file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # name: Pepper's Adventures in Time
@@ -7663,15 +8517,15 @@
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/8103401-phantasmagoria-a-puzzle-of-flesh-dos-front-cover.jpg
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: coverart.jpg = 5f61e2bc25bedd7ea54ea6434a64a90672065083208c6979f540f4f227c382eb
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom01.iso = https://archive.org/download/phantas-2-1/PHANTAS2_1.ISO
-# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom01.iso = 70eba927376750d278ae9dd6d717c1e0c123f7d59512d6fc2a0c148b1b40f1a6
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: cdrom01.iso = 70eba927376750d278ae9dd6d717c1e0c123f7d59512d6fc2a0c148b1b40f1a6
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom02.iso = https://archive.org/download/phantas-2-1/PHANTAS2_2.ISO
-# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom02.iso = 2790b0bcdeb3a90ac15f636e7c0840add27b9da4a94c0132ec75c503d08aeb25
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: cdrom02.iso = 2790b0bcdeb3a90ac15f636e7c0840add27b9da4a94c0132ec75c503d08aeb25
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom03.iso = https://archive.org/download/phantas-2-1/PHANTAS2_3.ISO
-# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom03.iso = a78aa8190374f022ce725903136f85f44aa7d1b6c8872886ccd2ae1fa5293f7b
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: cdrom03.iso = a78aa8190374f022ce725903136f85f44aa7d1b6c8872886ccd2ae1fa5293f7b
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom04.iso = https://archive.org/download/phantas-2-1/PHANTAS2_4.ISO
-# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom04.iso = 74dfc59932f10b7e241aff511ed4721dab1dbf61aca0cb7557d45323811bd714
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: cdrom04.iso = 74dfc59932f10b7e241aff511ed4721dab1dbf61aca0cb7557d45323811bd714
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: cdrom05.iso = https://archive.org/download/phantas-2-1/PHANTAS2_5.ISO
-# file: All Programs/Games/Phantasmagoria 2/Program.txt = ## check: cdrom05.iso = f84d5e8798eac5cf8d82800dbb5f414646eba07c046747cbd8c9009365785012
+# file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: cdrom05.iso = f84d5e8798eac5cf8d82800dbb5f414646eba07c046747cbd8c9009365785012
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: install.zip = https://archive.org/download/P2DOSPAT/P2DOSPAT.ZIP
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # check: install.zip = 1c3c61df7c42e92068b31bb510273b2efeac6b9522a2bfbe4cc81a1d33bba363
 # file: All Programs/Games/Phantasmagoria 2/Program.txt = # asset: patch.zip = http://www.sierrahelp.com/Files/Patches/Phantasmagoria/Phantasmagoria2(DACBLAST).zip
@@ -12019,6 +12873,10 @@
 # link: Games/By Genre/Action/Blackthorne = ../../../All Programs/Games/Blackthorne
 # link: Games/By Genre/Action/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Action/Cadaver = ../../../All Programs/Games/Cadaver
+# link: Games/By Genre/Action/Crusader - No Regret = ../../../All Programs/Games/Crusader - No Regret
+# link: Games/By Genre/Action/Crusader - No Remorse = ../../../All Programs/Games/Crusader - No Remorse
+# link: Games/By Genre/Action/Cyberia = ../../../All Programs/Games/Cyberia
+# link: Games/By Genre/Action/Cyberia 2 - Resurrection = ../../../All Programs/Games/Cyberia 2 - Resurrection
 # link: Games/By Genre/Action/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Genre/Action/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Genre/Action/Death Rally = ../../../All Programs/Games/Death Rally
@@ -12026,11 +12884,17 @@
 # link: Games/By Genre/Action/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Genre/Action/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Genre/Action/God of Thunder = ../../../All Programs/Games/God of Thunder
+# link: Games/By Genre/Action/Heretic = ../../../All Programs/Games/Heretic
+# link: Games/By Genre/Action/Hexen - Beyond Heretic = ../../../All Programs/Games/Hexen - Beyond Heretic
 # link: Games/By Genre/Action/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Action/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Genre/Action/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By Genre/Action/Magic Carpet 2 - The Netherworlds = ../../../All Programs/Games/Magic Carpet 2 - The Netherworlds
+# link: Games/By Genre/Action/Magic Carpet Plus = ../../../All Programs/Games/Magic Carpet Plus
+# link: Games/By Genre/Action/Mega Man X = ../../../All Programs/Games/Mega Man X
 # link: Games/By Genre/Action/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Genre/Action/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
+# link: Games/By Genre/Action/Out of This World = ../../../All Programs/Games/Out of This World
 # link: Games/By Genre/Action/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By Genre/Action/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Genre/Action/Star Wars - TIE Fighter = ../../../All Programs/Games/Star Wars - TIE Fighter
@@ -12240,6 +13104,10 @@
 # link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By License/Proprietary/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
 # link: Games/By License/Proprietary/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
+# link: Games/By License/Proprietary/Crusader - No Regret = ../../../All Programs/Games/Crusader - No Regret
+# link: Games/By License/Proprietary/Crusader - No Remorse = ../../../All Programs/Games/Crusader - No Remorse
+# link: Games/By License/Proprietary/Cyberia = ../../../All Programs/Games/Cyberia
+# link: Games/By License/Proprietary/Cyberia 2 - Resurrection = ../../../All Programs/Games/Cyberia 2 - Resurrection
 # link: Games/By License/Proprietary/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By License/Proprietary/Day of the Tentacle = ../../../All Programs/Games/Day of the Tentacle
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
@@ -12252,8 +13120,10 @@
 # link: Games/By License/Proprietary/Gobliiins = ../../../All Programs/Games/Gobliiins
 # link: Games/By License/Proprietary/Gobliins 2 - The Prince Buffoon = ../../../All Programs/Games/Gobliins 2 - The Prince Buffoon
 # link: Games/By License/Proprietary/Goblins Quest 3 = ../../../All Programs/Games/Goblins Quest 3
+# link: Games/By License/Proprietary/Heretic = ../../../All Programs/Games/Heretic
 # link: Games/By License/Proprietary/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By License/Proprietary/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
+# link: Games/By License/Proprietary/Hexen - Beyond Heretic = ../../../All Programs/Games/Hexen - Beyond Heretic
 # link: Games/By License/Proprietary/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
 # link: Games/By License/Proprietary/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
 # link: Games/By License/Proprietary/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
@@ -12264,10 +13134,14 @@
 # link: Games/By License/Proprietary/Legend of Kyrandia 3 - Malcolm's Revenge = ../../../All Programs/Games/Legend of Kyrandia 3 - Malcolm's Revenge
 # link: Games/By License/Proprietary/Lighthouse - The Dark Being = ../../../All Programs/Games/Lighthouse - The Dark Being
 # link: Games/By License/Proprietary/Loom = ../../../All Programs/Games/Loom
+# link: Games/By License/Proprietary/Magic Carpet 2 - The Netherworlds = ../../../All Programs/Games/Magic Carpet 2 - The Netherworlds
+# link: Games/By License/Proprietary/Magic Carpet Plus = ../../../All Programs/Games/Magic Carpet Plus
+# link: Games/By License/Proprietary/Mega Man X = ../../../All Programs/Games/Mega Man X
 # link: Games/By License/Proprietary/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
+# link: Games/By License/Proprietary/Out of This World = ../../../All Programs/Games/Out of This World
 # link: Games/By License/Proprietary/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
 # link: Games/By License/Proprietary/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
 # link: Games/By License/Proprietary/Return to Zork = ../../../All Programs/Games/Return to Zork
@@ -12322,6 +13196,10 @@
 # link: Games/By Platform/DOS/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By Platform/DOS/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Platform/DOS/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
+# link: Games/By Platform/DOS/Crusader - No Regret = ../../../All Programs/Games/Crusader - No Regret
+# link: Games/By Platform/DOS/Crusader - No Remorse = ../../../All Programs/Games/Crusader - No Remorse
+# link: Games/By Platform/DOS/Cyberia = ../../../All Programs/Games/Cyberia
+# link: Games/By Platform/DOS/Cyberia 2 - Resurrection = ../../../All Programs/Games/Cyberia 2 - Resurrection
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Platform/DOS/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Platform/DOS/Dark Seed = ../../../All Programs/Games/Dark Seed
@@ -12347,8 +13225,10 @@
 # link: Games/By Platform/DOS/Gobliins 2 - The Prince Buffoon = ../../../All Programs/Games/Gobliins 2 - The Prince Buffoon
 # link: Games/By Platform/DOS/Goblins Quest 3 = ../../../All Programs/Games/Goblins Quest 3
 # link: Games/By Platform/DOS/God of Thunder = ../../../All Programs/Games/God of Thunder
+# link: Games/By Platform/DOS/Heretic = ../../../All Programs/Games/Heretic
 # link: Games/By Platform/DOS/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By Platform/DOS/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
+# link: Games/By Platform/DOS/Hexen - Beyond Heretic = ../../../All Programs/Games/Hexen - Beyond Heretic
 # link: Games/By Platform/DOS/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Platform/DOS/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
 # link: Games/By Platform/DOS/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
@@ -12363,11 +13243,15 @@
 # link: Games/By Platform/DOS/Lighthouse - The Dark Being = ../../../All Programs/Games/Lighthouse - The Dark Being
 # link: Games/By Platform/DOS/Loom = ../../../All Programs/Games/Loom
 # link: Games/By Platform/DOS/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Platform/DOS/Magic Carpet 2 - The Netherworlds = ../../../All Programs/Games/Magic Carpet 2 - The Netherworlds
+# link: Games/By Platform/DOS/Magic Carpet Plus = ../../../All Programs/Games/Magic Carpet Plus
+# link: Games/By Platform/DOS/Mega Man X = ../../../All Programs/Games/Mega Man X
 # link: Games/By Platform/DOS/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Platform/DOS/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Platform/DOS/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
 # link: Games/By Platform/DOS/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Platform/DOS/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
+# link: Games/By Platform/DOS/Out of This World = ../../../All Programs/Games/Out of This World
 # link: Games/By Platform/DOS/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
 # link: Games/By Platform/DOS/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
 # link: Games/By Platform/DOS/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
