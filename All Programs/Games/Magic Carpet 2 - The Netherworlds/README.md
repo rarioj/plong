@@ -4,7 +4,7 @@
 
 「**Magic Carpet 2**」
 
-> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed as you unfurl the magic carpet and battle hordes of vile creatures in your quest to purge the NETHERWORDLS of evil. ❞
+> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed by the Demon as you unfurl the magic carpet and battle hordes of vile creatures to purge the Netherworlds of evil. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet_2_the_netherworlds). ❞
 >

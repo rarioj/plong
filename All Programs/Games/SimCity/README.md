@@ -4,7 +4,7 @@
 
 「**Micropolis**」「**SimCity Classic**」「**SimCity: The City Simulator**」
 
-> ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. Then see if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences — so get to work! ❞
+> ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. See if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences - so get to work! ❞
 >
 > ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
 >

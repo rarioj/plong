@@ -33,7 +33,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Year (Jack in the Dark)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Puzzle elements • Survival horror • Interwar • Horror ┃ **Media** ‣ CD-ROM ┃ **Compilation** ‣ Jack in the Dark 
 >
-> ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion — where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
+> ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion - where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
 >
 > ❝ This game **is not abandonware 🚫**. **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
 >
@@ -201,7 +201,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar • Horror ┃ **Media** ‣ Compressed Package 
 >
-> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny but beware - the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
+> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny. But beware, the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/). ❞
 >
@@ -243,7 +243,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ You're a renegade Silencer out to settle a score with the powerful World Economic Consortium. Only your instincts, agility and firepower can get you through in one piece to the ultimate confrontation with your greatest enemy. ❞
+> ❝ You're a renegade, Silencer, out to settle a score with the powerful World Economic Consortium. Only your instincts, agility and firepower can get you through in one piece to the ultimate confrontation with your greatest enemy. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/crusader_no_regret). ❞
 >
@@ -285,7 +285,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Puzzle elements • Rail shooter • Cyberpunk • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ In a future where global terrorists rule and mankind lives on the brink of destruction, the ultimate doomsday device has just been discovered beneath the frozen wasteland of the Northern Asia. Codenamed Cyberia, it was designed in an era of long forgotten peace by the most brilliant minds in nano and cybernetic technology. In an ancient world of hope, it was to be the ultimate protector of a new order. In 2027, it stands as the instrument of humanity's destruction. ❞
+> ❝ The world is under the dominion of two opposing superpowers, the First World Alliance (FWA) in the west and the Cartel in the east. The leader of the FWA, receives word that a devastating weapon is being produced in a secret base in Siberia, referred to as the Cyberia Complex. It was designed in an era of long forgotten peace by the most brilliant minds in nano and cybernetic technology. In an ancient world of hope, it was to be the ultimate protector of a new order. In 2027, it stands as the instrument of humanity's destruction. You are Zak Kingston, tasked to infiltrate the Complex and retrieve any intel on the weapon production. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/cyberia) and [Steam 💰](https://store.steampowered.com/app/624080/Cyberia/). ❞
 >
@@ -306,7 +306,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Behind view • Rail shooter • Cyberpunk ┃ **Media** ‣ CD-ROM 
 >
-> ❝ In Cyberia2, the player once again takes the role of master cyber hacker Zak Kingston. After spending three years in cryonic hibernation, Zak has been mysteriously revived by a band of rebels bent on employing his services for a series of covert missions that will bring down the Free World Alliance (FWA) once and for all. ❞
+> ❝ In Cyberia 2, the player takes the role of master cyber hacker Zak Kingston. After spending three years in cryonic hibernation, Zak has been mysteriously revived by a band of rebels bent on employing his services for a series of covert missions that will bring down the Free World Alliance (FWA) once and for all. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/cyberia_2_resurrection) and [Steam 💰](https://store.steampowered.com/app/717720/Cyberia_2_Resurrection/). ❞
 >
@@ -327,7 +327,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Top-down • Board game • Fighting • Fantasy ┃ **Media** ‣ Floppy Disk ┃ **Patched • Copy Protection** 
 >
-> ❝ You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in Dark Legions has its strengths and weaknesses. Use them well you will be victorious; if you fail, abject humiliation will be the least of your worries. ❞
+> ❝ You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in Dark Legions has its strengths and weaknesses. Use them well - you will be victorious. If you fail, abject humiliation will be the least of your worries. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/dark_legions). ❞
 >
@@ -476,7 +476,7 @@
 >
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Detective • Horror ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ He started out writing a book on voodoo. Now he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
+> ❝ He started out writing a book on voodoo. Now, he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞
 >
@@ -539,7 +539,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Have you seen the three mischievous Gobliiins yet, those irresistibly funny and unpredictable characters? This time there are two of them: Angus, the diplomat, and Winkle, the practical joker. They set off to find a kidnapped young Prince by the evil Demon King. This imposter is trying to make a jester out of him. How wicked! Never forget that to progress through this action-packed adventure littered with traps, Fingus and Winkle often have to work together to combine strength and deceit, resulting in a couple of cheeky characters. ❞
+> ❝ Have you seen the three mischievous Gobliiins yet, those irresistibly funny and unpredictable characters? This time, there are two of them: Angus, the diplomat, and Winkle, the practical joker. They set off to find a kidnapped young Prince by the evil Demon King. This imposter is trying to make a jester out of him. How wicked! Never forget that to progress through this action-packed adventure littered with traps, Fingus and Winkle often have to work together to combine strength and deceit, resulting in a couple of cheeky characters. ❞
 >
 > ❝ This game **is not abandonware 🚫**. A **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
 >
@@ -665,7 +665,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Real-time • Graphic adventure • Cyberpunk • Post-apocalyptic • Horror ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story “I Have No Mouth, and I Must Scream”, one of the ten most reprinted stories in the English language. Buried deep within the centre of the Earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
+> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the Earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/). ❞
 >
@@ -707,7 +707,7 @@
 >
 > 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar ┃ **Media** ‣ Floppy Disk 
 >
-> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞
+> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now, Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
 >
@@ -770,7 +770,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you. ❞
+> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia). ❞
 >
@@ -833,7 +833,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. An exotic parallel universe is terrorized by a Dark Being. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. You are summoned on a rescue mission; lives and worlds hang in the balance. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and desolate world. ❞
+> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. Dark Being terrorized a parallel universe. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. Lives and worlds hang in the balance. Dr. Jeremiah Krick summoned you on a rescue mission. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and barren world. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being). ❞
 >
@@ -875,7 +875,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Flight • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed as you unfurl the magic carpet and battle hordes of vile creatures in your quest to purge the NETHERWORDLS of evil. ❞
+> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed by the Demon as you unfurl the magic carpet and battle hordes of vile creatures to purge the Netherworlds of evil. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet_2_the_netherworlds). ❞
 >
@@ -896,7 +896,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Flight • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
 >
-> ❝ You're flying just feet above real landscapes. There's a dragon in front of you, kilter crabs behind and some guy on another carpet cutting you to ribbons. Not enough power for the accelerate spell. Damn. Looks like you're going to have to fight this one out. ❞
+> ❝ Wizards discovered how to extract mana from nature. And though it initially had beneficial uses, the quest for it made the lands barren. Worse, many corrupt wizards began turning to mana for their nefarious purposes, eventually leading to war. The battling wizards began using more destructive spells and summoning deadly monsters, which often turned against them. One wizard hoped to end everything with an all-powerful magic spell but instead only left the worlds shattered. Only his apprentice survived. His goal is to restore the worlds to equilibrium. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet). ❞
 >
@@ -917,7 +917,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Arcade • Platform • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
+> ❝ Near the end of his life, Dr Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
 >
 > ❝ This game **is not abandonware 🚫**. The **Mega Man X Legacy Collection** release is available on [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/). ❞
 >
@@ -1054,13 +1054,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria: A Puzzle of Flesh")
+> ![](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria 2: A Puzzle of Flesh")
 >
 > </td>
 >
 > <td>
 >
-> ## [Phantasmagoria: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md)
+> ## [Phantasmagoria 2: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md)
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Puzzle elements • Sci-fi • Horror • Romance ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
@@ -1148,7 +1148,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Turn-based • 4X • Managerial • Turn-based strategy • Europe • North America • South America • Historical events ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ Before you lie the promise that is the New World with all its peril and infinite possibility. Vast, lush green tracts of forest; freezing, crystal clear mountain rivers; plains stretching as far as the eye can see. Be its master! Colonization from Sid Meier. A story of discovery, exploration and territorial independence. Play the colonist, conquistador and diplomat facing the challenges and frustrations of building a new independent nation. Choose the European power you want to represent: French, Spanish, Dutch, or British. Use the wealth of the land to build up your position. Use deceit and force to outwit rivals. Use trade alliances to forge friendships and create new industries - all while holding back the possibility of revolt. ❞
+> ❝ Before you lie the promise that is the New World with all its peril and infinite possibility. Vast, lush green tracts of forest; freezing, crystal clear mountain rivers; plains stretching as far as the eye can see. Be its master! Colonization from Sid Meier is a story of discovery, exploration and territorial independence. Play the colonist, conquistador and diplomat facing the challenges and frustrations of building a new independent nation. Choose the European power you want to represent: French, Spanish, Dutch, or British. Use the wealth of the land to build up your position. Use deceit and force to outwit rivals. Use trade alliances to forge friendships and create new industries - all while holding back the possibility of revolt. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sid_meiers_colonization) and [Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/). ❞
 >
@@ -1211,7 +1211,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+> ❝ It is the dawn of the Rebellion. The Old Republic: gone, The Senate: abolished, The Jedi Knights: exterminated. Now, the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
 >
 > ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >
@@ -1316,7 +1316,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Post-apocalyptic • Detective ┃ **Media** ‣ CD-ROM 
 >
-> ❝ The Government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes -- find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞
+> ❝ The government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes – find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/). ❞
 >
@@ -1337,7 +1337,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements • Post-apocalyptic • Sci-fi • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. Then a priceless statuette is stolen. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞
+> ❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞
 >
@@ -1400,7 +1400,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • City building • Managerial • Real-time strategy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Have you always wanted to be a boss? Then you should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing; or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords. ❞
+> ❝ Have you always wanted to be a boss? You should not save until you can afford a mini-state. Let yourself into the world of The Settlers. You alone decide how you shape your empire, how big your settlement will be, and whether you will calmly limit yourself to agriculture, animal husbandry, and fishing - or start the industrial revolution. Your geologists will only be able to tell you where to find ore, coal or gold. It is in your hands to place mines, steel factories and toolmakers, thus stimulating trade within your empire. Have sentry huts, towers or garrisons built to protect yourself from the enemy knights. Gain new lands. Perhaps behind the mountain pass in the north lies a fertile valley where your fishermen can lay out their nets! Listen to the chirping of birds and the rush of the wind, the pounding of the waves and the clash of steel swords. ❞
 >
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **History Collection** release is available on [Ubisoft 💰](https://www.ubisoft.com/en-gb/game/the-settlers/history-collection). ❞
 >
@@ -1570,7 +1570,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Turn-based • Turn-based strategy • Sci-fi • War ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ Awakened by the cosmic emissions of their brothers, the vast chambers of innumerable species begin their re-animation cycle. XCom must face a new terror, an army of aliens but in an environment more deadly than deep space. The aliens of the depths are well prepared to take on men in all the oceans, even bringing the war onto the land. Enter into combat in a strange and alien world and use new technology. Arm your troops for an encounter the likes of man has only dreamed of in his worst nightmares. A vast sleeping enemy has awoken. When the vessel T'leth crash-landed on Earth some sixty-five million years ago, the emergency systems placed the aliens in suspended animation. A distress call was sent but never received by the alien's homeworld. Over the eons, computers have awoken small groups of aliens to attempt colonization, but the strategies and devices have been imperfect. They have also been sinking ships over the centuries to plunder their cargoes and recover gold - the base metal in the hyper-alloy Zrbite. ❞
+> ❝ Awakened by the cosmic emissions of their brothers, the vast chambers of innumerable species begin their re-animation cycle. XCom must face a new terror: an army of aliens in an environment more deadly than deep space. The aliens of the depths are well prepared to take on men in all the oceans, even bringing the war onto the land. Enter into combat in a strange and alien world and use new technology. Arm your troops for an encounter the likes of man has only dreamed of in his worst nightmares. A vast sleeping enemy has awoken. When the vessel T'leth crash-landed on Earth some sixty-five million years ago, the emergency systems placed the aliens in suspended animation. A distress call was sent but never received by the alien's homeworld. Over the eons, computers have awoken small groups of aliens to attempt colonization, but the strategies and devices have been imperfect. They have also been sinking ships over the centuries to plunder their cargoes and recover gold - the base metal in the hyper-alloy Zrbite. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep) and [Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/). ❞
 >

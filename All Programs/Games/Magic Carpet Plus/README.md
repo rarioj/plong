@@ -4,7 +4,7 @@
 
 「**Magic Carpet**」「**Magic Carpet DX**」「**Magic Carpet: Hidden Worlds**」
 
-> ❝ You're flying just feet above real landscapes. There's a dragon in front of you, kilter crabs behind and some guy on another carpet cutting you to ribbons. Not enough power for the accelerate spell. Damn. Looks like you're going to have to fight this one out. ❞
+> ❝ Wizards discovered how to extract mana from nature. And though it initially had beneficial uses, the quest for it made the lands barren. Worse, many corrupt wizards began turning to mana for their nefarious purposes, eventually leading to war. The battling wizards began using more destructive spells and summoning deadly monsters, which often turned against them. One wizard hoped to end everything with an all-powerful magic spell but instead only left the worlds shattered. Only his apprentice survived. His goal is to restore the worlds to equilibrium. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet). ❞
 >

@@ -4,7 +4,7 @@
 
 「**Command & Conquer: Tiberian Dawn**」「**Command & Conquer: The Covert Operations**」
 
-> ❝ Welcome to the New World Order. A gritty high-tech world where the art of electronic intelligence and covert surveillance reigns supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power. ❞
+> ❝ Welcome to the New World Order. A gritty hightech world where the art of electronic intelligence and covert surveillance reigns supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power. ❞
 >
 > ❝ To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007. ❞ — *Wikipedia*
 >

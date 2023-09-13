@@ -111,7 +111,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
 >
-> ❝ What a HEADACHE! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures! ❞
+> ❝ What a headache! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now, Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures! ❞
 >
 >
 > </td></tr></table>
@@ -130,7 +130,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
 >
-> ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
+> ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now, he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
 >
 >
 > </td></tr></table>
@@ -187,7 +187,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Turn-based • 4X • Managerial • Turn-based strategy • Europe • North America • South America • Historical events ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ Before you lie the promise that is the New World with all its peril and infinite possibility. Vast, lush green tracts of forest; freezing, crystal clear mountain rivers; plains stretching as far as the eye can see. Be its master! Colonization from Sid Meier. A story of discovery, exploration and territorial independence. Play the colonist, conquistador and diplomat facing the challenges and frustrations of building a new independent nation. Choose the European power you want to represent: French, Spanish, Dutch, or British. Use the wealth of the land to build up your position. Use deceit and force to outwit rivals. Use trade alliances to forge friendships and create new industries - all while holding back the possibility of revolt. ❞
+> ❝ Before you lie the promise that is the New World with all its peril and infinite possibility. Vast, lush green tracts of forest; freezing, crystal clear mountain rivers; plains stretching as far as the eye can see. Be its master! Colonization from Sid Meier is a story of discovery, exploration and territorial independence. Play the colonist, conquistador and diplomat facing the challenges and frustrations of building a new independent nation. Choose the European power you want to represent: French, Spanish, Dutch, or British. Use the wealth of the land to build up your position. Use deceit and force to outwit rivals. Use trade alliances to forge friendships and create new industries - all while holding back the possibility of revolt. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sid_meiers_colonization) and [Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/). ❞
 >

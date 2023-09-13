@@ -2,7 +2,7 @@
 
 # Dark Legions
 
-> ❝ You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in Dark Legions has its strengths and weaknesses. Use them well you will be victorious; if you fail, abject humiliation will be the least of your worries. ❞
+> ❝ You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in Dark Legions has its strengths and weaknesses. Use them well - you will be victorious. If you fail, abject humiliation will be the least of your worries. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/dark_legions). ❞
 >

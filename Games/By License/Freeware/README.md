@@ -73,7 +73,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Cyberpunk • Oceania ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone, save for a robot circuit board; Foster must fight for survival and discover the sinister truth behind this abduction. ❞
+> ❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone with a robot circuit board, Foster must fight for survival and discover the sinister truth behind this abduction. ❞
 >
 > ❝ The game was made available as freeware – and with the source code released – for PC platforms in 2003. ❞ — *Wikipedia*
 >
@@ -94,7 +94,7 @@
 >
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Platform ┃ **Media** ‣ Compressed Package 
 >
-> ❝ You are Snake Logan, a top CIA operative who likes to do things his way. Metro City has fallen under the attack of hideous mutants. Your mission is to fly recon over the city and report back. While circling over the city, you're shot down by hostile forces and forced to crash land on the streets of Metro. Grabbing any supplies you can find, you are out to discover the source of these mutants and especially the guy who shot you down! ❞
+> ❝ You are Snake Logan, a top CIA operative who likes to do things his way. Metro City has fallen under the attack of hideous mutants. Your mission is to fly recon over the city and report back. While circling over the city, you're shot down by hostile forces and forced to crash land on the streets of Metro. Grabbing any supplies you can find, you are out to discover the source of these mutants, especially the guy who shot you down! ❞
 >
 > ❝ Apogee released the game as freeware on December 23, 2005 as a 'Christmas present', and the full game can be downloaded from the Apogee website. ❞ — *Wikipedia*
 >
@@ -178,7 +178,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Year (The Covert Operations)** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Diagonal-down • Real-time • Real-time strategy • Africa • Europe • Sci-fi • War ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
 >
-> ❝ Welcome to the New World Order. A gritty high-tech world where the art of electronic intelligence and covert surveillance reigns supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power. ❞
+> ❝ Welcome to the New World Order. A gritty hightech world where the art of electronic intelligence and covert surveillance reigns supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power. ❞
 >
 > ❝ To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007. ❞ — *Wikipedia*
 >
@@ -241,7 +241,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Platform • Shooter • Sci-fi ┃ **Media** ‣ Compressed Package 
 >
-> ❝ After drifting off to sleep late one night at the planetary base, Jacek woke to discover that his unit had lost all its power. Climbing the darkened stairway, he found that alien beings had invaded the HQ and killed all humans - including his wife and children! Only his friend Placek remained, and together they escaped to another planet. Now it is time for revenge. Spending all his insurance money, Jacek underwent many costly operations giving him superhuman strength and senses. He armed himself with weapons and set out for the conquered station. Jacek is unaware that the aliens have rebuilt the station with numerous security systems built to keep him out. Can you help our hero? ❞
+> ❝ After drifting off to sleep late one night at the planetary base, Jacek woke to discover that his unit had lost all its power. Climbing the darkened stairway, he found that alien beings had invaded the HQ and killed all humans - including his wife and children! Only his friend Placek remained, and together they escaped to another planet. Now, it is time for revenge. Spending all his insurance money, Jacek underwent many costly operations, giving him superhuman strength and senses. He armed himself with weapons and set out for the conquered station. Jacek is unaware that the aliens have rebuilt the station with numerous security systems built to keep him out. Can you help our hero? ❞
 >
 > ❝ Though initially offered under a shareware license, the game was released as freeware by the developer on June 25, 2006, under the Creative Commons Attribution-ShareAlike 2.5 license. ❞ — *Wikipedia*
 >
@@ -262,7 +262,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crash land in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
+> ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel, only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crashland in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
 >
 > ❝ In March 2004, the game was released as freeware, and support for it was added to ScummVM, allowing it to be played on Linux, Mac OS X, Windows, and many other operating systems and consoles. ❞ — *Wikipedia*
 >
@@ -365,7 +365,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Arcade • Fighting • Mecha • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
+> ❝ Governments are puppets to big corporations. One of the largest corporations is "World Aeronautics and Robotics" (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
 >
 > ❝ In February 1999, the game was declared freeware by the developers. ❞ — *Wikipedia*
 >
@@ -407,7 +407,7 @@
 >
 > 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Top-down • City building • Managerial • Contemporary ┃ **Media** ‣ Compressed Package 
 >
-> ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. Then see if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences — so get to work! ❞
+> ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. See if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences - so get to work! ❞
 >
 > ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
 >
@@ -428,7 +428,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Shooter • Sci-fi ┃ **Media** ‣ Compressed Package 
 >
-> ❝ Deep within the Andromeda galaxy, the people of Zile grow restless and greedy. The Zilions secretly prepare for a massive strike against the nearby planet Ytima. Fearing such an attack, the Ytimians train an elite squad of “Stargunners.” Their mission: To strike the Zilions' three strongholds, where the Zilion war fleets await the launch order. Good will triumph if the Stargunners can surprise the Zilions and destroy most of their fleet. ❞
+> ❝ Deep within the Andromeda galaxy, the people of Zile grow restless and greedy. The Zilions secretly prepare for a massive strike against the nearby planet Ytima. Fearing such an attack, the Ytimians train an elite squad of "Stargunners." Their mission: To strike and wipe out the Zilions' three strongholds, where the Zilion war fleets await the launch order. Good will triumph if the Stargunners can surprise the Zilions and destroy most of their fleet. ❞
 >
 > ❝ On June 22, 2005, Stargunner was released as freeware. ❞ — *Wikipedia*
 >

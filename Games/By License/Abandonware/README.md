@@ -12,7 +12,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Sports ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Diagonal-down • Boxing ┃ **Media** ‣ Floppy Disk ┃ **Cracked** 
 >
-> ❝ Good evening Ladies and Gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight. ❞
+> ❝ Good evening, ladies and gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight. ❞
 >
 >
 > </td></tr></table>
@@ -88,7 +88,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Diagonal-down • Real-time • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ In a mysterious corner of the Forgotten Realms, powerful mages prepare for battle using magic long lost. You are one of those wizards, conjuring warriors, wyverns, sirens, wraiths and more. Armed with ancient artifacts, your troops march forward: to battle goblin hordes, dark wizards, and lords of chaos. Can you defeat your foes to become the master of the realm? ❞
+> ❝ In a mysterious corner of the Forgotten Realms, powerful mages prepare for battle using magic long lost. You are one of those wizards, conjuring warriors, wyverns, sirens, wraiths and more. Armed with ancient artifacts, your troops march forward to battle goblin hordes, dark wizards, and lords of chaos. Can you defeat your foes to become the master of the realm? ❞
 >
 >
 > </td></tr></table>
@@ -301,7 +301,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • 3rd-person ┃ **Media** ‣ Floppy Disk ┃ **Patched • Copy Protection** 
 >
-> ❝ In the sequel to Castle of Dr Brain, you will have to assist Dr Brain in retrieving a battery for one of his experiments - the plans were stolen by Dr Brain's archrival scientist. To beat the scientist, you tour the Island of Dr Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels; and even find a use for a bunch of pink flamingoes! ❞
+> ❝ In the sequel to Castle of Dr Brain, you will have to assist Dr Brain in retrieving a battery for one of his experiments - the plans were stolen by Dr Brain's archrival scientist. To beat the scientist, you tour the Island of Dr Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels - and even find a use for a bunch of pink flamingoes! ❞
 >
 >
 > </td></tr></table>
@@ -320,7 +320,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
 >
-> ❝ What a HEADACHE! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures! ❞
+> ❝ What a headache! Twist It, Shake It and Wake Up Your Brain! Oops! In a bizarre laboratory accident, Dr Brain's mind gets mixed up with his lab rat, and the results are mind-boggling! Now, Dr Brain's destiny is in your hands. Unlock the secrets hiding deep within his eccentric mind as you puzzle over the twists and turns packed into over a thousand wild, wacky, brain-busting adventures! ❞
 >
 >
 > </td></tr></table>
@@ -339,7 +339,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Graphics • Math • Science ┃ **Media** ‣ CD-ROM ┃ **In-Game Manual** 
 >
-> ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
+> ❝ Dr Brain gets trapped in the space-time (dis)continuum. Now, he needs your brain power to bring him home. Travel through the ages, solve mind-warping puzzles and save Dr Brain just in time! ❞
 >
 >
 > </td></tr></table>
@@ -569,7 +569,7 @@
 >
 > 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Platform ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 >
-> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio's turf — six movie sets packed with robots, electrified floors, doors that aren't there and walls coated with a chemical that keeps Spidey's webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
+> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio's turf - six movie sets packed with robots, electrified floors, doors that aren't there and walls coated with a chemical that keeps Spidey's webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
 >
 >
 > </td></tr></table>
@@ -607,7 +607,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
+> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe, bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
 >
 >
 > </td></tr></table>
@@ -683,7 +683,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Detective ┃ **Media** ‣ CD-ROM 
 >
-> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
+> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion, Dr Watson, to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
 >
 >
 > </td></tr></table>

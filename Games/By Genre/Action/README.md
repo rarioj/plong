@@ -73,7 +73,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Year (Jack in the Dark)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Puzzle elements • Survival horror • Interwar • Horror ┃ **Media** ‣ CD-ROM ┃ **Compilation** ‣ Jack in the Dark 
 >
-> ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion — where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
+> ❝ A suspicious suicide. A chilling curse. A malevolent power. And a wicked dark secret. You are in Derceto, a legendary Louisiana mansion - where, against your better judgement, you're drawn into a world of shadows to explore the darker side of Jeremy Hartwood's imagination. Despite a paralyzing sense of personal danger, your quest for truth drives you to investigate the old house. By entering Derceto, you are entering the daily nightmare of Jeremy Hartwood's life. You will be facing the torturous howls that resound deep within its halls. You didn't foresee the shadowy corridors that seemingly have no end. You couldn't anticipate the brooding, gloom-filled rooms, the pervasive weight of dread, and the heavy sense of evil filling the atmosphere and the house itself. ❞
 >
 > ❝ This game **is not abandonware 🚫**. **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
 >
@@ -155,7 +155,7 @@
 >
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Platform ┃ **Media** ‣ Compressed Package 
 >
-> ❝ You are Snake Logan, a top CIA operative who likes to do things his way. Metro City has fallen under the attack of hideous mutants. Your mission is to fly recon over the city and report back. While circling over the city, you're shot down by hostile forces and forced to crash land on the streets of Metro. Grabbing any supplies you can find, you are out to discover the source of these mutants and especially the guy who shot you down! ❞
+> ❝ You are Snake Logan, a top CIA operative who likes to do things his way. Metro City has fallen under the attack of hideous mutants. Your mission is to fly recon over the city and report back. While circling over the city, you're shot down by hostile forces and forced to crash land on the streets of Metro. Grabbing any supplies you can find, you are out to discover the source of these mutants, especially the guy who shot you down! ❞
 >
 > ❝ Apogee released the game as freeware on December 23, 2005 as a 'Christmas present', and the full game can be downloaded from the Apogee website. ❞ — *Wikipedia*
 >
@@ -239,7 +239,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ You're a renegade Silencer out to settle a score with the powerful World Economic Consortium. Only your instincts, agility and firepower can get you through in one piece to the ultimate confrontation with your greatest enemy. ❞
+> ❝ You're a renegade, Silencer, out to settle a score with the powerful World Economic Consortium. Only your instincts, agility and firepower can get you through in one piece to the ultimate confrontation with your greatest enemy. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/crusader_no_regret). ❞
 >
@@ -281,7 +281,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Puzzle elements • Rail shooter • Cyberpunk • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ In a future where global terrorists rule and mankind lives on the brink of destruction, the ultimate doomsday device has just been discovered beneath the frozen wasteland of the Northern Asia. Codenamed Cyberia, it was designed in an era of long forgotten peace by the most brilliant minds in nano and cybernetic technology. In an ancient world of hope, it was to be the ultimate protector of a new order. In 2027, it stands as the instrument of humanity's destruction. ❞
+> ❝ The world is under the dominion of two opposing superpowers, the First World Alliance (FWA) in the west and the Cartel in the east. The leader of the FWA, receives word that a devastating weapon is being produced in a secret base in Siberia, referred to as the Cyberia Complex. It was designed in an era of long forgotten peace by the most brilliant minds in nano and cybernetic technology. In an ancient world of hope, it was to be the ultimate protector of a new order. In 2027, it stands as the instrument of humanity's destruction. You are Zak Kingston, tasked to infiltrate the Complex and retrieve any intel on the weapon production. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/cyberia) and [Steam 💰](https://store.steampowered.com/app/624080/Cyberia/). ❞
 >
@@ -302,7 +302,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Behind view • Rail shooter • Cyberpunk ┃ **Media** ‣ CD-ROM 
 >
-> ❝ In Cyberia2, the player once again takes the role of master cyber hacker Zak Kingston. After spending three years in cryonic hibernation, Zak has been mysteriously revived by a band of rebels bent on employing his services for a series of covert missions that will bring down the Free World Alliance (FWA) once and for all. ❞
+> ❝ In Cyberia 2, the player takes the role of master cyber hacker Zak Kingston. After spending three years in cryonic hibernation, Zak has been mysteriously revived by a band of rebels bent on employing his services for a series of covert missions that will bring down the Free World Alliance (FWA) once and for all. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/cyberia_2_resurrection) and [Steam 💰](https://store.steampowered.com/app/717720/Cyberia_2_Resurrection/). ❞
 >
@@ -344,7 +344,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Top-down • Board game • Fighting • Fantasy ┃ **Media** ‣ Floppy Disk ┃ **Patched • Copy Protection** 
 >
-> ❝ You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in Dark Legions has its strengths and weaknesses. Use them well you will be victorious; if you fail, abject humiliation will be the least of your worries. ❞
+> ❝ You fight for universal power with the aid of the dark citizens from the Tahr Carog world. Similarly, your opponent uses his army of creatures to fight you. Each character type in Dark Legions has its strengths and weaknesses. Use them well - you will be victorious. If you fail, abject humiliation will be the least of your worries. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/dark_legions). ❞
 >
@@ -386,7 +386,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Platform • Shooter • Sci-fi ┃ **Media** ‣ Compressed Package 
 >
-> ❝ After drifting off to sleep late one night at the planetary base, Jacek woke to discover that his unit had lost all its power. Climbing the darkened stairway, he found that alien beings had invaded the HQ and killed all humans - including his wife and children! Only his friend Placek remained, and together they escaped to another planet. Now it is time for revenge. Spending all his insurance money, Jacek underwent many costly operations giving him superhuman strength and senses. He armed himself with weapons and set out for the conquered station. Jacek is unaware that the aliens have rebuilt the station with numerous security systems built to keep him out. Can you help our hero? ❞
+> ❝ After drifting off to sleep late one night at the planetary base, Jacek woke to discover that his unit had lost all its power. Climbing the darkened stairway, he found that alien beings had invaded the HQ and killed all humans - including his wife and children! Only his friend Placek remained, and together they escaped to another planet. Now, it is time for revenge. Spending all his insurance money, Jacek underwent many costly operations, giving him superhuman strength and senses. He armed himself with weapons and set out for the conquered station. Jacek is unaware that the aliens have rebuilt the station with numerous security systems built to keep him out. Can you help our hero? ❞
 >
 > ❝ Though initially offered under a shareware license, the game was released as freeware by the developer on June 25, 2006, under the Creative Commons Attribution-ShareAlike 2.5 license. ❞ — *Wikipedia*
 >
@@ -569,7 +569,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Flight • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed as you unfurl the magic carpet and battle hordes of vile creatures in your quest to purge the NETHERWORDLS of evil. ❞
+> ❝ Absolute Darkness enshrouds the city, revealing a gateway to indescribable evil. Through this portal, you must descend to defeat the Demon Lord and his minions. Once more, your fate is sealed by the Demon as you unfurl the magic carpet and battle hordes of vile creatures to purge the Netherworlds of evil. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet_2_the_netherworlds). ❞
 >
@@ -590,7 +590,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Flight • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
 >
-> ❝ You're flying just feet above real landscapes. There's a dragon in front of you, kilter crabs behind and some guy on another carpet cutting you to ribbons. Not enough power for the accelerate spell. Damn. Looks like you're going to have to fight this one out. ❞
+> ❝ Wizards discovered how to extract mana from nature. And though it initially had beneficial uses, the quest for it made the lands barren. Worse, many corrupt wizards began turning to mana for their nefarious purposes, eventually leading to war. The battling wizards began using more destructive spells and summoning deadly monsters, which often turned against them. One wizard hoped to end everything with an all-powerful magic spell but instead only left the worlds shattered. Only his apprentice survived. His goal is to restore the worlds to equilibrium. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/magic_carpet). ❞
 >
@@ -611,7 +611,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Arcade • Platform • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
+> ❝ Near the end of his life, Dr Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
 >
 > ❝ This game **is not abandonware 🚫**. The **Mega Man X Legacy Collection** release is available on [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/). ❞
 >
@@ -653,7 +653,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Arcade • Fighting • Mecha • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Governments are puppets to big corporations and the largest corporation being “World Aeronautics and Robotics” (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
+> ❝ Governments are puppets to big corporations. One of the largest corporations is "World Aeronautics and Robotics" (WAR). If you want to get ahead in the competitive corporate corridors of WAR, you need to master the use of human-assisted robots (HARs). These gigantic robots' purposes include defence and controlling far-flung planetary outposts. The next outpost up for colonization is Jupiter's moon Ganymede. The highly-paid job as pilot of the WAR representative will compete fiercely, and you must qualify for the position by proving your worth in the arena. It will be the grandest one-on-one combat since the Roman Era. ❞
 >
 > ❝ In February 1999, the game was declared freeware by the developers. ❞ — *Wikipedia*
 >
@@ -758,7 +758,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
 >
-> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+> ❝ It is the dawn of the Rebellion. The Old Republic: gone, The Senate: abolished, The Jedi Knights: exterminated. Now, the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
 >
 > ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >
@@ -779,7 +779,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Shooter • Sci-fi ┃ **Media** ‣ Compressed Package 
 >
-> ❝ Deep within the Andromeda galaxy, the people of Zile grow restless and greedy. The Zilions secretly prepare for a massive strike against the nearby planet Ytima. Fearing such an attack, the Ytimians train an elite squad of “Stargunners.” Their mission: To strike the Zilions' three strongholds, where the Zilion war fleets await the launch order. Good will triumph if the Stargunners can surprise the Zilions and destroy most of their fleet. ❞
+> ❝ Deep within the Andromeda galaxy, the people of Zile grow restless and greedy. The Zilions secretly prepare for a massive strike against the nearby planet Ytima. Fearing such an attack, the Ytimians train an elite squad of "Stargunners." Their mission: To strike and wipe out the Zilions' three strongholds, where the Zilion war fleets await the launch order. Good will triumph if the Stargunners can surprise the Zilions and destroy most of their fleet. ❞
 >
 > ❝ On June 22, 2005, Stargunner was released as freeware. ❞ — *Wikipedia*
 >
@@ -821,7 +821,7 @@
 >
 > 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Side view • Platform ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 >
-> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio's turf — six movie sets packed with robots, electrified floors, doors that aren't there and walls coated with a chemical that keeps Spidey's webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
+> ❝ The evil Mysterio is a master of illusions and Hollywood special effects. When he lures Spider-Man into a movie studio to rescue Mary Jane Parker, he has Spider-Man right where he wants him! Spider-Man is fighting on Mysterio's turf - six movie sets packed with robots, electrified floors, doors that aren't there and walls coated with a chemical that keeps Spidey's webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes! ❞
 >
 >
 > </td></tr></table>

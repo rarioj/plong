@@ -94,7 +94,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Cyberpunk • Oceania ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone, save for a robot circuit board; Foster must fight for survival and discover the sinister truth behind this abduction. ❞
+> ❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone with a robot circuit board, Foster must fight for survival and discover the sinister truth behind this abduction. ❞
 >
 > ❝ The game was made available as freeware – and with the source code released – for PC platforms in 2003. ❞ — *Wikipedia*
 >
@@ -136,7 +136,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar • Horror ┃ **Media** ‣ Compressed Package 
 >
-> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny but beware - the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
+> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action-adventure will pique your obsession with horror and intrigue. You are in charge of your destiny. But beware, the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/). ❞
 >
@@ -355,7 +355,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crash land in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
+> ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel, only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crashland in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
 >
 > ❝ In March 2004, the game was released as freeware, and support for it was added to ScummVM, allowing it to be played on Linux, Mac OS X, Windows, and many other operating systems and consoles. ❞ — *Wikipedia*
 >
@@ -416,7 +416,7 @@
 >
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Detective • Horror ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ He started out writing a book on voodoo. Now he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
+> ❝ He started out writing a book on voodoo. Now, he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞
 >
@@ -458,7 +458,7 @@
 >
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Real-time • Graphic adventure • Cyberpunk • Post-apocalyptic • Horror ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story “I Have No Mouth, and I Must Scream”, one of the ten most reprinted stories in the English language. Buried deep within the centre of the Earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
+> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the Earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/). ❞
 >
@@ -500,7 +500,7 @@
 >
 > 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar ┃ **Media** ‣ Floppy Disk 
 >
-> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞
+> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now, Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
 >
@@ -540,7 +540,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you. ❞
+> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia? The Legend of Kyrandia awaits you. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia). ❞
 >
@@ -603,7 +603,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM 
 >
-> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. An exotic parallel universe is terrorized by a Dark Being. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. You are summoned on a rescue mission; lives and worlds hang in the balance. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and desolate world. ❞
+> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. Dark Being terrorized a parallel universe. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. Lives and worlds hang in the balance. Dr. Jeremiah Krick summoned you on a rescue mission. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and barren world. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being). ❞
 >
@@ -759,13 +759,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria: A Puzzle of Flesh")
+> ![](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria 2: A Puzzle of Flesh")
 >
 > </td>
 >
 > <td>
 >
-> ## [Phantasmagoria: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md)
+> ## [Phantasmagoria 2: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md)
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Puzzle elements • Sci-fi • Horror • Romance ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
@@ -956,7 +956,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Post-apocalyptic • Detective ┃ **Media** ‣ CD-ROM 
 >
-> ❝ The Government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes -- find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞
+> ❝ The government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes – find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/). ❞
 >
@@ -977,7 +977,7 @@
 >
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements • Post-apocalyptic • Sci-fi • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. Then a priceless statuette is stolen. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞
+> ❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞
 >
@@ -1019,7 +1019,7 @@
 >
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Steampunk ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 >
-> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
+> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire has expanded throughout the globe, bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
 >
 >
 > </td></tr></table>
@@ -1078,7 +1078,7 @@
 >
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Detective ┃ **Media** ‣ CD-ROM 
 >
-> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion Dr. Watson to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
+> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion, Dr Watson, to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
 >
 >
 > </td></tr></table>

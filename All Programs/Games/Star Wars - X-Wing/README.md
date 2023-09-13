@@ -4,7 +4,7 @@
 
 「**X-Wing**」「**Star Wars: X-Wing - Space Combat Simulator**」「**Star Wars: X-Wing - Collector's CD-ROM**」
 
-> ❝ It is the dawn of the Rebellion. The Old Republic - is gone, The Senate - is abolished, The Jedi Knights - are exterminated. Now the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
+> ❝ It is the dawn of the Rebellion. The Old Republic: gone, The Senate: abolished, The Jedi Knights: exterminated. Now, the Emperor seeks to crush the last remaining opposition. Against the overwhelming might of the Galactic Empire stands a small but growing Rebel Alliance. Scattered resistance groups are uniting, and what is needed most now are Starfighter pilots. Will you join their struggle to end this tyranny and become a hero of the Rebellion? ❞
 >
 > ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_xwing_special_edition) and [Steam 💰](https://store.steampowered.com/app/354430/STAR_WARS__XWing_Special_Edition/). ❞
 >

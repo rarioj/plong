@@ -4,7 +4,7 @@
 
 「**Rockman X**」
 
-> ❝ Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr. Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
+> ❝ Near the end of his life, Dr Light succeeds in creating the first of a new series of robots which will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr Light decides to seal him in a capsule and test his systems until they are totally reliable. The future will have to choose his fate. ❞
 >
 > ❝ This game **is not abandonware 🚫**. The **Mega Man X Legacy Collection** release is available on [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/). ❞
 >

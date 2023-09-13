@@ -2,7 +2,7 @@
 
 # Lighthouse: The Dark Being
 
-> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. An exotic parallel universe is terrorized by a Dark Being. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. You are summoned on a rescue mission; lives and worlds hang in the balance. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and desolate world. ❞
+> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. Dark Being terrorized a parallel universe. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. Lives and worlds hang in the balance. Dr. Jeremiah Krick summoned you on a rescue mission. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and barren world. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being). ❞
 >

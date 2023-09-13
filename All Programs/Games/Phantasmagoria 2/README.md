@@ -1,8 +1,8 @@
 ![](Thumbnail.png "application-thumbnail")
 
-# Phantasmagoria: A Puzzle of Flesh
+# Phantasmagoria 2: A Puzzle of Flesh
 
-「**Phantasmagoria 2**」
+「**Phantasmagoria: A Puzzle of Flesh**」「**Phantasmagoria 2**」
 
 > ❝ Curtis Craig is a quiet young man. He has a steady job and a lovely girlfriend. He's been out of the mental hospital for exactly one year. All Curtis wants is to live a normal-happy life, but something seems to have other plans. Strange events, inexplicable and terrifying, begin happening all-around him, making him doubt his sanity. Then, the murders start, with evidence pointing directly to Curtis. Propelled by desperation and ravening madness, he will discover a secret so bizzare it is beyond human comprehension. ❞
 >
@@ -37,5 +37,5 @@
 - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
 - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
-![](Montage.png "Phantasmagoria: A Puzzle of Flesh")
+![](Montage.png "Phantasmagoria 2: A Puzzle of Flesh")
 
