@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (54)
+# 🗂️ Games ‣ By Genre ‣ Adventure (56)
 
 > <table><tr><td width="255">
 >
@@ -118,6 +118,27 @@
 > ❝ Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life. ❞
 >
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/Thumbnail.png "Broken Sword II: The Smoking Mirror")
+>
+> </td>
+>
+> <td>
+>
+> ## [Broken Sword II: The Smoking Mirror](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Contemporary • Europe • South America • Detective ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Plunge into a shadowy conspiracy world where the schemes of a mad drug kingpin and the prophesized return of an ancient Mayan god clash in what could be the end of the world. Race around the globe with George as he frantically attempts to free Nico, his investigative reporter girlfriend, from the clutches of Karzac's crime cartel. Guide Nico and George as they unravel the dark mysteries that lead them closer and closer to an ancient horror best left buried in the steamy jungles of Central America. Gather clues and make friends, but beware - a smiling face can hide a deadly obstacle in your quest to stop the return of "he who devours the sun and consumes the flesh of all mankind", the mighty Mayan God, Tezcatlipoca. ❞
+>
+> ❝ This game **is not abandonware 🚫**. The **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) and [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/). ❞
 >
 >
 > </td></tr></table>
@@ -833,6 +854,27 @@
 > ❝ Grab your nightstick, squeal like a siren, and Hit the Road with Sam & Max, Freelance Police, as they attempt to crack their case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure. Help our frightening, furry flatfoots find the fugitive freak! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Sanitarium/Thumbnail.png "Sanitarium")
+>
+> </td>
+>
+> <td>
+>
+> ## [Sanitarium](../../../All%20Programs/Games/Sanitarium/README.md)
+>
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Graphic adventure • Puzzle elements • Horror ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Spiralling upwards out of the vacuum, you open your eyes and struggle to comprehend your environment. Underneath you, the springs of an institutional cot sink almost to the floor. The mattress is roughly the thickness of a paper towel and reeks of affliction. Vague memories assault you, a hurried phone call, a message of utmost importance, and a car losing control. As you wake up with a throbbing head, you hear people screaming, sobbing, laughing manically in the background. Is it a nightmare? Are you insane? Is it a reality? Maybe this is death. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sanitarium) and [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/). ❞
 >
 >
 > </td></tr></table>

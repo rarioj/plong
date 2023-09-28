@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Freeware (27)
+# 🗂️ Games ‣ By License ‣ Freeware (28)
 
 > <table><tr><td width="255">
 >
@@ -410,6 +410,25 @@
 > ❝ Shake hands, kiss babies and do not let monsters destroy your city! So you want to be Mayor? Well, now is your opportunity! Begin with empty land, start a town, name it after yourself, and build it into a city. See if you can sustain enough growth to expand your city into a megalopolis! As Mayor, you have the tools to overcome any challenge. Whether taxes, zoning, crime, transportation, fire control, pollution, natural disasters, or other critical issues, the duties of the Mayor are yours. For a change of pace, try saving a city burdened with problems by playing one of the eight built-in scenarios. Time is passing, and every decision you make has future consequences - so get to work! ❞
 >
 > ❝ In January 2008, the SimCity source code was released as free software under the GPL-3.0-or-later license, renamed to Micropolis (the original working title) for trademark reasons, and developed by Don Hopkins. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/StarCraft%20-%20Anthology/Thumbnail.png "StarCraft: Anthology")
+>
+> </td>
+>
+> <td>
+>
+> ## [StarCraft: Anthology](../../../All%20Programs/Games/StarCraft%20-%20Anthology/README.md)
+>
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Freeware ┃ **Category** ‣ Diagonal-down • Real-time • Real-time strategy • Sci-fi • War ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞
 >
 >
 > </td></tr></table>

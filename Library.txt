@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.9c
+# library-version: 23.9d
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -319,6 +319,135 @@
 # file: Template-Program-Win31.txt = # code: echo "Hello, World!"
 #
 #
+# file: Template-Program-Win98.txt = # vim: filetype=ini:syntax=dosini
+# file: Template-Program-Win98.txt = #
+# file: Template-Program-Win98.txt = ###### Program properties
+# file: Template-Program-Win98.txt = # asset-verify: 1
+# file: Template-Program-Win98.txt = # thumbnail-file: Thumbnail.png
+# file: Template-Program-Win98.txt = # thumbnail-source: Assets/coverart.jpg
+# file: Template-Program-Win98.txt = # thumbnail-width: 250
+# file: Template-Program-Win98.txt = # montage-file: Montage.png
+# file: Template-Program-Win98.txt = # montage-grid: 5
+# file: Template-Program-Win98.txt = # montage-width: 1000
+# file: Template-Program-Win98.txt = #
+# file: Template-Program-Win98.txt = ###### DOSBox variant compatibility
+# file: Template-Program-Win98.txt = ### 🟩 Fully supported
+# file: Template-Program-Win98.txt = ### 🟨 Runnable with issues
+# file: Template-Program-Win98.txt = ### 🟥 Unsupported, unplayable, or broken
+# file: Template-Program-Win98.txt = ### ⬜ Untested
+# file: Template-Program-Win98.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: Template-Program-Win98.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: Template-Program-Win98.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) = <version> 🟩🟨🟥⬜
+# file: Template-Program-Win98.txt = #
+# file: Template-Program-Win98.txt = # snapshot: ../../Systems/Windows 98SE
+# file: Template-Program-Win98.txt = # name: Program Name
+# file: Template-Program-Win98.txt = # name: <alias>
+# file: Template-Program-Win98.txt = # info: This is a program configuration file template. Enter program description here.
+# file: Template-Program-Win98.txt = # tag: Year = YYYY
+# file: Template-Program-Win98.txt = # tag: Genre = Action • Adventure • Educational • Gambling • Idle • Puzzle • Racing • Role-playing • Simulation • Sports • Strategy
+# file: Template-Program-Win98.txt = # tag: Platform = Windows 98SE
+# file: Template-Program-Win98.txt = # tag: License = Abandonware / Shareware / Freeware / Demo / Unlicensed / Discontinued / Proprietary
+# file: Template-Program-Win98.txt = # tag: Category = <Perspective> • <Pacing> • <Gameplay> • <Sports> • <Educational> • <Vehicular> • <Setting> • <Narrative> • <Other>
+# file: Template-Program-Win98.txt = # tag: Media = Compressed Package / CD-ROM / Floppy Disk
+# file: Template-Program-Win98.txt = # tag: Patched • Add-on • Compilation • Extras • Copy Protection • No Manual • Extra Command
+# file: Template-Program-Win98.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+# file: Template-Program-Win98.txt = # site: [MobyGames](https://www.mobygames.com/)
+# file: Template-Program-Win98.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/)
+# file: Template-Program-Win98.txt = # site: [MyAbandonware](https://www.myabandonware.com/)
+# file: Template-Program-Win98.txt = # site: [Where to buy? 💰🆓](https://)
+# file: Template-Program-Win98.txt = #
+# file: Template-Program-Win98.txt = # text: ## Installation Notes
+# file: Template-Program-Win98.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: Template-Program-Win98.txt = # text: - Important points:
+# file: Template-Program-Win98.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: Template-Program-Win98.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: Template-Program-Win98.txt = # text:   - Always pick the largest installation size when prompted.
+# file: Template-Program-Win98.txt = # text:   - Things to do at installation (e.g. setting up audio/video configuration).
+# file: Template-Program-Win98.txt = # text:
+# file: Template-Program-Win98.txt = # text: ## Additional Notes
+# file: Template-Program-Win98.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: Template-Program-Win98.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+# file: Template-Program-Win98.txt = # text: - Things to do after installation or during the program run (e.g. in-game settings, post-installation tasks, etc).
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [sdl]
+# file: Template-Program-Win98.txt = #fullscreen = true
+# file: Template-Program-Win98.txt = #fullresolution = original
+# file: Template-Program-Win98.txt = #windowresolution = 1024x768
+# file: Template-Program-Win98.txt = #windowposition = ,
+# file: Template-Program-Win98.txt = #output = opengl
+# file: Template-Program-Win98.txt = autolock = true
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [dosbox]
+# file: Template-Program-Win98.txt = #machine = vesa_nolfb
+# file: Template-Program-Win98.txt = memsize = 512
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [render]
+# file: Template-Program-Win98.txt = #aspect = true
+# file: Template-Program-Win98.txt = #aspect_ratio = -1:-1
+# file: Template-Program-Win98.txt = scaler = none
+# file: Template-Program-Win98.txt = #autofit = false
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [video]
+# file: Template-Program-Win98.txt = vmemsize = 8
+# file: Template-Program-Win98.txt = vesa modelist width limit = 0
+# file: Template-Program-Win98.txt = vesa modelist height limit = 0
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [cpu]
+# file: Template-Program-Win98.txt = core = dynamic_x86
+# file: Template-Program-Win98.txt = cputype = pentium_mmx
+# file: Template-Program-Win98.txt = cycles = max
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [sblaster]
+# file: Template-Program-Win98.txt = sbtype = sb16vibra
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [dos]
+# file: Template-Program-Win98.txt = hard drive data rate limit = 0
+# file: Template-Program-Win98.txt = floppy drive data rate limit = 0
+# file: Template-Program-Win98.txt = ver = 7.1
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [ide, primary]
+# file: Template-Program-Win98.txt = int13fakeio = true
+# file: Template-Program-Win98.txt = int13fakev86io = true
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [ide, secondary]
+# file: Template-Program-Win98.txt = int13fakeio = true
+# file: Template-Program-Win98.txt = int13fakev86io = true
+# file: Template-Program-Win98.txt = cd-rom insertion delay = 4000
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [fdc, primary]
+# file: Template-Program-Win98.txt = int13fakev86io = false
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = [autoexec]
+# file: Template-Program-Win98.txt = @ECHO OFF
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = IMGMOUNT C "./drive/hdd.img"
+# file: Template-Program-Win98.txt = #IMGMOUNT A "./Assets/disk.img" -t floppy
+# file: Template-Program-Win98.txt = #IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: Template-Program-Win98.txt = #MOUNT X "./Assets"
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = BOOT C:
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = :F_EXIT
+# file: Template-Program-Win98.txt = EXIT
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = :F_DEBUG
+# file: Template-Program-Win98.txt
+# file: Template-Program-Win98.txt = # asset: coverart.jpg = https://cdn.mobygames.com/
+# file: Template-Program-Win98.txt = # check: coverart.jpg = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win98.txt = # asset: cdrom.bin = https://archive.org/
+# file: Template-Program-Win98.txt = # check: cdrom.bin = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win98.txt = # asset: manual.pdf = https://archive.org/
+# file: Template-Program-Win98.txt = # check: manual.pdf = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win98.txt = # asset: patch.zip = https://archive.org/
+# file: Template-Program-Win98.txt = # check: patch.zip = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# file: Template-Program-Win98.txt = #
+# file: Template-Program-Win98.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: Template-Program-Win98.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: Template-Program-Win98.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: Template-Program-Win98.txt = #
+# file: Template-Program-Win98.txt = # code: echo "Hello, World!"
+#
+#
 # file: All Programs/Games/3 Skulls of the Toltecs/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/3 Skulls of the Toltecs/Program.txt = #
 # file: All Programs/Games/3 Skulls of the Toltecs/Program.txt = # name: 3 Skulls of the Toltecs
@@ -574,6 +703,108 @@
 # file: All Programs/Games/Abuse/Program.txt = # check: cdrom.iso = 7bc0ba22664b256f93737562d98db52384ad532b4bade3a83f480a12093c7353
 # file: All Programs/Games/Abuse/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/kjj-abuse
 # file: All Programs/Games/Abuse/Program.txt = # check: manual.pdf = 70628e82242eed1e1bb1a4fa35a928369c590351f7dc5f8033ef63700f185094
+#
+#
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = #
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = #
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # name: Age of Empires: Gold Edition
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # name: Age of Empires = Base
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # name: Age of Empires: The Rise of Rome = Add-on
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # info: How will you rule the world? Conquer enemy civilisations? Discover the world's secrets? Accumulate wealth? As the guiding spirit of a Stone Age tribe, follow one of these paths to build the greatest nation on earth. Age of Empires: choose your favourite form of world domination.
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # info: This game **is not abandonware 🚫**. The **Definitive Edition** release is available on [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/).
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time strategy • Africa • Classical antiquity • Egypt • Europe • Historical events • Middle East
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Compilation
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # site: Age of Empires = [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)) • [MobyGames](https://www.mobygames.com/game/384/age-of-empires/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Age+of+Empires&gid=1865) • [MyAbandonware](https://www.myabandonware.com/game/age-of-empires-3fw) • [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # site: Age of Empires: The Rise of Rome = [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)#The_Rise_of_Rome) • [MobyGames](https://www.mobygames.com/game/1249/age-of-empires-the-rise-of-rome/) • [MyAbandonware](https://www.myabandonware.com/game/age-of-empires-the-rise-of-rome-a48) • [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires:_The_Rise_of_Rome)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # site: Age of Empires: Gold Edition = [MobyGames](https://www.mobygames.com/game/1512/age-of-empires-gold-edition/)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Age_of_Empires)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # site: Definitive Edition = [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/)
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = #
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text: - Important points:
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text:   - Always pick the largest installation size when prompted.
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text:
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [sdl]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = autolock = true
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [dosbox]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = memsize = 512
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [render]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = scaler = none
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [video]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = vmemsize = 8
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [cpu]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = cycles = max
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [sblaster]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [dos]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = ver = 7.1
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [ide, primary]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = int13fakeio = true
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [ide, secondary]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = int13fakeio = true
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [fdc, primary]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = [autoexec]
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = @ECHO OFF
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = BOOT C:
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = :F_EXIT
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = EXIT
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = :F_DEBUG
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5795077-age-of-empires-gold-edition-windows-front-cover.jpg
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # check: coverart.jpg = 8539f11d76a5f817e80c44d6b9339df7b5c715ee79dd094133e0e8673fc20a33
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # asset: cdrom.bin = https://archive.org/download/aoe-pc-redump/AOE-PC-REDUMP/Age%20of%20Empires%20-%20Gold%20Edition%20%28World%29%20%28Rerelease%29.zip/Age%20of%20Empires%20-%20Gold%20Edition%20%28World%29%20%28Rerelease%29.bin
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # check: cdrom.bin = f2f4079a79d19dd1a1cad9be2b11c7ed0861295ea6922bc282fe3843fcabcecf
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # asset: manual.pdf = https://archive.org/download/age-of-empires-collectors-edition_AoE/Age%20of%20Empires.pdf
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # check: manual.pdf = 4c284076d1b39e87e632e4a9d1607d88404f0c9835230ac2b970e52ee3eb639c
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # asset: refcard.pdf = https://www.myabandonware.com/download/gg3-age-of-empires
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # check: refcard.pdf = 2adbf115c2d2d00bb03420f6b2b51c114a4d68f3daf5d0fb40a7b165e45f441b
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # asset: guide.pdf = https://www.myabandonware.com/download/kg6-age-of-empires
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # check: guide.pdf = d7da2f8f23e967079dcc1113798be89f658ba09b8ed1b4a446076256e214365f
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = #
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/Alien Carnage/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -2574,6 +2805,115 @@
 # file: All Programs/Games/Broken Sword - The Shadow of the Templars/Program.txt = # code: if [[ ! -f "./Assets/cdrom02.iso" ]]; then cd ./Assets && mdf2iso cdrom02.mdf; else true; fi
 #
 #
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = #
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = #
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # name: Broken Sword II: The Smoking Mirror
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # name: Broken Sword: The Smoking Mirror
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # name: Circle of Blood II
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # name: Broken Sword 2
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # info: Plunge into a shadowy conspiracy world where the schemes of a mad drug kingpin and the prophesized return of an ancient Mayan god clash in what could be the end of the world. Race around the globe with George as he frantically attempts to free Nico, his investigative reporter girlfriend, from the clutches of Karzac's crime cartel. Guide Nico and George as they unravel the dark mysteries that lead them closer and closer to an ancient horror best left buried in the steamy jungles of Central America. Gather clues and make friends, but beware - a smiling face can hide a deadly obstacle in your quest to stop the return of "he who devours the sun and consumes the flesh of all mankind", the mighty Mayan God, Tezcatlipoca.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # info: This game **is not abandonware 🚫**. The **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) and [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/).
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Category = 3rd-person • Graphic adventure • Puzzle elements • Contemporary • Europe • South America • Detective
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1133/broken-sword-the-smoking-mirror/)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword+2%3A+The+Smoking+Mirror&gid=2924)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/broken-sword-the-smoking-mirror-d3l)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [Fandom](https://brokensword.fandom.com/wiki/Broken_Sword_II:_The_Smoking_Mirror)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Broken_Sword)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: Remastered = [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: Remastered = [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/)
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = #
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: - Important points:
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text:   - Always pick the largest installation size when prompted.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text:
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text:   1. Broken Sword: The Smoking Mirror Disc #1
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text:   2. Broken Sword: The Smoking Mirror Disc #2
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [sdl]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = autolock = true
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [dosbox]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = memsize = 512
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [render]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = scaler = none
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [video]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = vmemsize = 8
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [cpu]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = cycles = max
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [sblaster]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [dos]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = ver = 7.1
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [ide, primary]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = int13fakeio = true
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [ide, secondary]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = int13fakeio = true
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [fdc, primary]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = [autoexec]
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = @ECHO OFF
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = IMGMOUNT D "./Assets/cdrom01.cue" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = IF NOT EXIST X:\MANUAL.PDF COPY D:\MANUAL.PDF X:\MANUAL.PDF
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = BOOT C:
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = :F_EXIT
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = EXIT
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = :F_DEBUG
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4140580-broken-sword-the-smoking-mirror-windows-front-cover.jpg
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # check: coverart.jpg = 84d46d0d377192c5afbf314d073ff58ef97082f75a7ef2467505db76618df379
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # asset: cdrom01.bin = https://archive.org/download/broken-sword-ii-the-smoking-mirror-1997.w/RBSII1.BIN
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # check: cdrom01.bin = c98a7c278fbb93dc6b0afc8da12b81dd50b88982bdc5208c71ae530b4c9c755b
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # asset: cdrom02.iso = https://archive.org/download/broken-sword-ii-the-smoking-mirror-1997.w/RBSII2.ISO
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # check: cdrom02.iso = f6d29e46092aa4b876ddd766a174e40e9cd588dc8e5004c312d72bbfd2afe943
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = #
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01.bin" BINARY
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # file: Assets/cdrom01.cue =   TRACK 01 MODE2/2352
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Cadaver/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Cadaver/Program.txt = #
 # file: All Programs/Games/Cadaver/Program.txt = # name: Cadaver
@@ -3364,6 +3704,215 @@
 # file: All Programs/Games/Command & Conquer - Red Alert/Program.txt = # file: Assets/am.ins = Command & Conquer: Red Alert - The Aftermath Installed
 #
 #
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = #
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = #
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # name: Commandos: Behind Enemy Lines
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # name: Commandos
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # info: Engage in the ultimate battle of wits and wills, commanding the ruthless military force in history. Set in the backdrop of WWII, Commandos is a real-time tactical wargame that puts you in command of a squad of elite Allied Commandos whose job is to complete 24 dangerous missions behind enemy lines. Intercept the German war effort using sabotage and tactical genius.
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/6800/Commandos_Behind_Enemy_Lines/) and [Zoom 💰](https://www.zoom-platform.com/product/commandos-behind-enemy-lines). The **Commandos Ammo Pack** release is available on [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack).
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Year = 1998
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time tactics • Stealth • Africa • Europe • Historical events • World War II • War
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/976/commandos-behind-enemy-lines/)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Commandos%3A+Behind+Enemy+Lines&gid=2415)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/commandos-behind-enemy-lines-d4i)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [Fandom](https://commandos.fandom.com/wiki/Commandos:_Behind_Enemy_Lines)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Commandos_(series))
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/6800/Commandos_Behind_Enemy_Lines/)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/commandos-behind-enemy-lines)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: Commandos Ammo Pack = [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack)
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = #
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text: - Important points:
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text:   - Always pick the largest installation size when prompted.
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text:
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [sdl]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = autolock = true
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [dosbox]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = memsize = 512
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [render]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = scaler = none
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [video]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = vmemsize = 8
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [cpu]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = cycles = max
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [sblaster]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [dos]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = ver = 7.1
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [ide, primary]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = int13fakeio = true
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [ide, secondary]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = int13fakeio = true
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [fdc, primary]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = [autoexec]
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = @ECHO OFF
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = BOOT C:
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = :F_EXIT
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = EXIT
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = :F_DEBUG
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5472667-commandos-behind-enemy-lines-windows-front-cover.jpg
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # check: coverart.jpg = f5d9f0c64887f2e439513a8c8467f1f943a65674bec4d4f324f56c723af0d6ca
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # asset: cdrom.bin = https://archive.org/download/Eidos_Commandos_Behind_Enemy_Lines_Win95_1998_Eng/Eidos-CommandosBehindEnemyLines-Win95.bin
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # check: cdrom.bin = ca8434079faa3065cbdd87416657dfa605c1d87a38e4a17664e7ce9e1b4b6c47
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # asset: manual.pdf = https://archive.org/download/Commandos_Behind_Enemy_Lines/Commandos_Behind_Enemy_Lines.pdf
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # check: manual.pdf = ea48be1e671002b7e427bf70ad759af46adf7c710d07f4b838a861d23d2423f2
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # asset: guide.pdf = https://archive.org/download/CommandosBehindEnemyLines_1998/Commandos_Behind_Enemy_Lines_Prima_Official_eGuide.pdf
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # check: guide.pdf = 555ae8de4aedf6c91873a16bedaf7e3de477a9574e0a48068d7387e97f7744e9
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = #
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 71:16:70
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 75:34:00
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 MODE1/2352
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 75:58:00
+#
+#
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = #
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = #
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # name: Commandos: Beyond the Call of Duty
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # info: You now mobilise in a series of eight new dangerous missions. You may come with experience of action "Behind Enemy Lines", or perhaps you are a rookie. You will have the opportunity to push your daring and tactical ability to the limit. As the leader of a small elite unit operating deep within enemy territory, you will experience new challenges and goals within these new missions.
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/6810/Commandos_Beyond_the_Call_of_Duty/) and [Zoom 💰](https://www.zoom-platform.com/product/commandos-beyond-the-call-of-duty). The **Commandos Ammo Pack** release is available on [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack).
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Year = 1999
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time tactics • Stealth • Europe • Historical events • World War II • War
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines#Expansion)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/978/commandos-beyond-the-call-of-duty/)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Commandos%3A+Beyond+the+Call+of+Duty&gid=2416)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/commandos-beyond-the-call-of-duty-d4j)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [Fandom](https://commandos.fandom.com/wiki/Commandos:_Beyond_the_Call_of_Duty)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Commandos_(series))
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/6810/Commandos_Beyond_the_Call_of_Duty/)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/commandos-beyond-the-call-of-duty)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: Commandos Ammo Pack = [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack)
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = #
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text: - Important points:
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text:   - Always pick the largest installation size when prompted.
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text:
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [sdl]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = autolock = true
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [dosbox]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = memsize = 512
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [render]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = scaler = none
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [video]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = vmemsize = 8
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [cpu]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = cycles = max
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [sblaster]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [dos]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = ver = 7.1
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [ide, primary]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = int13fakeio = true
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [ide, secondary]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = int13fakeio = true
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [fdc, primary]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = [autoexec]
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = @ECHO OFF
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = BOOT C:
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = :F_EXIT
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = EXIT
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = :F_DEBUG
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4861635-commandos-beyond-the-call-of-duty-windows-front-cover.jpg
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # check: coverart.jpg = 3db81771121b156cb1258cf9c887f03ec77cac195641bdc9bd8d87f07f9a91ca
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # asset: cdrom.bin = https://archive.org/download/commandosbeyondthecallofdutyeurope/Commandos%20-%20Beyond%20the%20Call%20of%20Duty%20%28Europe%29.zip/Commandos%20-%20Beyond%20the%20Call%20of%20Duty%20%28Europe%29.bin
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # check: cdrom.bin = 6681bb48da8b94c3358a2ec63e51095101e6a0a1f23bf6fd85ababc64a0a1b67
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # asset: manual.pdf = https://archive.org/download/commandos-beyond-the-call-of-duty/commandos%20beyond%20the%20call%20of%20duty.pdf
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # check: manual.pdf = d6cde677ece7b4f3ac06a9c2674772b5630215a712db4313f79b29bd686d5c36
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = #
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Crusader - No Regret/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Crusader - No Regret/Program.txt = #
 # file: All Programs/Games/Crusader - No Regret/Program.txt = # name: Crusader: No Regret
@@ -4108,6 +4657,102 @@
 # file: All Programs/Games/Deadlock - Planetary Conquest/Program.txt = # check: cdrom.iso = 168489d0f4e3c65ecd2ee149ba372c61244412a8f77c2f6e468c5e104bc8bda1
 #
 #
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = #
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = #
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # name: Deadlock II: Shrine Wars
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # name: Deadlock 2
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # info: Ancient and mysterious Shrines reveal the location of an extinct alien homeworld. Discovered in the aftermath of the Gallius IV war, these Shrines unlock the most powerful technology in the universe. Now, seven interstellar empires must battle to establish their colonies and attempt to piece together the ancient secrets of a lost world.
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_2_shrine_wars) and [Steam 💰](https://store.steampowered.com/app/328450/Deadlock_II_Shrine_Wars/).
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Year = 1998
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Category = Diagonal-down • 4X • Managerial • Turn-based strategy • Sci-fi
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Deadlock_II:_Shrine_Wars)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2298/deadlock-ii-shrine-wars/)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/deadlock-ii-shrine-wars-cwe)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/deadlock_2_shrine_wars)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/328450/Deadlock_II_Shrine_Wars/)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: Game Manual = [Dropbox](https://www.dropbox.com/s/4hzzdxkxvusyjad/Deadlock_II_-_Manual%5B1%5D.pdf)
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = #
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text: - Important points:
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text:   - Always pick the largest installation size when prompted.
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text:
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # text: - The Manual PDF document provided in the CD-ROM is incomplete or mostly blank pages. Download the document separately from this [link](https://www.dropbox.com/s/4hzzdxkxvusyjad/Deadlock_II_-_Manual%5B1%5D.pdf).
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [sdl]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = autolock = true
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [dosbox]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = memsize = 512
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [render]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = scaler = none
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [video]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = vmemsize = 8
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [cpu]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = cycles = max
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [sblaster]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [dos]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = ver = 7.1
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [ide, primary]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = int13fakeio = true
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [ide, secondary]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = int13fakeio = true
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [fdc, primary]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = [autoexec]
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = @ECHO OFF
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = IF NOT EXIST X:\TUTORIAL.PDF COPY D:\MANUAL\DE2CDTUT.PDF X:\TUTORIAL.PDF
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = BOOT C:
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = :F_EXIT
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = EXIT
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = :F_DEBUG
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3939833-deadlock-ii-shrine-wars-windows-front-cover.jpg
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # check: coverart.jpg = 166c27b82ad31bb8a390dbea3acdc69d463c77a3b3498532956cf5cecebc020b
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # asset: cdrom.iso = https://archive.org/download/cdrom_Deadlock_II_Shrine_Wars_accolade_1997/DEADLOCK_2.ISO
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # check: cdrom.iso = 13a5d87d093d14a4faa536526cb449779b73a7c891333cde7f1177784236bb63
+#
+#
 # file: All Programs/Games/Death Gate/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Death Gate/Program.txt = #
 # file: All Programs/Games/Death Gate/Program.txt = # name: Death Gate
@@ -4236,6 +4881,127 @@
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = #
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = #
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # name: Diablo + Hellfire
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # name: Diablo = Base
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # name: Diablo: Hellfire = Add-on
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # info: Diablo = Vengeance, power, intellect and magic are the tools you will need to battle the Lord of All Evil, Diablo. Embark, if you dare, upon a dark and sinister quest that will pull you into the very depths of Hell itself and beyond.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # info: Hellfire = Hellfire introduces players to new quests revolving around a powerful demon known as Na-Krul. A creature who once served as Diablo's chief minion and ally, Na-Krul and his cohorts rebelled against Diablo and, after a failed attempt to overthrow their master, were banished to the Void. Freed by an evil sorcerer, Na-Krul has set up command in the ancient Demon Crypts and has once again started his plans to destroy Diablo and spread the evils of Hell throughout the world. Gathering together a small army of never-before-seen monsters, Na-Krul poses an even more threat than Diablo.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/diablo).
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Year (Hellfire) = 1997
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Genre = Role-playing
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Category = Diagonal-down • Action RPG • Hack and slash • Fantasy
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Patched • Compilation
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # site: Diablo = [Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game)) • [MobyGames](https://www.mobygames.com/game/339/diablo/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Diablo&gid=2379) • [MyAbandonware](https://www.myabandonware.com/game/diablo-3it) • [Fandom](https://diablo.fandom.com/wiki/Diablo_(Game))
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # site: Hellfire = [Wikipedia](https://en.wikipedia.org/wiki/Diablo:_Hellfire) • [MobyGames](https://www.mobygames.com/game/1462/hellfire/) • [MyAbandonware](https://www.myabandonware.com/game/hellfire-9z8) • [Fandom](https://diablo.fandom.com/wiki/Diablo:_Hellfire)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # site: Diablo + Hellfire = [MobyGames](https://www.mobygames.com/game/1853/diablo-hellfire/)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Diablo_(series))
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/diablo)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = #
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: ## Host Requirements
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Download the **Diablo** patch file manually from [MyAbandonware](https://www.myabandonware.com/game/diablo-3it), search for *"Patch 1.09 English version 2 MB (Windows)"*, place it in the `Assets` directory, and rename it to `pdiablo.zip`.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Download the **Hellfire** patch file manually from [MyAbandonware](https://www.myabandonware.com/game/hellfire-9z8), search for *"Patch 1.01 English version 576 KB (Windows)"*, place it in the `Assets` directory, and rename it to `phell.zip`.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Important points:
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:   - Check all components to be installed when prompted. Ignore demo game installation.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - First install **Diablo** then swap CD-ROM image to **Hellfire** and install the add-on.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Swap CD-ROM image back to **Diablo** to play both the base game and the expansion.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Applying patches:
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:   - A patch for **Diablo v1.09** is available on `C:\PATCH\PDIABLO.ZIP`. Extract the compressed file and run `DRTL109.EXE`.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:   - A patch for **Hellfire v1.01** is available on `C:\PATCH\PHELL.ZIP`. Extract the compressed file and run `HF101.EXE`.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:   1. Diablo (required to be in the CD-ROM drive to play both **Diablo** and **Hellfire**)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text:   2. Hellfire (for installation only)
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [sdl]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = autolock = true
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [dosbox]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = memsize = 512
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [render]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = scaler = none
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [video]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = vmemsize = 8
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [cpu]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = cycles = max
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [sblaster]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [dos]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = ver = 7.1
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [ide, primary]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = int13fakeio = true
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [ide, secondary]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = int13fakeio = true
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [fdc, primary]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = [autoexec]
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = @ECHO OFF
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = IMGMOUNT D "./Assets/cd_diablo.iso" "./Assets/cd_hellfire.iso" -t iso
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = IF NOT EXIST C:\PATCH MD C:\PATCH
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = IF NOT EXIST C:\PATCH\PDIABLO.ZIP IF EXIST X:\PDIABLO.ZIP COPY X:\PDIABLO.ZIP C:\PATCH\PDIABLO.ZIP
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = IF NOT EXIST C:\PATCH\PHELL.ZIP IF EXIST X:\PHELL.ZIP COPY X:\PHELL.ZIP C:\PATCH\PHELL.ZIP
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = IF NOT EXIST X:\MANUAL.PDF COPY D:\MANUAL\DIABLO.PDF X:\MANUAL.PDF
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = BOOT C:
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = :F_EXIT
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = EXIT
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = :F_DEBUG
+# file: All Programs/Games/Diablo + Hellfire/Program.txt
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4251761-diablo-hellfire-windows-front-cover.jpg
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # check: coverart.jpg = 3c42cbdbb6413ed672e4ef91f072bd45c9a8cc272621f0be9703a3a9976d3079
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # asset: cd_diablo.iso = https://archive.org/download/diablohellfire/Diablo.iso
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # check: cd_diablo.iso = dde2713a5f114f479a16d35d5bad21d2422854367334bca2fe75f33454634988
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # asset: cd_hellfire.iso = https://archive.org/download/diablohellfire/Hellfire.iso
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # check: cd_hellfire.iso = b7e5a8a34ce3fa0e18db7af1ad955ea9643d80c15f25a7968b22551a6040208b
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # asset: guide.pdf = https://www.myabandonware.com/download/g22-diablo
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # check: guide.pdf = 8ac28a0765aea56e7201100e49de4368b93d3665d0bafe9abceb89790d60ffd3
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # xxxxx: pdiablo.zip = https://www.myabandonware.com/download/g23-diablo
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # check: pdiablo.zip = 209af9e70149d91e1d2dad6b3fbc48bfc0c49b746154061c0d48461484abe3d5
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # xxxxx: phell.zip = https://www.myabandonware.com/download/g26-hellfire
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # check: phell.zip = a54ad51b5ec1d1c0828a01fe110f4522341d9809b61a7b0d42b18bc3c8275058
 #
 #
 # file: All Programs/Games/Discworld/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -4951,6 +5717,137 @@
 # file: All Programs/Games/Electroman/Program.txt = # check: game.zip = b9cac8edc0708625c70e992f62ed8adacf9013b82eb3b149ecd0b2504dbeac47
 # file: All Programs/Games/Electroman/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Electroman/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = #
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = #
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # name: Emperor of the Fading Suns
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # info: Enter the realm of the Fading Suns and become meshed in a bold, Gothic world where advanced technology has plunged the galaxy into a new Dark Age. Explore, expand, exploit and exterminate in your ruthless quest to unite the planets and attain the crown of Emperor. Nothing less than the future of the Known Worlds hangs in the balance!
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # info: This game **is not abandonware 🚫**. The **Enhanced Edition** release is available on [GOG 💰](https://www.gog.com/en/game/emperor_of_the_fading_suns) and [Zoom 💰](https://zoom-platform.com/product/emperor-of-the-fading-suns-enhanced-edition).
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Category = Top-down • Turn-based • 4X • Managerial • Sci-fi
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Patched
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Emperor_of_the_Fading_Suns)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/789/emperor-of-the-fading-suns/)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Emperor+of+the+Fading+Suns&gid=2395)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # site: Manual = [MyAbandonware](https://www.myabandonware.com/game/emperor-of-the-fading-suns-3zx)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # site: Enhanced Edition = [GOG 💰](https://www.gog.com/en/game/emperor_of_the_fading_suns)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # site: Enhanced Edition = [Zoom 💰](https://zoom-platform.com/product/emperor-of-the-fading-suns-enhanced-edition)
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = #
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: ## Host Requirements
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: - Download a patch file manually from [MyAbandonware](https://www.myabandonware.com/game/emperor-of-the-fading-suns-3zx), search for *"Patch 1.4 English version 13 MB (Windows)"*, place it in the `Assets` directory, and rename it to `patch.zip`.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text:
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: - DirectX is part of the autoplay process, follow along with the installation.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: - Important points:
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: - Applying patches:
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text:   - A patch is available on `C:\PATCH\PATCH.ZIP`. Extract the compressed file and run `SUNS.EXE`.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text:   - Set the patch destination to `C:\EFS`, and overwrite all existing files when prompted.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text:   - Click **No** when prompted to run a certain registry file.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text:
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [sdl]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = autolock = true
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [dosbox]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = memsize = 512
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [render]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = scaler = none
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [video]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = vmemsize = 8
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [cpu]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = cycles = max
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [sblaster]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [dos]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = ver = 7.1
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [ide, primary]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = int13fakeio = true
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [ide, secondary]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = int13fakeio = true
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [fdc, primary]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = [autoexec]
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = @ECHO OFF
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = IF NOT EXIST C:\PATCH MD C:\PATCH
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = IF NOT EXIST C:\PATCH\PATCH.ZIP IF EXIST X:\PATCH.ZIP COPY X:\PATCH.ZIP C:\PATCH\PATCH.ZIP
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = BOOT C:
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = :F_EXIT
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = EXIT
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = :F_DEBUG
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/27025-emperor-of-the-fading-suns-windows-front-cover.jpg
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # check: coverart.jpg = 064d5e86c791778854d071ddaba0a11b0f04a07f4bdf7f3176b37b35a794a2f5
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # asset: cdrom.bin = https://archive.org/download/Emperor_of_the_Fading_Suns_SegaSoft_1996/Emperor%20of%20the%20Fading%20Suns%20%28SegaSoft%29%281996%29.BIN
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # check: cdrom.bin = ba453b4cf589f271fd19cb4990e682c8bc829eaf489597f0ca31bc213fdec75d
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/4jj-emperor-of-the-fading-suns
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # check: manual.pdf = 862a82ef4a862016f8bc8a9568a1b05ebf285884061a198041195fd0a7c0fdb2
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # xxxxx: patch.zip = https://www.myabandonware.com/download/lsw-emperor-of-the-fading-suns
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # check: patch.zip = 1b2ad2ce6ca4526ebd55f57b25b451cf674c3178c2fe953863efb4938dcb14b9
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = #
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 15:23:54
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 18:25:48
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 23:04:10
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 28:13:23
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 31:10:42
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 34:59:01
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 38:23:11
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 41:00:63
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 45:36:67
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 50:30:62
 #
 #
 # file: All Programs/Games/Fade to Black/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -7796,8 +8693,8 @@
 # file: All Programs/Games/Mega Man X/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1334/mega-man-x/)
 # file: All Programs/Games/Mega Man X/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mega+Man+X&gid=1990)
 # file: All Programs/Games/Mega Man X/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/mega-man-x-2wh)
-# file: All Programs/Games/Mega Man X/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Mega_Man_X)
 # file: All Programs/Games/Mega Man X/Program.txt = # site: [Fandom](https://megaman.fandom.com/wiki/Mega_Man_X_(video_game))
+# file: All Programs/Games/Mega Man X/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Mega_Man_X)
 # file: All Programs/Games/Mega Man X/Program.txt = # site: Mega Man X Legacy Collection = [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/)
 # file: All Programs/Games/Mega Man X/Program.txt = #
 # file: All Programs/Games/Mega Man X/Program.txt = # text: ## Installation Notes
@@ -8785,6 +9682,99 @@
 # file: All Programs/Games/Return to Zork/Program.txt = # check: frobozzica.pdf = 879f3b9a6d80629255f6b65fcd9640b1b23f0973dd3c9b8e3d0ef9bde07463c1
 #
 #
+# file: All Programs/Games/Road Rash/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Road Rash/Program.txt = #
+# file: All Programs/Games/Road Rash/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Road Rash/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Road Rash/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Road Rash/Program.txt = #
+# file: All Programs/Games/Road Rash/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Road Rash/Program.txt = # name: Road Rash
+# file: All Programs/Games/Road Rash/Program.txt = # info: Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful.
+# file: All Programs/Games/Road Rash/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Road Rash/Program.txt = # tag: Genre = Action • Racing
+# file: All Programs/Games/Road Rash/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Road Rash/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Road Rash/Program.txt = # tag: Category = Behind view • Motorcycle • Street racing
+# file: All Programs/Games/Road Rash/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Road Rash/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Road_Rash_(1994_video_game))
+# file: All Programs/Games/Road Rash/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/17194/road-rash/)
+# file: All Programs/Games/Road Rash/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Road+Rash&gid=2766)
+# file: All Programs/Games/Road Rash/Program.txt = # site: Manual = [MyAbandonware](https://www.myabandonware.com/game/road-rash-bez)
+# file: All Programs/Games/Road Rash/Program.txt = #
+# file: All Programs/Games/Road Rash/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Road Rash/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Road Rash/Program.txt = # text: - Important points:
+# file: All Programs/Games/Road Rash/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Road Rash/Program.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: All Programs/Games/Road Rash/Program.txt = # text:
+# file: All Programs/Games/Road Rash/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Road Rash/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [sdl]
+# file: All Programs/Games/Road Rash/Program.txt = autolock = true
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [dosbox]
+# file: All Programs/Games/Road Rash/Program.txt = memsize = 512
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [render]
+# file: All Programs/Games/Road Rash/Program.txt = scaler = none
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [video]
+# file: All Programs/Games/Road Rash/Program.txt = vmemsize = 8
+# file: All Programs/Games/Road Rash/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Road Rash/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [cpu]
+# file: All Programs/Games/Road Rash/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Road Rash/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Road Rash/Program.txt = cycles = max
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [sblaster]
+# file: All Programs/Games/Road Rash/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [dos]
+# file: All Programs/Games/Road Rash/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Road Rash/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Road Rash/Program.txt = ver = 7.1
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [ide, primary]
+# file: All Programs/Games/Road Rash/Program.txt = int13fakeio = true
+# file: All Programs/Games/Road Rash/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [ide, secondary]
+# file: All Programs/Games/Road Rash/Program.txt = int13fakeio = true
+# file: All Programs/Games/Road Rash/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Road Rash/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [fdc, primary]
+# file: All Programs/Games/Road Rash/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = [autoexec]
+# file: All Programs/Games/Road Rash/Program.txt = @ECHO OFF
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Road Rash/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = BOOT C:
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = :F_EXIT
+# file: All Programs/Games/Road Rash/Program.txt = EXIT
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = :F_DEBUG
+# file: All Programs/Games/Road Rash/Program.txt
+# file: All Programs/Games/Road Rash/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/7436505-road-rash-windows-front-cover.jpg
+# file: All Programs/Games/Road Rash/Program.txt = # check: coverart.jpg = b6b04ff1f6a29af9eab42123fca61b103d61c7e36ec845bbd00c87ccc599da35
+# file: All Programs/Games/Road Rash/Program.txt = # asset: cdrom.bin = https://archive.org/download/roadrash-pc-redump/ROADRASH-PC-REDUMP/Road%20Rash%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip/Road%20Rash%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.bin
+# file: All Programs/Games/Road Rash/Program.txt = # check: cdrom.bin = 4ed01384dc01edb1d8e0381cd3a83b981adfe04aa0814ec6dad757d834386910
+# file: All Programs/Games/Road Rash/Program.txt = # asset: manual.pdf = https://www.myabandonware.com/download/kd3-road-rash
+# file: All Programs/Games/Road Rash/Program.txt = # check: manual.pdf = f4b929c27912117ec7e7abfb191a845d6f3e52b4e998ca85116d8f220c46d00e
+# file: All Programs/Games/Road Rash/Program.txt = #
+# file: All Programs/Games/Road Rash/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Road Rash/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE2/2352
+# file: All Programs/Games/Road Rash/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Robbo/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Robbo/Program.txt = #
 # file: All Programs/Games/Robbo/Program.txt = # name: Robbo
@@ -9031,6 +10021,129 @@
 # file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     FLAGS PRE
 # file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 00:00:00
 # file: All Programs/Games/Sam & Max Hit the Road/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:02:00
+#
+#
+# file: All Programs/Games/Sanitarium/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Sanitarium/Program.txt = #
+# file: All Programs/Games/Sanitarium/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/Sanitarium/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/Sanitarium/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Sanitarium/Program.txt = #
+# file: All Programs/Games/Sanitarium/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/Sanitarium/Program.txt = # name: Sanitarium
+# file: All Programs/Games/Sanitarium/Program.txt = # info: Spiralling upwards out of the vacuum, you open your eyes and struggle to comprehend your environment. Underneath you, the springs of an institutional cot sink almost to the floor. The mattress is roughly the thickness of a paper towel and reeks of affliction. Vague memories assault you, a hurried phone call, a message of utmost importance, and a car losing control. As you wake up with a throbbing head, you hear people screaming, sobbing, laughing manically in the background. Is it a nightmare? Are you insane? Is it a reality? Maybe this is death.
+# file: All Programs/Games/Sanitarium/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sanitarium) and [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/).
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: Year = 1998
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: Category = Diagonal-down • Graphic adventure • Puzzle elements • Horror
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Sanitarium/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Sanitarium_(video_game))
+# file: All Programs/Games/Sanitarium/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/572/sanitarium/)
+# file: All Programs/Games/Sanitarium/Program.txt = # site: [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sanitarium&gid=2289)
+# file: All Programs/Games/Sanitarium/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/sanitarium-cs8)
+# file: All Programs/Games/Sanitarium/Program.txt = # site: [GOG 💰](https://gog.com/en/game/sanitarium)
+# file: All Programs/Games/Sanitarium/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/)
+# file: All Programs/Games/Sanitarium/Program.txt = #
+# file: All Programs/Games/Sanitarium/Program.txt = # text: ## Host Requirements
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Download the patched executable file manually from [MyAbandonware](https://www.myabandonware.com/game/sanitarium-cs8), search for *"English version 292 KB (Windows)"*, place it in the `Assets` directory, and rename it to `sntrm.exe`.
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Download the Level 2 patch file manually from [MyAbandonware](https://www.myabandonware.com/game/sanitarium-cs8), search for *"Level 2 Fix English version 57 KB (Windows)"*, place it in the `Assets` directory, and rename it to `plevel2.zip`.
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Download the Labyrinth patch file manually from [MyAbandonware](https://www.myabandonware.com/game/sanitarium-cs8), search for *"Labyrinth Fix English version 20 KB (Windows)"*, place it in the `Assets` directory, and rename it to `plab.zip`.
+# file: All Programs/Games/Sanitarium/Program.txt = # text:
+# file: All Programs/Games/Sanitarium/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Important points:
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   - **DO NOT** install *DirectX* or *Direct Media* when prompted.
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   - Always pick the largest installation size when prompted.
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Applying patches:
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   - A patched executable file is available on `C:\PATCH\SNTRM.EXE`. Copy this file to `C:\Program Files\ASC Games\Sanitarium`, replacing existing `SNTRM.EXE`.
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   - A patch is available on `C:\PATCH\PLEVEL2.ZIP`. Extract the compressed file and copy `SCN.006` to `C:\Program Files\ASC Games\Sanitarium\Data`.
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   - A patch is available on `C:\PATCH\PLAB.ZIP`. Extract the compressed file and copy `SCN.016` to `C:\Program Files\ASC Games\Sanitarium\Data`.
+# file: All Programs/Games/Sanitarium/Program.txt = # text:
+# file: All Programs/Games/Sanitarium/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   1. Sanitarium Disc #1
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   2. Sanitarium Disc #2
+# file: All Programs/Games/Sanitarium/Program.txt = # text:   3. Sanitarium Disc #3
+# file: All Programs/Games/Sanitarium/Program.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [sdl]
+# file: All Programs/Games/Sanitarium/Program.txt = autolock = true
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [dosbox]
+# file: All Programs/Games/Sanitarium/Program.txt = memsize = 512
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [render]
+# file: All Programs/Games/Sanitarium/Program.txt = scaler = none
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [video]
+# file: All Programs/Games/Sanitarium/Program.txt = vmemsize = 8
+# file: All Programs/Games/Sanitarium/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/Sanitarium/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [cpu]
+# file: All Programs/Games/Sanitarium/Program.txt = core = dynamic_x86
+# file: All Programs/Games/Sanitarium/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/Sanitarium/Program.txt = cycles = max
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [sblaster]
+# file: All Programs/Games/Sanitarium/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [dos]
+# file: All Programs/Games/Sanitarium/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Sanitarium/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Sanitarium/Program.txt = ver = 7.1
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [ide, primary]
+# file: All Programs/Games/Sanitarium/Program.txt = int13fakeio = true
+# file: All Programs/Games/Sanitarium/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [ide, secondary]
+# file: All Programs/Games/Sanitarium/Program.txt = int13fakeio = true
+# file: All Programs/Games/Sanitarium/Program.txt = int13fakev86io = true
+# file: All Programs/Games/Sanitarium/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [fdc, primary]
+# file: All Programs/Games/Sanitarium/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = [autoexec]
+# file: All Programs/Games/Sanitarium/Program.txt = @ECHO OFF
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/Sanitarium/Program.txt = IMGMOUNT D "./Assets/cdrom_01.iso" "./Assets/cdrom_02.iso" "./Assets/cdrom_03.iso" -t iso
+# file: All Programs/Games/Sanitarium/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = IF NOT EXIST C:\PATCH MD C:\PATCH
+# file: All Programs/Games/Sanitarium/Program.txt = IF NOT EXIST C:\PATCH\SNTRM.EXE IF EXIST X:\SNTRM.EXE COPY X:\SNTRM.EXE C:\PATCH\SNTRM.EXE
+# file: All Programs/Games/Sanitarium/Program.txt = IF NOT EXIST C:\PATCH\PLEVEL2.ZIP IF EXIST X:\PLEVEL2.ZIP COPY X:\PLEVEL2.ZIP C:\PATCH\PLEVEL2.ZIP
+# file: All Programs/Games/Sanitarium/Program.txt = IF NOT EXIST C:\PATCH\PLAB.ZIP IF EXIST X:\PLAB.ZIP COPY X:\PLAB.ZIP C:\PATCH\PLAB.ZIP
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = BOOT C:
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = :F_EXIT
+# file: All Programs/Games/Sanitarium/Program.txt = EXIT
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = :F_DEBUG
+# file: All Programs/Games/Sanitarium/Program.txt
+# file: All Programs/Games/Sanitarium/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4016347-sanitarium-windows-front-cover.jpg
+# file: All Programs/Games/Sanitarium/Program.txt = # check: coverart.jpg = 2782155ed4e5706782598917083fc373fe83ce5439657eb71169d8deba28bf2f
+# file: All Programs/Games/Sanitarium/Program.txt = # asset: cdrom_01.iso = https://archive.org/download/sanitarium-3cd/SANITARIUM1.iso
+# file: All Programs/Games/Sanitarium/Program.txt = # check: cdrom_01.iso = 70c5f1f9975af44bc578d35a63ac414d92b3cf9262547cd976d0042d970fe241
+# file: All Programs/Games/Sanitarium/Program.txt = # asset: cdrom_02.iso = https://archive.org/download/sanitarium-3cd/SANITARIUM2.iso
+# file: All Programs/Games/Sanitarium/Program.txt = # check: cdrom_02.iso = 7dc495675fa5cdb6ff2d1ddec212e453d7bfed91d6d5d83e347c861a43269582
+# file: All Programs/Games/Sanitarium/Program.txt = # asset: cdrom_03.iso = https://archive.org/download/sanitarium-3cd/SANITARIUM3.iso
+# file: All Programs/Games/Sanitarium/Program.txt = # check: cdrom_03.iso = 9c7bcb926e55f01c6df20ce520d5e98dcfdf7fc9cbd2a7d4d700c9e5c0ff6993
+# file: All Programs/Games/Sanitarium/Program.txt = # asset: manual.pdf = https://archive.org/download/manual_Sanitarium/Sanitarium.pdf
+# file: All Programs/Games/Sanitarium/Program.txt = # check: manual.pdf = c81c77d814f6b66d25f12e56e451a20e7a9febcf9eff7162815d556eab3a2bf9
+# file: All Programs/Games/Sanitarium/Program.txt = # xxxxx: sntrm.exe = https://www.myabandonware.com/download/o5q-sanitarium
+# file: All Programs/Games/Sanitarium/Program.txt = # check: sntrm.exe = 61fc265814fd61aecc1584664809fd1ea5c44757c7bec6bd035bb11d17b0d493
+# file: All Programs/Games/Sanitarium/Program.txt = # xxxxx: plevel2.zip = https://www.myabandonware.com/download/o5s-sanitarium
+# file: All Programs/Games/Sanitarium/Program.txt = # check: plevel2.zip = a02f3229fbc0cfb22a4505f20d533633259cf47299e6bfce2713cd7ff9e59cbf
+# file: All Programs/Games/Sanitarium/Program.txt = # xxxxx: plab.zip = https://www.myabandonware.com/download/o5t-sanitarium
+# file: All Programs/Games/Sanitarium/Program.txt = # check: plab.zip = 702ed9f09f9b0f4bc6fd49e5b21638cc2f012e54496a483942ca0d77e9cfd72e
 #
 #
 # file: All Programs/Games/Shannara/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -9829,6 +10942,109 @@
 # file: All Programs/Games/Star Wars - X-Wing/Program.txt = # check: manual.pdf = d4596c98604a51d27d48a3aa7fa6aaac61b5f08ff129a391e7cdf0774e993a61
 # file: All Programs/Games/Star Wars - X-Wing/Program.txt = # asset: ref-card.pdf = https://www.starehry.eu/download/simulation/docs/X-Wing-QRCard.pdf
 # file: All Programs/Games/Star Wars - X-Wing/Program.txt = # check: ref-card.pdf = 73147f693cf6b0c476040e98d24997b1ea95ffbf12f2a10f189c24bea276e139
+#
+#
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = #
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = #
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # snapshot: ../../Systems/Windows 98SE
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: StarCraft: Anthology
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: StarCraft: Gold
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: StarCraft
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: StarCraft: Brood War
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: Add-on = Brood War
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # info: In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory.
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Year = 1998
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Genre = Strategy
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Category = Diagonal-down • Real-time • Real-time strategy • Sci-fi • War
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Add-on
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # site: StarCraft = [Wikipedia](https://en.wikipedia.org/wiki/StarCraft_(video_game)) • [MobyGames](https://www.mobygames.com/game/378/starcraft/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=StarCraft&gid=3440) • [MyAbandonware](https://www.myabandonware.com/game/starcraft-epy) • [Fandom](https://starcraft.fandom.com/wiki/StarCraft)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # site: StarCraft: Brood War = [Wikipedia](https://en.wikipedia.org/wiki/StarCraft:_Brood_War) • [MobyGames](https://www.mobygames.com/game/1421/starcraft-brood-war/) • [MyAbandonware](https://www.myabandonware.com/game/starcraft-brood-war-epz) • [Fandom](https://starcraft.fandom.com/wiki/StarCraft:_Brood_War)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # site: StarCraft: Anthology = [MobyGames](https://www.mobygames.com/game/33975/starcraft-anthology/)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/StarCraft_(series))
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # site: [Battle.net 🆓](https://us.shop.battle.net/en-us/product/starcraft)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = #
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: - Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: - For StarCraft CD key, refer to this Stack Overflow article: [How are software license keys generated?](https://stackoverflow.com/questions/3002067/how-are-software-license-keys-generated)
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: - Important points:
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text:
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: - The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text:   1. StarCraft
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text:   2. StarCraft: Brood War
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [sdl]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = autolock = true
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [dosbox]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = memsize = 512
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [render]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = scaler = none
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [video]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = vmemsize = 8
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [cpu]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = core = dynamic_x86
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = cputype = pentium_mmx
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = cycles = max
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [sblaster]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = sbtype = sb16vibra
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [dos]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = ver = 7.1
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [ide, primary]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = int13fakeio = true
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = int13fakev86io = true
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [ide, secondary]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = int13fakeio = true
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = int13fakev86io = true
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [fdc, primary]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = int13fakev86io = false
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = [autoexec]
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = @ECHO OFF
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" "./Assets/cdrom_bw.iso" -t iso
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = BOOT C:
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = :F_EXIT
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = EXIT
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = :F_DEBUG
+# file: All Programs/Games/StarCraft - Anthology/Program.txt
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6652565-starcraft-anthology-windows-front-cover.jpg
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # check: coverart.jpg = 824ffe0b6c4544469d33098f52877d6aa58cb9852eb1972deda56506d7a2b6ee
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # asset: cdrom.iso = https://archive.org/download/starcraft_202211/Starcraft.iso
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # check: cdrom.iso = d07675e42d7adc0c92090bc1c65618170719f6aec58cb7df0b88c2a42f56ccbf
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # asset: cdrom_bw.iso = https://archive.org/download/starcraft-brood-war_202212/Starcraft%20Brood%20War.iso
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # check: cdrom_bw.iso = d34df5ccd8f87b1b721e42ffa8e6293ab81f48001e644188c5a661585dbaa5e8
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # asset: manual.pdf = https://ia800401.us.archive.org/18/items/manual_Starcraft/Starcraft.pdf
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # check: manual.pdf = 30bcba9df160a289f6618f66fcd9ad8662f7a6c1f08e6279502d8aeb961e15c4
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # asset: manual_bw.pdf = https://archive.org/download/Starcraft_Brood_War/Starcraft_Brood_War.pdf
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # check: manual_bw.pdf = 71375706868e15bf37cc7b3f67c80ae09190446d4c6bf0359e1761ba184c42e2
 #
 #
 # file: All Programs/Games/Stargunner/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -12633,11 +13849,10 @@
 # file: All Programs/Systems/Windows 3.1x/Program.txt = #
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # name: Windows 3.1x
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # name: Microsoft Windows 3.11
-# file: All Programs/Systems/Windows 3.1x/Program.txt = # info: Windows 3.1 (codenamed Janus) is a series of 16-bit GUI operating environments for MS-DOS developed by Microsoft for use on personal computers. The series began with 'Windows 3.1' released on April 6, 1992, as a successor to 'Windows 3.0'. Support for all 16-bit versions of Windows ended on December 31, 2001.
+# file: All Programs/Systems/Windows 3.1x/Program.txt = # info: Windows 3.1 (codenamed Janus) is a series of 16-bit GUI operating environments for MS-DOS developed by Microsoft for use on personal computers. The series began with Windows 3.1, released on April 6, 1992, as a successor to Windows 3.0. Support for all 16-bit versions of Windows ended on December 31, 2001.
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # info: ChatGPT = It is generally okay to install and run old operating systems like Windows 3.1 for the purpose of playing nostalgic games, as long as you're not using it for any illegal or unethical activities.
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Year = 1993
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Type = Operating System
-# file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Platform = DOS
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: License = Discontinued
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # tag: Add-on = S3 Graphics drivers • Sound Blaster drivers
@@ -12863,6 +14078,158 @@
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Systems/Windows 3.1x/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
+#
+# file: All Programs/Systems/Windows 98SE/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Systems/Windows 98SE/Program.txt = #
+# file: All Programs/Systems/Windows 98SE/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) ⬜ (untested)
+# file: All Programs/Systems/Windows 98SE/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)
+# file: All Programs/Systems/Windows 98SE/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Systems/Windows 98SE/Program.txt = #
+# file: All Programs/Systems/Windows 98SE/Program.txt = # name: Windows 98 Second Edition
+# file: All Programs/Systems/Windows 98SE/Program.txt = # name: Windows 98SE
+# file: All Programs/Systems/Windows 98SE/Program.txt = # name: Microsoft Windows 98 Second Edition
+# file: All Programs/Systems/Windows 98SE/Program.txt = # info: Windows 98 (codenamed Memphis) is a graphical operating system by Microsoft. It is the second major release in the Windows 9x line of operating systems. Released to manufacturing on May 15, 1998, and to retail on June 25, 1998, Microsoft planned to discontinue its support for Windows 98 versions on January 16, 2004. However, due to its popularity, Microsoft maintained support until July 11, 2006. Windows 98 is no longer available from Microsoft in any form due to the terms of Java-related settlements Microsoft made with Sun Microsystems.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # info: ChatGPT = Windows 98 was a discontinued and unsupported operating system by Microsoft. Running Windows 98 for the sole purpose of playing nostalgic games or for non-commercial, offline use is generally acceptable.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # tag: Year = 1998
+# file: All Programs/Systems/Windows 98SE/Program.txt = # tag: Type = Operating System
+# file: All Programs/Systems/Windows 98SE/Program.txt = # tag: License = Discontinued
+# file: All Programs/Systems/Windows 98SE/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Systems/Windows 98SE/Program.txt = # tag: Extras = 7-zip • Adobe Reader • DirectX
+# file: All Programs/Systems/Windows 98SE/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Windows_98#Windows_98_Second_Edition)
+# file: All Programs/Systems/Windows 98SE/Program.txt = # site: [Fandom](https://microsoft.fandom.com/wiki/Windows_98#Windows_98_Second_Edition)
+# file: All Programs/Systems/Windows 98SE/Program.txt = # site: [Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98)
+# file: All Programs/Systems/Windows 98SE/Program.txt = # site: [Product Keys](https://forum.winworldpc.com/discussion/6677/new-serials-compilation)
+# file: All Programs/Systems/Windows 98SE/Program.txt = #
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: ## Installation Notes
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - The screen will freeze on the DOSBox-X splash for a few minutes (creating a new 8GB hard disk image).
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - To continue, press `ENTER`.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - To begin Setup, click **Continue**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Select **I accept the Agreement** and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Enter a valid *Windows 98 Boxed Retail Install* product key and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Select `C:\WINDOWS` and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Select the **Typical** setup option and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Enter a *name* and *company* information.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Select **Install the most common components (Recommended)** and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Confirm computer identification by clicking **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Select your *country location* and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Start copying files by clicking **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - The installation will take from 30 to 90 minutes, depending on the computer's speed.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Select your *time zone*, click **Apply**, and click **OK**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Leave the account password field empty and click **OK**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: ## Additional Notes
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Disable Task Scheduler
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Open *My Computer > Scheduled Tasks*, click the *Advanced* tab on the menu top bar and click *Stop Using Task Scheduler*.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Hard disk read-ahead optimization
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Right-click *My Computer*. Select *Properties*. Click the *Performance* tab. Click *File System* in the *Advanced settings* section, click the *Hard Disk* tab, and set *Read-ahead optimization* to *None*.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Restart Windows if asked.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Adjusting colors and screen size
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Right-click on the desktop and select *Properties*. Click the *Settings* tab. Set **High Color (16 bit)** for colors and **640 by 480 pixels** for screen area. Click *Apply*.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Restart Windows if asked.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Installing **7-zip**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Open *My Computer > C: > Temp*, double-click on `7z920.exe` file.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Installing **Adobe Reader**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Open *My Computer > C: > Temp*, right-click on `acrobat.zip` file: **7-Zip > Extract Here**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Open extracted *Acrobat > 32bit* directory, double-click on `setup.exe`.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Installing **DirectX**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Open *My Computer > C: > Temp*, double-click on `dx9c.exe` file.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Location where you want to place the extracted files: Enter `C:\TEMP` and click **OK**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:   - Double-click on the extracted `DXSETUP.EXE` file.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:     - Select **I accept the Agreement** and click **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:     - Start installation by clicking **Next**.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text:     - Restart Windows if asked.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Remove `C:\TEMP` directory and all its content.
+# file: All Programs/Systems/Windows 98SE/Program.txt = # text: - Exit Windows and run the `Snapshot` script.
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [sdl]
+# file: All Programs/Systems/Windows 98SE/Program.txt = autolock = true
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [dosbox]
+# file: All Programs/Systems/Windows 98SE/Program.txt = memsize = 512
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [render]
+# file: All Programs/Systems/Windows 98SE/Program.txt = scaler = none
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [video]
+# file: All Programs/Systems/Windows 98SE/Program.txt = vmemsize = 8
+# file: All Programs/Systems/Windows 98SE/Program.txt = vesa modelist width limit = 0
+# file: All Programs/Systems/Windows 98SE/Program.txt = vesa modelist height limit = 0
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [cpu]
+# file: All Programs/Systems/Windows 98SE/Program.txt = core = normal
+# file: All Programs/Systems/Windows 98SE/Program.txt = cputype = pentium_mmx
+# file: All Programs/Systems/Windows 98SE/Program.txt = cycles = max
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [sblaster]
+# file: All Programs/Systems/Windows 98SE/Program.txt = sbtype = sb16vibra
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [dos]
+# file: All Programs/Systems/Windows 98SE/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Systems/Windows 98SE/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Systems/Windows 98SE/Program.txt = ver = 7.1
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [ide, primary]
+# file: All Programs/Systems/Windows 98SE/Program.txt = int13fakeio = true
+# file: All Programs/Systems/Windows 98SE/Program.txt = int13fakev86io = true
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [ide, secondary]
+# file: All Programs/Systems/Windows 98SE/Program.txt = int13fakeio = true
+# file: All Programs/Systems/Windows 98SE/Program.txt = int13fakev86io = true
+# file: All Programs/Systems/Windows 98SE/Program.txt = cd-rom insertion delay = 4000
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [fdc, primary]
+# file: All Programs/Systems/Windows 98SE/Program.txt = int13fakev86io = true
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = [autoexec]
+# file: All Programs/Systems/Windows 98SE/Program.txt = @ECHO OFF
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = IMGMAKE "./drive/hdd.img" -t hd_8gig
+# file: All Programs/Systems/Windows 98SE/Program.txt = IMGMOUNT C "./drive/hdd.img"
+# file: All Programs/Systems/Windows 98SE/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = IF NOT EXIST C:\WINDOWS\WIN.COM GOTO F_START_INSTALL
+# file: All Programs/Systems/Windows 98SE/Program.txt = IF EXIST C:\WINDOWS\WIN.COM GOTO F_CHECK_INSTALL
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = :F_START_INSTALL
+# file: All Programs/Systems/Windows 98SE/Program.txt = C:
+# file: All Programs/Systems/Windows 98SE/Program.txt = MD TEMP
+# file: All Programs/Systems/Windows 98SE/Program.txt = CD TEMP
+# file: All Programs/Systems/Windows 98SE/Program.txt = COPY X:\7Z920.EXE
+# file: All Programs/Systems/Windows 98SE/Program.txt = COPY X:\ACROBAT.ZIP
+# file: All Programs/Systems/Windows 98SE/Program.txt = COPY X:\DX9C.EXE
+# file: All Programs/Systems/Windows 98SE/Program.txt = CD C:\
+# file: All Programs/Systems/Windows 98SE/Program.txt = MD WIN98
+# file: All Programs/Systems/Windows 98SE/Program.txt = CD WIN98
+# file: All Programs/Systems/Windows 98SE/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Systems/Windows 98SE/Program.txt = XCOPY D:\WIN98\*.* /E /H /C /I /Y
+# file: All Programs/Systems/Windows 98SE/Program.txt = SETUP.EXE
+# file: All Programs/Systems/Windows 98SE/Program.txt = GOTO F_EXIT
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = :F_CHECK_INSTALL
+# file: All Programs/Systems/Windows 98SE/Program.txt = IF NOT EXIST C:\BOOTLOG.PRV GOTO F_CONTINUE_INSTALL
+# file: All Programs/Systems/Windows 98SE/Program.txt = IF EXIST C:\BOOTLOG.PRV GOTO F_START_SETUP
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = :F_CONTINUE_INSTALL
+# file: All Programs/Systems/Windows 98SE/Program.txt = BOOT C:
+# file: All Programs/Systems/Windows 98SE/Program.txt = GOTO F_EXIT
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = :F_START_SETUP
+# file: All Programs/Systems/Windows 98SE/Program.txt = BOOT C:
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = :F_EXIT
+# file: All Programs/Systems/Windows 98SE/Program.txt = EXIT
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = :F_DEBUG
+# file: All Programs/Systems/Windows 98SE/Program.txt
+# file: All Programs/Systems/Windows 98SE/Program.txt = # asset: cdrom.iso = https://archive.org/download/windows-98-se-unofficial-service-pack-3/Windows%2098%20SE%20%28Unofficial%20Service%20Pack%203%29.iso
+# file: All Programs/Systems/Windows 98SE/Program.txt = # check: cdrom.iso = 5e3e7b7c6a3cf466da60361ba8d5e1640e50822c0fc7c5b8dab94c86cd6feac7
+# file: All Programs/Systems/Windows 98SE/Program.txt = # asset: 7z920.exe = https://archive.org/download/7zip-for-windows-920/7z920.exe
+# file: All Programs/Systems/Windows 98SE/Program.txt = # check: 7z920.exe = 1e2f2a8fb52d3972b9b65b8ad1bebb66965c47a2994f89b3d652c31e6f6e4c3c
+# file: All Programs/Systems/Windows 98SE/Program.txt = # asset: acrobat.zip = https://archive.org/download/acrobat_202104/ACROBAT.zip
+# file: All Programs/Systems/Windows 98SE/Program.txt = # check: acrobat.zip = e8f39f5e73f07b10e764113e738f8633e2c7953bedc137570ce13aa5b4a70ba9
+# file: All Programs/Systems/Windows 98SE/Program.txt = # asset: dx9c.exe = https://archive.org/download/directx_9c/directx_9c_redist.exe
+# file: All Programs/Systems/Windows 98SE/Program.txt = # check: dx9c.exe = 887d1b123d9cce93d48e27dfc70b746f80c095dad4860a160fa776e1f919c7b2
+#
 # link: Games/By Genre/Action/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Genre/Action/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By Genre/Action/Alien Carnage = ../../../All Programs/Games/Alien Carnage
@@ -12897,6 +14264,7 @@
 # link: Games/By Genre/Action/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Genre/Action/Out of This World = ../../../All Programs/Games/Out of This World
 # link: Games/By Genre/Action/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By Genre/Action/Road Rash = ../../../All Programs/Games/Road Rash
 # link: Games/By Genre/Action/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Genre/Action/Star Wars - TIE Fighter = ../../../All Programs/Games/Star Wars - TIE Fighter
 # link: Games/By Genre/Action/Star Wars - X-Wing = ../../../All Programs/Games/Star Wars - X-Wing
@@ -12912,6 +14280,7 @@
 # link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
+# link: Games/By Genre/Adventure/Broken Sword II - The Smoking Mirror = ../../../All Programs/Games/Broken Sword II - The Smoking Mirror
 # link: Games/By Genre/Adventure/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
 # link: Games/By Genre/Adventure/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
 # link: Games/By Genre/Adventure/Callahan's Crosstime Saloon = ../../../All Programs/Games/Callahan's Crosstime Saloon
@@ -12947,6 +14316,7 @@
 # link: Games/By Genre/Adventure/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Genre/Adventure/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By Genre/Adventure/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
+# link: Games/By Genre/Adventure/Sanitarium = ../../../All Programs/Games/Sanitarium
 # link: Games/By Genre/Adventure/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Genre/Adventure/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Genre/Adventure/Teen Agent = ../../../All Programs/Games/Teen Agent
@@ -12986,9 +14356,11 @@
 # link: Games/By Genre/Puzzle/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By Genre/Racing/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
+# link: Games/By Genre/Racing/Road Rash = ../../../All Programs/Games/Road Rash
 # link: Games/By Genre/Racing/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Genre/Role-playing/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By Genre/Role-playing/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
+# link: Games/By Genre/Role-playing/Diablo + Hellfire = ../../../All Programs/Games/Diablo + Hellfire
 # link: Games/By Genre/Role-playing/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By Genre/Role-playing/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Genre/Role-playing/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
@@ -13008,14 +14380,19 @@
 # link: Games/By Genre/Sports/4D Boxing = ../../../All Programs/Games/4D Boxing
 # link: Games/By Genre/Sports/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By Genre/Strategy/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
+# link: Games/By Genre/Strategy/Age of Empires - Gold Edition = ../../../All Programs/Games/Age of Empires - Gold Edition
 # link: Games/By Genre/Strategy/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By Genre/Strategy/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By Genre/Strategy/Civilization = ../../../All Programs/Games/Civilization
 # link: Games/By Genre/Strategy/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By Genre/Strategy/Command & Conquer = ../../../All Programs/Games/Command & Conquer
 # link: Games/By Genre/Strategy/Command & Conquer - Red Alert = ../../../All Programs/Games/Command & Conquer - Red Alert
+# link: Games/By Genre/Strategy/Commandos - Behind Enemy Lines = ../../../All Programs/Games/Commandos - Behind Enemy Lines
+# link: Games/By Genre/Strategy/Commandos - Beyond the Call of Duty = ../../../All Programs/Games/Commandos - Beyond the Call of Duty
 # link: Games/By Genre/Strategy/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Genre/Strategy/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Genre/Strategy/Deadlock II - Shrine Wars = ../../../All Programs/Games/Deadlock II - Shrine Wars
+# link: Games/By Genre/Strategy/Emperor of the Fading Suns = ../../../All Programs/Games/Emperor of the Fading Suns
 # link: Games/By Genre/Strategy/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By Genre/Strategy/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
 # link: Games/By Genre/Strategy/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
@@ -13023,6 +14400,7 @@
 # link: Games/By Genre/Strategy/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By Genre/Strategy/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Genre/Strategy/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
+# link: Games/By Genre/Strategy/StarCraft - Anthology = ../../../All Programs/Games/StarCraft - Anthology
 # link: Games/By Genre/Strategy/The Settlers = ../../../All Programs/Games/The Settlers
 # link: Games/By Genre/Strategy/The Settlers II - Gold Edition = ../../../All Programs/Games/The Settlers II - Gold Edition
 # link: Games/By Genre/Strategy/UFO - Enemy Unknown = ../../../All Programs/Games/UFO - Enemy Unknown
@@ -13057,6 +14435,7 @@
 # link: Games/By License/Abandonware/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
 # link: Games/By License/Abandonware/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
+# link: Games/By License/Abandonware/Road Rash = ../../../All Programs/Games/Road Rash
 # link: Games/By License/Abandonware/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
@@ -13087,6 +14466,7 @@
 # link: Games/By License/Freeware/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By License/Freeware/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By License/Freeware/SimCity = ../../../All Programs/Games/SimCity
+# link: Games/By License/Freeware/StarCraft - Anthology = ../../../All Programs/Games/StarCraft - Anthology
 # link: Games/By License/Freeware/Stargunner = ../../../All Programs/Games/Stargunner
 # link: Games/By License/Freeware/Supaplex = ../../../All Programs/Games/Supaplex
 # link: Games/By License/Freeware/Teen Agent = ../../../All Programs/Games/Teen Agent
@@ -13095,6 +14475,7 @@
 # link: Games/By License/Freeware/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
 # link: Games/By License/Freeware/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By License/Proprietary/3 Skulls of the Toltecs = ../../../All Programs/Games/3 Skulls of the Toltecs
+# link: Games/By License/Proprietary/Age of Empires - Gold Edition = ../../../All Programs/Games/Age of Empires - Gold Edition
 # link: Games/By License/Proprietary/Alone in the Dark = ../../../All Programs/Games/Alone in the Dark
 # link: Games/By License/Proprietary/Alone in the Dark 2 = ../../../All Programs/Games/Alone in the Dark 2
 # link: Games/By License/Proprietary/Alone in the Dark 3 = ../../../All Programs/Games/Alone in the Dark 3
@@ -13103,8 +14484,11 @@
 # link: Games/By License/Proprietary/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
 # link: Games/By License/Proprietary/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By License/Proprietary/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
+# link: Games/By License/Proprietary/Broken Sword II - The Smoking Mirror = ../../../All Programs/Games/Broken Sword II - The Smoking Mirror
 # link: Games/By License/Proprietary/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
 # link: Games/By License/Proprietary/Call of Cthulhu - Shadow of the Comet = ../../../All Programs/Games/Call of Cthulhu - Shadow of the Comet
+# link: Games/By License/Proprietary/Commandos - Behind Enemy Lines = ../../../All Programs/Games/Commandos - Behind Enemy Lines
+# link: Games/By License/Proprietary/Commandos - Beyond the Call of Duty = ../../../All Programs/Games/Commandos - Beyond the Call of Duty
 # link: Games/By License/Proprietary/Crusader - No Regret = ../../../All Programs/Games/Crusader - No Regret
 # link: Games/By License/Proprietary/Crusader - No Remorse = ../../../All Programs/Games/Crusader - No Remorse
 # link: Games/By License/Proprietary/Cyberia = ../../../All Programs/Games/Cyberia
@@ -13112,7 +14496,10 @@
 # link: Games/By License/Proprietary/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By License/Proprietary/Day of the Tentacle = ../../../All Programs/Games/Day of the Tentacle
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By License/Proprietary/Deadlock II - Shrine Wars = ../../../All Programs/Games/Deadlock II - Shrine Wars
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
+# link: Games/By License/Proprietary/Diablo + Hellfire = ../../../All Programs/Games/Diablo + Hellfire
+# link: Games/By License/Proprietary/Emperor of the Fading Suns = ../../../All Programs/Games/Emperor of the Fading Suns
 # link: Games/By License/Proprietary/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By License/Proprietary/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By License/Proprietary/Full Throttle = ../../../All Programs/Games/Full Throttle
@@ -13147,6 +14534,7 @@
 # link: Games/By License/Proprietary/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
 # link: Games/By License/Proprietary/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By License/Proprietary/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
+# link: Games/By License/Proprietary/Sanitarium = ../../../All Programs/Games/Sanitarium
 # link: Games/By License/Proprietary/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By License/Proprietary/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
@@ -13310,3 +14698,13 @@
 # link: Games/By Platform/Windows 3.1x/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By Platform/Windows 3.1x/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By Platform/Windows 3.1x/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
+# link: Games/By Platform/Windows 9x/Age of Empires - Gold Edition = ../../../All Programs/Games/Age of Empires - Gold Edition
+# link: Games/By Platform/Windows 9x/Broken Sword II - The Smoking Mirror = ../../../All Programs/Games/Broken Sword II - The Smoking Mirror
+# link: Games/By Platform/Windows 9x/Commandos - Behind Enemy Lines = ../../../All Programs/Games/Commandos - Behind Enemy Lines
+# link: Games/By Platform/Windows 9x/Commandos - Beyond the Call of Duty = ../../../All Programs/Games/Commandos - Beyond the Call of Duty
+# link: Games/By Platform/Windows 9x/Deadlock II - Shrine Wars = ../../../All Programs/Games/Deadlock II - Shrine Wars
+# link: Games/By Platform/Windows 9x/Diablo + Hellfire = ../../../All Programs/Games/Diablo + Hellfire
+# link: Games/By Platform/Windows 9x/Emperor of the Fading Suns = ../../../All Programs/Games/Emperor of the Fading Suns
+# link: Games/By Platform/Windows 9x/Road Rash = ../../../All Programs/Games/Road Rash
+# link: Games/By Platform/Windows 9x/Sanitarium = ../../../All Programs/Games/Sanitarium
+# link: Games/By Platform/Windows 9x/StarCraft - Anthology = ../../../All Programs/Games/StarCraft - Anthology

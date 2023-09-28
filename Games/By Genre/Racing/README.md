@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Racing (3)
+# 🗂️ Games ‣ By Genre ‣ Racing (4)
 
 > <table><tr><td width="255">
 >
@@ -34,6 +34,25 @@
 > 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ 1st-person • Behind view • Shooter • Hovercraft • Sci-fi ┃ **Media** ‣ CD-ROM ┃ **Add-on • No Manual** 
 >
 > ❝ Racers drive to their death on the bleak streets of the 21st century. Hi-Octane puts you behind the wheel of an armour-plated Hov-Car capable of 400+mph. Race through city streets, open wastelands or deserts faster than a Ferrari and with accessories you'd never find on a Volvo (like a missile launcher and chain gun). If anyone gets in your way, remember your highway code: Mirror. Signal. Fire! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Road%20Rash/Thumbnail.png "Road Rash")
+>
+> </td>
+>
+> <td>
+>
+> ## [Road Rash](../../../All%20Programs/Games/Road%20Rash/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Abandonware ┃ **Category** ‣ Behind view • Motorcycle • Street racing ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful. ❞
 >
 >
 > </td></tr></table>

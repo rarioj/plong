@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Role-playing (8)
+# 🗂️ Games ‣ By Genre ‣ Role-playing (9)
 
 > <table><tr><td width="255">
 >
@@ -36,6 +36,29 @@
 > ❝ You embark on a noble journey across Tempest in the ultimate fantasy adventure. Your mission is to rescue humanity from an evil fate with battle, skill, magic, and wits. Explore a massive terrain in 3D while solving puzzles, overcoming traps, and enjoying the beauty and scope of the outdoor scenes. Quest through dungeons where 3D walls add realism, and creatures all but lunge out at you in the attack. You have more than 25 spells and magical objects at your disposal, each drawing upon one of the elemental forces such as fire, water, wind, and lightning. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/anvil_of_dawn). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Diablo%20%2B%20Hellfire/Thumbnail.png "Diablo + Hellfire")
+>
+> </td>
+>
+> <td>
+>
+> ## [Diablo + Hellfire](../../../All%20Programs/Games/Diablo%20%2B%20Hellfire/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Action RPG • Hack and slash • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
+>
+> ❝ Vengeance, power, intellect and magic are the tools you will need to battle the Lord of All Evil, Diablo. Embark, if you dare, upon a dark and sinister quest that will pull you into the very depths of Hell itself and beyond. ❞ — *Diablo*
+>
+> ❝ Hellfire introduces players to new quests revolving around a powerful demon known as Na-Krul. A creature who once served as Diablo's chief minion and ally, Na-Krul and his cohorts rebelled against Diablo and, after a failed attempt to overthrow their master, were banished to the Void. Freed by an evil sorcerer, Na-Krul has set up command in the ancient Demon Crypts and has once again started his plans to destroy Diablo and spread the evils of Hell throughout the world. Gathering together a small army of never-before-seen monsters, Na-Krul poses an even more threat than Diablo. ❞ — *Hellfire*
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/diablo). ❞
 >
 >
 > </td></tr></table>

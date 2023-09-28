@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (23)
+# 🗂️ Games ‣ By Genre ‣ Strategy (29)
 
 > <table><tr><td width="255">
 >
@@ -13,6 +13,27 @@
 > 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Boxing ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 >
 > ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Age%20of%20Empires%20-%20Gold%20Edition/Thumbnail.png "Age of Empires: Gold Edition")
+>
+> </td>
+>
+> <td>
+>
+> ## [Age of Empires: Gold Edition](../../../All%20Programs/Games/Age%20of%20Empires%20-%20Gold%20Edition/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • Real-time strategy • Africa • Classical antiquity • Egypt • Europe • Historical events • Middle East ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
+>
+> ❝ How will you rule the world? Conquer enemy civilisations? Discover the world's secrets? Accumulate wealth? As the guiding spirit of a Stone Age tribe, follow one of these paths to build the greatest nation on earth. Age of Empires: choose your favourite form of world domination. ❞
+>
+> ❝ This game **is not abandonware 🚫**. The **Definitive Edition** release is available on [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/). ❞
 >
 >
 > </td></tr></table>
@@ -139,6 +160,48 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Commandos%20-%20Behind%20Enemy%20Lines/Thumbnail.png "Commandos: Behind Enemy Lines")
+>
+> </td>
+>
+> <td>
+>
+> ## [Commandos: Behind Enemy Lines](../../../All%20Programs/Games/Commandos%20-%20Behind%20Enemy%20Lines/README.md)
+>
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • Real-time tactics • Stealth • Africa • Europe • Historical events • World War II • War ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Engage in the ultimate battle of wits and wills, commanding the ruthless military force in history. Set in the backdrop of WWII, Commandos is a real-time tactical wargame that puts you in command of a squad of elite Allied Commandos whose job is to complete 24 dangerous missions behind enemy lines. Intercept the German war effort using sabotage and tactical genius. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/6800/Commandos_Behind_Enemy_Lines/) and [Zoom 💰](https://www.zoom-platform.com/product/commandos-behind-enemy-lines). The **Commandos Ammo Pack** release is available on [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Commandos%20-%20Beyond%20the%20Call%20of%20Duty/Thumbnail.png "Commandos: Beyond the Call of Duty")
+>
+> </td>
+>
+> <td>
+>
+> ## [Commandos: Beyond the Call of Duty](../../../All%20Programs/Games/Commandos%20-%20Beyond%20the%20Call%20of%20Duty/README.md)
+>
+> 📌 ┃ **Year** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • Real-time tactics • Stealth • Europe • Historical events • World War II • War ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You now mobilise in a series of eight new dangerous missions. You may come with experience of action "Behind Enemy Lines", or perhaps you are a rookie. You will have the opportunity to push your daring and tactical ability to the limit. As the leader of a small elite unit operating deep within enemy territory, you will experience new challenges and goals within these new missions. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/6810/Commandos_Beyond_the_Call_of_Duty/) and [Zoom 💰](https://www.zoom-platform.com/product/commandos-beyond-the-call-of-duty). The **Commandos Ammo Pack** release is available on [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Dark%20Legions/Thumbnail.png "Dark Legions")
 >
 > </td>
@@ -173,6 +236,48 @@
 > ❝ Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Deadlock%20II%20-%20Shrine%20Wars/Thumbnail.png "Deadlock II: Shrine Wars")
+>
+> </td>
+>
+> <td>
+>
+> ## [Deadlock II: Shrine Wars](../../../All%20Programs/Games/Deadlock%20II%20-%20Shrine%20Wars/README.md)
+>
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • 4X • Managerial • Turn-based strategy • Sci-fi ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Ancient and mysterious Shrines reveal the location of an extinct alien homeworld. Discovered in the aftermath of the Gallius IV war, these Shrines unlock the most powerful technology in the universe. Now, seven interstellar empires must battle to establish their colonies and attempt to piece together the ancient secrets of a lost world. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_2_shrine_wars) and [Steam 💰](https://store.steampowered.com/app/328450/Deadlock_II_Shrine_Wars/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Emperor%20of%20the%20Fading%20Suns/Thumbnail.png "Emperor of the Fading Suns")
+>
+> </td>
+>
+> <td>
+>
+> ## [Emperor of the Fading Suns](../../../All%20Programs/Games/Emperor%20of%20the%20Fading%20Suns/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Turn-based • 4X • Managerial • Sci-fi ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ Enter the realm of the Fading Suns and become meshed in a bold, Gothic world where advanced technology has plunged the galaxy into a new Dark Age. Explore, expand, exploit and exterminate in your ruthless quest to unite the planets and attain the crown of Emperor. Nothing less than the future of the Known Worlds hangs in the balance! ❞
+>
+> ❝ This game **is not abandonware 🚫**. The **Enhanced Edition** release is available on [GOG 💰](https://www.gog.com/en/game/emperor_of_the_fading_suns) and [Zoom 💰](https://zoom-platform.com/product/emperor-of-the-fading-suns-enhanced-edition). ❞
 >
 >
 > </td></tr></table>
@@ -318,6 +423,25 @@
 > ❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞
 >
 > ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/StarCraft%20-%20Anthology/Thumbnail.png "StarCraft: Anthology")
+>
+> </td>
+>
+> <td>
+>
+> ## [StarCraft: Anthology](../../../All%20Programs/Games/StarCraft%20-%20Anthology/README.md)
+>
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Freeware ┃ **Category** ‣ Diagonal-down • Real-time • Real-time strategy • Sci-fi • War ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞
 >
 >
 > </td></tr></table>

@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1334/mega-man-x/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mega+Man+X&gid=1990)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/mega-man-x-2wh)** ┃ **[Series](https://en.wikipedia.org/wiki/Mega_Man_X)** ┃ **[Fandom](https://megaman.fandom.com/wiki/Mega_Man_X_(video_game))** ┃ **Mega Man X Legacy Collection** ‣ [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Mega_Man_X_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1334/mega-man-x/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mega+Man+X&gid=1990)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/mega-man-x-2wh)** ┃ **[Fandom](https://megaman.fandom.com/wiki/Mega_Man_X_(video_game))** ┃ **[Series](https://en.wikipedia.org/wiki/Mega_Man_X)** ┃ **Mega Man X Legacy Collection** ‣ [Steam 💰🆓](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/) 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

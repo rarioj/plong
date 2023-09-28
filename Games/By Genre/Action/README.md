@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Action (43)
+# 🗂️ Games ‣ By Genre ‣ Action (44)
 
 > <table><tr><td width="255">
 >
@@ -698,6 +698,25 @@
 > ❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is Sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*
 >
 > ❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Road%20Rash/Thumbnail.png "Road Rash")
+>
+> </td>
+>
+> <td>
+>
+> ## [Road Rash](../../../All%20Programs/Games/Road%20Rash/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Abandonware ┃ **Category** ‣ Behind view • Motorcycle • Street racing ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful. ❞
 >
 >
 > </td></tr></table>

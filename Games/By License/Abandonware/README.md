@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (37)
+# 🗂️ Games ‣ By License ‣ Abandonware (38)
 
 > <table><tr><td width="255">
 >
@@ -513,6 +513,25 @@
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Top-down • Real-time • Managerial • Train ┃ **Media** ‣ CD-ROM ┃ **Copy Protection** 
 >
 > ❝ Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush or brush you from their path. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Road%20Rash/Thumbnail.png "Road Rash")
+>
+> </td>
+>
+> <td>
+>
+> ## [Road Rash](../../../All%20Programs/Games/Road%20Rash/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Abandonware ┃ **Category** ‣ Behind view • Motorcycle • Street racing ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful. ❞
 >
 >
 > </td></tr></table>
