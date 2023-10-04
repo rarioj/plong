@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/flashback). ❞
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Platform • Puzzle elements • Shooter • Cyberpunk ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Flashback_(1992_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/555/flashback-the-quest-for-identity/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Flashback%3A+The+Quest+for+Identity&gid=1501)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/flashback-the-quest-for-identity-1lr)** ┃ **[GOG 💰](https://www.gog.com/en/game/flashback)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Flashback_(1992_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/555/flashback-the-quest-for-identity/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/flashback-the-quest-for-identity-1lr)** ┃ **[GOG 💰](https://www.gog.com/en/game/flashback)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -21,4 +21,6 @@
 - Music: **Ad-Lib / Sound Blaster**
 
 ![](Montage.png "Flashback")
+
+---
 

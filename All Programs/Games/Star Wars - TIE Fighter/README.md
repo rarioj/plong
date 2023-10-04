@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) and [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Space flight • Vehicular combat • Sci-fi ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_TIE_Fighter)** ┃ **[MobyGames](https://www.mobygames.com/game/240/star-wars-tie-fighter/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Star+Wars%3A+TIE+Fighter&gid=2367)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/star-wars-tie-fighter-2ei)** ┃ **[Series](https://en.wikipedia.org/wiki/Star_Wars:_X-Wing_(video_game_series))** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) • [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars:_TIE_Fighter)** ┃ **[MobyGames](https://www.mobygames.com/game/240/star-wars-tie-fighter/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/star-wars-tie-fighter-2ei)** ┃ **[Series](https://en.wikipedia.org/wiki/Star_Wars:_X-Wing_(video_game_series))** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/star_wars_tie_fighter_special_edition) ┃ **Special Edition** ‣ [Steam 💰](https://store.steampowered.com/app/355250/STAR_WARS_TIE_Fighter_Special_Edition/) 
 
 ## Installation Notes
 - Select **Maximum Install**.
@@ -22,4 +22,6 @@
 - Select **PLAY** to start the game (or **EXIT** to quit DOSBox).
 
 ![](Montage.png "Star Wars: TIE Fighter")
+
+---
 

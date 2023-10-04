@@ -9,11 +9,11 @@
 > ❝ The final release released on August 19, 2005 was freeware simply titled Boppin', had all the features of the third release and was the very release ported to Windows. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Side view • Platform • Fantasy ┃ **Media** ‣ Floppy Disk 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Floppy Disk 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Boppin%27)** ┃ **[MobyGames](https://www.mobygames.com/game/2570/boppin/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Boppin&gid=1764)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/boppin-1u7)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/boppin) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Boppin%27)** ┃ **[MobyGames](https://www.mobygames.com/game/2570/boppin/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/boppin-1u7)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -23,4 +23,6 @@
 - Please select which device you would like to use for music: **SoundBlaster**.
 
 ![](Montage.png "Boppin'")
+
+---
 

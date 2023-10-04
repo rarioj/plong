@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and used to be for sale on **Ziggurat**. However, it is no longer available digitally anymore. ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Shannara_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/3208/shannara/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shannara&gid=2464)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/shannara-2t8)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Shannara_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/3208/shannara/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/shannara-2t8)** ┃ **[OldGames.sk](https://www.oldgames.sk/en/game/shannara/)** 
 
 ## Installation Notes
 - Installation Options: **Optimum Performance Installation**.
@@ -20,4 +20,6 @@
   - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
 
 ![](Montage.png "Shannara")
+
+---
 

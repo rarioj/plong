@@ -9,11 +9,11 @@
 > ❝ This version is the original/legacy release for DOS. An **HD Remake** release is available on [Steam 💰](https://store.steampowered.com/app/389740/DGeneration_HD/). ❞
 >
 
-📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Category** ‣ Diagonal-down • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/D/Generation)** ┃ **[MobyGames](https://www.mobygames.com/game/1274/dgeneration/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=D%2FGeneration&gid=1164)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/d-generation-14l)** ┃ **HD Remake** ‣ [Steam 💰](https://store.steampowered.com/app/389740/DGeneration_HD/) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/D/Generation)** ┃ **[MobyGames](https://www.mobygames.com/game/1274/dgeneration/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/d-generation-14l)** ┃ **HD Remake** ‣ [Steam 💰](https://store.steampowered.com/app/389740/DGeneration_HD/) 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -22,4 +22,6 @@
 - A keyboard with *a numeric keypad* is preferred to play this game.
 
 ![](Montage.png "D/Generation")
+
+---
 

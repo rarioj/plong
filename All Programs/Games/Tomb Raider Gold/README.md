@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫**. **Tomb Raider 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/tomb_raider_123). **Tomb Raider I** is also available on [Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/). ❞
 >
 
-📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Behind view • Platform • Puzzle elements • Africa • Europe • South America ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1601/tomb-raider-gold/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tomb+Raider&gid=1523)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/tomb-raider-d7x)** ┃ **[Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))** ┃ **[Series](https://en.wikipedia.org/wiki/Tomb_Raider)** ┃ **Tomb Raider 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/tomb_raider_123) ┃ **[Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1601/tomb-raider-gold/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/tomb-raider-d7x)** ┃ **[Fandom](https://tombraider.fandom.com/wiki/Tomb_Raider_(1996_Game))** ┃ **[Series](https://en.wikipedia.org/wiki/Tomb_Raider)** ┃ **Tomb Raider 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/tomb_raider_123) ┃ **[Steam 💰](https://store.steampowered.com/app/224960/Tomb_Raider_I/)** 
 
 ## Installation Notes
 - Installing **Tomb Raider**:
@@ -31,4 +31,6 @@
   2. Tomb Raider: Unfinished Business
 
 ![](Montage.png "Tomb Raider Gold")
+
+---
 

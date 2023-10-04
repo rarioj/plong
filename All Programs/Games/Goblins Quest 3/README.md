@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫**. A **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Goblins_Quest_3_(1993))** ┃ **[MobyGames](https://www.mobygames.com/game/2870/goblins-quest-3/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Goblins+3&gid=2244)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/goblins-quest-3-1zc)** ┃ **Gobliiins Pack** ‣ [GOG 💰](https://www.gog.com/en/game/gobliiins_pack) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Goblins_Quest_3_(1993))** ┃ **[MobyGames](https://www.mobygames.com/game/2870/goblins-quest-3/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/goblins-quest-3-1zc)** ┃ **Gobliiins Pack** ‣ [GOG 💰](https://www.gog.com/en/game/gobliiins_pack) 
 
 ## Installation Notes
 - Choose your language.
@@ -22,4 +22,6 @@
 - Press `ENTER` to confirm the settings.
 
 ![](Montage.png "Goblins Quest 3")
+
+---
 

@@ -9,9 +9,9 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements • Spy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
-📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟥 (unplayable) ┃ **[DOSBox Staging](https://dosbox-staging.github.io/)** ‣ 0.80.1 🟥 (unplayable) ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
+📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟥 • Unplayable ┃ **[DOSBox Staging](https://dosbox-staging.github.io/)** ‣ 0.80.1 🟥 • Unplayable ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
 📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Titanic:_Adventure_Out_of_Time)** ┃ **[MobyGames](https://www.mobygames.com/game/2892/titanic-adventure-out-of-time/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/titanic-adventure-out-of-time-3rg)** ┃ **[GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time)** ┃ **[Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/)** 
 
@@ -34,4 +34,6 @@
 - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
 ![](Montage.png "Titanic: Adventure Out of Time")
+
+---
 

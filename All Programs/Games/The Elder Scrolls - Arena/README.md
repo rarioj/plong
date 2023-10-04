@@ -9,11 +9,11 @@
 > ❝ In 2004, a downloadable version of the game was made available free of charge as part of the tenth anniversary of the series. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ 1st-person • Action RPG • Sandbox • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ([version 1.07](https://en.uesp.net/wiki/Arena:Patch#Version_1.07)) 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Arena)** ┃ **[MobyGames](https://www.mobygames.com/game/803/the-elder-scrolls-arena/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Elder+Scrolls%3A+Arena&gid=1832)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-arena-1tn)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Steam 🆓](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/)** ┃ **[Bethesda](https://elderscrolls.bethesda.net/en/arena)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Arena)** ┃ **[MobyGames](https://www.mobygames.com/game/803/the-elder-scrolls-arena/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-arena-1tn)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Arena)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Steam 🆓](https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/)** ┃ **[Bethesda](https://elderscrolls.bethesda.net/en/arena)** ┃ **[Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Arena:Arena)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -22,4 +22,6 @@
   - Select Music Card: **General MIDI or MPU-401**.
 
 ![](Montage.png "The Elder Scrolls: Arena")
+
+---
 

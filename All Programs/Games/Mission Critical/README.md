@@ -7,11 +7,14 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/mission_critical) and [Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Real-time • Graphic adventure • Post-apocalyptic • Sci-fi ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0.0 11-01-1995 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Mission_Critical_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1651/mission-critical/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mission+Critical&gid=2457)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/mission-critical-a36)** ┃ **[GOG 💰](https://gog.com/en/game/mission_critical)** ┃ **[Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Mission_Critical_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1651/mission-critical/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/mission-critical-a36)** ┃ **[GOG 💰](https://gog.com/en/game/mission_critical)** ┃ **[Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/)** 
+
+## Host Requirements
+- Download a patch file manually from [MyAbandonware](https://www.myabandonware.com/game/mission-critical-a36) labeled *"English version 562 KB (DOS)"*, rename it to `patch.zip`, and place it in the `Assets` directory.
 
 ## Installation Notes
 - Installation Options: **Optimum Performance Installation**.
@@ -31,4 +34,6 @@
 - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
 ![](Montage.png "Mission Critical")
+
+---
 

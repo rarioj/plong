@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Detective • Horror ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0a 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers)** ┃ **[MobyGames](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gabriel+Knight%3A+Sins+of+the+Fathers&gid=1132)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m)** ┃ **[Fandom](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_(CD-ROM))** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers)** ┃ **[Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers)** ┃ **[MobyGames](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m)** ┃ **[Fandom](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_(CD-ROM))** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers)** ┃ **[Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -26,4 +26,6 @@
   - Press `Y` when prompted to **copy high resolution art**.
 
 ![](Montage.png "Gabriel Knight: Sins of the Fathers")
+
+---
 

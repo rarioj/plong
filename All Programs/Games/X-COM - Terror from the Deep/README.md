@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep) and [Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Turn-based • Turn-based strategy • Sci-fi • War ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep)** ┃ **[MobyGames](https://www.mobygames.com/game/543/x-com-terror-from-the-deep/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Terror+from+the+Deep&gid=1531)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/x-com-terror-from-the-deep-1pk)** ┃ **[Series](https://en.wikipedia.org/wiki/XCOM)** ┃ **[GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep)** ┃ **[Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Terror_from_the_Deep)** ┃ **[MobyGames](https://www.mobygames.com/game/543/x-com-terror-from-the-deep/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/x-com-terror-from-the-deep-1pk)** ┃ **[Series](https://en.wikipedia.org/wiki/XCOM)** ┃ **[GOG 💰](https://www.gog.com/en/game/xcom_terror_from_the_deep)** ┃ **[Steam 💰](https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -21,4 +21,6 @@
 - Choose Music Board: **AdLib/SoundBlaster FM**.
 
 ![](Montage.png "X-COM: Terror from the Deep")
+
+---
 

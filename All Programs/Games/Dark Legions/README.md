@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/dark_legions). ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Top-down • Board game • Fighting • Fantasy ┃ **Media** ‣ Floppy Disk ┃ **Patched • Copy Protection** 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk ┃ **Patched** ‣ 1.1 ┃ **Copy Protection** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Dark_Legions)** ┃ **[MobyGames](https://www.mobygames.com/game/1350/dark-legions/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Dark+Legions&gid=1249)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/dark-legions-2ci)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/dark-legions) ┃ **[GOG 💰](https://www.gog.com/en/game/dark_legions)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Dark_Legions)** ┃ **[MobyGames](https://www.mobygames.com/game/1350/dark-legions/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/dark-legions-2ci)** ┃ **[GOG 💰](https://www.gog.com/en/game/dark_legions)** 
 
 ## Installation Notes
 - System Detection: Press `ENTER` to **Continue**.
@@ -28,4 +28,6 @@
 - A desktop keyboard with *a numeric keypad* is preferred to play the two-player game.
 
 ![](Montage.png "Dark Legions")
+
+---
 

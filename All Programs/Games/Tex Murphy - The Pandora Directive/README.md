@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Post-apocalyptic • Detective ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Pandora_Directive)** ┃ **[MobyGames](https://www.mobygames.com/game/1454/the-pandora-directive/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tex+Murphy%3A+The+Pandora+Directive&gid=2208)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-pandora-directive-crh)** ┃ **[Series](https://en.wikipedia.org/wiki/Tex_Murphy)** ┃ **[GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive)** ┃ **[Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Pandora_Directive)** ┃ **[MobyGames](https://www.mobygames.com/game/1454/the-pandora-directive/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-pandora-directive-crh)** ┃ **[Series](https://en.wikipedia.org/wiki/Tex_Murphy)** ┃ **[GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive)** ┃ **[Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/)** 
 
 ## Installation Notes
 - Select **Install**.
@@ -43,4 +43,6 @@
     - Captioning: **On**.
 
 ![](Montage.png "Tex Murphy: The Pandora Directive")
+
+---
 

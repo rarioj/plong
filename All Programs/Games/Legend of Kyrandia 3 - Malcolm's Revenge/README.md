@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge). ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Kyrandia:_Malcolm%27s_Revenge)** ┃ **[MobyGames](https://www.mobygames.com/game/872/the-legend-of-kyrandia-book-3-malcolms-revenge/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Kyrandia+3%3A+Malcolm%27s+Revenge&gid=1450)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-legend-of-kyrandia-book-3-malcolm-s-revenge-2x5)** ┃ **[GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/legend-of-kyrandia-book-3-malcolms-revenge) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Legend_of_Kyrandia:_Malcolm%27s_Revenge)** ┃ **[MobyGames](https://www.mobygames.com/game/872/the-legend-of-kyrandia-book-3-malcolms-revenge/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-legend-of-kyrandia-book-3-malcolm-s-revenge-2x5)** ┃ **[GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge)** 
 
 ## Installation Notes
 - Select preferred language.
@@ -22,4 +22,6 @@
 - Test and confirm the selected sound cards.
 
 ![](Montage.png "The Legend of Kyrandia - Book Three: Malcolm's Revenge")
+
+---
 

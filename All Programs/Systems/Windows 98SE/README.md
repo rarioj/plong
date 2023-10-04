@@ -9,7 +9,7 @@
 
 📌 ┃ **Year** ‣ 1998 ┃ **Type** ‣ Operating System ┃ **License** ‣ Discontinued ┃ **Media** ‣ CD-ROM ┃ **Extras** ‣ 7-zip • Adobe Reader • DirectX 
 
-📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ (untested)** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
+📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
 📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_98#Windows_98_Second_Edition)** ┃ **[Fandom](https://microsoft.fandom.com/wiki/Windows_98#Windows_98_Second_Edition)** ┃ **[Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98)** ┃ **[Product Keys](https://forum.winworldpc.com/discussion/6677/new-serials-compilation)** 
 
@@ -55,4 +55,6 @@
 - Exit Windows and run the `Snapshot` script.
 
 ![](Montage.png "Windows 98 Second Edition")
+
+---
 

@@ -7,11 +7,13 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/loom) and [Steam 💰](https://store.steampowered.com/app/32340/LOOM/). ❞
 >
 
-📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Loom_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/176/loom/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Loom&gid=1051)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/loom-xw)** ┃ **[GOG 💰](https://gog.com/en/game/loom)** ┃ **[Steam 💰](https://store.steampowered.com/app/32340/LOOM/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Loom_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/176/loom/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/loom-xw)** ┃ **[GOG 💰](https://gog.com/en/game/loom)** ┃ **[Steam 💰](https://store.steampowered.com/app/32340/LOOM/)** 
 
 ![](Montage.png "Loom")
+
+---
 

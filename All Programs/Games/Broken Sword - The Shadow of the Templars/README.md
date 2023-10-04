@@ -9,11 +9,11 @@
 > ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Detective • Romance ┃ **Media** ‣ CD-ROM ┃ **Extra Command** 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Extra Command** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Broken+Sword%3A+The+Shadow+of+the+Templars&gid=2332)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)** ┃ **[Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **The Director's Cut** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)** ┃ **[Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **Director's Cut** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut) 
 
 ## Host Requirements
 - The [mdf2iso](https://github.com/excitoon/mdf2iso) tool is required to convert MDF CD-ROM format to ISO.
@@ -42,4 +42,6 @@ if [[ ! -f "./Assets/cdrom02.iso" ]]; then cd ./Assets && mdf2iso cdrom02.mdf; e
 ```
 
 ![](Montage.png "Broken Sword: The Shadow of the Templars")
+
+---
 

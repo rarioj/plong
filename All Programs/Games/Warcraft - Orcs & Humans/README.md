@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans). ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Top-down • Real-time • Real-time strategy • Fantasy • War ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)** ┃ **[MobyGames](https://www.mobygames.com/game/371/warcraft-orcs-humans/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Warcraft%3A+Orcs+and+Humans&gid=1279)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/warcraft-orcs-humans-250)** ┃ **[Fandom](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans)** ┃ **[Series](https://en.wikipedia.org/wiki/Warcraft)** ┃ **[GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)** ┃ **[MobyGames](https://www.mobygames.com/game/371/warcraft-orcs-humans/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/warcraft-orcs-humans-250)** ┃ **[Fandom](https://wowpedia.fandom.com/wiki/Warcraft:_Orcs_%26_Humans)** ┃ **[Series](https://en.wikipedia.org/wiki/Warcraft)** ┃ **[GOG 💰](https://www.gog.com/en/game/warcraft_orcs_and_humans)** 
 
 ## Installation Notes
 - Select **FULL -- program + data + moviews on hard disk**.
@@ -23,4 +23,6 @@
   - Select music sound card: **Sound Blaster Pro II / SB 16**; **Auto - detect**.
 
 ![](Montage.png "Warcraft: Orcs & Humans")
+
+---
 

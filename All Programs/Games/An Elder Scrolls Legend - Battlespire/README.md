@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire). ❞
 >
 
-📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Action RPG • Fantasy ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.5 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[MobyGames](https://www.mobygames.com/game/1579/an-elder-scrolls-legend-battlespire/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=An+Elder+Scrolls+Legend%3A+Battlespire&gid=2734)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/an-elder-scrolls-legend-battlespire-bkn)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[MobyGames](https://www.mobygames.com/game/1579/an-elder-scrolls-legend-battlespire/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/an-elder-scrolls-legend-battlespire-bkn)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Battlespire:Battlespire)** ┃ **[GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire)** 
 
 ## Installation Notes
 - Select **Install Battlespire**.
@@ -28,4 +28,6 @@
 - Disregard any warning about RAM+Swap. Press any key to start the game.
 
 ![](Montage.png "An Elder Scrolls Legend: Battlespire")
+
+---
 

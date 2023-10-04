@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken) and [Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/). ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure • Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Top-down • Puzzle elements • North America • Post-apocalyptic • Sci-fi • Comedy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure • Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Superhero_League_of_Hoboken)** ┃ **[MobyGames](https://www.mobygames.com/game/1559/superhero-league-of-hoboken/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Superhero+League+of+Hoboken&gid=1938)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/superhero-league-of-hoboken-2uv)** ┃ **[GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken)** ┃ **[Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Superhero_League_of_Hoboken)** ┃ **[MobyGames](https://www.mobygames.com/game/1559/superhero-league-of-hoboken/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/superhero-league-of-hoboken-2uv)** ┃ **[GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken)** ┃ **[Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -21,4 +21,6 @@
 - Sound Blaster I/O Address: **220H**.
 
 ![](Montage.png "Superhero League of Hoboken")
+
+---
 

@@ -9,15 +9,17 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
 >
 
-📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • Interwar ┃ **Media** ‣ Floppy Disk 
+📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure)** ┃ **[MobyGames](https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Indiana+Jones+and+the+Last+Crusade&gid=1295)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-last-crusade-the-graphic-adventure-1ba)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/indiana-jones-and-the-last-crusade) ┃ **[Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)** ┃ **[GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade)** ┃ **[Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure)** ┃ **[MobyGames](https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/indiana-jones-and-the-last-crusade-the-graphic-adventure-1ba)** ┃ **[Series](https://en.wikipedia.org/wiki/Indiana_Jones#Video_games)** ┃ **[GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade)** ┃ **[Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/)** 
 
 ## Installation Notes
 - Hard drive on which to install program: **C:** and press `ENTER`.
 - Floppy drive to read installation disks: **C:** and press `ENTER`.
 
 ![](Montage.png "Indiana Jones and the Last Crusade: The Graphic Adventure")
+
+---
 

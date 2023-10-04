@@ -9,15 +9,17 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Horror ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Shadow_of_the_Comet)** ┃ **[MobyGames](https://www.mobygames.com/game/132/call-of-cthulhu-shadow-of-the-comet/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shadow+of+the+Comet&gid=2866)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/call-of-cthulhu-shadow-of-the-comet-21v)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/call-of-cthulu-shadow-of-the-comet) ┃ **[GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet)** ┃ **[Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Shadow_of_the_Comet)** ┃ **[MobyGames](https://www.mobygames.com/game/132/call-of-cthulhu-shadow-of-the-comet/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/call-of-cthulhu-shadow-of-the-comet-21v)** ┃ **[GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet)** ┃ **[Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/)** 
 
 ## Installation Notes
 - Select *language* and then **Install**.
 - Use the default **drive** and **directory** for the installation location.
 
 ![](Montage.png "Call of Cthulhu: Shadow of the Comet")
+
+---
 

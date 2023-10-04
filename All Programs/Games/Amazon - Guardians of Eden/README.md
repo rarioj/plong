@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden). ❞
 >
 
-📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Graphic adventure • Puzzle elements • South America ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Amazon:_Guardians_of_Eden)** ┃ **[MobyGames](https://www.mobygames.com/game/3287/amazon-guardians-of-eden/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Amazon%3A+Guardians+of+Eden&gid=3136)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/amazon-guardians-of-eden-1bz)** ┃ **[GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/amazon-guardians-of-eden) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Amazon:_Guardians_of_Eden)** ┃ **[MobyGames](https://www.mobygames.com/game/3287/amazon-guardians-of-eden/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/amazon-guardians-of-eden-1bz)** ┃ **[GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -24,4 +24,6 @@
 - Select the device which will play digital sound effects and voices: Press `4`.
 
 ![](Montage.png "Amazon: Guardians of Eden")
+
+---
 

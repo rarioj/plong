@@ -9,20 +9,23 @@
 > ❝ This game **is not abandonware 🚫**. The **Definitive Edition** release is available on [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/). ❞
 >
 
-📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • Real-time strategy • Africa • Classical antiquity • Egypt • Europe • Historical events • Middle East ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
+📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
 
-📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ (untested)** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ (untested)** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
+📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **Age of Empires** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)) • [MobyGames](https://www.mobygames.com/game/384/age-of-empires/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Age+of+Empires&gid=1865) • [MyAbandonware](https://www.myabandonware.com/game/age-of-empires-3fw) • [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires) ┃ **Age of Empires: The Rise of Rome** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)#The_Rise_of_Rome) • [MobyGames](https://www.mobygames.com/game/1249/age-of-empires-the-rise-of-rome/) • [MyAbandonware](https://www.myabandonware.com/game/age-of-empires-the-rise-of-rome-a48) • [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires:_The_Rise_of_Rome) ┃ **Age of Empires: Gold Edition** ‣ [MobyGames](https://www.mobygames.com/game/1512/age-of-empires-gold-edition/) ┃ **[Series](https://en.wikipedia.org/wiki/Age_of_Empires)** ┃ **Definitive Edition** ‣ [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/) 
+📎 ┃ **Age of Empires** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)) • [MobyGames](https://www.mobygames.com/game/384/age-of-empires/) • [MyAbandonware](https://www.myabandonware.com/game/age-of-empires-3fw) • [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires) ┃ **Age of Empires: The Rise of Rome** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)#The_Rise_of_Rome) • [MobyGames](https://www.mobygames.com/game/1249/age-of-empires-the-rise-of-rome/) • [MyAbandonware](https://www.myabandonware.com/game/age-of-empires-the-rise-of-rome-a48) • [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires:_The_Rise_of_Rome) ┃ **Age of Empires: Gold Edition** ‣ [MobyGames](https://www.mobygames.com/game/1512/age-of-empires-gold-edition/) ┃ **[Series](https://en.wikipedia.org/wiki/Age_of_Empires)** ┃ **Definitive Edition** ‣ [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/) 
+
+## Host Requirements
+- Download a patch file manually from [Soggi.org](https://soggi.org/misc/game-patches.htm) labeled *"Age of Empires / The Rise of Rome (Ensemble Studios / Microsoft) - patch 1.0c / 1.0a (DE/EN/FR)"*, rename it to `patch.7z`, and place it in the `Assets` directory.
 
 ## Installation Notes
-- Open *My Computer* and double-click on the `E:` CD-ROM drive to start the installation.
-- Important points:
-  - Use the default **drive** and **directory** for the installation location.
-  - Always pick the largest installation size when prompted.
-
-## Additional Notes
-- The CPU *core* directive is currently set as `dynamic_x86` to [boost performance](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98#_dynamic_vs_normal_core). It may impact Windows shut-down and restart processes. Switch it back to `normal` if you find an issue.
+- Open *My Computer* and double-click on the `D:` CD-ROM drive to start the installation.
+- Use the default **drive** and **directory** for the installation location.
+- Select the largest installation size when prompted.
+- Applying patch:
+  - A patch is available on `C:\PATCH\PATCH.7Z`. Extract the compressed file and run `AOEPATCH.EXE`.
 
 ![](Montage.png "Age of Empires: Gold Edition")
+
+---
 

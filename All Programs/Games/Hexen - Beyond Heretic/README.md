@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/hexen_beyond_heretic) and [Steam 💰](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Shooter • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic)** ┃ **[MobyGames](https://www.mobygames.com/game/1938/hexen-beyond-heretic/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hexen%3A+Beyond+Heretic&gid=1143)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/hexen-beyond-heretic-2bd)** ┃ **[GOG 💰](https://www.gog.com/en/game/hexen_beyond_heretic)** ┃ **[Steam 💰](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic)** ┃ **[MobyGames](https://www.mobygames.com/game/1938/hexen-beyond-heretic/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/hexen-beyond-heretic-2bd)** ┃ **[GOG 💰](https://www.gog.com/en/game/hexen_beyond_heretic)** ┃ **[Steam 💰](https://store.steampowered.com/app/2360/Hexen_Beyond_Heretic/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -29,4 +29,6 @@
 - **Save parameters and launch Hexen**.
 
 ![](Montage.png "Hexen: Beyond Heretic")
+
+---
 

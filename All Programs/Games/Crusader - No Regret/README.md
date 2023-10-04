@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/crusader_no_regret). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Crusader:_No_Regret)** ┃ **[MobyGames](https://www.mobygames.com/game/852/crusader-no-regret/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Crusader%3A+No+Regret&gid=1721)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/crusader-no-regret-bpn)** ┃ **[GOG 💰](https://gog.com/en/game/crusader_no_regret)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/crusader-no-regret) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Crusader:_No_Regret)** ┃ **[MobyGames](https://www.mobygames.com/game/852/crusader-no-regret/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/crusader-no-regret-bpn)** ┃ **[GOG 💰](https://gog.com/en/game/crusader_no_regret)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -30,4 +30,6 @@
 - Select **Continue installation**.
 
 ![](Montage.png "Crusader: No Regret")
+
+---
 

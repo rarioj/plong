@@ -4,16 +4,16 @@
 
 「**Roberta Williams' Phantasmagoria**」
 
-> ❝ It seemed like a dream come true for Adrienne Delaney and Don Gordon. A beautiful mansion on its own private island. The perfect place to build a life together. But an ominous presence lurks within the halls, the rooms, and every passageway of this mysterious home. The previous owner, a 19th-century master illusionist, left behind a twisted trail of terror. Quickly, the blissful life Adrienne and Don hoped for begins to unravel into a terrible nightmare. With your help, Adrienne must uncover the clues and gather the objects she needs in a desperate attempt to save her husband from an insidious evil that holds him in its ever-tightening grip. Discover the mansion's hidden rooms, explore the island, and try to find the mystery man with the secret to the past. ❞
+> ❝ It seemed like a dream come true for Adrienne Delaney and Don Gordon. A beautiful mansion on its private island. The perfect place to build a life together. But an ominous presence lurks within the halls, the rooms, and every passageway of this mysterious home. The previous owner, a 19th-century master illusionist, left behind a twisted trail of terror. Quickly, the blissful life Adrienne and Don hoped for begins to unravel into a terrible nightmare. With your help, Adrienne must uncover the clues and gather the objects she needs in a desperate attempt to save her husband from an insidious evil that holds him in its ever-tightening grip. Discover the mansion's hidden rooms, explore the island, and try to find the mystery man with the secret to the past. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria) and [Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • 3rd-person • Horror ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria&gid=3141)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/roberta-williams-phantasmagoria-32t)** ┃ **[GOG 💰](https://www.gog.com/en/game/phantasmagoria)** ┃ **[Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/roberta-williams-phantasmagoria-32t)** ┃ **[GOG 💰](https://www.gog.com/en/game/phantasmagoria)** ┃ **[Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -36,4 +36,6 @@
 - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
 ![](Montage.png "Phantasmagoria")
+
+---
 

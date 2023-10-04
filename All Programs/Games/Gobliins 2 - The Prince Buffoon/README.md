@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫**. A **Gobliiins Pack** release is available on [GOG 💰](https://www.gog.com/en/game/gobliiins_pack). ❞
 >
 
-📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Gobliins_2:_The_Prince_Buffoon_(1992))** ┃ **[MobyGames](https://www.mobygames.com/game/2625/gobliins-2-the-prince-buffoon/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gobliins+2%3A+The+Prince+Buffoon&gid=2129)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/gobliins-2-the-prince-buffoon-2jc)** ┃ **Gobliiins Pack** ‣ [GOG 💰](https://www.gog.com/en/game/gobliiins_pack) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gobliiins#Gobliins_2:_The_Prince_Buffoon_(1992))** ┃ **[MobyGames](https://www.mobygames.com/game/2625/gobliins-2-the-prince-buffoon/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/gobliins-2-the-prince-buffoon-2jc)** ┃ **Gobliiins Pack** ‣ [GOG 💰](https://www.gog.com/en/game/gobliiins_pack) 
 
 ## Installation Notes
 - Choose your language.
@@ -22,4 +22,6 @@
 - Press `ENTER` to confirm the settings.
 
 ![](Montage.png "Gobliins 2: The Prince Buffoon")
+
+---
 

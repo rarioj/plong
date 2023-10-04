@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Return_to_Zork)** ┃ **[MobyGames](https://www.mobygames.com/game/1219/return-to-zork/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Return+to+Zork&gid=1870)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/return-to-zork-200)** ┃ **[GOG 💰](https://gog.com/en/game/return_to_zork)** ┃ **[Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Return_to_Zork)** ┃ **[MobyGames](https://www.mobygames.com/game/1219/return-to-zork/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/return-to-zork-200)** ┃ **[GOG 💰](https://gog.com/en/game/return_to_zork)** ┃ **[Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -30,4 +30,6 @@
 - Press `ENTER` to confirm and start the game.
 
 ![](Montage.png "Return to Zork")
+
+---
 

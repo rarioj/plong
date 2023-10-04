@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/xcom_apocalypse) and [Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/). ❞
 >
 
-📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Real-time • Turn-based • Sci-fi ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Apocalypse)** ┃ **[MobyGames](https://www.mobygames.com/game/349/x-com-apocalypse/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=X-COM%3A+Apocalypse&gid=2178)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/x-com-apocalypse-cxz)** ┃ **[Series](https://en.wikipedia.org/wiki/XCOM)** ┃ **[GOG 💰](https://www.gog.com/en/game/xcom_apocalypse)** ┃ **[Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/X-COM:_Apocalypse)** ┃ **[MobyGames](https://www.mobygames.com/game/349/x-com-apocalypse/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/x-com-apocalypse-cxz)** ┃ **[Series](https://en.wikipedia.org/wiki/XCOM)** ┃ **[GOG 💰](https://www.gog.com/en/game/xcom_apocalypse)** ┃ **[Steam 💰](https://store.steampowered.com/app/7660/XCOM_Apocalypse/)** 
 
 ## Installation Notes
 - Select **I Accept** to the Software License Agreement.
@@ -24,4 +24,6 @@
 - Select **Exit and save configuration**.
 
 ![](Montage.png "X-COM: Apocalypse")
+
+---
 

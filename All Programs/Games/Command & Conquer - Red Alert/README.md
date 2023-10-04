@@ -2,18 +2,18 @@
 
 # Command & Conquer: Red Alert
 
-「**Command & Conquer 2**」「**Command & Conquer: Red Alert - Counterstrike**」「**Command & Conquer: Red Alert - The Aftermath**」
+「**Red Alert** (Base)」「**Red Alert - Counterstrike** (Add-on)」「**Red Alert - The Aftermath** (Add-on)」
 
 > ❝ Dark experiments have permanently altered time. Or have they? Now, Soviet tanks crush city after city while Allied cruisers shell bases. Spies lurk, land mines wait, and strange new technologies aid both sides in their struggle for ultimate control. ❞
 >
 > ❝ To mark the 13th anniversary of Command and Conquer and the announcement of Red Alert 3, EA released Command and Conquer: Red Alert as freeware. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Year (Counterstrike & The Aftermath)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Category** ‣ Diagonal-down • Real-time • Real-time strategy • Europe • Sci-fi • War ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
+📌 ┃ **Year** ‣ 1996 ┃ **Year (Counterstrike & The Aftermath)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **Command & Conquer: Red Alert** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) • [MobyGames](https://www.mobygames.com/game/485/command-conquer-red-alert/) • [AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Command+%26amp%3B+Conquer%3A+Red+Alert&gid=1872) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-7pi) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert) ┃ **Command & Conquer: Red Alert - Counterstrike** ‣ [MobyGames](https://www.mobygames.com/game/863/command-conquer-red-alert-counterstrike/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-counterstrike-7pk) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_Counterstrike) ┃ **Command & Conquer: Red Alert - The Aftermath** ‣ [MobyGames](https://www.mobygames.com/game/866/command-conquer-red-alert-the-aftermath/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-the-aftermath-7pj) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_The_Aftermath) ┃ **[Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)** ┃ **Remastered Collection** ‣ [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/) 
+📎 ┃ **Red Alert** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) • [MobyGames](https://www.mobygames.com/game/485/command-conquer-red-alert/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-7pi) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert) ┃ **Red Alert - Counterstrike** ‣ [MobyGames](https://www.mobygames.com/game/863/command-conquer-red-alert-counterstrike/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-counterstrike-7pk) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_Counterstrike) ┃ **Red Alert - The Aftermath** ‣ [MobyGames](https://www.mobygames.com/game/866/command-conquer-red-alert-the-aftermath/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-red-alert-the-aftermath-7pj) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert_-_The_Aftermath) ┃ **[Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)** ┃ **Remastered Collection** ‣ [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/) 
 
 ## Installation Notes
 - Installing **Command & Conquer: Red Alert**:
@@ -38,4 +38,6 @@
 - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
 ![](Montage.png "Command & Conquer: Red Alert")
+
+---
 

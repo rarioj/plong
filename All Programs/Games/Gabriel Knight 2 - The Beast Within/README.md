@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within) and [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Puzzle elements • Detective • Horror ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[MobyGames](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gabriel+Knight+2%3A+The+Beast+Within&gid=2279)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu)** ┃ **[Fandom](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within)** ┃ **[Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[MobyGames](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu)** ┃ **[Fandom](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within)** ┃ **[Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -37,4 +37,6 @@
 - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
 
 ![](Montage.png "Gabriel Knight 2: The Beast Within")
+
+---
 

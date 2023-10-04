@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road). ❞
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Mini-games • Puzzle elements • Fantasy • Comedy • Detective ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Sam_%26_Max_Hit_the_Road)** ┃ **[MobyGames](https://www.mobygames.com/game/745/sam-max-hit-the-road/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sam+and+Max+Hit+the+Road&gid=2404)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sam-max-hit-the-road-1vb)** ┃ **[Series](https://en.wikipedia.org/wiki/Sam_%26_Max)** ┃ **[GOG 💰](https://gog.com/en/game/sam_max_hit_the_road)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Sam_%26_Max_Hit_the_Road)** ┃ **[MobyGames](https://www.mobygames.com/game/745/sam-max-hit-the-road/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sam-max-hit-the-road-1vb)** ┃ **[Series](https://en.wikipedia.org/wiki/Sam_%26_Max)** ┃ **[GOG 💰](https://gog.com/en/game/sam_max_hit_the_road)** 
 
 ## Installation Notes
 - Soundcard: Select **Sound Blaster 16**.
@@ -21,4 +21,6 @@
 - Save Current Options (y/n)? Press `Y`.
 
 ![](Montage.png "Sam & Max: Hit the Road")
+
+---
 

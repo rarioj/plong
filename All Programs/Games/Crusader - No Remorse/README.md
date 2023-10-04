@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/crusader_no_remorse). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Diagonal-down • Shooter • Sci-fi ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Crusader:_No_Remorse)** ┃ **[MobyGames](https://www.mobygames.com/game/851/crusader-no-remorse/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Crusader%3A+No+Remorse&gid=1160)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/crusader-no-remorse-2qz)** ┃ **[GOG 💰](https://www.gog.com/en/game/crusader_no_remorse)** ┃ **Manual** ‣ [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/crusader-no-remorse) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Crusader:_No_Remorse)** ┃ **[MobyGames](https://www.mobygames.com/game/851/crusader-no-remorse/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/crusader-no-remorse-2qz)** ┃ **[GOG 💰](https://www.gog.com/en/game/crusader_no_remorse)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -28,4 +28,6 @@
 - Select **Continue installation**.
 
 ![](Montage.png "Crusader: No Remorse")
+
+---
 

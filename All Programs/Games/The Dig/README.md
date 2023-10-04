@@ -7,11 +7,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_dig) and [Steam 💰](https://store.steampowered.com/app/6040/The_Dig/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ Side view • Graphic adventure • Puzzle elements • Sci-fi ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Dig_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/354/the-dig/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Dig&gid=2295)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-dig-2ut)** ┃ **[GOG 💰](https://www.gog.com/en/game/the_dig)** ┃ **[Steam 💰](https://store.steampowered.com/app/6040/The_Dig/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Dig_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/354/the-dig/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-dig-2ut)** ┃ **[GOG 💰](https://www.gog.com/en/game/the_dig)** ┃ **[Steam 💰](https://store.steampowered.com/app/6040/The_Dig/)** 
 
 ## Additional Notes
 - Select **Configure Sound Card** before starting the game the first time.
@@ -19,4 +19,6 @@
 - Select **Play The Dig** to start the game.
 
 ![](Montage.png "The Dig")
+
+---
 

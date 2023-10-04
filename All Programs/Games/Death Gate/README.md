@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate) ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Puzzle elements • Fantasy ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Death_Gate)** ┃ **[MobyGames](https://www.mobygames.com/game/175/death-gate/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Death+Gate&gid=2037)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/death-gate-2pf)** ┃ **[GOG ❓](https://www.gog.com/forum/general/release_bdeath_gateb_18b63)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Death_Gate)** ┃ **[MobyGames](https://www.mobygames.com/game/175/death-gate/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/death-gate-2pf)** ┃ **[GOG ❓](https://www.gog.com/forum/general/release_bdeath_gateb_18b63)** 
 
 ## Installation Notes
 - Display Mode: **640x480 VESA compatible**.
@@ -24,4 +24,6 @@
 - Digitized Sound: **Sound Blaster 16**.
 
 ![](Montage.png "Death Gate")
+
+---
 

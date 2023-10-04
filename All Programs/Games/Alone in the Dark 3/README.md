@@ -9,15 +9,17 @@
 > ❝ This game **is not abandonware 🚫**. **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 3rd-person • Puzzle elements • Survival horror • Interwar • Horror ┃ **Media** ‣ CD-ROM 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)** ┃ **[MobyGames](https://www.mobygames.com/game/908/alone-in-the-dark-3/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Alone+in+the+Dark+3&gid=2325)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-3-2y6)** ┃ **[Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_3)** ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)** ┃ **[MobyGames](https://www.mobygames.com/game/908/alone-in-the-dark-3/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-3-2y6)** ┃ **[Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_3)** ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
 
 ## Installation Notes
 - Select **Install**.
 - Use the default **drive** and **directory** for the installation location.
 
 ![](Montage.png "Alone in the Dark 3")
+
+---
 

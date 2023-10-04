@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞
 >
 
-📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Category** ‣ 1st-person • Graphic adventure • Puzzle elements • Post-apocalyptic • Sci-fi • Detective ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.04 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Under_a_Killing_Moon)** ┃ **[MobyGames](https://www.mobygames.com/game/850/under-a-killing-moon/)** ┃ **[AbandonwareDOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Tex+Murphy%3A+Under+a+Killing+Moon&gid=2874)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/under-a-killing-moon-crg)** ┃ **[Series](https://en.wikipedia.org/wiki/Tex_Murphy)** ┃ **[GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon)** ┃ **[Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Under_a_Killing_Moon)** ┃ **[MobyGames](https://www.mobygames.com/game/850/under-a-killing-moon/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/under-a-killing-moon-crg)** ┃ **[Series](https://en.wikipedia.org/wiki/Tex_Murphy)** ┃ **[GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon)** ┃ **[Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/)** 
 
 ## Installation Notes
 - Select **Install Software**.
@@ -37,4 +37,6 @@
   4. Under a Killing Moon Disc #4 to Drive G:
 
 ![](Montage.png "Tex Murphy: Under a Killing Moon")
+
+---
 
