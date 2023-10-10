@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Strategy (29)
+# 🗂️ Games ‣ By Genre ‣ Strategy (30)
 
 > <table><tr><td width="255">
 >
@@ -29,7 +29,7 @@
 >
 > ## [Age of Empires: Gold Edition](../../../All%20Programs/Games/Age%20of%20Empires%20-%20Gold%20Edition/README.md)
 >
-> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
 >
 > ❝ How will you rule the world? Conquer enemy civilisations? Discover the world's secrets? Accumulate wealth? As the guiding spirit of a Stone Age tribe, follow one of these paths to build the greatest nation on earth. Age of Empires: choose your favourite form of world domination. ❞
 >
@@ -80,13 +80,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Civilization")
+> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Sid Meier's Civilization")
 >
 > </td>
 >
 > <td>
 >
-> ## [Civilization](../../../All%20Programs/Games/Civilization/README.md)
+> ## [Sid Meier's Civilization](../../../All%20Programs/Games/Civilization/README.md)
 >
 > 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package ┃ **Patched** ‣ 474.05 ┃ **Copy Protection** 
 >
@@ -168,7 +168,7 @@
 >
 > ## [Commandos: Behind Enemy Lines](../../../All%20Programs/Games/Commandos%20-%20Behind%20Enemy%20Lines/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Engage in the ultimate battle of wits and wills, commanding the ruthless military force in history. Set in the backdrop of WWII, Commandos is a real-time tactical wargame that puts you in command of a squad of elite Allied Commandos whose job is to complete 24 dangerous missions behind enemy lines. Intercept the German war effort using sabotage and tactical genius. ❞
 >
@@ -189,7 +189,7 @@
 >
 > ## [Commandos: Beyond the Call of Duty](../../../All%20Programs/Games/Commandos%20-%20Beyond%20the%20Call%20of%20Duty/README.md)
 >
-> 📌 ┃ **Year** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ You now mobilise in a series of eight new dangerous missions. You may come with experience of action "Behind Enemy Lines", or perhaps you are a rookie. You will have the opportunity to push your daring and tactical ability to the limit. As the leader of a small elite unit operating deep within enemy territory, you will experience new challenges and goals within these new missions. ❞
 >
@@ -252,7 +252,7 @@
 >
 > ## [Deadlock II: Shrine Wars](../../../All%20Programs/Games/Deadlock%20II%20-%20Shrine%20Wars/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Ancient and mysterious Shrines reveal the location of an extinct alien homeworld. Discovered in the aftermath of the Gallius IV war, these Shrines unlock the most powerful technology in the universe. Now, seven interstellar empires must battle to establish their colonies and attempt to piece together the ancient secrets of a lost world. ❞
 >
@@ -273,7 +273,7 @@
 >
 > ## [Emperor of the Fading Suns](../../../All%20Programs/Games/Emperor%20of%20the%20Fading%20Suns/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.4 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.4 
 >
 > ❝ Enter the realm of the Fading Suns and become meshed in a bold, Gothic world where advanced technology has plunged the galaxy into a new Dark Age. Explore, expand, exploit and exterminate in your ruthless quest to unite the planets and attain the crown of Emperor. Nothing less than the future of the Known Worlds hangs in the balance! ❞
 >
@@ -320,6 +320,25 @@
 > ❝ After years of peace under the benevolent rule of Lord Ironfist, the lands of Enroth again fall into turmoil. Twin sons, one good, one evil, fight for the coveted throne. Choose which side to support in the coming wars. Will you back the villainous usurper and lead his evil hordes, or be loyal to the righteous prince and lead the armies of light? The choice is yours, the challenge is immense, and the consequence of failure is death! ❞
 >
 > ❝ This game **is not abandonware 🚫**. This version is the original **The Succession Wars** release for DOS. The expansion add-on, **The Price of Loyalty**, is available with the **Gold Edition** release on [GOG 💰](https://www.gog.com/en/game/heroes_of_might_and_magic_2_gold_edition) and [Ubisoft 💰](https://store.ubisoft.com/us/heroes-of-might-and-magic-2--gold/5902fdf9ef3aa527608b4567.html?lang=en_US). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Iron%20Helix/Thumbnail.png "Iron Helix")
+>
+> </td>
+>
+> <td>
+>
+> ## [Iron Helix](../../../All%20Programs/Games/Iron%20Helix/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Iron Helix is a science fiction thriller that immerses you in a fast-paced virtual reality filled with danger and intrigue. Control a robot probe whose mission is to stop a renegade starship on an automated course of destruction. Prevent intergalactic war and the spread of a deadly virus by destroying the doomsday weapon - code name Iron Helix. Navigate through dozens of condors and rooms. Search for ways to stop the looming annihilation while eluding the ship's deadly defender robot. ❞
 >
 >
 > </td></tr></table>
@@ -439,7 +458,7 @@
 >
 > ## [StarCraft: Anthology](../../../All%20Programs/Games/StarCraft%20-%20Anthology/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 >
 > ❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞
 >

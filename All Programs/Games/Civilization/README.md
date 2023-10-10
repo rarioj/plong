@@ -1,8 +1,8 @@
 ![](Thumbnail.png "application-thumbnail")
 
-# Civilization
+# Sid Meier's Civilization
 
-「**Sid Meier's Civilization**」「**Sid Meier's Civilization: Build an Empire to Stand the Test of Time**」
+「**Civilization**」「**Sid Meier's Civilization: Build an Empire to Stand the Test of Time**」
 
 > ❝ High in the Andes, a biting wind howls through the Incas' ruined strongholds. Half a world away, the Pharaohs' tombs lie empty. In Italy, the Roman Colosseum decays. Everywhere, you see remnants of societies that thought they would endure forever. All are dust. But yours could be different. You could be the person in history who builds an empire that never falls. ❞
 >
@@ -20,7 +20,7 @@
   - **1) Mouse and Keyboard**.
 - Consult `Assets/manual.pdf` for the game copy protection.
 
-![](Montage.png "Civilization")
+![](Montage.png "Sid Meier's Civilization")
 
 ---
 

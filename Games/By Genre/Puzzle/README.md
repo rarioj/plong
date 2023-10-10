@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Puzzle (17)
+# 🗂️ Games ‣ By Genre ‣ Puzzle (18)
 
 > <table><tr><td width="255">
 >
@@ -335,6 +335,25 @@
 > ❝ Three hairy Norsemen set the stage for a decade of legendary adventure. Meet Erik the Swift, Baleog the Fierce, and Olaf the Stout - your typical, borderline-insane Vikings who happen to get abducted by aliens. Now it's up to you to slash, smash and solve their way home, an intense arcade action. Pillage and plunder your way through 35 levels of mind-bending arcade action. Combine the unique skills of three distinct Viking personalities to conquer dozens of marauding foes. ❞
 >
 > ❝ In 2014, the game was added to Battle.net as a free download emulated through DOSBox. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Where%27s%20Waldo%3F%20At%20the%20Circus/Thumbnail.png "Where's Waldo? At the Circus")
+>
+> </td>
+>
+> <td>
+>
+> ## [Where's Waldo? At the Circus](../../../All%20Programs/Games/Where%27s%20Waldo%3F%20At%20the%20Circus/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ As the title suggests, Waldo is at the circus now. We will play several mini-games besides the most obvious one: searching for Waldo hidden in the pictures depicting crowds on the circus grounds. We have several tasks to do while helping some other characters, like a lion tamer or a clown. ❞
 >
 >
 > </td></tr></table>

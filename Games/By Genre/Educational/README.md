@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Educational (7)
+# 🗂️ Games ‣ By Genre ‣ Educational (8)
 
 > <table><tr><td width="255">
 >
@@ -127,6 +127,25 @@
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package 
 >
 > ❝ Pepper has a big problem. Her Uncle Fred, the family's scientist, has scrambled colonial America into one big hysterical, historical omelette! The British are about to win the war this time unless you can set the facts straight! If you want help with this sticky situation, talk to Ben Franklin, but be careful! Uncle Fred's confused him, too! You'll have to help Ben out, or the world will never know Ben. You'll be amazed by his wisdom and cracked up by his sense of humour! It is too much for one kid to handle, so Pepper brought some backup - her mischievous mutt, Lockjaw. You'll get to play as a dog! Do all the doggie things you've always wanted to try. Sniff out mysteries. Dig holes. Chew things up. BITE PEOPLE! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Where%27s%20Waldo%3F%20At%20the%20Circus/Thumbnail.png "Where's Waldo? At the Circus")
+>
+> </td>
+>
+> <td>
+>
+> ## [Where's Waldo? At the Circus](../../../All%20Programs/Games/Where%27s%20Waldo%3F%20At%20the%20Circus/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ As the title suggests, Waldo is at the circus now. We will play several mini-games besides the most obvious one: searching for Waldo hidden in the pictures depicting crowds on the circus grounds. We have several tasks to do while helping some other characters, like a lion tamer or a clown. ❞
 >
 >
 > </td></tr></table>

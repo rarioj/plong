@@ -11,7 +11,7 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/diablo). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
+📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

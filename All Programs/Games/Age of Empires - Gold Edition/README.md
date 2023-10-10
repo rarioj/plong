@@ -9,7 +9,7 @@
 > ❝ This game **is not abandonware 🚫**. The **Definitive Edition** release is available on [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/). ❞
 >
 
-📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
+📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

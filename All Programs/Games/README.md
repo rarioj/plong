@@ -1,4 +1,4 @@
-# 🗂️ All Programs ‣ Games (150)
+# 🗂️ All Programs ‣ Games (160)
 
 > <table><tr><td width="255">
 >
@@ -90,7 +90,7 @@
 >
 > ## [Age of Empires: Gold Edition](Age%20of%20Empires%20-%20Gold%20Edition/README.md)
 >
-> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Age of Empires 1.0c ┃ **Patched** ‣ Age of Empires: The Rise of Rome 1.0a ┃ **Compilation** 
 >
 > ❝ How will you rule the world? Conquer enemy civilisations? Discover the world's secrets? Accumulate wealth? As the guiding spirit of a Stone Age tribe, follow one of these paths to build the greatest nation on earth. Age of Empires: choose your favourite form of world domination. ❞
 >
@@ -349,6 +349,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](Beyond%20Time/Thumbnail.png "Beyond Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Beyond Time](Beyond%20Time/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Step through the gateway into a 3D world of puzzles and adventure. Beyond the Mayan city, the Temple of Osiris, the Tibetan Palace, and the ruins of Atlantis. Explore every world and unlock the secrets to this fascinating mystery. The intrigue will guide you on an epic adventure. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Bio%20Menace/Thumbnail.png "Bio Menace")
 >
 > </td>
@@ -481,7 +500,7 @@
 >
 > ## [Broken Sword II: The Smoking Mirror](Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/README.md)
 >
-> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Plunge into a shadowy conspiracy world where the schemes of a mad drug kingpin and the prophesized return of an ancient Mayan god clash in what could be the end of the world. Race around the globe with George as he frantically attempts to free Nico, his investigative reporter girlfriend, from the clutches of Karzac's crime cartel. Guide Nico and George as they unravel the dark mysteries that lead them closer and closer to an ancient horror best left buried in the steamy jungles of Central America. Gather clues and make friends, but beware - a smiling face can hide a deadly obstacle in your quest to stop the return of "he who devours the sun and consumes the flesh of all mankind", the mighty Mayan God, Tezcatlipoca. ❞
 >
@@ -576,13 +595,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](Civilization/Thumbnail.png "Civilization")
+> ![](Civilization/Thumbnail.png "Sid Meier's Civilization")
 >
 > </td>
 >
 > <td>
 >
-> ## [Civilization](Civilization/README.md)
+> ## [Sid Meier's Civilization](Civilization/README.md)
 >
 > 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package ┃ **Patched** ‣ 474.05 ┃ **Copy Protection** 
 >
@@ -664,7 +683,7 @@
 >
 > ## [Commandos: Behind Enemy Lines](Commandos%20-%20Behind%20Enemy%20Lines/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Engage in the ultimate battle of wits and wills, commanding the ruthless military force in history. Set in the backdrop of WWII, Commandos is a real-time tactical wargame that puts you in command of a squad of elite Allied Commandos whose job is to complete 24 dangerous missions behind enemy lines. Intercept the German war effort using sabotage and tactical genius. ❞
 >
@@ -685,7 +704,7 @@
 >
 > ## [Commandos: Beyond the Call of Duty](Commandos%20-%20Beyond%20the%20Call%20of%20Duty/README.md)
 >
-> 📌 ┃ **Year** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ You now mobilise in a series of eight new dangerous missions. You may come with experience of action "Behind Enemy Lines", or perhaps you are a rookie. You will have the opportunity to push your daring and tactical ability to the limit. As the leader of a small elite unit operating deep within enemy territory, you will experience new challenges and goals within these new missions. ❞
 >
@@ -912,7 +931,7 @@
 >
 > ## [Deadlock II: Shrine Wars](Deadlock%20II%20-%20Shrine%20Wars/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Ancient and mysterious Shrines reveal the location of an extinct alien homeworld. Discovered in the aftermath of the Gallius IV war, these Shrines unlock the most powerful technology in the universe. Now, seven interstellar empires must battle to establish their colonies and attempt to piece together the ancient secrets of a lost world. ❞
 >
@@ -977,7 +996,7 @@
 >
 > ## [Diablo + Hellfire](Diablo%20%2B%20Hellfire/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
 >
 > ❝ Vengeance, power, intellect and magic are the tools you will need to battle the Lord of All Evil, Diablo. Embark, if you dare, upon a dark and sinister quest that will pull you into the very depths of Hell itself and beyond. ❞ — *Diablo*
 >
@@ -1106,6 +1125,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](Dust%20-%20A%20Tale%20of%20the%20Wired%20West/Thumbnail.png "Dust: A Tale of the Wired West")
+>
+> </td>
+>
+> <td>
+>
+> ## [Dust: A Tale of the Wired West](Dust%20-%20A%20Tale%20of%20the%20Wired%20West/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You are stranded somewhere on the digital frontier. On the run, without a friend, a gun, or a past. Just over the horizon is the key to your survival, in the form of Diamondback, a scruffy Old West outpost in 1882 New Mexico. Stroll down Main Street, belly up in the bar, battle gunslingers, or help Native Americans recover their stolen heritage. Whatever you do is up to you. But when rumours surface of lost Spanish silver, mayhem follows. Can you save a hardscrabble band of pioneers from themselves? Or will you succumb to temptation in a town where you are the only law? Boot up and find out. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")
 >
 > </td>
@@ -1173,7 +1211,7 @@
 >
 > ## [Emperor of the Fading Suns](Emperor%20of%20the%20Fading%20Suns/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.4 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.4 
 >
 > ❝ Enter the realm of the Fading Suns and become meshed in a bold, Gothic world where advanced technology has plunged the galaxy into a new Dark Age. Explore, expand, exploit and exterminate in your ruthless quest to unite the planets and attain the crown of Emperor. Nothing less than the future of the Known Worlds hangs in the balance! ❞
 >
@@ -1260,6 +1298,25 @@
 > ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel, only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crashland in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
 >
 > ❝ In March 2004, the game was released as freeware, and support for it was added to ScummVM, allowing it to be played on Linux, Mac OS X, Windows, and many other operating systems and consoles. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/Thumbnail.png "Frankenstein: Through the Eyes of the Monster")
+>
+> </td>
+>
+> <td>
+>
+> ## [Frankenstein: Through the Eyes of the Monster](Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Between life and death, man and monster, lies the test of the human heart. With a crash of lightning, you are reborn to a world of haunted memories and science pushed beyond the bounds of nature. Your thoughts come slowly like distant echoes. The mystery of your existence pulls at your mind: An ancient castle of dark secrets and hidden terrors; A strange crystal glows with life itself. The burning memory of a child long thought dead and a discovery that crosses the boundaries between life and death. ❞
 >
 >
 > </td></tr></table>
@@ -1558,6 +1615,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](In%20the%201st%20Degree/Thumbnail.png "In the 1st Degree")
+>
+> </td>
+>
+> <td>
+>
+> ## [In the 1st Degree](In%20the%201st%20Degree/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ Someone is dead. Someone is lying. Can you prove Murder One? Some artists die for their art. James Tobin killed, or did he? As a D.A. in San Francisco, you must prove that he did. It has become the most sensational murder case to hit the Bay Area in years. Who will lead you to the truth? The passionate girlfriend of the accused? The socially connected wife of the victim? Perhaps his bitter apprentice? Every reluctant witness and shred of evidence may paint a homicidal portrait as chilling and surreal as one of Tobin's paintings. And as if that were not enough, everyone will be watching you on this one, especially the media. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/Thumbnail.png "Indiana Jones and the Fate of Atlantis")
 >
 > </td>
@@ -1592,6 +1668,25 @@
 > ❝ Europe, 1938. The Lost Ark was just a warm-up! Now, Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Iron%20Helix/Thumbnail.png "Iron Helix")
+>
+> </td>
+>
+> <td>
+>
+> ## [Iron Helix](Iron%20Helix/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Iron Helix is a science fiction thriller that immerses you in a fast-paced virtual reality filled with danger and intrigue. Control a robot probe whose mission is to stop a renegade starship on an automated course of destruction. Prevent intergalactic war and the spread of a deadly virus by destroying the doomsday weapon - code name Iron Helix. Navigate through dozens of condors and rooms. Search for ways to stop the looming annihilation while eluding the ship's deadly defender robot. ❞
 >
 >
 > </td></tr></table>
@@ -1890,6 +1985,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](Milo/Thumbnail.png "Milo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Milo](Milo/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Long ago, an advanced Alien race discovered the key to the universe, a secret beyond human comprehension. What is left is a few incredible ruins and Milo, the android caretaker of the lost worlds. Milo has kept the ruins in good condition thanks to his advanced hyper-intelligent neural net. But he cannot go on forever. His artificial intelligence circuitry will fail if not challenged, and he's been left alone for too long. You have been brought to this place to challenge Milo. You must solve his tests and defeat him. Only then will he grant you the treasured keys to the universe? ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Mission%20Critical/Thumbnail.png "Mission Critical")
 >
 > </td>
@@ -1953,6 +2067,27 @@
 
 > <table><tr><td width="255">
 >
+> ![](Myst/Thumbnail.png "Myst")
+>
+> </td>
+>
+> <td>
+>
+> ## [Myst](Myst/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Journey to an island world surrealistically tinged with mystery, where every vibrant rock, a scrap of paper, and sound may hold vital clues to your unravelling a chilling tale of intrigue and injustice that defies all boundaries of time and space. Only your wits and imagination will serve to stay the course and unlock the ancient betrayal of ages past. ❞
+>
+> ❝ This game **is not abandonware 🚫**. A **Masterpiece Edition** release is available on [GOG 💰](https://www.gog.com/en/game/myst_masterpiece_edition) and [Steam 💰](https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Oddworld%20-%20Abe%27s%20Oddysee/Thumbnail.png "Oddworld: Abe's Oddysee")
 >
 > </td>
@@ -2008,6 +2143,25 @@
 > ❝ There was only one chance out of one million such an accident could happen. As for the consequences, nobody could have foreseen them. Certainly not Lester, who finds himself lost in an unknown and utterly hostile world. However, he will rediscover the genuine meaning of freedom won by fighting, the feeling that each day is a new victory. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/another_world_20th_anniversary_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Panic%20in%20the%20Park/Thumbnail.png "Panic in the Park")
+>
+> </td>
+>
+> <td>
+>
+> ## [Panic in the Park](Panic%20in%20the%20Park/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ A set of twins - one virtuous, one diabolical, both beautiful - are fighting for the fate of the aging Skyview amusement park, operated by the twin's father until his recent death. But there's more behind the park's gates than first meets the eye. As a reporter, you must navigate a complex web of intrigue to get to the heart of the mystery. It's up to you to help the twins find the park's missing deed by morning to save it from destruction. ❞
 >
 >
 > </td></tr></table>
@@ -2098,6 +2252,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](Private%20Eye/Thumbnail.png "Private Eye")
+>
+> </td>
+>
+> <td>
+>
+> ## [Private Eye](Private%20Eye/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Humphrey Bogart played him. Robert Mitchum played him. Now it's your turn to become Philip Marlowe, the world's most famous private eye! All other private eye games are imitations. It is the real thing, the first interactive murder mystery based on Raymond Chandler's legendary detective. Meet starlets, confront a manic mobster, and search Hollywood for clues you can take. Hundreds of interactive decisions are yours! It all starts with an innocent girl who hires you to find her missing brother, but it soon leads to a trail of greed, blackmail, revenge, deceit and murder! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](Railroad%20Tycoon%20Deluxe/Thumbnail.png "Railroad Tycoon Deluxe")
 >
 > </td>
@@ -2146,7 +2319,7 @@
 >
 > ## [Road Rash](Road%20Rash/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
 >
 > ❝ Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful. ❞
 >
@@ -2226,7 +2399,7 @@
 >
 > ## [Sanitarium](Sanitarium/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Multiple files 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Multiple files 
 >
 > ❝ Spiralling upwards out of the vacuum, you open your eyes and struggle to comprehend your environment. Underneath you, the springs of an institutional cot sink almost to the floor. The mattress is roughly the thickness of a paper towel and reeks of affliction. Vague memories assault you, a hurried phone call, a message of utmost importance, and a car losing control. As you wake up with a throbbing head, you hear people screaming, sobbing, laughing manically in the background. Is it a nightmare? Are you insane? Is it a reality? Maybe this is death. ❞
 >
@@ -2413,7 +2586,7 @@
 >
 > ## [StarCraft: Anthology](StarCraft%20-%20Anthology/README.md)
 >
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 >
 > ❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞
 >
@@ -3011,6 +3184,25 @@
 > ❝ After destroying the mystic gate into Azeroth, the Humans discover that the rift that allows the Orcs passage into their world still exists. Human forces must now venture beyond the Dark Portal into Orcish lands to end the threat of yet another invasion by the hordes. ❞ — *Warcraft II: Beyond the Dark Portal*
 >
 > ❝ This game **is not abandonware 🚫** and **Battle.net Edition** release is available on [GOG 💰](https://www.gog.com/en/game/warcraft_2_battlenet_edition). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](Where%27s%20Waldo%3F%20At%20the%20Circus/Thumbnail.png "Where's Waldo? At the Circus")
+>
+> </td>
+>
+> <td>
+>
+> ## [Where's Waldo? At the Circus](Where%27s%20Waldo%3F%20At%20the%20Circus/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ As the title suggests, Waldo is at the circus now. We will play several mini-games besides the most obvious one: searching for Waldo hidden in the pictures depicting crowds on the circus grounds. We have several tasks to do while helping some other characters, like a lion tamer or a clown. ❞
 >
 >
 > </td></tr></table>

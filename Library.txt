@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.10a
+# library-version: 23.10b
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -343,7 +343,7 @@
 # file: Template-Program-Win98.txt = # info: This is a program configuration file template. Enter program description here.
 # file: Template-Program-Win98.txt = # tag: Year = YYYY
 # file: Template-Program-Win98.txt = # tag: Genre = Action • Adventure • Educational • Gambling • Idle • Puzzle • Racing • Role-playing • Simulation • Sports • Strategy
-# file: Template-Program-Win98.txt = # tag: Platform = Windows 98SE
+# file: Template-Program-Win98.txt = # tag: Platform = Windows 9x
 # file: Template-Program-Win98.txt = # tag: License = Abandonware / Shareware / Freeware / Demo / Unlicensed / Discontinued / Proprietary
 # file: Template-Program-Win98.txt = # tag: Media = Compressed Package / CD-ROM / Floppy Disk
 # file: Template-Program-Win98.txt = # tag: Patched = <version>
@@ -707,7 +707,7 @@
 # file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # info: This game **is not abandonware 🚫**. The **Definitive Edition** release is available on [Steam 💰](https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/).
 # file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Year = 1997
 # file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Genre = Strategy
-# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Age of Empires - Gold Edition/Program.txt = # tag: Patched = Age of Empires 1.0c
@@ -2359,6 +2359,105 @@
 # file: All Programs/Games/Bermuda Syndrome/Program.txt = # check: readme.txt = a4abdaf6e663687a6539c842d66486ca14ed84c6faacc8c4994e0b1536c3af5c
 #
 #
+# file: All Programs/Games/Beyond Time/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Beyond Time/Program.txt = #
+# file: All Programs/Games/Beyond Time/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Beyond Time/Program.txt = # name: Beyond Time
+# file: All Programs/Games/Beyond Time/Program.txt = # name: Shadow of the Obelisk
+# file: All Programs/Games/Beyond Time/Program.txt = # name: Shadow of the Obelisk: Delve Into the Corridors of Time
+# file: All Programs/Games/Beyond Time/Program.txt = # info: Step through the gateway into a 3D world of puzzles and adventure. Beyond the Mayan city, the Temple of Osiris, the Tibetan Palace, and the ruins of Atlantis. Explore every world and unlock the secrets to this fascinating mystery. The intrigue will guide you on an epic adventure.
+# file: All Programs/Games/Beyond Time/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/Beyond Time/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Beyond Time/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Beyond Time/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Beyond Time/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Beyond Time/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Beyond_Time)
+# file: All Programs/Games/Beyond Time/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/5669/beyond-time/)
+# file: All Programs/Games/Beyond Time/Program.txt = # site: Manual = [MyAbandonware 📄](https://www.myabandonware.com/game/beyond-time-dl5)
+# file: All Programs/Games/Beyond Time/Program.txt = #
+# file: All Programs/Games/Beyond Time/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - Do not install *QuickTime*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
+# file: All Programs/Games/Beyond Time/Program.txt = # text:
+# file: All Programs/Games/Beyond Time/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - The `RUNEXIT.EXE` tool does not work with this program as it requires Windows 3.1x to be fully loaded.
+# file: All Programs/Games/Beyond Time/Program.txt = # text:   - Play the game by double-clicking **Beyond Time** icon.
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Beyond Time/Program.txt = # text:   1. Beyond Time Disc #1
+# file: All Programs/Games/Beyond Time/Program.txt = # text:   2. Beyond Time Disc #2
+# file: All Programs/Games/Beyond Time/Program.txt = # text:
+# file: All Programs/Games/Beyond Time/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Beyond Time/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [sdl]
+# file: All Programs/Games/Beyond Time/Program.txt = autolock = true
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [dosbox]
+# file: All Programs/Games/Beyond Time/Program.txt = memsize = 256
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [render]
+# file: All Programs/Games/Beyond Time/Program.txt = scaler = none
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [video]
+# file: All Programs/Games/Beyond Time/Program.txt = vmemsize = 4
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [cpu]
+# file: All Programs/Games/Beyond Time/Program.txt = core = normal
+# file: All Programs/Games/Beyond Time/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Beyond Time/Program.txt = cycles = max
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [dos]
+# file: All Programs/Games/Beyond Time/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Beyond Time/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [ide, primary]
+# file: All Programs/Games/Beyond Time/Program.txt = int13fakeio = true
+# file: All Programs/Games/Beyond Time/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = [autoexec]
+# file: All Programs/Games/Beyond Time/Program.txt = @ECHO OFF
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Beyond Time/Program.txt = IMGMOUNT D "./Assets/cdrom01.cue" "./Assets/cdrom02.cue" -t iso
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = IF NOT EXIST C:\BEYOND\BEYOND.EXE GOTO F_INSTALL
+# file: All Programs/Games/Beyond Time/Program.txt = IF EXIST C:\BEYOND\BEYOND.EXE GOTO F_START
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = :F_INSTALL
+# file: All Programs/Games/Beyond Time/Program.txt = C:
+# file: All Programs/Games/Beyond Time/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Beyond Time/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Beyond Time/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = :F_START
+# file: All Programs/Games/Beyond Time/Program.txt = C:
+# file: All Programs/Games/Beyond Time/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Beyond Time/Program.txt = C:\WINDOWS\WIN.COM
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = :F_EXIT
+# file: All Programs/Games/Beyond Time/Program.txt = EXIT
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = :F_DEBUG
+# file: All Programs/Games/Beyond Time/Program.txt
+# file: All Programs/Games/Beyond Time/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4415917-beyond-time-windows-front-cover.jpg
+# file: All Programs/Games/Beyond Time/Program.txt = # check: coverart.jpg = cda7292c7c5232afc5f2d9f637225d8c968189a3a1275067ab37a590780866f6
+# file: All Programs/Games/Beyond Time/Program.txt = # asset: cdrom01.bin = https://archive.org/download/beyondtimeusa/Beyond%20Time%20%28USA%29%20%28Disc%201%29.zip/Beyond%20Time%20%28USA%29%20%28Disc%201%29.bin
+# file: All Programs/Games/Beyond Time/Program.txt = # check: cdrom01.bin = 8a96fccbb61311fb1f92be1df8e75e428fdd264b50d0045e661a24ed02278acf
+# file: All Programs/Games/Beyond Time/Program.txt = # asset: cdrom02.bin = https://archive.org/download/beyondtimeusa/Beyond%20Time%20%28USA%29%20%28Disc%202%29.zip/Beyond%20Time%20%28USA%29%20%28Disc%202%29.bin
+# file: All Programs/Games/Beyond Time/Program.txt = # check: cdrom02.bin = e6e03dd235d736c3bcb52ccfdc538d8d990483a10d4e3300e499d9fd1e852712
+# file: All Programs/Games/Beyond Time/Program.txt = #
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom01.cue = FILE "cdrom01.bin" BINARY
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom01.cue =   TRACK 01 MODE2/2352
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom01.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Beyond Time/Program.txt = #
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom02.cue = CATALOG 0000000000000
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom02.cue = FILE "cdrom02.bin" BINARY
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom02.cue =   TRACK 01 MODE2/2352
+# file: All Programs/Games/Beyond Time/Program.txt = # file: Assets/cdrom02.cue =     INDEX 01 00:00:00
+#
+#
 # file: All Programs/Games/Bio Menace/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Bio Menace/Program.txt = #
 # file: All Programs/Games/Bio Menace/Program.txt = # name: Bio Menace
@@ -2792,7 +2891,7 @@
 # file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # info: This game **is not abandonware 🚫**. The **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) and [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/).
 # file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Year = 1997
 # file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Genre = Adventure
-# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Broken Sword II - The Smoking Mirror/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror)
@@ -3146,8 +3245,8 @@
 #
 # file: All Programs/Games/Civilization/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Civilization/Program.txt = #
-# file: All Programs/Games/Civilization/Program.txt = # name: Civilization
 # file: All Programs/Games/Civilization/Program.txt = # name: Sid Meier's Civilization
+# file: All Programs/Games/Civilization/Program.txt = # name: Civilization
 # file: All Programs/Games/Civilization/Program.txt = # name: Sid Meier's Civilization: Build an Empire to Stand the Test of Time
 # file: All Programs/Games/Civilization/Program.txt = # info: High in the Andes, a biting wind howls through the Incas' ruined strongholds. Half a world away, the Pharaohs' tombs lie empty. In Italy, the Roman Colosseum decays. Everywhere, you see remnants of societies that thought they would endure forever. All are dust. But yours could be different. You could be the person in history who builds an empire that never falls.
 # file: All Programs/Games/Civilization/Program.txt = # tag: Year = 1991
@@ -3726,7 +3825,7 @@
 # file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/6800/Commandos_Behind_Enemy_Lines/) and [Zoom 💰](https://www.zoom-platform.com/product/commandos-behind-enemy-lines). The **Commandos Ammo Pack** release is available on [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack).
 # file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Year = 1998
 # file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Genre = Strategy
-# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Commandos - Behind Enemy Lines/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines)
@@ -3828,7 +3927,7 @@
 # file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/6810/Commandos_Beyond_the_Call_of_Duty/) and [Zoom 💰](https://www.zoom-platform.com/product/commandos-beyond-the-call-of-duty). The **Commandos Ammo Pack** release is available on [GOG 💰](https://www.gog.com/en/game/commandos_ammo_pack).
 # file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Year = 1999
 # file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Genre = Strategy
-# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Commandos - Beyond the Call of Duty/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Commandos:_Behind_Enemy_Lines#Expansion)
@@ -4666,7 +4765,7 @@
 # file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_2_shrine_wars) and [Steam 💰](https://store.steampowered.com/app/328450/Deadlock_II_Shrine_Wars/).
 # file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Year = 1998
 # file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Genre = Strategy
-# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Deadlock II - Shrine Wars/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Deadlock_II:_Shrine_Wars)
@@ -4887,7 +4986,7 @@
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Year = 1996
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Year (Hellfire) = 1997
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Genre = Role-playing
-# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # tag: Patched • Compilation
@@ -5506,6 +5605,91 @@
 # file: All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = #
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 • Unplayable
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟥 • Unplayable
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = #
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # name: Dust: A Tale of the Wired West
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # info: You are stranded somewhere on the digital frontier. On the run, without a friend, a gun, or a past. Just over the horizon is the key to your survival, in the form of Diamondback, a scruffy Old West outpost in 1882 New Mexico. Stroll down Main Street, belly up in the bar, battle gunslingers, or help Native Americans recover their stolen heritage. Whatever you do is up to you. But when rumours surface of lost Spanish silver, mayhem follows. Can you save a hardscrabble band of pioneers from themselves? Or will you succumb to temptation in a town where you are the only law? Boot up and find out.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Dust:_A_Tale_of_the_Wired_West)
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3990/dust-a-tale-of-the-wired-west/)
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/dust-a-tale-of-the-wired-west-3jb)
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = #
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: - Select **Install Dust**.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: - Select **Typical** installation option.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: - Confirm the next default settings.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: - Uncheck both **I want to view the Release Notes now.** and **I want to play Dust now.** options.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [sdl]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = autolock = true
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [dosbox]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = memsize = 256
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [render]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = scaler = none
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [video]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = vmemsize = 4
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [cpu]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = core = normal
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = cycles = max
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [dos]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [ide, primary]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = int13fakeio = true
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = [autoexec]
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = @ECHO OFF
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = IF NOT EXIST C:\DUST\DUST.EXE GOTO F_INSTALL
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = IF EXIST C:\DUST\DUST.EXE GOTO F_START
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = :F_INSTALL
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = C:
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = COPY C:\RUNEXIT.EXE C:\DUST
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = :F_START
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = C:
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = C:\WINDOWS\WIN.COM C:\DUST\RUNEXIT.EXE C:\DUST\DF.EXE
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = :F_EXIT
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = EXIT
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = :F_DEBUG
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5777680-dust-a-tale-of-the-wired-west-windows-3x-front-cover.jpg
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # check: coverart.jpg = dc06b72a38ceb9e751e9840e4e97773171c34828f55c97f2ad28b7c559e8a8ff
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # asset: cdrom.iso = https://archive.org/download/dust-a-tale-of-the-wired-west-windows/Dust%20-%20A%20Tale%20of%20the%20Wired%20West%20%281996%29%28BMG%29.iso
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # check: cdrom.iso = 476d3f2c0c50e43685b220ab96f29b35fa8585a704ab3f121c775eec2c0935d3
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # asset: manual.pdf = https://archive.org/download/dust-a-tale-of-the-wired-west-manual-mac-en/Dust-A-Tale-of-the-Wired-West_Manual_Mac_EN.pdf
+# file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # check: manual.pdf = 92a244f8707b0ae609c10b1b5c51bc53528dadc856455fa62cdb87a1852748d5
+#
+#
 # file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = #
 # file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # name: Lost Secret of the Rainforest
@@ -5697,7 +5881,7 @@
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # info: This game **is not abandonware 🚫**. The **Enhanced Edition** release is available on [GOG 💰](https://www.gog.com/en/game/emperor_of_the_fading_suns) and [Zoom 💰](https://zoom-platform.com/product/emperor-of-the-fading-suns-enhanced-edition).
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Year = 1996
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Genre = Strategy
-# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # tag: Patched = 1.4
@@ -6088,6 +6272,84 @@
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.img" BINARY
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE2/2352
 # file: All Programs/Games/Flight of the Amazon Queen/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = #
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # name: Frankenstein: Through the Eyes of the Monster
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # info: Between life and death, man and monster, lies the test of the human heart. With a crash of lightning, you are reborn to a world of haunted memories and science pushed beyond the bounds of nature. Your thoughts come slowly like distant echoes. The mystery of your existence pulls at your mind: An ancient castle of dark secrets and hidden terrors; A strange crystal glows with life itself. The burning memory of a child long thought dead and a discovery that crosses the boundaries between life and death.
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Frankenstein:_Through_the_Eyes_of_the_Monster)
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/3216/frankenstein-through-the-eyes-of-the-monster/)
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/frankenstein-through-the-eyes-of-the-monster-3k0)
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = #
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # text: - Do not install *QuickTime*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [sdl]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = autolock = true
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [dosbox]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = memsize = 256
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [render]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = scaler = none
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [video]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = vmemsize = 4
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [cpu]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = core = normal
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = cycles = max
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [dos]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [ide, primary]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = int13fakeio = true
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = [autoexec]
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = @ECHO OFF
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = IF NOT EXIST C:\INTRPLAY\FRANKIE\FRANKIE.EXE GOTO F_INSTALL
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = IF EXIST C:\INTRPLAY\FRANKIE\FRANKIE.EXE GOTO F_START
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = :F_INSTALL
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = C:
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = COPY C:\RUNEXIT.EXE C:\INTRPLAY\FRANKIE
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = :F_START
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = C:
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = C:\WINDOWS\WIN.COM C:\INTRPLAY\FRANKIE\RUNEXIT.EXE C:\INTRPLAY\FRANKIE\FRANKIE.EXE
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = :F_EXIT
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = EXIT
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = :F_DEBUG
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3958113-frankenstein-through-the-eyes-of-the-monster-windows-3x-front-co.jpg
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # check: coverart.jpg = 0792250eda540e19dcda8dff939cdaca9312403724b628d5df96414ea1b14dd9
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # asset: cdrom.iso = https://archive.org/download/Interplay_Frankenstein_Through_The_Eyes_Of_The_Monster_Win31_1995_Eng/Interplay-FrankensteinThroughEyesOfTheMonster-Win31-Eng.iso
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # check: cdrom.iso = 7948bb66557659ea623b8cafa413a2c35fd96d091c96b3c14dac771b1fa27b5b
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # asset: manual.pdf = https://archive.org/download/Frankenstein_Eyes_Monster_Manual_cbz/Frankenstein_Eyes_Monster_Manual.pdf
+# file: All Programs/Games/Frankenstein - Through the Eyes of the Monster/Program.txt = # check: manual.pdf = 55d9283a6d1c3028167bc9d7ed4b219ffdc8c0855a6945c8a47eed82846d9fa9
 #
 #
 # file: All Programs/Games/Full Throttle/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -7538,6 +7800,97 @@
 # file: All Programs/Games/I Have No Mouth, and I Must Scream/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/In the 1st Degree/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/In the 1st Degree/Program.txt = #
+# file: All Programs/Games/In the 1st Degree/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/In the 1st Degree/Program.txt = # name: In the 1st Degree
+# file: All Programs/Games/In the 1st Degree/Program.txt = # info: Someone is dead. Someone is lying. Can you prove Murder One? Some artists die for their art. James Tobin killed, or did he? As a D.A. in San Francisco, you must prove that he did. It has become the most sensational murder case to hit the Bay Area in years. Who will lead you to the truth? The passionate girlfriend of the accused? The socially connected wife of the victim? Perhaps his bitter apprentice? Every reluctant witness and shred of evidence may paint a homicidal portrait as chilling and surreal as one of Tobin's paintings. And as if that were not enough, everyone will be watching you on this one, especially the media.
+# file: All Programs/Games/In the 1st Degree/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/In the 1st Degree/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/In the 1st Degree/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/In the 1st Degree/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/In the 1st Degree/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/In the 1st Degree/Program.txt = # tag: No Manual
+# file: All Programs/Games/In the 1st Degree/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/In_the_1st_Degree)
+# file: All Programs/Games/In the 1st Degree/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2035/in-the-1st-degree/)
+# file: All Programs/Games/In the 1st Degree/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/in-the-1st-degree-3lc)
+# file: All Programs/Games/In the 1st Degree/Program.txt = #
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - Click **Continue** to install *In the 1st Degree*.
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - Confirm the next default settings.
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - Select **SB16 MIDI Out** for the MIDI Driver, pick either **Song 1** or **Song 2** according to your preference, then click **OK**.
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text:
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text:   1. In the 1st Degree Disc #1
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text:   2. In the 1st Degree Disc #2
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text:
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/In the 1st Degree/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [sdl]
+# file: All Programs/Games/In the 1st Degree/Program.txt = autolock = true
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [dosbox]
+# file: All Programs/Games/In the 1st Degree/Program.txt = memsize = 256
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [render]
+# file: All Programs/Games/In the 1st Degree/Program.txt = scaler = none
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [video]
+# file: All Programs/Games/In the 1st Degree/Program.txt = vmemsize = 4
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [cpu]
+# file: All Programs/Games/In the 1st Degree/Program.txt = core = normal
+# file: All Programs/Games/In the 1st Degree/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/In the 1st Degree/Program.txt = cycles = max
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [dos]
+# file: All Programs/Games/In the 1st Degree/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/In the 1st Degree/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [ide, primary]
+# file: All Programs/Games/In the 1st Degree/Program.txt = int13fakeio = true
+# file: All Programs/Games/In the 1st Degree/Program.txt = int13fakev86io = false
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = [autoexec]
+# file: All Programs/Games/In the 1st Degree/Program.txt = @ECHO OFF
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/In the 1st Degree/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = IF NOT EXIST C:\INTHE1ST\DEGREE.EXE GOTO F_INSTALL
+# file: All Programs/Games/In the 1st Degree/Program.txt = IF EXIST C:\INTHE1ST\DEGREE.EXE GOTO F_START
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = :F_INSTALL
+# file: All Programs/Games/In the 1st Degree/Program.txt = C:
+# file: All Programs/Games/In the 1st Degree/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/In the 1st Degree/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/In the 1st Degree/Program.txt = COPY C:\RUNEXIT.EXE C:\INTHE1ST
+# file: All Programs/Games/In the 1st Degree/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = :F_START
+# file: All Programs/Games/In the 1st Degree/Program.txt = C:
+# file: All Programs/Games/In the 1st Degree/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/In the 1st Degree/Program.txt = C:\WINDOWS\WIN.COM C:\INTHE1ST\RUNEXIT.EXE C:\INTHE1ST\DEGREE.EXE
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = :F_EXIT
+# file: All Programs/Games/In the 1st Degree/Program.txt = EXIT
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = :F_DEBUG
+# file: All Programs/Games/In the 1st Degree/Program.txt
+# file: All Programs/Games/In the 1st Degree/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/3973970-in-the-1st-degree-windows-3x-front-cover.jpg
+# file: All Programs/Games/In the 1st Degree/Program.txt = # check: coverart.jpg = 1d709d350f2ded73d5a0ba5702bdf9037c7a693530c10c61d5d827e6a7e3b7db
+# file: All Programs/Games/In the 1st Degree/Program.txt = # asset: cdrom01.iso = https://archive.org/download/in-the-1st-degree/In%20the%201st%20Degree%20%281995%29%28Broderbund%29%28Disc%201%20of%202%29.iso
+# file: All Programs/Games/In the 1st Degree/Program.txt = # check: cdrom01.iso = 06118268c9dc4e64945a21a9002acc160faeadcf8e07dd1b1aa7567f8841acbc
+# file: All Programs/Games/In the 1st Degree/Program.txt = # asset: cdrom02.iso = https://archive.org/download/in-the-1st-degree/In%20the%201st%20Degree%20%281995%29%28Broderbund%29%28Disc%202%20of%202%29.iso
+# file: All Programs/Games/In the 1st Degree/Program.txt = # check: cdrom02.iso = 866d8998ac4e085691a9cedf65ca3a2e56101b68ee194ebdfb5fbab143f4b2a3
+#
+#
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = #
 # file: All Programs/Games/Indiana Jones and the Fate of Atlantis/Program.txt = # name: Indiana Jones and the Fate of Atlantis
@@ -7671,6 +8024,84 @@
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: disk03.img = 1976b0cf75445a6f746a2f96caeadbf1fe72200bdfcae149ea8367591e6ed429
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS/manual/Formated/Indiana_Jones_and_The_Last_Crusade.pdf
 # file: All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure/Program.txt = # check: manual.pdf = 54fb9aa9d0a5198604b7b7948fe4ec4a8dd02e7643c8007a5c6dee233011488d
+#
+#
+# file: All Programs/Games/Iron Helix/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Iron Helix/Program.txt = #
+# file: All Programs/Games/Iron Helix/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Iron Helix/Program.txt = # name: Iron Helix
+# file: All Programs/Games/Iron Helix/Program.txt = # name: Iron Helix: A deadly war game gone awry...
+# file: All Programs/Games/Iron Helix/Program.txt = # info: Iron Helix is a science fiction thriller that immerses you in a fast-paced virtual reality filled with danger and intrigue. Control a robot probe whose mission is to stop a renegade starship on an automated course of destruction. Prevent intergalactic war and the spread of a deadly virus by destroying the doomsday weapon - code name Iron Helix. Navigate through dozens of condors and rooms. Search for ways to stop the looming annihilation while eluding the ship's deadly defender robot.
+# file: All Programs/Games/Iron Helix/Program.txt = # tag: Year = 1993
+# file: All Programs/Games/Iron Helix/Program.txt = # tag: Genre = Action • Strategy
+# file: All Programs/Games/Iron Helix/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Iron Helix/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Iron Helix/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Iron Helix/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Iron_Helix)
+# file: All Programs/Games/Iron Helix/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/679/iron-helix/)
+# file: All Programs/Games/Iron Helix/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/iron-helix-3lg)
+# file: All Programs/Games/Iron Helix/Program.txt = #
+# file: All Programs/Games/Iron Helix/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Iron Helix/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Iron Helix/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [sdl]
+# file: All Programs/Games/Iron Helix/Program.txt = autolock = true
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [dosbox]
+# file: All Programs/Games/Iron Helix/Program.txt = memsize = 256
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [render]
+# file: All Programs/Games/Iron Helix/Program.txt = scaler = none
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [video]
+# file: All Programs/Games/Iron Helix/Program.txt = vmemsize = 4
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [cpu]
+# file: All Programs/Games/Iron Helix/Program.txt = core = normal
+# file: All Programs/Games/Iron Helix/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Iron Helix/Program.txt = cycles = max
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [dos]
+# file: All Programs/Games/Iron Helix/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Iron Helix/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [ide, primary]
+# file: All Programs/Games/Iron Helix/Program.txt = int13fakeio = true
+# file: All Programs/Games/Iron Helix/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = [autoexec]
+# file: All Programs/Games/Iron Helix/Program.txt = @ECHO OFF
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Iron Helix/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = IF NOT EXIST C:\HELIX\HELIX.EXE GOTO F_INSTALL
+# file: All Programs/Games/Iron Helix/Program.txt = IF EXIST C:\HELIX\HELIX.EXE GOTO F_START
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = :F_INSTALL
+# file: All Programs/Games/Iron Helix/Program.txt = C:
+# file: All Programs/Games/Iron Helix/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Iron Helix/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/Iron Helix/Program.txt = COPY C:\RUNEXIT.EXE C:\HELIX
+# file: All Programs/Games/Iron Helix/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = :F_START
+# file: All Programs/Games/Iron Helix/Program.txt = C:
+# file: All Programs/Games/Iron Helix/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Iron Helix/Program.txt = C:\WINDOWS\WIN.COM C:\HELIX\RUNEXIT.EXE C:\HELIX\HELIX.EXE
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = :F_EXIT
+# file: All Programs/Games/Iron Helix/Program.txt = EXIT
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = :F_DEBUG
+# file: All Programs/Games/Iron Helix/Program.txt
+# file: All Programs/Games/Iron Helix/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5437809-iron-helix-windows-3x-front-cover.jpg
+# file: All Programs/Games/Iron Helix/Program.txt = # check: coverart.jpg = d84e2e6200b5b411947787ebe3459648cda2788777af9d2f53e43f56d6ea4bbe
+# file: All Programs/Games/Iron Helix/Program.txt = # asset: cdrom.iso = https://archive.org/download/iron-helix-win31/Iron%20Helix%20%281993%29%28Spectrum%20HoloByte%29.iso
+# file: All Programs/Games/Iron Helix/Program.txt = # check: cdrom.iso = b06f66ceb55cde9a99f13f93144a5dc4dff5dfd4ec0d4adee98119021f886106
+# file: All Programs/Games/Iron Helix/Program.txt = # asset: manual.pdf = https://archive.org/download/manual-iron-helix-windows/Manual.pdf
+# file: All Programs/Games/Iron Helix/Program.txt = # check: manual.pdf = ce479dbf6a7f8abdc90f34a2046dc14db335bb67858ce8b848cfbd5bf5724cd9
 #
 #
 # file: All Programs/Games/It Came from the Desert/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -8656,6 +9087,120 @@
 # file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/Milo/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Milo/Program.txt = #
+# file: All Programs/Games/Milo/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Milo/Program.txt = # name: Milo
+# file: All Programs/Games/Milo/Program.txt = # info: Long ago, an advanced Alien race discovered the key to the universe, a secret beyond human comprehension. What is left is a few incredible ruins and Milo, the android caretaker of the lost worlds. Milo has kept the ruins in good condition thanks to his advanced hyper-intelligent neural net. But he cannot go on forever. His artificial intelligence circuitry will fail if not challenged, and he's been left alone for too long. You have been brought to this place to challenge Milo. You must solve his tests and defeat him. Only then will he grant you the treasured keys to the universe?
+# file: All Programs/Games/Milo/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Milo/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Milo/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Milo/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Milo/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Milo/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Milo_(video_game))
+# file: All Programs/Games/Milo/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/6908/milo/)
+# file: All Programs/Games/Milo/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/milo-fii)
+# file: All Programs/Games/Milo/Program.txt = #
+# file: All Programs/Games/Milo/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Milo/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Milo/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [sdl]
+# file: All Programs/Games/Milo/Program.txt = autolock = true
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [dosbox]
+# file: All Programs/Games/Milo/Program.txt = memsize = 256
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [render]
+# file: All Programs/Games/Milo/Program.txt = scaler = none
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [video]
+# file: All Programs/Games/Milo/Program.txt = vmemsize = 4
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [cpu]
+# file: All Programs/Games/Milo/Program.txt = core = normal
+# file: All Programs/Games/Milo/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Milo/Program.txt = cycles = max
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [dos]
+# file: All Programs/Games/Milo/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Milo/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [ide, primary]
+# file: All Programs/Games/Milo/Program.txt = int13fakeio = true
+# file: All Programs/Games/Milo/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = [autoexec]
+# file: All Programs/Games/Milo/Program.txt = @ECHO OFF
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Milo/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = IF NOT EXIST C:\MILO\MILO.EXE GOTO F_INSTALL
+# file: All Programs/Games/Milo/Program.txt = IF EXIST C:\MILO\MILO.EXE GOTO F_START
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = :F_INSTALL
+# file: All Programs/Games/Milo/Program.txt = C:
+# file: All Programs/Games/Milo/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Milo/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Milo/Program.txt = COPY C:\RUNEXIT.EXE C:\MILO
+# file: All Programs/Games/Milo/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = :F_START
+# file: All Programs/Games/Milo/Program.txt = C:
+# file: All Programs/Games/Milo/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Milo/Program.txt = C:\WINDOWS\WIN.COM C:\MILO\RUNEXIT.EXE C:\MILO\MILO.EXE
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = :F_EXIT
+# file: All Programs/Games/Milo/Program.txt = EXIT
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = :F_DEBUG
+# file: All Programs/Games/Milo/Program.txt
+# file: All Programs/Games/Milo/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4316945-milo-windows-front-cover.jpg
+# file: All Programs/Games/Milo/Program.txt = # check: coverart.jpg = c262e5a5078ffe9f97dcd1dad153c8d481248461e0a784e8dabe61a9514400dd
+# file: All Programs/Games/Milo/Program.txt = # asset: cdrom.bin = https://archive.org/download/milo-1995/Milo.bin
+# file: All Programs/Games/Milo/Program.txt = # check: cdrom.bin = 49a43eb1c0a04f25d5bd638e0c2e0bce2256f45bcf6d667f9579157ca863b6d5
+# file: All Programs/Games/Milo/Program.txt = # asset: manual.pdf = https://archive.org/download/milo-manual/milo-manual.pdf
+# file: All Programs/Games/Milo/Program.txt = # check: manual.pdf = f98fb2fdc3f076c1ebea801b1cdfff2e38e4ea4f5b838ef15a3ecf46e5128b83
+# file: All Programs/Games/Milo/Program.txt = #
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 38:23:44
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 39:58:51
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 41:19:58
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 42:47:65
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 44:25:72
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 46:00:04
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 47:35:11
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 49:01:18
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 10 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 50:20:25
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 51:41:32
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 12 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 53:08:39
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 13 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 54:46:46
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 14 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 56:22:53
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 15 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 57:45:60
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 16 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 59:21:67
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =   TRACK 17 AUDIO
+# file: All Programs/Games/Milo/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 61:14:74
+#
+#
 # file: All Programs/Games/Mission Critical/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Mission Critical/Program.txt = #
 # file: All Programs/Games/Mission Critical/Program.txt = # name: Mission Critical
@@ -8886,6 +9431,88 @@
 # file: All Programs/Games/Monkey Island 2 - LeChuck's Revenge/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
 #
 #
+# file: All Programs/Games/Myst/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Myst/Program.txt = #
+# file: All Programs/Games/Myst/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Myst/Program.txt = # name: Myst
+# file: All Programs/Games/Myst/Program.txt = # info: Journey to an island world surrealistically tinged with mystery, where every vibrant rock, a scrap of paper, and sound may hold vital clues to your unravelling a chilling tale of intrigue and injustice that defies all boundaries of time and space. Only your wits and imagination will serve to stay the course and unlock the ancient betrayal of ages past.
+# file: All Programs/Games/Myst/Program.txt = # info: This game **is not abandonware 🚫**. A **Masterpiece Edition** release is available on [GOG 💰](https://www.gog.com/en/game/myst_masterpiece_edition) and [Steam 💰](https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/).
+# file: All Programs/Games/Myst/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/Myst/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Myst/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Myst/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Myst/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Myst/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Myst)
+# file: All Programs/Games/Myst/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1223/myst/)
+# file: All Programs/Games/Myst/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/myst-3nm)
+# file: All Programs/Games/Myst/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/Myst_(series))
+# file: All Programs/Games/Myst/Program.txt = # site: Masterpiece Edition = [GOG 💰](https://www.gog.com/en/game/myst_masterpiece_edition)
+# file: All Programs/Games/Myst/Program.txt = # site: Masterpiece Edition = [Steam 💰](https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/)
+# file: All Programs/Games/Myst/Program.txt = #
+# file: All Programs/Games/Myst/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Myst/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Myst/Program.txt = # text: - Do not install *QuickTime*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
+# file: All Programs/Games/Myst/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [sdl]
+# file: All Programs/Games/Myst/Program.txt = autolock = true
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [dosbox]
+# file: All Programs/Games/Myst/Program.txt = memsize = 256
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [render]
+# file: All Programs/Games/Myst/Program.txt = scaler = none
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [video]
+# file: All Programs/Games/Myst/Program.txt = vmemsize = 4
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [cpu]
+# file: All Programs/Games/Myst/Program.txt = core = normal
+# file: All Programs/Games/Myst/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Myst/Program.txt = cycles = max
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [dos]
+# file: All Programs/Games/Myst/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Myst/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [ide, primary]
+# file: All Programs/Games/Myst/Program.txt = int13fakeio = true
+# file: All Programs/Games/Myst/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = [autoexec]
+# file: All Programs/Games/Myst/Program.txt = @ECHO OFF
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Myst/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = IF NOT EXIST C:\MYST\MYST.EXE GOTO F_INSTALL
+# file: All Programs/Games/Myst/Program.txt = IF EXIST C:\MYST\MYST.EXE GOTO F_START
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = :F_INSTALL
+# file: All Programs/Games/Myst/Program.txt = C:
+# file: All Programs/Games/Myst/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Myst/Program.txt = C:\WINDOWS\WIN.COM D:\INSTALL.EXE
+# file: All Programs/Games/Myst/Program.txt = COPY C:\RUNEXIT.EXE C:\MYST
+# file: All Programs/Games/Myst/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = :F_START
+# file: All Programs/Games/Myst/Program.txt = C:
+# file: All Programs/Games/Myst/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Myst/Program.txt = C:\WINDOWS\WIN.COM C:\MYST\RUNEXIT.EXE C:\MYST\MYST.EXE
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = :F_EXIT
+# file: All Programs/Games/Myst/Program.txt = EXIT
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = :F_DEBUG
+# file: All Programs/Games/Myst/Program.txt
+# file: All Programs/Games/Myst/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5058009-myst-windows-3x-front-cover.jpg
+# file: All Programs/Games/Myst/Program.txt = # check: coverart.jpg = e7e33bc13d439da4d133d9c53cc2335ae2314f5f905e540197473c0ebbfdf6b2
+# file: All Programs/Games/Myst/Program.txt = # asset: cdrom.iso = https://archive.org/download/myst-cd-rom/MYST.iso
+# file: All Programs/Games/Myst/Program.txt = # check: cdrom.iso = 5fbe679706f93839f780cfdc838f665ac0b1a8284e65810eeff991a45f7ae25d
+# file: All Programs/Games/Myst/Program.txt = # asset: manual.pdf = https://archive.org/download/Myst/Myst.pdf
+# file: All Programs/Games/Myst/Program.txt = # check: manual.pdf = c6ae06020042824d37127a430a5da6b8c23dd9cb2a3d5fad1c1b134191e8ca20
+#
+#
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = #
 # file: All Programs/Games/Oddworld - Abe's Oddysee/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟨 • Vertical line glitches
@@ -9075,6 +9702,101 @@
 # file: All Programs/Games/Out of This World/Program.txt = # check: manual.pdf = 64ce578667879080a60774db00acabdd77475930d0c5d9c11533c734522c58eb
 # file: All Programs/Games/Out of This World/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
 # file: All Programs/Games/Out of This World/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+#
+#
+# file: All Programs/Games/Panic in the Park/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Panic in the Park/Program.txt = #
+# file: All Programs/Games/Panic in the Park/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Panic in the Park/Program.txt = # name: Panic in the Park
+# file: All Programs/Games/Panic in the Park/Program.txt = # info: A set of twins - one virtuous, one diabolical, both beautiful - are fighting for the fate of the aging Skyview amusement park, operated by the twin's father until his recent death. But there's more behind the park's gates than first meets the eye. As a reporter, you must navigate a complex web of intrigue to get to the heart of the mystery. It's up to you to help the twins find the park's missing deed by morning to save it from destruction.
+# file: All Programs/Games/Panic in the Park/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Panic in the Park/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Panic in the Park/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Panic in the Park/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Panic in the Park/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Panic in the Park/Program.txt = # tag: No Manual
+# file: All Programs/Games/Panic in the Park/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Panic_in_the_Park)
+# file: All Programs/Games/Panic in the Park/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/14349/panic-in-the-park/)
+# file: All Programs/Games/Panic in the Park/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/panic-in-the-park-fga)
+# file: All Programs/Games/Panic in the Park/Program.txt = #
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - Install *Microsoft Video for Windows 1.1e* when prompted.
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Panic in the Park/Program.txt = # text:
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/Panic in the Park/Program.txt = # text:   1. Panic in the Park Disc #1
+# file: All Programs/Games/Panic in the Park/Program.txt = # text:   2. Panic in the Park Disc #2
+# file: All Programs/Games/Panic in the Park/Program.txt = # text:   3. Panic in the Park Disc #3
+# file: All Programs/Games/Panic in the Park/Program.txt = # text:
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/Panic in the Park/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [sdl]
+# file: All Programs/Games/Panic in the Park/Program.txt = autolock = true
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [dosbox]
+# file: All Programs/Games/Panic in the Park/Program.txt = memsize = 256
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [render]
+# file: All Programs/Games/Panic in the Park/Program.txt = scaler = none
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [video]
+# file: All Programs/Games/Panic in the Park/Program.txt = vmemsize = 4
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [cpu]
+# file: All Programs/Games/Panic in the Park/Program.txt = core = normal
+# file: All Programs/Games/Panic in the Park/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Panic in the Park/Program.txt = cycles = max
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [dos]
+# file: All Programs/Games/Panic in the Park/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Panic in the Park/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [ide, primary]
+# file: All Programs/Games/Panic in the Park/Program.txt = int13fakeio = true
+# file: All Programs/Games/Panic in the Park/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = [autoexec]
+# file: All Programs/Games/Panic in the Park/Program.txt = @ECHO OFF
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Panic in the Park/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" "./Assets/cdrom03.iso" -t iso
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = IF NOT EXIST C:\PANIC\PANIC.EXE GOTO F_INSTALL
+# file: All Programs/Games/Panic in the Park/Program.txt = IF EXIST C:\PANIC\PANIC.EXE GOTO F_START
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = :F_INSTALL
+# file: All Programs/Games/Panic in the Park/Program.txt = C:
+# file: All Programs/Games/Panic in the Park/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Panic in the Park/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Panic in the Park/Program.txt = COPY C:\RUNEXIT.EXE C:\PANIC
+# file: All Programs/Games/Panic in the Park/Program.txt = ECHO. >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Panic in the Park/Program.txt = ECHO [mciseq.drv] >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Panic in the Park/Program.txt = ECHO DisableWarning=TRUE >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Panic in the Park/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = :F_START
+# file: All Programs/Games/Panic in the Park/Program.txt = C:
+# file: All Programs/Games/Panic in the Park/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Panic in the Park/Program.txt = C:\WINDOWS\WIN.COM C:\PANIC\RUNEXIT.EXE C:\PANIC\PANIC.EXE
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = :F_EXIT
+# file: All Programs/Games/Panic in the Park/Program.txt = EXIT
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = :F_DEBUG
+# file: All Programs/Games/Panic in the Park/Program.txt
+# file: All Programs/Games/Panic in the Park/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4506285-panic-in-the-park-windows-3x-front-cover.jpg
+# file: All Programs/Games/Panic in the Park/Program.txt = # check: coverart.jpg = 9f270b26c819c26d86d8998d4ab9d63c0fbdd78c43d95c922094b781fe7ad220
+# file: All Programs/Games/Panic in the Park/Program.txt = # asset: cdrom01.iso = https://archive.org/download/panic-in-the-park/Panic%20in%20the%20Park%20%281995%29%28WarnerActive%29%28Disc%201%20of%203%29.iso
+# file: All Programs/Games/Panic in the Park/Program.txt = # check: cdrom01.iso = 2eaa43e60bce1a058f14641632f5fa940bb80ed7e61dff3dc372ea00445fef06
+# file: All Programs/Games/Panic in the Park/Program.txt = # asset: cdrom02.iso = https://archive.org/download/panic-in-the-park/Panic%20in%20the%20Park%20%281995%29%28WarnerActive%29%28Disc%202%20of%203%29.iso
+# file: All Programs/Games/Panic in the Park/Program.txt = # check: cdrom02.iso = 9b1104d4475cbb7a046cd6856ff8ed608faf51a2d37c13c6c59826c11948dc9d
+# file: All Programs/Games/Panic in the Park/Program.txt = # asset: cdrom03.iso = https://archive.org/download/panic-in-the-park/Panic%20in%20the%20Park%20%281995%29%28WarnerActive%29%28Disc%203%20of%203%29.iso
+# file: All Programs/Games/Panic in the Park/Program.txt = # check: cdrom03.iso = a4bb94f2eec3cf50cebd8c5a952c2224353db8da3039f4ae5c428931a34e3855
 #
 #
 # file: All Programs/Games/Pepper's Adventures in Time/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -9454,6 +10176,89 @@
 # file: All Programs/Games/Prince of Persia Collection/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
 #
 #
+# file: All Programs/Games/Private Eye/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Private Eye/Program.txt = #
+# file: All Programs/Games/Private Eye/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) = 0.74-3 🟥 • Unplayable
+# file: All Programs/Games/Private Eye/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟥 • Unplayable
+# file: All Programs/Games/Private Eye/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Private Eye/Program.txt = #
+# file: All Programs/Games/Private Eye/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Private Eye/Program.txt = # name: Private Eye
+# file: All Programs/Games/Private Eye/Program.txt = # name: Philip Marlowe: Private Eye
+# file: All Programs/Games/Private Eye/Program.txt = # info: Humphrey Bogart played him. Robert Mitchum played him. Now it's your turn to become Philip Marlowe, the world's most famous private eye! All other private eye games are imitations. It is the real thing, the first interactive murder mystery based on Raymond Chandler's legendary detective. Meet starlets, confront a manic mobster, and search Hollywood for clues you can take. Hundreds of interactive decisions are yours! It all starts with an innocent girl who hires you to find her missing brother, but it soon leads to a trail of greed, blackmail, revenge, deceit and murder!
+# file: All Programs/Games/Private Eye/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Private Eye/Program.txt = # tag: Genre = Adventure
+# file: All Programs/Games/Private Eye/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Private Eye/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Private Eye/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Private Eye/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Private_Eye_(1996_video_game))
+# file: All Programs/Games/Private Eye/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/7117/private-eye/)
+# file: All Programs/Games/Private Eye/Program.txt = # site: Manual = [MyAbandonware 📄](https://www.myabandonware.com/game/private-eye-ddy)
+# file: All Programs/Games/Private Eye/Program.txt = #
+# file: All Programs/Games/Private Eye/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Private Eye/Program.txt = # text: - Follow the default installation steps (Windows may require restart).
+# file: All Programs/Games/Private Eye/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Private Eye/Program.txt = # text:
+# file: All Programs/Games/Private Eye/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/Private Eye/Program.txt = # text: - The `RUNEXIT.EXE` tool does not work with this program as it requires Windows 3.1x to be fully loaded.
+# file: All Programs/Games/Private Eye/Program.txt = # text:   - Play the game by double-clicking **Private Eye** icon.
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [sdl]
+# file: All Programs/Games/Private Eye/Program.txt = autolock = true
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [dosbox]
+# file: All Programs/Games/Private Eye/Program.txt = memsize = 256
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [render]
+# file: All Programs/Games/Private Eye/Program.txt = scaler = none
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [video]
+# file: All Programs/Games/Private Eye/Program.txt = vmemsize = 4
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [cpu]
+# file: All Programs/Games/Private Eye/Program.txt = core = normal
+# file: All Programs/Games/Private Eye/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Private Eye/Program.txt = cycles = max
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [dos]
+# file: All Programs/Games/Private Eye/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Private Eye/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [ide, primary]
+# file: All Programs/Games/Private Eye/Program.txt = int13fakeio = true
+# file: All Programs/Games/Private Eye/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = [autoexec]
+# file: All Programs/Games/Private Eye/Program.txt = @ECHO OFF
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Private Eye/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = IF NOT EXIST C:\PVTEYE\PVTEYE.EXE GOTO F_INSTALL
+# file: All Programs/Games/Private Eye/Program.txt = IF EXIST C:\PVTEYE\PVTEYE.EXE GOTO F_START
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = :F_INSTALL
+# file: All Programs/Games/Private Eye/Program.txt = C:
+# file: All Programs/Games/Private Eye/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Private Eye/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Private Eye/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = :F_START
+# file: All Programs/Games/Private Eye/Program.txt = C:
+# file: All Programs/Games/Private Eye/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Private Eye/Program.txt = C:\WINDOWS\WIN.COM
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = :F_EXIT
+# file: All Programs/Games/Private Eye/Program.txt = EXIT
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = :F_DEBUG
+# file: All Programs/Games/Private Eye/Program.txt
+# file: All Programs/Games/Private Eye/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5984745-private-eye-windows-front-cover.jpg
+# file: All Programs/Games/Private Eye/Program.txt = # check: coverart.jpg = 433977c565a5f63fabd6fe6c4619ebae3f2318de9c5bf3e405fcb1d4f25be404
+# file: All Programs/Games/Private Eye/Program.txt = # asset: cdrom.iso = https://archive.org/download/private-eye-philip-marlowe/Private%20Eye%20-%20Philip%20Marlowe%20%281996%29%28Simon%20and%20Schuster%29.iso
+# file: All Programs/Games/Private Eye/Program.txt = # check: cdrom.iso = 8270dcf5de5ead69e9dee789a0af41ff7fc8f3bcd47dff55ab18f04c8756f27d
+#
+#
 # file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = #
 # file: All Programs/Games/Railroad Tycoon Deluxe/Program.txt = # name: Railroad Tycoon Deluxe
@@ -9602,7 +10407,7 @@
 # file: All Programs/Games/Road Rash/Program.txt = # info: Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful.
 # file: All Programs/Games/Road Rash/Program.txt = # tag: Year = 1996
 # file: All Programs/Games/Road Rash/Program.txt = # tag: Genre = Action • Racing
-# file: All Programs/Games/Road Rash/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Road Rash/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Road Rash/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/Road Rash/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Road Rash/Program.txt = # tag: No Manual
@@ -9931,7 +10736,7 @@
 # file: All Programs/Games/Sanitarium/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sanitarium) and [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/).
 # file: All Programs/Games/Sanitarium/Program.txt = # tag: Year = 1998
 # file: All Programs/Games/Sanitarium/Program.txt = # tag: Genre = Adventure
-# file: All Programs/Games/Sanitarium/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/Sanitarium/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/Sanitarium/Program.txt = # tag: License = Proprietary
 # file: All Programs/Games/Sanitarium/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/Sanitarium/Program.txt = # tag: Patched = Multiple files
@@ -10837,7 +11642,7 @@
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # info: In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory.
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Year = 1998
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Genre = Strategy
-# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Platform = Windows 98SE
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Platform = Windows 9x
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: License = Freeware
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Add-on
@@ -13479,6 +14284,90 @@
 # file: All Programs/Games/Warcraft II - Battle Chest/Program.txt = # file: Assets/cdrom02.cue =    INDEX 1 62:00:34
 #
 #
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = #
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # dosbox: [DOSBox](https://www.dosbox.com/) 🟩
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # dosbox: [DOSBox Staging](https://dosbox-staging.github.io/) = 0.80.1 🟥 • Hardware test failed
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # dosbox: [DOSBox-X](https://dosbox-x.com/) 🟩
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = #
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # snapshot: ../../Systems/Windows 3.1x
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # name: Where's Waldo? At the Circus
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # info: As the title suggests, Waldo is at the circus now. We will play several mini-games besides the most obvious one: searching for Waldo hidden in the pictures depicting crowds on the circus grounds. We have several tasks to do while helping some other characters, like a lion tamer or a clown.
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # tag: Genre = Educational • Puzzle
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # tag: Platform = Windows 3.1x
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # tag: No Manual
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Where%27s_Waldo_at_the_Circus)
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/86105/wheres-waldo-at-the-circus/)
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/where-s-waldo-at-the-circus-gfw)
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = #
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # text: - Install *Microsoft Video for Windows 1.1e* when prompted.
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # text: - Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [sdl]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = autolock = true
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [dosbox]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = memsize = 256
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [render]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = scaler = none
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [video]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = vmemsize = 4
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [cpu]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = core = normal
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = cputype = pentium_slow
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = cycles = max
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [dos]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = hard drive data rate limit = 0
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = floppy drive data rate limit = 0
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [ide, primary]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = int13fakeio = true
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = int13fakev86io = false
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = [autoexec]
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = @ECHO OFF
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = IF NOT EXIST C:\WALDO\WALDO.EXE GOTO F_INSTALL
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = IF EXIST C:\WALDO\WALDO.EXE GOTO F_START
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = :F_INSTALL
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = C:
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = C:\WINDOWS\WIN.COM D:\SETUP.EXE
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = COPY C:\RUNEXIT.EXE C:\WALDO
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = ECHO. >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = ECHO [mciseq.drv] >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = ECHO DisableWarning=TRUE >>C:\WINDOWS\SYSTEM.INI
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = :F_START
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = C:
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = CALL C:\AUTOEXEC.BAT
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = C:\WINDOWS\WIN.COM C:\WALDO\RUNEXIT.EXE C:\WALDO\WALDO.EXE
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = :F_EXIT
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = EXIT
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = :F_DEBUG
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/2241624-wheres-waldo-at-the-circus-windows-3x-front-cover.jpg
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # check: coverart.jpg = f2be505d0e30749cdf1b8ed352090004c97d521c551b443bea81719d2d0aad0f
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # asset: cdrom.iso = https://archive.org/download/wheres-waldo-at-the-circus-1995/Where%27s%20Waldo%20at%20the%20Circus%20%281995%29.iso
+# file: All Programs/Games/Where's Waldo? At the Circus/Program.txt = # check: cdrom.iso = d91319dcf289d1a11e6fa0bceb982d44777816ddec26930b5f2f43a2f36c10f5
+#
+#
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = #
 # file: All Programs/Games/X-COM - Apocalypse/Program.txt = # name: X-COM: Apocalypse
@@ -14087,6 +14976,7 @@
 # link: Games/By Genre/Action/God of Thunder = ../../../All Programs/Games/God of Thunder
 # link: Games/By Genre/Action/Heretic = ../../../All Programs/Games/Heretic
 # link: Games/By Genre/Action/Hexen - Beyond Heretic = ../../../All Programs/Games/Hexen - Beyond Heretic
+# link: Games/By Genre/Action/Iron Helix = ../../../All Programs/Games/Iron Helix
 # link: Games/By Genre/Action/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By Genre/Action/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By Genre/Action/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
@@ -14112,6 +15002,7 @@
 # link: Games/By Genre/Adventure/Are You Afraid of the Dark? The Tale of Orpheo's Curse = ../../../All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse
 # link: Games/By Genre/Adventure/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Genre/Adventure/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
+# link: Games/By Genre/Adventure/Beyond Time = ../../../All Programs/Games/Beyond Time
 # link: Games/By Genre/Adventure/Broken Sword - The Shadow of the Templars = ../../../All Programs/Games/Broken Sword - The Shadow of the Templars
 # link: Games/By Genre/Adventure/Broken Sword II - The Smoking Mirror = ../../../All Programs/Games/Broken Sword II - The Smoking Mirror
 # link: Games/By Genre/Adventure/Call of Cthulhu - Prisoner of Ice = ../../../All Programs/Games/Call of Cthulhu - Prisoner of Ice
@@ -14123,14 +15014,17 @@
 # link: Games/By Genre/Adventure/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Genre/Adventure/Discworld = ../../../All Programs/Games/Discworld
 # link: Games/By Genre/Adventure/Discworld II = ../../../All Programs/Games/Discworld II
+# link: Games/By Genre/Adventure/Dust - A Tale of the Wired West = ../../../All Programs/Games/Dust - A Tale of the Wired West
 # link: Games/By Genre/Adventure/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
 # link: Games/By Genre/Adventure/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By Genre/Adventure/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
+# link: Games/By Genre/Adventure/Frankenstein - Through the Eyes of the Monster = ../../../All Programs/Games/Frankenstein - Through the Eyes of the Monster
 # link: Games/By Genre/Adventure/Full Throttle = ../../../All Programs/Games/Full Throttle
 # link: Games/By Genre/Adventure/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By Genre/Adventure/Gabriel Knight - Sins of the Fathers = ../../../All Programs/Games/Gabriel Knight - Sins of the Fathers
 # link: Games/By Genre/Adventure/Gabriel Knight 2 - The Beast Within = ../../../All Programs/Games/Gabriel Knight 2 - The Beast Within
 # link: Games/By Genre/Adventure/I Have No Mouth, and I Must Scream = ../../../All Programs/Games/I Have No Mouth, and I Must Scream
+# link: Games/By Genre/Adventure/In the 1st Degree = ../../../All Programs/Games/In the 1st Degree
 # link: Games/By Genre/Adventure/Indiana Jones and the Fate of Atlantis = ../../../All Programs/Games/Indiana Jones and the Fate of Atlantis
 # link: Games/By Genre/Adventure/Indiana Jones and the Last Crusade - The Graphic Adventure = ../../../All Programs/Games/Indiana Jones and the Last Crusade - The Graphic Adventure
 # link: Games/By Genre/Adventure/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
@@ -14140,12 +15034,16 @@
 # link: Games/By Genre/Adventure/Lighthouse - The Dark Being = ../../../All Programs/Games/Lighthouse - The Dark Being
 # link: Games/By Genre/Adventure/Loom = ../../../All Programs/Games/Loom
 # link: Games/By Genre/Adventure/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
+# link: Games/By Genre/Adventure/Milo = ../../../All Programs/Games/Milo
 # link: Games/By Genre/Adventure/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Genre/Adventure/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Genre/Adventure/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
+# link: Games/By Genre/Adventure/Myst = ../../../All Programs/Games/Myst
+# link: Games/By Genre/Adventure/Panic in the Park = ../../../All Programs/Games/Panic in the Park
 # link: Games/By Genre/Adventure/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
 # link: Games/By Genre/Adventure/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
 # link: Games/By Genre/Adventure/Phantasmagoria 2 = ../../../All Programs/Games/Phantasmagoria 2
+# link: Games/By Genre/Adventure/Private Eye = ../../../All Programs/Games/Private Eye
 # link: Games/By Genre/Adventure/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Genre/Adventure/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By Genre/Adventure/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
@@ -14170,6 +15068,7 @@
 # link: Games/By Genre/Educational/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
 # link: Games/By Genre/Educational/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By Genre/Educational/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
+# link: Games/By Genre/Educational/Where's Waldo? At the Circus = ../../../All Programs/Games/Where's Waldo? At the Circus
 # link: Games/By Genre/Puzzle/Blockout = ../../../All Programs/Games/Blockout
 # link: Games/By Genre/Puzzle/Boppin' = ../../../All Programs/Games/Boppin'
 # link: Games/By Genre/Puzzle/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
@@ -14187,6 +15086,7 @@
 # link: Games/By Genre/Puzzle/The Incredible Machine 2 = ../../../All Programs/Games/The Incredible Machine 2
 # link: Games/By Genre/Puzzle/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By Genre/Puzzle/The Lost Vikings = ../../../All Programs/Games/The Lost Vikings
+# link: Games/By Genre/Puzzle/Where's Waldo? At the Circus = ../../../All Programs/Games/Where's Waldo? At the Circus
 # link: Games/By Genre/Racing/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By Genre/Racing/Road Rash = ../../../All Programs/Games/Road Rash
@@ -14228,6 +15128,7 @@
 # link: Games/By Genre/Strategy/Emperor of the Fading Suns = ../../../All Programs/Games/Emperor of the Fading Suns
 # link: Games/By Genre/Strategy/Heroes of Might and Magic - A Strategic Quest = ../../../All Programs/Games/Heroes of Might and Magic - A Strategic Quest
 # link: Games/By Genre/Strategy/Heroes of Might and Magic II - The Succession Wars = ../../../All Programs/Games/Heroes of Might and Magic II - The Succession Wars
+# link: Games/By Genre/Strategy/Iron Helix = ../../../All Programs/Games/Iron Helix
 # link: Games/By Genre/Strategy/Jagged Alliance = ../../../All Programs/Games/Jagged Alliance
 # link: Games/By Genre/Strategy/Jagged Alliance - Deadly Games = ../../../All Programs/Games/Jagged Alliance - Deadly Games
 # link: Games/By Genre/Strategy/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
@@ -14245,6 +15146,7 @@
 # link: Games/By License/Abandonware/Are You Afraid of the Dark? The Tale of Orpheo's Curse = ../../../All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By License/Abandonware/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
+# link: Games/By License/Abandonware/Beyond Time = ../../../All Programs/Games/Beyond Time
 # link: Games/By License/Abandonware/Blood & Magic = ../../../All Programs/Games/Blood & Magic
 # link: Games/By License/Abandonware/Cadaver = ../../../All Programs/Games/Cadaver
 # link: Games/By License/Abandonware/Callahan's Crosstime Saloon = ../../../All Programs/Games/Callahan's Crosstime Saloon
@@ -14259,14 +15161,21 @@
 # link: Games/By License/Abandonware/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
 # link: Games/By License/Abandonware/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
 # link: Games/By License/Abandonware/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
+# link: Games/By License/Abandonware/Dust - A Tale of the Wired West = ../../../All Programs/Games/Dust - A Tale of the Wired West
 # link: Games/By License/Abandonware/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
 # link: Games/By License/Abandonware/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By License/Abandonware/Fade to Black = ../../../All Programs/Games/Fade to Black
+# link: Games/By License/Abandonware/Frankenstein - Through the Eyes of the Monster = ../../../All Programs/Games/Frankenstein - Through the Eyes of the Monster
 # link: Games/By License/Abandonware/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
+# link: Games/By License/Abandonware/In the 1st Degree = ../../../All Programs/Games/In the 1st Degree
+# link: Games/By License/Abandonware/Iron Helix = ../../../All Programs/Games/Iron Helix
 # link: Games/By License/Abandonware/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By License/Abandonware/Milo = ../../../All Programs/Games/Milo
+# link: Games/By License/Abandonware/Panic in the Park = ../../../All Programs/Games/Panic in the Park
 # link: Games/By License/Abandonware/Pepper's Adventures in Time = ../../../All Programs/Games/Pepper's Adventures in Time
 # link: Games/By License/Abandonware/Prince of Persia Collection = ../../../All Programs/Games/Prince of Persia Collection
+# link: Games/By License/Abandonware/Private Eye = ../../../All Programs/Games/Private Eye
 # link: Games/By License/Abandonware/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By License/Abandonware/Road Rash = ../../../All Programs/Games/Road Rash
 # link: Games/By License/Abandonware/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
@@ -14279,6 +15188,7 @@
 # link: Games/By License/Abandonware/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Rose Tattoo
 # link: Games/By License/Abandonware/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel
 # link: Games/By License/Abandonware/The Need for Speed = ../../../All Programs/Games/The Need for Speed
+# link: Games/By License/Abandonware/Where's Waldo? At the Circus = ../../../All Programs/Games/Where's Waldo? At the Circus
 # link: Games/By License/Freeware/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By License/Freeware/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By License/Freeware/Alien Carnage = ../../../All Programs/Games/Alien Carnage
@@ -14361,6 +15271,7 @@
 # link: Games/By License/Proprietary/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
+# link: Games/By License/Proprietary/Myst = ../../../All Programs/Games/Myst
 # link: Games/By License/Proprietary/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By License/Proprietary/Out of This World = ../../../All Programs/Games/Out of This World
 # link: Games/By License/Proprietary/Phantasmagoria = ../../../All Programs/Games/Phantasmagoria
@@ -14519,18 +15430,28 @@
 # link: Games/By Platform/DOS/Xargon = ../../../All Programs/Games/Xargon
 # link: Games/By Platform/Windows 3.1x/Bad Mojo = ../../../All Programs/Games/Bad Mojo
 # link: Games/By Platform/Windows 3.1x/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
+# link: Games/By Platform/Windows 3.1x/Beyond Time = ../../../All Programs/Games/Beyond Time
 # link: Games/By Platform/Windows 3.1x/Civilization II = ../../../All Programs/Games/Civilization II
 # link: Games/By Platform/Windows 3.1x/Dark Seed II = ../../../All Programs/Games/Dark Seed II
 # link: Games/By Platform/Windows 3.1x/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By Platform/Windows 3.1x/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
 # link: Games/By Platform/Windows 3.1x/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
+# link: Games/By Platform/Windows 3.1x/Dust - A Tale of the Wired West = ../../../All Programs/Games/Dust - A Tale of the Wired West
+# link: Games/By Platform/Windows 3.1x/Frankenstein - Through the Eyes of the Monster = ../../../All Programs/Games/Frankenstein - Through the Eyes of the Monster
+# link: Games/By Platform/Windows 3.1x/In the 1st Degree = ../../../All Programs/Games/In the 1st Degree
+# link: Games/By Platform/Windows 3.1x/Iron Helix = ../../../All Programs/Games/Iron Helix
 # link: Games/By Platform/Windows 3.1x/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
+# link: Games/By Platform/Windows 3.1x/Milo = ../../../All Programs/Games/Milo
+# link: Games/By Platform/Windows 3.1x/Myst = ../../../All Programs/Games/Myst
+# link: Games/By Platform/Windows 3.1x/Panic in the Park = ../../../All Programs/Games/Panic in the Park
+# link: Games/By Platform/Windows 3.1x/Private Eye = ../../../All Programs/Games/Private Eye
 # link: Games/By Platform/Windows 3.1x/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
 # link: Games/By Platform/Windows 3.1x/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Platform/Windows 3.1x/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
 # link: Games/By Platform/Windows 3.1x/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By Platform/Windows 3.1x/The Incredible Toon Machine = ../../../All Programs/Games/The Incredible Toon Machine
 # link: Games/By Platform/Windows 3.1x/Titanic - Adventure Out of Time = ../../../All Programs/Games/Titanic - Adventure Out of Time
+# link: Games/By Platform/Windows 3.1x/Where's Waldo? At the Circus = ../../../All Programs/Games/Where's Waldo? At the Circus
 # link: Games/By Platform/Windows 9x/Age of Empires - Gold Edition = ../../../All Programs/Games/Age of Empires - Gold Edition
 # link: Games/By Platform/Windows 9x/Broken Sword II - The Smoking Mirror = ../../../All Programs/Games/Broken Sword II - The Smoking Mirror
 # link: Games/By Platform/Windows 9x/Commandos - Behind Enemy Lines = ../../../All Programs/Games/Commandos - Behind Enemy Lines

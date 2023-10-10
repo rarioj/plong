@@ -494,13 +494,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Civilization")
+> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Sid Meier's Civilization")
 >
 > </td>
 >
 > <td>
 >
-> ## [Civilization](../../../All%20Programs/Games/Civilization/README.md)
+> ## [Sid Meier's Civilization](../../../All%20Programs/Games/Civilization/README.md)
 >
 > 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package ┃ **Patched** ‣ 474.05 ┃ **Copy Protection** 
 >

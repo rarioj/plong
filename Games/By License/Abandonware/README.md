@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (38)
+# 🗂️ Games ‣ By License ‣ Abandonware (47)
 
 > <table><tr><td width="255">
 >
@@ -78,6 +78,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Beyond%20Time/Thumbnail.png "Beyond Time")
+>
+> </td>
+>
+> <td>
+>
+> ## [Beyond Time](../../../All%20Programs/Games/Beyond%20Time/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Step through the gateway into a 3D world of puzzles and adventure. Beyond the Mayan city, the Temple of Osiris, the Tibetan Palace, and the ruins of Atlantis. Explore every world and unlock the secrets to this fascinating mystery. The intrigue will guide you on an epic adventure. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Blood%20%26%20Magic/Thumbnail.png "Blood & Magic")
 >
 > </td>
@@ -137,13 +156,13 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Civilization")
+> ![](../../../All%20Programs/Games/Civilization/Thumbnail.png "Sid Meier's Civilization")
 >
 > </td>
 >
 > <td>
 >
-> ## [Civilization](../../../All%20Programs/Games/Civilization/README.md)
+> ## [Sid Meier's Civilization](../../../All%20Programs/Games/Civilization/README.md)
 >
 > 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package ┃ **Patched** ‣ 474.05 ┃ **Copy Protection** 
 >
@@ -348,6 +367,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/Thumbnail.png "Dust: A Tale of the Wired West")
+>
+> </td>
+>
+> <td>
+>
+> ## [Dust: A Tale of the Wired West](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ You are stranded somewhere on the digital frontier. On the run, without a friend, a gun, or a past. Just over the horizon is the key to your survival, in the form of Diamondback, a scruffy Old West outpost in 1882 New Mexico. Stroll down Main Street, belly up in the bar, battle gunslingers, or help Native Americans recover their stolen heritage. Whatever you do is up to you. But when rumours surface of lost Spanish silver, mayhem follows. Can you save a hardscrabble band of pioneers from themselves? Or will you succumb to temptation in a town where you are the only law? Boot up and find out. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")
 >
 > </td>
@@ -405,6 +443,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/Thumbnail.png "Frankenstein: Through the Eyes of the Monster")
+>
+> </td>
+>
+> <td>
+>
+> ## [Frankenstein: Through the Eyes of the Monster](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Between life and death, man and monster, lies the test of the human heart. With a crash of lightning, you are reborn to a world of haunted memories and science pushed beyond the bounds of nature. Your thoughts come slowly like distant echoes. The mystery of your existence pulls at your mind: An ancient castle of dark secrets and hidden terrors; A strange crystal glows with life itself. The burning memory of a child long thought dead and a discovery that crosses the boundaries between life and death. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/Thumbnail.png "Future Wars: Adventures in Time")
 >
 > </td>
@@ -443,6 +500,44 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/In%20the%201st%20Degree/Thumbnail.png "In the 1st Degree")
+>
+> </td>
+>
+> <td>
+>
+> ## [In the 1st Degree](../../../All%20Programs/Games/In%20the%201st%20Degree/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ Someone is dead. Someone is lying. Can you prove Murder One? Some artists die for their art. James Tobin killed, or did he? As a D.A. in San Francisco, you must prove that he did. It has become the most sensational murder case to hit the Bay Area in years. Who will lead you to the truth? The passionate girlfriend of the accused? The socially connected wife of the victim? Perhaps his bitter apprentice? Every reluctant witness and shred of evidence may paint a homicidal portrait as chilling and surreal as one of Tobin's paintings. And as if that were not enough, everyone will be watching you on this one, especially the media. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Iron%20Helix/Thumbnail.png "Iron Helix")
+>
+> </td>
+>
+> <td>
+>
+> ## [Iron Helix](../../../All%20Programs/Games/Iron%20Helix/README.md)
+>
+> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Iron Helix is a science fiction thriller that immerses you in a fast-paced virtual reality filled with danger and intrigue. Control a robot probe whose mission is to stop a renegade starship on an automated course of destruction. Prevent intergalactic war and the spread of a deadly virus by destroying the doomsday weapon - code name Iron Helix. Navigate through dozens of condors and rooms. Search for ways to stop the looming annihilation while eluding the ship's deadly defender robot. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Lode%20Runner%20-%20The%20Legend%20Returns/Thumbnail.png "Lode Runner: The Legend Returns")
 >
 > </td>
@@ -454,6 +549,44 @@
 > 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 >
 > ❝ You're Jake Peril, the ultimate bounty hunter and all-around hero type, racing underground through the Evil Empire to regain the world's stolen treasures. If you do the job right, you'll be rich and famous - if not, you'll be ripped to bits by the deadly Mad Monks. Zap traps for these masters of murder and mayhem with your trusty laser pistol, or foil them with transporters, gas, ooze, and even bombs! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Milo/Thumbnail.png "Milo")
+>
+> </td>
+>
+> <td>
+>
+> ## [Milo](../../../All%20Programs/Games/Milo/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Long ago, an advanced Alien race discovered the key to the universe, a secret beyond human comprehension. What is left is a few incredible ruins and Milo, the android caretaker of the lost worlds. Milo has kept the ruins in good condition thanks to his advanced hyper-intelligent neural net. But he cannot go on forever. His artificial intelligence circuitry will fail if not challenged, and he's been left alone for too long. You have been brought to this place to challenge Milo. You must solve his tests and defeat him. Only then will he grant you the treasured keys to the universe? ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Panic%20in%20the%20Park/Thumbnail.png "Panic in the Park")
+>
+> </td>
+>
+> <td>
+>
+> ## [Panic in the Park](../../../All%20Programs/Games/Panic%20in%20the%20Park/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ A set of twins - one virtuous, one diabolical, both beautiful - are fighting for the fate of the aging Skyview amusement park, operated by the twin's father until his recent death. But there's more behind the park's gates than first meets the eye. As a reporter, you must navigate a complex web of intrigue to get to the heart of the mystery. It's up to you to help the twins find the park's missing deed by morning to save it from destruction. ❞
 >
 >
 > </td></tr></table>
@@ -502,6 +635,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Private%20Eye/Thumbnail.png "Private Eye")
+>
+> </td>
+>
+> <td>
+>
+> ## [Private Eye](../../../All%20Programs/Games/Private%20Eye/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Humphrey Bogart played him. Robert Mitchum played him. Now it's your turn to become Philip Marlowe, the world's most famous private eye! All other private eye games are imitations. It is the real thing, the first interactive murder mystery based on Raymond Chandler's legendary detective. Meet starlets, confront a manic mobster, and search Hollywood for clues you can take. Hundreds of interactive decisions are yours! It all starts with an innocent girl who hires you to find her missing brother, but it soon leads to a trail of greed, blackmail, revenge, deceit and murder! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/Thumbnail.png "Railroad Tycoon Deluxe")
 >
 > </td>
@@ -529,7 +681,7 @@
 >
 > ## [Road Rash](../../../All%20Programs/Games/Road%20Rash/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
 >
 > ❝ Fight through the levels against other bikers, finish high and use the prize money to customise your motorbike. Sound simple? Add the hazards of oncoming traffic, suicidal pedestrians, street furniture, other road users, and crossroads - and it becomes quite a handful. ❞
 >
@@ -722,6 +874,25 @@
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Video glitch 
 >
 > ❝ Road & Track presents Need for Speed Special Edition with 8 Purebred Exotics: Lamborghini Diablo VT, Chevrolet Corvette ZR-1, Porsche 911 Carrera, Ferrari 512TR, Acura NSX, Mazda RX-7, Dodge Viper RT/10, and Toyota Supra Turbo. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Where%27s%20Waldo%3F%20At%20the%20Circus/Thumbnail.png "Where's Waldo? At the Circus")
+>
+> </td>
+>
+> <td>
+>
+> ## [Where's Waldo? At the Circus](../../../All%20Programs/Games/Where%27s%20Waldo%3F%20At%20the%20Circus/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ As the title suggests, Waldo is at the circus now. We will play several mini-games besides the most obvious one: searching for Waldo hidden in the pictures depicting crowds on the circus grounds. We have several tasks to do while helping some other characters, like a lion tamer or a clown. ❞
 >
 >
 > </td></tr></table>

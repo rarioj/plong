@@ -52,7 +52,7 @@
 >
 > ## [Diablo + Hellfire](../../../All%20Programs/Games/Diablo%20%2B%20Hellfire/README.md)
 >
-> 📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 98SE ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
+> 📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
 >
 > ❝ Vengeance, power, intellect and magic are the tools you will need to battle the Lord of All Evil, Diablo. Embark, if you dare, upon a dark and sinister quest that will pull you into the very depths of Hell itself and beyond. ❞ — *Diablo*
 >
