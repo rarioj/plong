@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Proprietary (84)
+# 🗂️ Games ‣ By License ‣ Proprietary (90)
 
 > <table><tr><td width="255">
 >
@@ -500,6 +500,48 @@
 > ❝ GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later. ❞ — *Wikipedia*
 >
 > ❝ This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate) ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Descent/Thumbnail.png "Descent: Anniversary Edition")
+>
+> </td>
+>
+> <td>
+>
+> ## [Descent: Anniversary Edition](../../../All%20Programs/Games/Descent/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ You begin deep below the surface of Lunar Base I, where an unknown alien race has taken over the chasm of the Post-Terran Mining Corporation. Lunge down mine shafts, twist around never-ending tunnels and fight past robotic menaces in a 360° 3D environment. Move up, move down, shoot everything everywhere. Hang onto your senses (and your lunch) as you drop down mine shafts on a ride that'll leave you spinning. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent) and [Steam 💰](https://store.steampowered.com/app/273570/Descent/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Descent%20II/Thumbnail.png "Descent II")
+>
+> </td>
+>
+> <td>
+>
+> ## [Descent II](../../../All%20Programs/Games/Descent%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ You're about to plunge over the edge and into the depths of Descent II. Suddenly warped into the outer reaches of the Zeta Aquilae System, your new mission sends you into the black depths of treacherous alien mines. You blast through enemy robots with powerful new tools, leaving their flaming hulks in your exhaust. Your ultimate goal is to exterminate the alien robot stronghold from the enemy Alien Base and claim total control. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent_2) and [Steam 💰](https://store.steampowered.com/app/273580/Descent_2/). ❞
 >
 >
 > </td></tr></table>
@@ -1077,6 +1119,48 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/MegaRace/Thumbnail.png "MegaRace")
+>
+> </td>
+>
+> <td>
+>
+> ## [MegaRace](../../../All%20Programs/Games/MegaRace/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ This race is so full of sound and fury, so graphic and realistic that you will squirm in your seat as you squeal around futuristic 3-0 cities in custom war wagons loaded with weapons. You'll have so much fun so fast it will make your head spin. Remember, your life depends on speed, cunning, and aggression. And you're going to need them all. You can't avoid tricky scum like Hammerhead and King Kool as their gangs try to take you out. But if you knock them off first, you can grab their guns and get going on the ride of your life. It's do or die. You haven't seen anything like this because there's never been anything like MegaRace. Strap yourself into this brave new world of battle racing and take it to the limit! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/730580/MegaRace_1/) and [Zoom 💰](https://www.zoom-platform.com/product/megarace-1). The **MegaRace 1+2** bundle is available on [GOG 💰](https://gog.com/en/game/megarace_1_2). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/MegaRace%202/Thumbnail.png "MegaRace 2")
+>
+> </td>
+>
+> <td>
+>
+> ## [MegaRace 2](../../../All%20Programs/Games/MegaRace%202/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ 3D Arcade racing game. It's faster, more furious and far superior to anything before. Lance Boyle is back with a beautiful assistant! It features improved video streaming technology, more complex multi-laned and multi-path track designs, and realistic 3D-rendered vehicles and obstacles. A new assortment of visually satisfying weaponry brings additional punch to the program. SVGA graphics, FMV and a real-time rendered 3-D environment. If you can't drive, you won't survive - Let's burn some rubber! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/733760/MegaRace_2/) and [Zoom 💰](https://www.zoom-platform.com/product/megarace-2). The **MegaRace 1+2** bundle is available on [GOG 💰](https://gog.com/en/game/megarace_1_2). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Mission%20Critical/Thumbnail.png "Mission Critical")
 >
 > </td>
@@ -1300,6 +1384,48 @@
 > ❝ Spiralling upwards out of the vacuum, you open your eyes and struggle to comprehend your environment. Underneath you, the springs of an institutional cot sink almost to the floor. The mattress is roughly the thickness of a paper towel and reeks of affliction. Vague memories assault you, a hurried phone call, a message of utmost importance, and a car losing control. As you wake up with a throbbing head, you hear people screaming, sobbing, laughing manically in the background. Is it a nightmare? Are you insane? Is it a reality? Maybe this is death. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sanitarium) and [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Screamer/Thumbnail.png "Screamer")
+>
+> </td>
+>
+> <td>
+>
+> ## [Screamer](../../../All%20Programs/Games/Screamer/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Lights blur. The crowd whizzes past. Your helmet rattles against the roll bar. The competition switches into overdrive. Tears stream from your eyes as the race moves at extreme speed. The same stuff seeps out of your palms and onto the steering wheel. Get a grip. You are sliding into a turn at 200 miles per hour. Centrifugal force will only carry you so far. It is a velocity-driven, pedal-to-the-metal arcade auto racing. No simulation. Find out how your PC handles because you have never been allowed to go this fast. Maneuver through a twisted landscape, along six snaking tracks with other racers breathing down your neck, and post a warped time. Strapped into a personally chosen, made-for-the-autobahn racing machine, you will scream to redefine fast in this winding 3-D ride of pure rocketing fun. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/screamer) and [Steam 💰](https://store.steampowered.com/app/697580/Screamer/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Screamer%202/Thumbnail.png "Screamer 2")
+>
+> </td>
+>
+> <td>
+>
+> ## [Screamer 2](../../../All%20Programs/Games/Screamer%202/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ This all-new landmark in driving experiences leaves even its impressive, critically acclaimed predecessors eating dirt. For the first time, six formidable courses from around the world have been designed with variable conditions to put the best to the test. Feel every bone-shaking bump, every nerve-wracking jump, every mud- and gut-churning skid, twist and turn. But don't feel ashamed to release the tension with a scream every once in a while. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/screamer_2) and [Steam 💰](https://store.steampowered.com/app/698620/Screamer_2/). ❞
 >
 >
 > </td></tr></table>

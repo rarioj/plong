@@ -203,6 +203,8 @@
 >
 > ❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞
 >
+> ❝ The original game, along with the expansion, was released for free in April 2017. ❞ — *Wikipedia*
+>
 >
 > </td></tr></table>
 

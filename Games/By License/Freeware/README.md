@@ -1,23 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Freeware (28)
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/Thumbnail.png "ABC Wide World of Sports Boxing")
->
-> </td>
->
-> <td>
->
-> ## [ABC Wide World of Sports Boxing](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md)
->
-> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
->
-> ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
+# 🗂️ Games ‣ By License ‣ Freeware (26)
 
 > <table><tr><td width="255">
 >
@@ -294,25 +275,6 @@
 
 > <table><tr><td width="255">
 >
-> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
->
-> </td>
->
-> <td>
->
-> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
->
-> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM 
->
-> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction become fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
 > ![](../../../All%20Programs/Games/Jetpack/Thumbnail.png "Jetpack")
 >
 > </td>
@@ -429,6 +391,8 @@
 > 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 >
 > ❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞
+>
+> ❝ The original game, along with the expansion, was released for free in April 2017. ❞ — *Wikipedia*
 >
 >
 > </td></tr></table>

@@ -29,7 +29,7 @@
 >
 > ## [ABC Wide World of Sports Boxing](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md)
 >
-> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 >
 > ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
 >

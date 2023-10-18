@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Platform ‣ DOS (126)
+# 🗂️ Games ‣ By Platform ‣ DOS (136)
 
 > <table><tr><td width="255">
 >
@@ -50,7 +50,7 @@
 >
 > ## [ABC Wide World of Sports Boxing](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md)
 >
-> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 >
 > ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
 >
@@ -700,6 +700,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Darker/Thumbnail.png "Darker")
+>
+> </td>
+>
+> <td>
+>
+> ## [Darker](../../../All%20Programs/Games/Darker/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Your side of the planet is constantly in total darkness, but the Delphins have adapted to this life. The Halons used to live in the light, but recent events have caused their side of the planet to fall dark, and now they are attacking you to take over your technology. Your job as a Delphin pilot is to stop them and take down their attacking ships. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/Thumbnail.png "Day of the Tentacle")
 >
 > </td>
@@ -757,6 +776,48 @@
 > ❝ Enter the corrupt racing world of Death Rally, where defensive driving means annihilating your opponents. You'll become ravenous for the power and glory of being the best at Death Rally, but first, you must pay your dues. Put the pedal to the metal and smash, blast and obliterate the competition to earn the chance to face the undefeated master, "The Adversary." Make deals with loan sharks and mob bosses to get the cash you need to build the ultimate battle racing machine. Remember, no trick is too dirty, and no spectator is too innocent - in your savage quest for the checkered flag. ❞
 >
 > ❝ Based on Komppa's work, Remedy released Death Rally for Windows as proprietary freeware on 20 October 2009. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Descent/Thumbnail.png "Descent: Anniversary Edition")
+>
+> </td>
+>
+> <td>
+>
+> ## [Descent: Anniversary Edition](../../../All%20Programs/Games/Descent/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ You begin deep below the surface of Lunar Base I, where an unknown alien race has taken over the chasm of the Post-Terran Mining Corporation. Lunge down mine shafts, twist around never-ending tunnels and fight past robotic menaces in a 360° 3D environment. Move up, move down, shoot everything everywhere. Hang onto your senses (and your lunch) as you drop down mine shafts on a ride that'll leave you spinning. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent) and [Steam 💰](https://store.steampowered.com/app/273570/Descent/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Descent%20II/Thumbnail.png "Descent II")
+>
+> </td>
+>
+> <td>
+>
+> ## [Descent II](../../../All%20Programs/Games/Descent%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ You're about to plunge over the edge and into the depths of Descent II. Suddenly warped into the outer reaches of the Zeta Aquilae System, your new mission sends you into the black depths of treacherous alien mines. You blast through enemy robots with powerful new tools, leaving their flaming hulks in your exhaust. Your ultimate goal is to exterminate the alien robot stronghold from the enemy Alien Base and claim total control. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent_2) and [Steam 💰](https://store.steampowered.com/app/273580/Descent_2/). ❞
 >
 >
 > </td></tr></table>
@@ -841,6 +902,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/EF%202000/Thumbnail.png "EF 2000")
+>
+> </td>
+>
+> <td>
+>
+> ## [EF 2000](../../../All%20Programs/Games/EF%202000/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")
 >
 > </td>
@@ -892,6 +972,25 @@
 > ❝ After drifting off to sleep late one night at the planetary base, Jacek woke to discover that his unit had lost all its power. Climbing the darkened stairway, he found that alien beings had invaded the HQ and killed all humans - including his wife and children! Only his friend Placek remained, and together they escaped to another planet. Now, it is time for revenge. Spending all his insurance money, Jacek underwent many costly operations, giving him superhuman strength and senses. He armed himself with weapons and set out for the conquered station. Jacek is unaware that the aliens have rebuilt the station with numerous security systems built to keep him out. Can you help our hero? ❞
 >
 > ❝ Though initially offered under a shareware license, the game was released as freeware by the developer on June 25, 2006, under the Creative Commons Attribution-ShareAlike 2.5 license. ❞ — *Wikipedia*
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/F-22%20Lightning%20II/Thumbnail.png "F-22 Lightning II")
+>
+> </td>
+>
+> <td>
+>
+> ## [F-22 Lightning II](../../../All%20Programs/Games/F-22%20Lightning%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Roam through the blood-red skies over a vast terrain. Play with life and death. Preferably engage your opponent from behind. You've never experienced anything like this. You'll be amazed by the gameplay of F22 Lightning II, be speechless by the unique graphics and witness it in digital stereo sound. ❞
 >
 >
 > </td></tr></table>
@@ -1322,9 +1421,11 @@
 >
 > ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
 >
-> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM 
+> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 >
 > ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction become fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
+>
+> ❝ A collection of Cinemaware games is available as **Cinemaware Anthology: 1986-1991** release on [Steam 💰](https://store.steampowered.com/app/326590/Cinemaware_Anthology_19861991/). ❞
 >
 >
 > </td></tr></table>
@@ -1577,6 +1678,48 @@
 > ❝ Near the end of his life, Dr. Light succeeds in creating the first of a new series of robots that will change the world. Able to think and make decisions, this new robot holds great danger and possibilities. Fearful of the possible consequences of unleashing his creation on the World, Dr. Light decides to seal him in a capsule and test his systems until they are reliable. The future will have to choose his fate. ❞
 >
 > ❝ This game **is not abandonware 🚫**. The **Mega Man X Legacy Collection** release is available on [Steam 💰](https://store.steampowered.com/app/743890/Mega_Man_X_Legacy_Collection/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/MegaRace/Thumbnail.png "MegaRace")
+>
+> </td>
+>
+> <td>
+>
+> ## [MegaRace](../../../All%20Programs/Games/MegaRace/README.md)
+>
+> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** 
+>
+> ❝ This race is so full of sound and fury, so graphic and realistic that you will squirm in your seat as you squeal around futuristic 3-0 cities in custom war wagons loaded with weapons. You'll have so much fun so fast it will make your head spin. Remember, your life depends on speed, cunning, and aggression. And you're going to need them all. You can't avoid tricky scum like Hammerhead and King Kool as their gangs try to take you out. But if you knock them off first, you can grab their guns and get going on the ride of your life. It's do or die. You haven't seen anything like this because there's never been anything like MegaRace. Strap yourself into this brave new world of battle racing and take it to the limit! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/730580/MegaRace_1/) and [Zoom 💰](https://www.zoom-platform.com/product/megarace-1). The **MegaRace 1+2** bundle is available on [GOG 💰](https://gog.com/en/game/megarace_1_2). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/MegaRace%202/Thumbnail.png "MegaRace 2")
+>
+> </td>
+>
+> <td>
+>
+> ## [MegaRace 2](../../../All%20Programs/Games/MegaRace%202/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ 3D Arcade racing game. It's faster, more furious and far superior to anything before. Lance Boyle is back with a beautiful assistant! It features improved video streaming technology, more complex multi-laned and multi-path track designs, and realistic 3D-rendered vehicles and obstacles. A new assortment of visually satisfying weaponry brings additional punch to the program. SVGA graphics, FMV and a real-time rendered 3-D environment. If you can't drive, you won't survive - Let's burn some rubber! ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/733760/MegaRace_2/) and [Zoom 💰](https://www.zoom-platform.com/product/megarace-2). The **MegaRace 1+2** bundle is available on [GOG 💰](https://gog.com/en/game/megarace_1_2). ❞
 >
 >
 > </td></tr></table>
@@ -1867,6 +2010,67 @@
 > ❝ Grab your nightstick, squeal like a siren, and Hit the Road with Sam & Max, Freelance Police, as they attempt to crack their case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure. Help our frightening, furry flatfoots find the fugitive freak! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Screamer/Thumbnail.png "Screamer")
+>
+> </td>
+>
+> <td>
+>
+> ## [Screamer](../../../All%20Programs/Games/Screamer/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Lights blur. The crowd whizzes past. Your helmet rattles against the roll bar. The competition switches into overdrive. Tears stream from your eyes as the race moves at extreme speed. The same stuff seeps out of your palms and onto the steering wheel. Get a grip. You are sliding into a turn at 200 miles per hour. Centrifugal force will only carry you so far. It is a velocity-driven, pedal-to-the-metal arcade auto racing. No simulation. Find out how your PC handles because you have never been allowed to go this fast. Maneuver through a twisted landscape, along six snaking tracks with other racers breathing down your neck, and post a warped time. Strapped into a personally chosen, made-for-the-autobahn racing machine, you will scream to redefine fast in this winding 3-D ride of pure rocketing fun. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/screamer) and [Steam 💰](https://store.steampowered.com/app/697580/Screamer/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Screamer%202/Thumbnail.png "Screamer 2")
+>
+> </td>
+>
+> <td>
+>
+> ## [Screamer 2](../../../All%20Programs/Games/Screamer%202/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
+>
+> ❝ This all-new landmark in driving experiences leaves even its impressive, critically acclaimed predecessors eating dirt. For the first time, six formidable courses from around the world have been designed with variable conditions to put the best to the test. Feel every bone-shaking bump, every nerve-wracking jump, every mud- and gut-churning skid, twist and turn. But don't feel ashamed to release the tension with a scream every once in a while. ❞
+>
+> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/screamer_2) and [Steam 💰](https://store.steampowered.com/app/698620/Screamer_2/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Screamer%20Rally/Thumbnail.png "Screamer Rally")
+>
+> </td>
+>
+> <td>
+>
+> ## [Screamer Rally](../../../All%20Programs/Games/Screamer%20Rally/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ Screamer Rally is a challenge for every racing fan. Five powerful vehicles and seven nerve-racking race tracks demand total concentration and all your skills. Because even the tiniest mistake can mean the end: sudden direction changes, merciless bumps, unexpected slides, spins, and jumps - can put even experienced drivers in a tricky situation. But with the proper technique and the necessary courage, you can master it. Well then, have a good trip! ❞
 >
 >
 > </td></tr></table>

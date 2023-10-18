@@ -1,4 +1,23 @@
-# 🗂️ Games ‣ By Genre ‣ Simulation (10)
+# 🗂️ Games ‣ By Genre ‣ Simulation (13)
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Darker/Thumbnail.png "Darker")
+>
+> </td>
+>
+> <td>
+>
+> ## [Darker](../../../All%20Programs/Games/Darker/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Your side of the planet is constantly in total darkness, but the Delphins have adapted to this life. The Halons used to live in the light, but recent events have caused their side of the planet to fall dark, and now they are attacking you to take over your technology. Your job as a Delphin pilot is to stop them and take down their attacking ships. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
 
 > <table><tr><td width="255">
 >
@@ -15,6 +34,44 @@
 > ❝ Time is short. Seven alien races struggle to build their empires, but only one will dominate. In Deadlock, every decision you make will determine the ultimate fate of your people, your empire, and your survival. It is an incredible strategy game of interplanetary conquest. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/deadlock_planetary_conquest) and [Steam 💰](https://store.steampowered.com/app/328440/Deadlock_Planetary_Conquest/). ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/EF%202000/Thumbnail.png "EF 2000")
+>
+> </td>
+>
+> <td>
+>
+> ## [EF 2000](../../../All%20Programs/Games/EF%202000/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/F-22%20Lightning%20II/Thumbnail.png "F-22 Lightning II")
+>
+> </td>
+>
+> <td>
+>
+> ## [F-22 Lightning II](../../../All%20Programs/Games/F-22%20Lightning%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Roam through the blood-red skies over a vast terrain. Play with life and death. Preferably engage your opponent from behind. You've never experienced anything like this. You'll be amazed by the gameplay of F22 Lightning II, be speechless by the unique graphics and witness it in digital stereo sound. ❞
 >
 >
 > </td></tr></table>

@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.10b
+# library-version: 23.10c
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -582,7 +582,7 @@
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Year = 1991
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Genre = Action • Sports • Strategy
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Platform = DOS
-# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Media = Floppy Disk
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # tag: Copy Protection
 # file: All Programs/Games/ABC Wide World of Sports Boxing/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/ABC_Wide_World_of_Sports_Boxing)
@@ -4575,6 +4575,58 @@
 # file: All Programs/Games/Dark Seed II/Program.txt = # check: manual.pdf = cddb5d4d80f0dbeabf9e8f1bbb320b599fc3e6a79fa54d3289569eef5ca69c8c
 #
 #
+# file: All Programs/Games/Darker/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Darker/Program.txt = #
+# file: All Programs/Games/Darker/Program.txt = # name: Darker
+# file: All Programs/Games/Darker/Program.txt = # info: Your side of the planet is constantly in total darkness, but the Delphins have adapted to this life. The Halons used to live in the light, but recent events have caused their side of the planet to fall dark, and now they are attacking you to take over your technology. Your job as a Delphin pilot is to stop them and take down their attacking ships.
+# file: All Programs/Games/Darker/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Darker/Program.txt = # tag: Genre = Action • Simulation
+# file: All Programs/Games/Darker/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Darker/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Darker/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Darker/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Darker_(video_game))
+# file: All Programs/Games/Darker/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/13833/darker/)
+# file: All Programs/Games/Darker/Program.txt = # site: Manual = [MyAbandonware 📄](https://www.myabandonware.com/game/darker-2dn)
+# file: All Programs/Games/Darker/Program.txt = #
+# file: All Programs/Games/Darker/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Darker/Program.txt = # text: - Select your preferred language (`E`nglish, `F`rançais, `D`eutsche)
+# file: All Programs/Games/Darker/Program.txt = # text: - Select sound card to be used for MUSIC: Press `1` for Soundblaster.
+# file: All Programs/Games/Darker/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = [cpu]
+# file: All Programs/Games/Darker/Program.txt = cycles = 64000
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = [autoexec]
+# file: All Programs/Games/Darker/Program.txt = @ECHO OFF
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Darker/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = IF NOT EXIST C:\DARKER\DARKER.BAT GOTO F_INSTALL
+# file: All Programs/Games/Darker/Program.txt = IF EXIST C:\DARKER\DARKER.BAT GOTO F_START
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = :F_INSTALL
+# file: All Programs/Games/Darker/Program.txt = D:
+# file: All Programs/Games/Darker/Program.txt = X.EXE
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = :F_START
+# file: All Programs/Games/Darker/Program.txt = C:
+# file: All Programs/Games/Darker/Program.txt = CD C:\DARKER
+# file: All Programs/Games/Darker/Program.txt = CALL DARKER.BAT
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = :F_EXIT
+# file: All Programs/Games/Darker/Program.txt = EXIT
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = :F_DEBUG
+# file: All Programs/Games/Darker/Program.txt
+# file: All Programs/Games/Darker/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4945740-darker-dos-front-cover.jpg
+# file: All Programs/Games/Darker/Program.txt = # check: coverart.jpg = 1ac9427cd42193cbfc0ba82945c21092d39a3f30b9866804d150a648b2e1092f
+# file: All Programs/Games/Darker/Program.txt = # asset: cdrom.iso = https://archive.org/download/darker-cdrom/Darker%20%281995%29%28Psygnosis%29.iso
+# file: All Programs/Games/Darker/Program.txt = # check: cdrom.iso = 47732b89e62b6d7eaf7d03d159fa3b99352853433a90e7e92813e00659919335
+# file: All Programs/Games/Darker/Program.txt = # asset: map.jpg = https://archive.org/download/darker-cdrom/scan3-map.jpg
+# file: All Programs/Games/Darker/Program.txt = # check: map.jpg = a2a7e5656ddaa18d521429ec32186926abd49d64f4f817f8542e3f256a7b147a
+#
+#
 # file: All Programs/Games/Day of the Tentacle/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Day of the Tentacle/Program.txt = #
 # file: All Programs/Games/Day of the Tentacle/Program.txt = # name: Day of the Tentacle
@@ -4968,6 +5020,238 @@
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Death Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Descent/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Descent/Program.txt = #
+# file: All Programs/Games/Descent/Program.txt = # name: Descent: Anniversary Edition
+# file: All Programs/Games/Descent/Program.txt = # name: Descent = Base
+# file: All Programs/Games/Descent/Program.txt = # name: Descent: Levels of the World = Add-on
+# file: All Programs/Games/Descent/Program.txt = # name: Inferno
+# file: All Programs/Games/Descent/Program.txt = # info: You begin deep below the surface of Lunar Base I, where an unknown alien race has taken over the chasm of the Post-Terran Mining Corporation. Lunge down mine shafts, twist around never-ending tunnels and fight past robotic menaces in a 360° 3D environment. Move up, move down, shoot everything everywhere. Hang onto your senses (and your lunch) as you drop down mine shafts on a ride that'll leave you spinning.
+# file: All Programs/Games/Descent/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent) and [Steam 💰](https://store.steampowered.com/app/273570/Descent/).
+# file: All Programs/Games/Descent/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Descent/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Descent/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Descent/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Descent/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Descent/Program.txt = # tag: Add-on
+# file: All Programs/Games/Descent/Program.txt = # site: Descent = [Wikipedia](https://en.wikipedia.org/wiki/Descent_(video_game)) • [MobyGames](https://www.mobygames.com/game/692/descent/) • [MyAbandonware](https://www.myabandonware.com/game/descent-2rd)
+# file: All Programs/Games/Descent/Program.txt = # site: Descent: Levels of the World = [MobyGames](https://www.mobygames.com/game/19253/descent-levels-of-the-world/) • [MyAbandonware](https://www.myabandonware.com/game/descent-levels-of-the-world-2re)
+# file: All Programs/Games/Descent/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/descent)
+# file: All Programs/Games/Descent/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/273570/Descent/)
+# file: All Programs/Games/Descent/Program.txt = #
+# file: All Programs/Games/Descent/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Descent/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Descent/Program.txt = # text: - Do you have the shareware version of Descent installed on this machine? Select **Don't Copy Data Files**.
+# file: All Programs/Games/Descent/Program.txt = # text: - Select **Install Descent**.
+# file: All Programs/Games/Descent/Program.txt = # text: - Main menu:
+# file: All Programs/Games/Descent/Program.txt = # text:   - Select **Auto Detect Sound Hardware** • **Continue with Auto Detection** • **Select this sound card**.
+# file: All Programs/Games/Descent/Program.txt = # text:   - Select **Exit**.
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = [sdl]
+# file: All Programs/Games/Descent/Program.txt = autolock = true
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = [autoexec]
+# file: All Programs/Games/Descent/Program.txt = @ECHO OFF
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Descent/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = IF NOT EXIST C:\GAMES\DESCENT\DESCENT.BAT GOTO F_INSTALL
+# file: All Programs/Games/Descent/Program.txt = IF EXIST C:\GAMES\DESCENT\DESCENT.BAT GOTO F_START
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = :F_INSTALL
+# file: All Programs/Games/Descent/Program.txt = D:
+# file: All Programs/Games/Descent/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = :F_START
+# file: All Programs/Games/Descent/Program.txt = C:
+# file: All Programs/Games/Descent/Program.txt = CD C:\GAMES\DESCENT
+# file: All Programs/Games/Descent/Program.txt = IF EXIST *.SWP DEL *.SWP
+# file: All Programs/Games/Descent/Program.txt = DESCENTR.EXE
+# file: All Programs/Games/Descent/Program.txt = IF EXIST *.SWP DEL *.SWP
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = :F_EXIT
+# file: All Programs/Games/Descent/Program.txt = EXIT
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = :F_DEBUG
+# file: All Programs/Games/Descent/Program.txt
+# file: All Programs/Games/Descent/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5056655-descent-dos-front-cover.jpg
+# file: All Programs/Games/Descent/Program.txt = # check: coverart.jpg = d6195cfafb12c95e740a75dd9efb54467cc9061e2064692889b5c3a5b654f484
+# file: All Programs/Games/Descent/Program.txt = # asset: cdrom.bin = https://archive.org/download/descentanniversaryeditionusa/Descent%20-%20Anniversary%20Edition%20%28USA%29.zip/Descent%20-%20Anniversary%20Edition%20%28USA%29.bin
+# file: All Programs/Games/Descent/Program.txt = # check: cdrom.bin = daaef498fd455b9cddeb2b8c1dc7c60d090195635f6ca590fdcf7eb12c2e77a0
+# file: All Programs/Games/Descent/Program.txt = # asset: manual.pdf = https://archive.org/download/manual_Descent/Descent.pdf
+# file: All Programs/Games/Descent/Program.txt = # check: manual.pdf = 9e713b0bd398563d31957cb09816f622e439c3905efde7851a46439d4f7b59f4
+# file: All Programs/Games/Descent/Program.txt = #
+# file: All Programs/Games/Descent/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Descent/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Descent/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/Descent II/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Descent II/Program.txt = #
+# file: All Programs/Games/Descent II/Program.txt = # name: Descent II
+# file: All Programs/Games/Descent II/Program.txt = # name: Descent II: The Infinite Abyss = Base
+# file: All Programs/Games/Descent II/Program.txt = # name: Descent II: Vertigo Series = Add-on
+# file: All Programs/Games/Descent II/Program.txt = # info: You're about to plunge over the edge and into the depths of Descent II. Suddenly warped into the outer reaches of the Zeta Aquilae System, your new mission sends you into the black depths of treacherous alien mines. You blast through enemy robots with powerful new tools, leaving their flaming hulks in your exhaust. Your ultimate goal is to exterminate the alien robot stronghold from the enemy Alien Base and claim total control.
+# file: All Programs/Games/Descent II/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent_2) and [Steam 💰](https://store.steampowered.com/app/273580/Descent_2/).
+# file: All Programs/Games/Descent II/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Descent II/Program.txt = # tag: Genre = Action
+# file: All Programs/Games/Descent II/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Descent II/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Descent II/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Descent II/Program.txt = # tag: Add-on
+# file: All Programs/Games/Descent II/Program.txt = # site: Descent II = [Wikipedia](https://en.wikipedia.org/wiki/Descent_II) • [MobyGames](https://www.mobygames.com/game/694/descent-ii/) • [MyAbandonware](https://www.myabandonware.com/game/descent-ii-3ir)
+# file: All Programs/Games/Descent II/Program.txt = # site: Descent II: The Infinite Abyss = [MobyGames](https://www.mobygames.com/game/1061/descent-ii-the-infinite-abyss/)
+# file: All Programs/Games/Descent II/Program.txt = # site: Descent II: Vertigo Series = [MobyGames](https://www.mobygames.com/game/27145/descent-ii-vertigo-series/) • [MyAbandonware](https://www.myabandonware.com/game/descent-ii-vertigo-series-fqw)
+# file: All Programs/Games/Descent II/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/descent_2)
+# file: All Programs/Games/Descent II/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/273580/Descent_2/)
+# file: All Programs/Games/Descent II/Program.txt = #
+# file: All Programs/Games/Descent II/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Descent II/Program.txt = # text: - *Descent II: The Infinite Abyss* installation:
+# file: All Programs/Games/Descent II/Program.txt = # text:   - Select **Yes** to continue installation.
+# file: All Programs/Games/Descent II/Program.txt = # text:   - High resolution movies are recommended: **Accept this resolution**.
+# file: All Programs/Games/Descent II/Program.txt = # text:   - Installation choices: **Crazy 262 MB**.
+# file: All Programs/Games/Descent II/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Descent II/Program.txt = # text:   - Do you wish to install the S3 Virge version of D2? **Yes**.
+# file: All Programs/Games/Descent II/Program.txt = # text:   - Main menu:
+# file: All Programs/Games/Descent II/Program.txt = # text:     - Select **Setup Sound/Music** • **Auto Detect Sound Hardware** • **Continue with Auto Detection** • **Select this sound card** • **Done Sound and Music**.
+# file: All Programs/Games/Descent II/Program.txt = # text:     - Select **Exit**.
+# file: All Programs/Games/Descent II/Program.txt = # text: - *Descent II: Vertigo Series* installation:
+# file: All Programs/Games/Descent II/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = [sdl]
+# file: All Programs/Games/Descent II/Program.txt = autolock = true
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = [autoexec]
+# file: All Programs/Games/Descent II/Program.txt = @ECHO OFF
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = MOUNT C "./drive" -freesize 1024
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = IF NOT EXIST C:\GAMES\DESCENT2\D2.BAT GOTO F_INSTALL
+# file: All Programs/Games/Descent II/Program.txt = IF EXIST C:\GAMES\DESCENT2\D2.BAT GOTO F_START
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = :F_INSTALL
+# file: All Programs/Games/Descent II/Program.txt = IMGMOUNT D "./Assets/cdrom_ia.cue" -t iso
+# file: All Programs/Games/Descent II/Program.txt = D:
+# file: All Programs/Games/Descent II/Program.txt = CD D:\
+# file: All Programs/Games/Descent II/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Descent II/Program.txt = IMGMOUNT -u D
+# file: All Programs/Games/Descent II/Program.txt = IMGMOUNT D "./Assets/cdrom_vs.cue" -t iso
+# file: All Programs/Games/Descent II/Program.txt = D:
+# file: All Programs/Games/Descent II/Program.txt = CD D:\
+# file: All Programs/Games/Descent II/Program.txt = INSTALL.EXE
+# file: All Programs/Games/Descent II/Program.txt = IMGMOUNT -u D
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = :F_START
+# file: All Programs/Games/Descent II/Program.txt = IMGMOUNT D "./Assets/cdrom_ia.cue" -t iso
+# file: All Programs/Games/Descent II/Program.txt = C:
+# file: All Programs/Games/Descent II/Program.txt = CD C:\GAMES\DESCENT2
+# file: All Programs/Games/Descent II/Program.txt = IF EXIST *.SWP DEL *.SWP
+# file: All Programs/Games/Descent II/Program.txt = DESCENT2.EXE
+# file: All Programs/Games/Descent II/Program.txt = IF EXIST *.SWP DEL *.SWP
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = :F_EXIT
+# file: All Programs/Games/Descent II/Program.txt = EXIT
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = :F_DEBUG
+# file: All Programs/Games/Descent II/Program.txt
+# file: All Programs/Games/Descent II/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5754834-descent-ii-the-infinite-abyss-dos-front-cover.jpg
+# file: All Programs/Games/Descent II/Program.txt = # check: coverart.jpg = 7ee810830133d9b3934e35d7224c58aacadba6524f031011b14ffa66c7b6c3d0
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_01.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%201%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_01.bin = 971ebca0be8e5e241b6fe189aa55557c7f38a9da7e9b396fa77530087ba537c4
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_02.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%202%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_02.bin = 711c00730838f85b202b2b15e2ce4a68dc68781ffa97bcb8da4f62c968b29f77
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_03.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%203%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_03.bin = b7e6c0ed6bd455418c9119da7c864b1e702491ff8c4e077c2617c836090e88a5
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_04.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%204%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_04.bin = baeac8ecadb5297a56871392889623a3a0949fb70b34cef596386b3b68ba4af8
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_05.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%205%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_05.bin = 9c50b9d8fa076950a466767fb6859b571d53cb8427ed24d352f7f38ac9e2db8e
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_06.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%206%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_06.bin = 8c083f4f3beb94e8e59ba42361a09f14e814a701ff2d0438237214fa4b8b41ce
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_07.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%207%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_07.bin = 6bf5ac12f86b8143650f2309d2f73bccb9db9c84601dc1e7f924a3942f83a70e
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_08.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%208%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_08.bin = 0540c44cf47e2ac8282a4a9d9a5cc912cc2ec16bbe9921a03f424897debd6545
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_ia_09.bin = https://archive.org/download/d2infiniteabyss/BIN/DESCENT_II_ABYSS_BIN.7z/DESCENT_II_ABYSS%20%28Track%209%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_ia_09.bin = 055ec8be93860b9dc139d57f827528d4a0d251725810c779185c2901633cc611
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_01.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%201%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_01.bin = fdf86268625d49cf3ce95a2f8b21c90fdbe5b87ba8e6a1b5710e0b01c8fcd9aa
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_02.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%202%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_02.bin = cfe3103777b90e4ea2a5ffe67c951cf54f54ce71c690bebef8d7b8033a307246
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_03.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%203%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_03.bin = 8629a25444453aefd70f5669553f7c0fbf64b80ce28424ee55f782747fd9881f
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_04.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%204%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_04.bin = 8c5bccf92bc37958bc3591bf8db5d84ecca3e0d8fc5e57eed80ac52e822118c9
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_05.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%205%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_05.bin = d7b08007a6a73f5264b23d82814d8115e0e287d28516ee763883a03c667ef132
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_06.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%206%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_06.bin = ebfe986bd9db64711e3022f01790908156985a5cffb648728737101cdf8218e8
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_07.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%207%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_07.bin = 26950698365992d78adfc97bfa81a84032011395d86c8eb985b440461e055fe5
+# file: All Programs/Games/Descent II/Program.txt = # asset: cdrom_vs_08.bin = https://archive.org/download/d2infiniteabyss/BIN/D2_VERTIGO_BIN.7z/D2_VERTIGO%20%28Track%208%29.bin
+# file: All Programs/Games/Descent II/Program.txt = # check: cdrom_vs_08.bin = 79b16667c7b5fd8e363c25196715c28c306c7bea35c4c4e595a325ece62390b5
+# file: All Programs/Games/Descent II/Program.txt = # asset: manual.pdf = https://archive.org/download/Descent_II/Descent_II.pdf
+# file: All Programs/Games/Descent II/Program.txt = # check: manual.pdf = a88e6f3858eeca2d80cb78261ee391498c729bdd5784950ef0524ec9f35b3fd0
+# file: All Programs/Games/Descent II/Program.txt = #
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = CATALOG 0000000000000
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_01.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_02.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_03.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_04.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_05.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_06.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_07.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_08.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue = FILE "cdrom_ia_09.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_ia.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = #
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = CATALOG 0000000000000
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_01.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_02.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 00 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:02:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_03.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_04.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_05.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_06.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_07.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue = FILE "cdrom_vs_08.bin" BINARY
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Descent II/Program.txt = # file: Assets/cdrom_vs.cue =     INDEX 01 00:00:00
 #
 #
 # file: All Programs/Games/Diablo + Hellfire/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -5690,6 +5974,95 @@
 # file: All Programs/Games/Dust - A Tale of the Wired West/Program.txt = # check: manual.pdf = 92a244f8707b0ae609c10b1b5c51bc53528dadc856455fa62cdb87a1852748d5
 #
 #
+# file: All Programs/Games/EF 2000/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/EF 2000/Program.txt = #
+# file: All Programs/Games/EF 2000/Program.txt = # name: EF 2000
+# file: All Programs/Games/EF 2000/Program.txt = # name: Eurofighter 2000
+# file: All Programs/Games/EF 2000/Program.txt = # name: EF 2000: TACTCOM
+# file: All Programs/Games/EF 2000/Program.txt = # name: EF 2000: V2.0
+# file: All Programs/Games/EF 2000/Program.txt = # info: No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now!
+# file: All Programs/Games/EF 2000/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/EF 2000/Program.txt = # tag: Genre = Simulation
+# file: All Programs/Games/EF 2000/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/EF 2000/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/EF 2000/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/EF 2000/Program.txt = # tag: Add-on
+# file: All Programs/Games/EF 2000/Program.txt = # site: EF 2000 = [Wikipedia](https://en.wikipedia.org/wiki/EF2000_(video_game)) • [MobyGames](https://www.mobygames.com/game/4478/ef-2000/) • [MyAbandonware](https://www.myabandonware.com/game/ef-2000-2rh)
+# file: All Programs/Games/EF 2000/Program.txt = # site: EF 2000: TACTCOM = [MobyGames](https://www.mobygames.com/game/6097/ef-2000-tactcom/) • [MyAbandonware](https://www.myabandonware.com/game/ef-2000-tactcom-bca)
+# file: All Programs/Games/EF 2000/Program.txt = # site: EF 2000: V2.0 = [MobyGames](https://www.mobygames.com/game/58192/ef-2000-v20/)
+# file: All Programs/Games/EF 2000/Program.txt = #
+# file: All Programs/Games/EF 2000/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/EF 2000/Program.txt = # text: - Select **Full install of EF2000 V2.0 for DOS**.
+# file: All Programs/Games/EF 2000/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/EF 2000/Program.txt = # text: - Select **Preferences**:
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - Resolution: **640x480**.
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - Detail: **High**.
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - SFX: **On**.
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - Speech: **On**.
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - Music: **Midi**.
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - Choose MIDI & digital audio drivers:
+# file: All Programs/Games/EF 2000/Program.txt = # text:     - Select and configure MIDI music driver: **Creative Labs Sound Blaster(TM) 16** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/EF 2000/Program.txt = # text:     - Select and configure digital audio driver: **Creative Labs Sound Blaster 16 or AWE32** (*Attempt to configure sound driver automatically*).
+# file: All Programs/Games/EF 2000/Program.txt = # text:   - **Save**.
+# file: All Programs/Games/EF 2000/Program.txt = # text: - Select **EXIT CONFIG** and **Quit Installation**.
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = [sdl]
+# file: All Programs/Games/EF 2000/Program.txt = autolock = true
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = [cpu]
+# file: All Programs/Games/EF 2000/Program.txt = core = dynamic
+# file: All Programs/Games/EF 2000/Program.txt = cputype = pentium
+# file: All Programs/Games/EF 2000/Program.txt = cycles = max
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = [autoexec]
+# file: All Programs/Games/EF 2000/Program.txt = @ECHO OFF
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/EF 2000/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = IF NOT EXIST C:\EF2000\EF2000.EXE GOTO F_INSTALL
+# file: All Programs/Games/EF 2000/Program.txt = IF EXIST C:\EF2000\EF2000.EXE GOTO F_START
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = :F_INSTALL
+# file: All Programs/Games/EF 2000/Program.txt = D:
+# file: All Programs/Games/EF 2000/Program.txt = SETUP.EXE
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = :F_START
+# file: All Programs/Games/EF 2000/Program.txt = C:
+# file: All Programs/Games/EF 2000/Program.txt = CD C:\EF2000
+# file: All Programs/Games/EF 2000/Program.txt = EF2000.EXE
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = :F_EXIT
+# file: All Programs/Games/EF 2000/Program.txt = EXIT
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = :F_DEBUG
+# file: All Programs/Games/EF 2000/Program.txt
+# file: All Programs/Games/EF 2000/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6683536-ef-2000-v20-dos-front-cover.jpg
+# file: All Programs/Games/EF 2000/Program.txt = # check: coverart.jpg = c2871c4bc0e3024da70b5cdd092b6919ca9f69b8831663013333af8d57409865
+# file: All Programs/Games/EF 2000/Program.txt = # asset: cdrom.bin = https://archive.org/download/Ocean_EF2000_v2_-_MS-DOS_Win95_Eng/EF2000V20.bin
+# file: All Programs/Games/EF 2000/Program.txt = # check: cdrom.bin = 21439e0dd7b41366ec2f26d8e21fa9475e757632846534b468da9128154ab7f5
+# file: All Programs/Games/EF 2000/Program.txt = # asset: manual.pdf = https://archive.org/download/ef2000-mr-abandonware/EF2000.7z/EF%202000%20Manual.pdf
+# file: All Programs/Games/EF 2000/Program.txt = # check: manual.pdf = c01bdb3f58a9bd9f4fd82fde56d8ba99d0434f0d48f59cae9d8c62b8ddf31aee
+# file: All Programs/Games/EF 2000/Program.txt = # asset: map.pdf = https://archive.org/download/ef2000-mr-abandonware/EF2000.7z/EF%202000%20Map.pdf
+# file: All Programs/Games/EF 2000/Program.txt = # check: map.pdf = 18929d53b11c36fdf3f4666cd8de70364a9cdc4f443b55166d98665fb0ea2535
+# file: All Programs/Games/EF 2000/Program.txt = #
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE2/2352
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:54:49
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 37:59:23
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 42:12:41
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 50:03:06
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 58:07:68
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/EF 2000/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 62:19:65
+#
+#
 # file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = #
 # file: All Programs/Games/EcoQuest - Lost Secret of the Rainforest/Program.txt = # name: Lost Secret of the Rainforest
@@ -5993,6 +6366,64 @@
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 45:36:67
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =   TRACK 11 AUDIO
 # file: All Programs/Games/Emperor of the Fading Suns/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 50:30:62
+#
+#
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/F-22 Lightning II/Program.txt = #
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # name: F-22 Lightning II
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # info: Roam through the blood-red skies over a vast terrain. Play with life and death. Preferably engage your opponent from behind. You've never experienced anything like this. You'll be amazed by the gameplay of F22 Lightning II, be speechless by the unique graphics and witness it in digital stereo sound.
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # tag: Genre = Action • Simulation
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/F-22_Lightning_II)
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2576/f-22-lightning-ii/)
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/f-22-lightning-ii-a50)
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # site: [Series](https://en.wikipedia.org/wiki/F-22_(series))
+# file: All Programs/Games/F-22 Lightning II/Program.txt = #
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text: - Installation level: **Large Installation (41.6 MB)**.
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text: - F22 Setup Main Menu:
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text:   - Audio Setup - Digital sound device: **Autodetect sound device** • **Perform sound card autodetection**.
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text:   - Audio Setup - Music device: **Soundblaster 16-bit / OPL3**; I/O: **388h**.
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text:   - Performance settings - Turn ON **Use page flipping** and **Use VESA always**.
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # text:   - Exit and save settings.
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = [sdl]
+# file: All Programs/Games/F-22 Lightning II/Program.txt = autolock = true
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = [autoexec]
+# file: All Programs/Games/F-22 Lightning II/Program.txt = @ECHO OFF
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/F-22 Lightning II/Program.txt = IMGMOUNT D "./Assets/cdrom.iso" -t iso
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = IF NOT EXIST C:\F22\F22.EXE GOTO F_INSTALL
+# file: All Programs/Games/F-22 Lightning II/Program.txt = IF EXIST C:\F22\F22.EXE GOTO F_START
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = :F_INSTALL
+# file: All Programs/Games/F-22 Lightning II/Program.txt = D:
+# file: All Programs/Games/F-22 Lightning II/Program.txt = INSTALL.EXE
+# file: All Programs/Games/F-22 Lightning II/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = :F_START
+# file: All Programs/Games/F-22 Lightning II/Program.txt = C:
+# file: All Programs/Games/F-22 Lightning II/Program.txt = CD C:\F22
+# file: All Programs/Games/F-22 Lightning II/Program.txt = F22.EXE
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = :F_EXIT
+# file: All Programs/Games/F-22 Lightning II/Program.txt = EXIT
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = :F_DEBUG
+# file: All Programs/Games/F-22 Lightning II/Program.txt
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4875220-f-22-lightning-ii-dos-front-cover.jpg
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # check: coverart.jpg = 003eb8cb63ff46ec7a7fe52e4261e56ddf9f1af5274994cab990e123630f0a6b
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # asset: cdrom.iso = https://archive.org/download/f-22_20221110/F22.ISO
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # check: cdrom.iso = 7392b1cd8584d9d2487da81929a6ffc7b65fc2caeb4ffe16695c098024c199f2
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/F-22_Lightning_II.pdf
+# file: All Programs/Games/F-22 Lightning II/Program.txt = # check: manual.pdf = f73ddb6de123223f22bf7e62e0dd55f5ca7fc3a82bd27249c7c0559be2ea2c31
 #
 #
 # file: All Programs/Games/Fade to Black/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -8108,14 +8539,16 @@
 # file: All Programs/Games/It Came from the Desert/Program.txt = #
 # file: All Programs/Games/It Came from the Desert/Program.txt = # name: It Came from the Desert
 # file: All Programs/Games/It Came from the Desert/Program.txt = # info: A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction become fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl!
+# file: All Programs/Games/It Came from the Desert/Program.txt = # info: A collection of Cinemaware games is available as **Cinemaware Anthology: 1986-1991** release on [Steam 💰](https://store.steampowered.com/app/326590/Cinemaware_Anthology_19861991/).
 # file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Year = 1990
 # file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Genre = Action • Adventure
 # file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Platform = DOS
-# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: License = Freeware
+# file: All Programs/Games/It Came from the Desert/Program.txt = # tag: License = Abandonware
 # file: All Programs/Games/It Came from the Desert/Program.txt = # tag: Media = CD-ROM
 # file: All Programs/Games/It Came from the Desert/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/It_Came_from_the_Desert)
 # file: All Programs/Games/It Came from the Desert/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/610/it-came-from-the-desert/)
 # file: All Programs/Games/It Came from the Desert/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/it-came-from-the-desert-x4)
+# file: All Programs/Games/It Came from the Desert/Program.txt = # site: Cinemaware Anthology: 1986-1991 = [Steam 💰](https://store.steampowered.com/app/326590/Cinemaware_Anthology_19861991/)
 # file: All Programs/Games/It Came from the Desert/Program.txt = #
 # file: All Programs/Games/It Came from the Desert/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/It Came from the Desert/Program.txt = # text: - Full function video modes: **VGA 16 color (PS/2 above model 30)**.
@@ -9085,6 +9518,167 @@
 # file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
 # file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
 # file: All Programs/Games/Mega Man X/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/MegaRace/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/MegaRace/Program.txt = #
+# file: All Programs/Games/MegaRace/Program.txt = # name: MegaRace
+# file: All Programs/Games/MegaRace/Program.txt = # info: This race is so full of sound and fury, so graphic and realistic that you will squirm in your seat as you squeal around futuristic 3-0 cities in custom war wagons loaded with weapons. You'll have so much fun so fast it will make your head spin. Remember, your life depends on speed, cunning, and aggression. And you're going to need them all. You can't avoid tricky scum like Hammerhead and King Kool as their gangs try to take you out. But if you knock them off first, you can grab their guns and get going on the ride of your life. It's do or die. You haven't seen anything like this because there's never been anything like MegaRace. Strap yourself into this brave new world of battle racing and take it to the limit!
+# file: All Programs/Games/MegaRace/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/730580/MegaRace_1/) and [Zoom 💰](https://www.zoom-platform.com/product/megarace-1). The **MegaRace 1+2** bundle is available on [GOG 💰](https://gog.com/en/game/megarace_1_2).
+# file: All Programs/Games/MegaRace/Program.txt = # tag: Year = 1994
+# file: All Programs/Games/MegaRace/Program.txt = # tag: Genre = Action • Racing
+# file: All Programs/Games/MegaRace/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/MegaRace/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/MegaRace/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/MegaRace/Program.txt = # tag: Patched
+# file: All Programs/Games/MegaRace/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/MegaRace)
+# file: All Programs/Games/MegaRace/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/592/megarace/)
+# file: All Programs/Games/MegaRace/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/megarace-42j)
+# file: All Programs/Games/MegaRace/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/730580/MegaRace_1/)
+# file: All Programs/Games/MegaRace/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/megarace-1)
+# file: All Programs/Games/MegaRace/Program.txt = # site: MegaRace 1+2 = [GOG 💰](https://gog.com/en/game/megarace_1_2)
+# file: All Programs/Games/MegaRace/Program.txt = #
+# file: All Programs/Games/MegaRace/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Select **I want to start a new installation**.
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Select **Manual installation**.
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Game configuration:
+# file: All Programs/Games/MegaRace/Program.txt = # text:   - Language: **English subtitles**.
+# file: All Programs/Games/MegaRace/Program.txt = # text:   - Graphics: **256 colors VGA**.
+# file: All Programs/Games/MegaRace/Program.txt = # text:   - Music: **Sound Blaster 16** > **Auto**.
+# file: All Programs/Games/MegaRace/Program.txt = # text:   - Sound: **Sound Blaster 16** > **Auto**.
+# file: All Programs/Games/MegaRace/Program.txt = # text:   - Extra memory: **Expanded Memory (EMS)**.
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Select **I want to start the game now.**
+# file: All Programs/Games/MegaRace/Program.txt = # text:
+# file: All Programs/Games/MegaRace/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Calibrate keyboard controls before starting a race.
+# file: All Programs/Games/MegaRace/Program.txt = # text: - Press `Ctrl + Q` to quit a race.
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = [sdl]
+# file: All Programs/Games/MegaRace/Program.txt = autolock = true
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = [cpu]
+# file: All Programs/Games/MegaRace/Program.txt = cycles = 6400
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = [autoexec]
+# file: All Programs/Games/MegaRace/Program.txt = @ECHO OFF
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/MegaRace/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/MegaRace/Program.txt = MOUNT X "./Assets"
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = IF NOT EXIST C:\MEGARACE\MEGARACE.BAT GOTO F_INSTALL
+# file: All Programs/Games/MegaRace/Program.txt = IF EXIST C:\MEGARACE\MEGARACE.BAT GOTO F_START
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = :F_INSTALL
+# file: All Programs/Games/MegaRace/Program.txt = C:
+# file: All Programs/Games/MegaRace/Program.txt = CD C:\
+# file: All Programs/Games/MegaRace/Program.txt = MD UNZIP
+# file: All Programs/Games/MegaRace/Program.txt = CD UNZIP
+# file: All Programs/Games/MegaRace/Program.txt = X:\UNZ542X3.EXE
+# file: All Programs/Games/MegaRace/Program.txt = CD C:\
+# file: All Programs/Games/MegaRace/Program.txt = MD MEGARACE
+# file: All Programs/Games/MegaRace/Program.txt = CD MEGARACE
+# file: All Programs/Games/MegaRace/Program.txt = C:\UNZIP\UNZIP.EXE X:\PATCH.ZIP
+# file: All Programs/Games/MegaRace/Program.txt = INSTALL.EXE
+# file: All Programs/Games/MegaRace/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = :F_START
+# file: All Programs/Games/MegaRace/Program.txt = C:
+# file: All Programs/Games/MegaRace/Program.txt = CD C:\MEGARACE
+# file: All Programs/Games/MegaRace/Program.txt = CALL MEGARACE.BAT
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = :F_EXIT
+# file: All Programs/Games/MegaRace/Program.txt = EXIT
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = :F_DEBUG
+# file: All Programs/Games/MegaRace/Program.txt
+# file: All Programs/Games/MegaRace/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/5481945-megarace-dos-front-cover.jpg
+# file: All Programs/Games/MegaRace/Program.txt = # check: coverart.jpg = b13ad94827fd6868b0cbdd747f97c9b146aba49dbe5f8782a738666cb81e272b
+# file: All Programs/Games/MegaRace/Program.txt = # asset: cdrom.bin = https://archive.org/download/MegaRaceUSAEnFrDeEsIt/MegaRace%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28v1.0.1%29.zip/MegaRace%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28v1.0.1%29.bin
+# file: All Programs/Games/MegaRace/Program.txt = # check: cdrom.bin = 2edec040b1b9f74e319c03a79898d03de3d5ce05341eec6e029d576c6d6f4edd
+# file: All Programs/Games/MegaRace/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/MegaRace.pdf
+# file: All Programs/Games/MegaRace/Program.txt = # check: manual.pdf = 3a81d0d67b9d6629c94ad1f697e6d8f69021a19852f032d2569d45844981df45
+# file: All Programs/Games/MegaRace/Program.txt = # asset: patch.zip = https://archive.org/download/MEGAFIX1_ZIP/MEGAFIX1.ZIP
+# file: All Programs/Games/MegaRace/Program.txt = # check: patch.zip = 023834c39df89a8af7bec89bb65ec34536f00a67b0c6f5c09ebca297916f2f15
+# file: All Programs/Games/MegaRace/Program.txt = # asset: unz542x3.exe = https://archive.org/download/Archivers-DOS/unz542x3.exe
+# file: All Programs/Games/MegaRace/Program.txt = # check: unz542x3.exe = 78007137ccf46a30a5bb9015457a5d860319f0124eb4c5e470bca4d90e75edaa
+# file: All Programs/Games/MegaRace/Program.txt = #
+# file: All Programs/Games/MegaRace/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/MegaRace/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/MegaRace/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+#
+#
+# file: All Programs/Games/MegaRace 2/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/MegaRace 2/Program.txt = #
+# file: All Programs/Games/MegaRace 2/Program.txt = # name: MegaRace 2
+# file: All Programs/Games/MegaRace 2/Program.txt = # info: 3D Arcade racing game. It's faster, more furious and far superior to anything before. Lance Boyle is back with a beautiful assistant! It features improved video streaming technology, more complex multi-laned and multi-path track designs, and realistic 3D-rendered vehicles and obstacles. A new assortment of visually satisfying weaponry brings additional punch to the program. SVGA graphics, FMV and a real-time rendered 3-D environment. If you can't drive, you won't survive - Let's burn some rubber!
+# file: All Programs/Games/MegaRace 2/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/733760/MegaRace_2/) and [Zoom 💰](https://www.zoom-platform.com/product/megarace-2). The **MegaRace 1+2** bundle is available on [GOG 💰](https://gog.com/en/game/megarace_1_2).
+# file: All Programs/Games/MegaRace 2/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/MegaRace 2/Program.txt = # tag: Genre = Racing
+# file: All Programs/Games/MegaRace 2/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/MegaRace 2/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/MegaRace 2/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/MegaRace 2/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/MegaRace_2)
+# file: All Programs/Games/MegaRace 2/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/1049/megarace-2/)
+# file: All Programs/Games/MegaRace 2/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/megarace-2-d0e)
+# file: All Programs/Games/MegaRace 2/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/733760/MegaRace_2/)
+# file: All Programs/Games/MegaRace 2/Program.txt = # site: [Zoom 💰](https://www.zoom-platform.com/product/megarace-2)
+# file: All Programs/Games/MegaRace 2/Program.txt = # site: MegaRace 1+2 = [GOG 💰](https://www.gog.com/en/game/megarace_1_2)
+# file: All Programs/Games/MegaRace 2/Program.txt = #
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: - Click **Start** on the bottom right corner to start the installation.
+# file: All Programs/Games/MegaRace 2/Program.txt = # text:
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: ## Additional Notes
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: - Mounted CD-ROM images at launch:
+# file: All Programs/Games/MegaRace 2/Program.txt = # text:   1. MegaRace 2 Disc #1
+# file: All Programs/Games/MegaRace 2/Program.txt = # text:   2. MegaRace 2 Disc #2
+# file: All Programs/Games/MegaRace 2/Program.txt = # text:
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: ### How to swap CD-ROM images?
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
+# file: All Programs/Games/MegaRace 2/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = [sdl]
+# file: All Programs/Games/MegaRace 2/Program.txt = autolock = true
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = [cpu]
+# file: All Programs/Games/MegaRace 2/Program.txt = core = dynamic
+# file: All Programs/Games/MegaRace 2/Program.txt = cputype = pentium
+# file: All Programs/Games/MegaRace 2/Program.txt = cycles = max
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = [autoexec]
+# file: All Programs/Games/MegaRace 2/Program.txt = @ECHO OFF
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/MegaRace 2/Program.txt = IMGMOUNT D "./Assets/cdrom01.iso" "./Assets/cdrom02.iso" -t iso
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = IF NOT EXIST C:\MEGA2\MEGARACE.EXE GOTO F_INSTALL
+# file: All Programs/Games/MegaRace 2/Program.txt = IF EXIST C:\MEGA2\MEGARACE.EXE GOTO F_START
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = :F_INSTALL
+# file: All Programs/Games/MegaRace 2/Program.txt = D:
+# file: All Programs/Games/MegaRace 2/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/MegaRace 2/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = :F_START
+# file: All Programs/Games/MegaRace 2/Program.txt = C:
+# file: All Programs/Games/MegaRace 2/Program.txt = CD C:\MEGA2
+# file: All Programs/Games/MegaRace 2/Program.txt = MEGARACE.EXE
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = :F_EXIT
+# file: All Programs/Games/MegaRace 2/Program.txt = EXIT
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = :F_DEBUG
+# file: All Programs/Games/MegaRace 2/Program.txt
+# file: All Programs/Games/MegaRace 2/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/11298014-megarace-2-dos-front-cover.jpg
+# file: All Programs/Games/MegaRace 2/Program.txt = # check: coverart.jpg = f35a5c1cec4b734730ff9a0f846e739b1b07363859ac7fdd728a4ebb6247daec
+# file: All Programs/Games/MegaRace 2/Program.txt = # asset: cdrom01.iso = https://archive.org/download/megarace-ii-cd-1/Megarace_II_CD1.iso
+# file: All Programs/Games/MegaRace 2/Program.txt = # check: cdrom01.iso = a74092f97b15d115cd07cf48b4b7461e85cd9f32c8dc9135a65b00611cecfb5b
+# file: All Programs/Games/MegaRace 2/Program.txt = # asset: cdrom02.iso = https://archive.org/download/megarace-ii-cd-1/Megarace_II_CD2.iso
+# file: All Programs/Games/MegaRace 2/Program.txt = # check: cdrom02.iso = f15a911d0fd238ffa3c937142958aed6233e7425f3163d085331a5ef76b92280
+# file: All Programs/Games/MegaRace 2/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/MegaRace_2.pdf
+# file: All Programs/Games/MegaRace 2/Program.txt = # check: manual.pdf = 2d2b9acdc61c972138bb66e8c5ffc11eac036cd8f2635e4cf0e2982a4569b829
 #
 #
 # file: All Programs/Games/Milo/Program.txt = # vim: filetype=ini:syntax=dosini
@@ -10845,6 +11439,279 @@
 # file: All Programs/Games/Sanitarium/Program.txt = # check: plab.zip = 702ed9f09f9b0f4bc6fd49e5b21638cc2f012e54496a483942ca0d77e9cfd72e
 #
 #
+# file: All Programs/Games/Screamer/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Screamer/Program.txt = #
+# file: All Programs/Games/Screamer/Program.txt = # name: Screamer
+# file: All Programs/Games/Screamer/Program.txt = # info: Lights blur. The crowd whizzes past. Your helmet rattles against the roll bar. The competition switches into overdrive. Tears stream from your eyes as the race moves at extreme speed. The same stuff seeps out of your palms and onto the steering wheel. Get a grip. You are sliding into a turn at 200 miles per hour. Centrifugal force will only carry you so far. It is a velocity-driven, pedal-to-the-metal arcade auto racing. No simulation. Find out how your PC handles because you have never been allowed to go this fast. Maneuver through a twisted landscape, along six snaking tracks with other racers breathing down your neck, and post a warped time. Strapped into a personally chosen, made-for-the-autobahn racing machine, you will scream to redefine fast in this winding 3-D ride of pure rocketing fun.
+# file: All Programs/Games/Screamer/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/screamer) and [Steam 💰](https://store.steampowered.com/app/697580/Screamer/).
+# file: All Programs/Games/Screamer/Program.txt = # tag: Year = 1995
+# file: All Programs/Games/Screamer/Program.txt = # tag: Genre = Racing
+# file: All Programs/Games/Screamer/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Screamer/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Screamer/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Screamer/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Screamer_(video_game))
+# file: All Programs/Games/Screamer/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/621/screamer/)
+# file: All Programs/Games/Screamer/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/screamer-36y)
+# file: All Programs/Games/Screamer/Program.txt = # site: [GOG 💰](https://www.gog.com/en/game/screamer)
+# file: All Programs/Games/Screamer/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/697580/Screamer/)
+# file: All Programs/Games/Screamer/Program.txt = #
+# file: All Programs/Games/Screamer/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Screamer/Program.txt = # text: - Installing the game:
+# file: All Programs/Games/Screamer/Program.txt = # text:   - For **DOSBox** and **DOSBox Staging**: Open `Program.txt` and change the `[cpu] cycles` attribute to `16000` before starting installation.
+# file: All Programs/Games/Screamer/Program.txt = # text:   - Installation Type: **Normal Installation**.
+# file: All Programs/Games/Screamer/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Screamer/Program.txt = # text:   - Screen mode: **SVGA**.
+# file: All Programs/Games/Screamer/Program.txt = # text:   - Controls: *Calibrate game controls*.
+# file: All Programs/Games/Screamer/Program.txt = # text:   - Sound card setup: **Auto Detect**.
+# file: All Programs/Games/Screamer/Program.txt = # text:   - Press `ESC` and `Y` to save the settings and complete the installation. DOSBox will quit.
+# file: All Programs/Games/Screamer/Program.txt = # text: - Playing the game:
+# file: All Programs/Games/Screamer/Program.txt = # text:   - For **DOSBox** and **DOSBox Staging**: Open `Program.txt` and change the `[cpu] cycles` attribute back to `max` before starting the game.
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = [cpu]
+# file: All Programs/Games/Screamer/Program.txt = core = dynamic
+# file: All Programs/Games/Screamer/Program.txt = # Installing the game:
+# file: All Programs/Games/Screamer/Program.txt = #cycles = 16000
+# file: All Programs/Games/Screamer/Program.txt = # Playing the game:
+# file: All Programs/Games/Screamer/Program.txt = cycles = max
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = [autoexec]
+# file: All Programs/Games/Screamer/Program.txt = @ECHO OFF
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Screamer/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = IF NOT EXIST C:\SCREAMER\SCREAMER.BAT GOTO F_INSTALL
+# file: All Programs/Games/Screamer/Program.txt = IF EXIST C:\SCREAMER\SCREAMER.BAT GOTO F_START
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = :F_INSTALL
+# file: All Programs/Games/Screamer/Program.txt = D:
+# file: All Programs/Games/Screamer/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Screamer/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = :F_START
+# file: All Programs/Games/Screamer/Program.txt = C:
+# file: All Programs/Games/Screamer/Program.txt = CD C:\SCREAMER
+# file: All Programs/Games/Screamer/Program.txt = CALL SCREAMER.BAT
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = :F_EXIT
+# file: All Programs/Games/Screamer/Program.txt = EXIT
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = :F_DEBUG
+# file: All Programs/Games/Screamer/Program.txt
+# file: All Programs/Games/Screamer/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4204193-screamer-dos-front-cover.jpg
+# file: All Programs/Games/Screamer/Program.txt = # check: coverart.jpg = 01a04b15612cdf67f3a3fc5d381743269403292d911e604dbccb4a24e85d6a3b
+# file: All Programs/Games/Screamer/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Screamer_1995/Screamer_1995.zip/Screamer%2Fcd%2FScreamer.bin
+# file: All Programs/Games/Screamer/Program.txt = # check: cdrom.bin = 4e5b63e8ebaec45070ecc54658edc24d16710586e50c0d2ac4015e202a30f9d0
+# file: All Programs/Games/Screamer/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Screamer.pdf
+# file: All Programs/Games/Screamer/Program.txt = # check: manual.pdf = d1ffcd7a84579358419715ce12541d6676211299d108af13087a6dc93a8d1c8e
+# file: All Programs/Games/Screamer/Program.txt = #
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =   REM SESSION 01
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 01 MODE1/2352
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 00:00:00
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 02 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 03:39:41
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 03 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 08:55:55
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 04 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 14:17:39
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 05 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 19:34:41
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 06 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 24:31:69
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 07 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 29:49:40
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =     TRACK 08 AUDIO
+# file: All Programs/Games/Screamer/Program.txt = # file: Assets/cdrom.cue =       INDEX 01 35:10:48
+#
+#
+# file: All Programs/Games/Screamer 2/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Screamer 2/Program.txt = #
+# file: All Programs/Games/Screamer 2/Program.txt = # name: Screamer 2
+# file: All Programs/Games/Screamer 2/Program.txt = # name: Screamer 2: Sheer Speed Road Racing
+# file: All Programs/Games/Screamer 2/Program.txt = # name: S2
+# file: All Programs/Games/Screamer 2/Program.txt = # info: This all-new landmark in driving experiences leaves even its impressive, critically acclaimed predecessors eating dirt. For the first time, six formidable courses from around the world have been designed with variable conditions to put the best to the test. Feel every bone-shaking bump, every nerve-wracking jump, every mud- and gut-churning skid, twist and turn. But don't feel ashamed to release the tension with a scream every once in a while.
+# file: All Programs/Games/Screamer 2/Program.txt = # info: This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/screamer_2) and [Steam 💰](https://store.steampowered.com/app/698620/Screamer_2/).
+# file: All Programs/Games/Screamer 2/Program.txt = # tag: Year = 1996
+# file: All Programs/Games/Screamer 2/Program.txt = # tag: Genre = Racing
+# file: All Programs/Games/Screamer 2/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Screamer 2/Program.txt = # tag: License = Proprietary
+# file: All Programs/Games/Screamer 2/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Screamer 2/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Screamer_2)
+# file: All Programs/Games/Screamer 2/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/375/screamer-2/)
+# file: All Programs/Games/Screamer 2/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/screamer-2-cvl)
+# file: All Programs/Games/Screamer 2/Program.txt = # site: [GOG 💰](https://gog.com/en/game/screamer_2)
+# file: All Programs/Games/Screamer 2/Program.txt = # site: [Steam 💰](https://store.steampowered.com/app/698620/Screamer_2/)
+# file: All Programs/Games/Screamer 2/Program.txt = #
+# file: All Programs/Games/Screamer 2/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Screamer 2/Program.txt = # text: - Installing the game:
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Open `Program.txt` and change the `[cpu] cycles` attribute to `16000` before starting installation.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Installation Type: **Normal Installation**.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Select video mode: **65K Colors Only**.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Installation Type: **Full Installation 108 Megs. required**.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Screen mode: **Hi-Res 65K Colours**.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Controls 1 and 2: *Calibrate game controls*.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Sound card: **Auto Detect**.
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Press `ESC` and `Y` to save the settings and complete the installation. DOSBox will quit.
+# file: All Programs/Games/Screamer 2/Program.txt = # text: - Playing the game:
+# file: All Programs/Games/Screamer 2/Program.txt = # text:   - Open `Program.txt` and change the `[cpu] cycles` attribute back to `max` before starting the game.
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = [cpu]
+# file: All Programs/Games/Screamer 2/Program.txt = core = dynamic
+# file: All Programs/Games/Screamer 2/Program.txt = # Installing the game:
+# file: All Programs/Games/Screamer 2/Program.txt = #cycles = 16000
+# file: All Programs/Games/Screamer 2/Program.txt = # Playing the game:
+# file: All Programs/Games/Screamer 2/Program.txt = cycles = max
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = [autoexec]
+# file: All Programs/Games/Screamer 2/Program.txt = @ECHO OFF
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Screamer 2/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = IF NOT EXIST C:\S2\S2.BAT GOTO F_INSTALL
+# file: All Programs/Games/Screamer 2/Program.txt = IF EXIST C:\S2\S2.BAT GOTO F_START
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = :F_INSTALL
+# file: All Programs/Games/Screamer 2/Program.txt = D:
+# file: All Programs/Games/Screamer 2/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Screamer 2/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = :F_START
+# file: All Programs/Games/Screamer 2/Program.txt = C:
+# file: All Programs/Games/Screamer 2/Program.txt = CD C:\S2
+# file: All Programs/Games/Screamer 2/Program.txt = CALL S2.BAT
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = :F_EXIT
+# file: All Programs/Games/Screamer 2/Program.txt = EXIT
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = :F_DEBUG
+# file: All Programs/Games/Screamer 2/Program.txt
+# file: All Programs/Games/Screamer 2/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/4019435-screamer-2-dos-front-cover.jpg
+# file: All Programs/Games/Screamer 2/Program.txt = # check: coverart.jpg = 51fe9073a47b2deda7e79afd26184035cd98c436777326a87a669f3d0a8aea04
+# file: All Programs/Games/Screamer 2/Program.txt = # asset: cdrom.bin = https://archive.org/download/msdos_Screamer_2_1996/Screamer_2_1996.zip/Screamr2%2Fcd%2FSCREAM2.bin
+# file: All Programs/Games/Screamer 2/Program.txt = # check: cdrom.bin = 63684e75dd66380b7c1d4e099f3571430d2468dd827c884cdd9ecdaccede0f23
+# file: All Programs/Games/Screamer 2/Program.txt = # asset: manual.pdf = https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/Screamer_2.pdf
+# file: All Programs/Games/Screamer 2/Program.txt = # check: manual.pdf = 4e03bdc4eed67218a31e6bef89df2169dab43934a70796953c434faa28afaa91
+# file: All Programs/Games/Screamer 2/Program.txt = #
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 21:41:60
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 25:46:47
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 29:54:70
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 34:03:48
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 38:06:65
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 42:00:06
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 45:35:00
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Screamer 2/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 49:43:62
+#
+#
+# file: All Programs/Games/Screamer Rally/Program.txt = # vim: filetype=ini:syntax=dosini
+# file: All Programs/Games/Screamer Rally/Program.txt = #
+# file: All Programs/Games/Screamer Rally/Program.txt = # name: Screamer Rally
+# file: All Programs/Games/Screamer Rally/Program.txt = # name: Speed Rally
+# file: All Programs/Games/Screamer Rally/Program.txt = # info: Screamer Rally is a challenge for every racing fan. Five powerful vehicles and seven nerve-racking race tracks demand total concentration and all your skills. Because even the tiniest mistake can mean the end: sudden direction changes, merciless bumps, unexpected slides, spins, and jumps - can put even experienced drivers in a tricky situation. But with the proper technique and the necessary courage, you can master it. Well then, have a good trip!
+# file: All Programs/Games/Screamer Rally/Program.txt = # tag: Year = 1997
+# file: All Programs/Games/Screamer Rally/Program.txt = # tag: Genre = Racing
+# file: All Programs/Games/Screamer Rally/Program.txt = # tag: Platform = DOS
+# file: All Programs/Games/Screamer Rally/Program.txt = # tag: License = Abandonware
+# file: All Programs/Games/Screamer Rally/Program.txt = # tag: Media = CD-ROM
+# file: All Programs/Games/Screamer Rally/Program.txt = # tag: No Manual
+# file: All Programs/Games/Screamer Rally/Program.txt = # site: [Wikipedia](https://en.wikipedia.org/wiki/Screamer_Rally)
+# file: All Programs/Games/Screamer Rally/Program.txt = # site: [MobyGames](https://www.mobygames.com/game/2973/screamer-rally/)
+# file: All Programs/Games/Screamer Rally/Program.txt = # site: [MyAbandonware](https://www.myabandonware.com/game/screamer-rally-a61)
+# file: All Programs/Games/Screamer Rally/Program.txt = #
+# file: All Programs/Games/Screamer Rally/Program.txt = # text: ## Installation Notes
+# file: All Programs/Games/Screamer Rally/Program.txt = # text: - Installing the game:
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Open `Program.txt` and change the `[cpu] cycles` attribute to `16000` before starting installation.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Installation Type: **Normal Installation**.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Select video mode: **65K Colors and 3D Cards Only**.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Installation Type: **Full Installation 92 Megs. required**.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Screen mode: **Hi-Res 65K Colours** (supported by all DOSBox variants).
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:     - **DOSBox-X** with [3dfx Voodoo](https://dosbox-x.com/wiki/Guide%3ASetting-up-3dfx-Voodoo-in-DOSBox%E2%80%90X) support enabled can choose **3DFX Card** screen mode.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Controls 1 and 2: *Calibrate game controls*.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Sound card: **Auto Detect**.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Press `ESC` and `Y` to save the settings and complete the installation. DOSBox will quit.
+# file: All Programs/Games/Screamer Rally/Program.txt = # text: - Playing the game:
+# file: All Programs/Games/Screamer Rally/Program.txt = # text:   - Open `Program.txt` and change the `[cpu] cycles` attribute back to `max` before starting the game.
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = [cpu]
+# file: All Programs/Games/Screamer Rally/Program.txt = core = dynamic
+# file: All Programs/Games/Screamer Rally/Program.txt = # Installing the game:
+# file: All Programs/Games/Screamer Rally/Program.txt = #cycles = 16000
+# file: All Programs/Games/Screamer Rally/Program.txt = # Playing the game:
+# file: All Programs/Games/Screamer Rally/Program.txt = cycles = max
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = [autoexec]
+# file: All Programs/Games/Screamer Rally/Program.txt = @ECHO OFF
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = MOUNT C "./drive"
+# file: All Programs/Games/Screamer Rally/Program.txt = IMGMOUNT D "./Assets/cdrom.cue" -t iso
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = IF NOT EXIST C:\SR\SR.BAT GOTO F_INSTALL
+# file: All Programs/Games/Screamer Rally/Program.txt = IF EXIST C:\SR\SR.BAT GOTO F_START
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = :F_INSTALL
+# file: All Programs/Games/Screamer Rally/Program.txt = D:
+# file: All Programs/Games/Screamer Rally/Program.txt = CALL INSTALL.BAT
+# file: All Programs/Games/Screamer Rally/Program.txt = GOTO F_EXIT
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = :F_START
+# file: All Programs/Games/Screamer Rally/Program.txt = C:
+# file: All Programs/Games/Screamer Rally/Program.txt = CD C:\SR
+# file: All Programs/Games/Screamer Rally/Program.txt = CALL SR.BAT
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = :F_EXIT
+# file: All Programs/Games/Screamer Rally/Program.txt = EXIT
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = :F_DEBUG
+# file: All Programs/Games/Screamer Rally/Program.txt
+# file: All Programs/Games/Screamer Rally/Program.txt = # asset: coverart.jpg = https://cdn.mobygames.com/covers/6349964-screamer-rally-dos-front-cover.jpg
+# file: All Programs/Games/Screamer Rally/Program.txt = # check: coverart.jpg = 7b5cc5a48b1582e9211be5cef917f07c61eebdc929f20b73f3323f74a0568f41
+# file: All Programs/Games/Screamer Rally/Program.txt = # asset: cdrom.bin = https://archive.org/download/scrmrlly/scrmrlly.bin
+# file: All Programs/Games/Screamer Rally/Program.txt = # check: cdrom.bin = 2b5132c2e26dd88e9ed3f5d0a2f5186b434c493fe1243ccfd4aa488febad700c
+# file: All Programs/Games/Screamer Rally/Program.txt = #
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue = FILE "cdrom.bin" BINARY
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 01 MODE1/2352
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 00:00:00
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 02 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     PREGAP 00:02:00
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 18:14:43
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 03 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 22:42:23
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 22:42:32
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 04 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 26:47:17
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 26:47:35
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 05 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 31:04:35
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 31:04:38
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 06 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 35:18:51
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 35:19:02
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 07 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 38:17:63
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 38:18:04
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 08 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 42:40:26
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 42:40:36
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =   TRACK 09 AUDIO
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 00 47:21:01
+# file: All Programs/Games/Screamer Rally/Program.txt = # file: Assets/cdrom.cue =     INDEX 01 47:21:08
+#
+#
 # file: All Programs/Games/Shannara/Program.txt = # vim: filetype=ini:syntax=dosini
 # file: All Programs/Games/Shannara/Program.txt = #
 # file: All Programs/Games/Shannara/Program.txt = # name: Shannara
@@ -11640,6 +12507,7 @@
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: StarCraft: Brood War
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # name: Add-on = Brood War
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # info: In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory.
+# file: All Programs/Games/StarCraft - Anthology/Program.txt = # info: Wikipedia = The original game, along with the expansion, was released for free in April 2017.
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Year = 1998
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Genre = Strategy
 # file: All Programs/Games/StarCraft - Anthology/Program.txt = # tag: Platform = Windows 9x
@@ -14969,8 +15837,12 @@
 # link: Games/By Genre/Action/Cyberia 2 - Resurrection = ../../../All Programs/Games/Cyberia 2 - Resurrection
 # link: Games/By Genre/Action/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Genre/Action/Dark Legions = ../../../All Programs/Games/Dark Legions
+# link: Games/By Genre/Action/Darker = ../../../All Programs/Games/Darker
 # link: Games/By Genre/Action/Death Rally = ../../../All Programs/Games/Death Rally
+# link: Games/By Genre/Action/Descent = ../../../All Programs/Games/Descent
+# link: Games/By Genre/Action/Descent II = ../../../All Programs/Games/Descent II
 # link: Games/By Genre/Action/Electroman = ../../../All Programs/Games/Electroman
+# link: Games/By Genre/Action/F-22 Lightning II = ../../../All Programs/Games/F-22 Lightning II
 # link: Games/By Genre/Action/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Genre/Action/Flashback = ../../../All Programs/Games/Flashback
 # link: Games/By Genre/Action/God of Thunder = ../../../All Programs/Games/God of Thunder
@@ -14983,6 +15855,7 @@
 # link: Games/By Genre/Action/Magic Carpet 2 - The Netherworlds = ../../../All Programs/Games/Magic Carpet 2 - The Netherworlds
 # link: Games/By Genre/Action/Magic Carpet Plus = ../../../All Programs/Games/Magic Carpet Plus
 # link: Games/By Genre/Action/Mega Man X = ../../../All Programs/Games/Mega Man X
+# link: Games/By Genre/Action/MegaRace = ../../../All Programs/Games/MegaRace
 # link: Games/By Genre/Action/Oddworld - Abe's Oddysee = ../../../All Programs/Games/Oddworld - Abe's Oddysee
 # link: Games/By Genre/Action/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
 # link: Games/By Genre/Action/Out of This World = ../../../All Programs/Games/Out of This World
@@ -15089,7 +15962,12 @@
 # link: Games/By Genre/Puzzle/Where's Waldo? At the Circus = ../../../All Programs/Games/Where's Waldo? At the Circus
 # link: Games/By Genre/Racing/Death Rally = ../../../All Programs/Games/Death Rally
 # link: Games/By Genre/Racing/Hi-Octane = ../../../All Programs/Games/Hi-Octane
+# link: Games/By Genre/Racing/MegaRace = ../../../All Programs/Games/MegaRace
+# link: Games/By Genre/Racing/MegaRace 2 = ../../../All Programs/Games/MegaRace 2
 # link: Games/By Genre/Racing/Road Rash = ../../../All Programs/Games/Road Rash
+# link: Games/By Genre/Racing/Screamer = ../../../All Programs/Games/Screamer
+# link: Games/By Genre/Racing/Screamer 2 = ../../../All Programs/Games/Screamer 2
+# link: Games/By Genre/Racing/Screamer Rally = ../../../All Programs/Games/Screamer Rally
 # link: Games/By Genre/Racing/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By Genre/Role-playing/An Elder Scrolls Legend - Battlespire = ../../../All Programs/Games/An Elder Scrolls Legend - Battlespire
 # link: Games/By Genre/Role-playing/Anvil of Dawn = ../../../All Programs/Games/Anvil of Dawn
@@ -15100,7 +15978,10 @@
 # link: Games/By Genre/Role-playing/Superhero League of Hoboken = ../../../All Programs/Games/Superhero League of Hoboken
 # link: Games/By Genre/Role-playing/The Elder Scrolls - Arena = ../../../All Programs/Games/The Elder Scrolls - Arena
 # link: Games/By Genre/Role-playing/The Elder Scrolls 2 - Daggerfall = ../../../All Programs/Games/The Elder Scrolls 2 - Daggerfall
+# link: Games/By Genre/Simulation/Darker = ../../../All Programs/Games/Darker
 # link: Games/By Genre/Simulation/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
+# link: Games/By Genre/Simulation/EF 2000 = ../../../All Programs/Games/EF 2000
+# link: Games/By Genre/Simulation/F-22 Lightning II = ../../../All Programs/Games/F-22 Lightning II
 # link: Games/By Genre/Simulation/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By Genre/Simulation/Silent Hunter = ../../../All Programs/Games/Silent Hunter
 # link: Games/By Genre/Simulation/SimCity = ../../../All Programs/Games/SimCity
@@ -15143,6 +16024,7 @@
 # link: Games/By Genre/Strategy/X-COM - Apocalypse = ../../../All Programs/Games/X-COM - Apocalypse
 # link: Games/By Genre/Strategy/X-COM - Terror from the Deep = ../../../All Programs/Games/X-COM - Terror from the Deep
 # link: Games/By License/Abandonware/4D Boxing = ../../../All Programs/Games/4D Boxing
+# link: Games/By License/Abandonware/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By License/Abandonware/Are You Afraid of the Dark? The Tale of Orpheo's Curse = ../../../All Programs/Games/Are You Afraid of the Dark? The Tale of Orpheo's Curse
 # link: Games/By License/Abandonware/Ascendancy = ../../../All Programs/Games/Ascendancy
 # link: Games/By License/Abandonware/Bermuda Syndrome = ../../../All Programs/Games/Bermuda Syndrome
@@ -15155,6 +16037,7 @@
 # link: Games/By License/Abandonware/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By License/Abandonware/Dark Seed = ../../../All Programs/Games/Dark Seed
 # link: Games/By License/Abandonware/Dark Seed II = ../../../All Programs/Games/Dark Seed II
+# link: Games/By License/Abandonware/Darker = ../../../All Programs/Games/Darker
 # link: Games/By License/Abandonware/Discworld = ../../../All Programs/Games/Discworld
 # link: Games/By License/Abandonware/Discworld II = ../../../All Programs/Games/Discworld II
 # link: Games/By License/Abandonware/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
@@ -15162,14 +16045,17 @@
 # link: Games/By License/Abandonware/Dr. Brain - The Lost Mind of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Lost Mind of Dr. Brain
 # link: Games/By License/Abandonware/Dr. Brain - The Time Warp of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Time Warp of Dr. Brain
 # link: Games/By License/Abandonware/Dust - A Tale of the Wired West = ../../../All Programs/Games/Dust - A Tale of the Wired West
+# link: Games/By License/Abandonware/EF 2000 = ../../../All Programs/Games/EF 2000
 # link: Games/By License/Abandonware/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
 # link: Games/By License/Abandonware/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
+# link: Games/By License/Abandonware/F-22 Lightning II = ../../../All Programs/Games/F-22 Lightning II
 # link: Games/By License/Abandonware/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By License/Abandonware/Frankenstein - Through the Eyes of the Monster = ../../../All Programs/Games/Frankenstein - Through the Eyes of the Monster
 # link: Games/By License/Abandonware/Future Wars - Adventures in Time = ../../../All Programs/Games/Future Wars - Adventures in Time
 # link: Games/By License/Abandonware/Hi-Octane = ../../../All Programs/Games/Hi-Octane
 # link: Games/By License/Abandonware/In the 1st Degree = ../../../All Programs/Games/In the 1st Degree
 # link: Games/By License/Abandonware/Iron Helix = ../../../All Programs/Games/Iron Helix
+# link: Games/By License/Abandonware/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By License/Abandonware/Lode Runner - The Legend Returns = ../../../All Programs/Games/Lode Runner - The Legend Returns
 # link: Games/By License/Abandonware/Milo = ../../../All Programs/Games/Milo
 # link: Games/By License/Abandonware/Panic in the Park = ../../../All Programs/Games/Panic in the Park
@@ -15179,6 +16065,7 @@
 # link: Games/By License/Abandonware/Railroad Tycoon Deluxe = ../../../All Programs/Games/Railroad Tycoon Deluxe
 # link: Games/By License/Abandonware/Road Rash = ../../../All Programs/Games/Road Rash
 # link: Games/By License/Abandonware/SPQR - The Empire's Darkest Hour = ../../../All Programs/Games/SPQR - The Empire's Darkest Hour
+# link: Games/By License/Abandonware/Screamer Rally = ../../../All Programs/Games/Screamer Rally
 # link: Games/By License/Abandonware/SimTower = ../../../All Programs/Games/SimTower
 # link: Games/By License/Abandonware/The Amazing Spider-Man = ../../../All Programs/Games/The Amazing Spider-Man
 # link: Games/By License/Abandonware/The Even More Incredible Machine = ../../../All Programs/Games/The Even More Incredible Machine
@@ -15189,7 +16076,6 @@
 # link: Games/By License/Abandonware/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel = ../../../All Programs/Games/The Lost Files of Sherlock Holmes - The Case of the Serrated Scalpel
 # link: Games/By License/Abandonware/The Need for Speed = ../../../All Programs/Games/The Need for Speed
 # link: Games/By License/Abandonware/Where's Waldo? At the Circus = ../../../All Programs/Games/Where's Waldo? At the Circus
-# link: Games/By License/Freeware/ABC Wide World of Sports Boxing = ../../../All Programs/Games/ABC Wide World of Sports Boxing
 # link: Games/By License/Freeware/Abuse = ../../../All Programs/Games/Abuse
 # link: Games/By License/Freeware/Alien Carnage = ../../../All Programs/Games/Alien Carnage
 # link: Games/By License/Freeware/Beneath a Steel Sky = ../../../All Programs/Games/Beneath a Steel Sky
@@ -15203,7 +16089,6 @@
 # link: Games/By License/Freeware/Electroman = ../../../All Programs/Games/Electroman
 # link: Games/By License/Freeware/Flight of the Amazon Queen = ../../../All Programs/Games/Flight of the Amazon Queen
 # link: Games/By License/Freeware/God of Thunder = ../../../All Programs/Games/God of Thunder
-# link: Games/By License/Freeware/It Came from the Desert = ../../../All Programs/Games/It Came from the Desert
 # link: Games/By License/Freeware/Jetpack = ../../../All Programs/Games/Jetpack
 # link: Games/By License/Freeware/Lure of the Temptress = ../../../All Programs/Games/Lure of the Temptress
 # link: Games/By License/Freeware/One Must Fall 2097 = ../../../All Programs/Games/One Must Fall 2097
@@ -15241,6 +16126,8 @@
 # link: Games/By License/Proprietary/Deadlock - Planetary Conquest = ../../../All Programs/Games/Deadlock - Planetary Conquest
 # link: Games/By License/Proprietary/Deadlock II - Shrine Wars = ../../../All Programs/Games/Deadlock II - Shrine Wars
 # link: Games/By License/Proprietary/Death Gate = ../../../All Programs/Games/Death Gate
+# link: Games/By License/Proprietary/Descent = ../../../All Programs/Games/Descent
+# link: Games/By License/Proprietary/Descent II = ../../../All Programs/Games/Descent II
 # link: Games/By License/Proprietary/Diablo + Hellfire = ../../../All Programs/Games/Diablo + Hellfire
 # link: Games/By License/Proprietary/Emperor of the Fading Suns = ../../../All Programs/Games/Emperor of the Fading Suns
 # link: Games/By License/Proprietary/Fallout = ../../../All Programs/Games/Fallout
@@ -15268,6 +16155,8 @@
 # link: Games/By License/Proprietary/Magic Carpet 2 - The Netherworlds = ../../../All Programs/Games/Magic Carpet 2 - The Netherworlds
 # link: Games/By License/Proprietary/Magic Carpet Plus = ../../../All Programs/Games/Magic Carpet Plus
 # link: Games/By License/Proprietary/Mega Man X = ../../../All Programs/Games/Mega Man X
+# link: Games/By License/Proprietary/MegaRace = ../../../All Programs/Games/MegaRace
+# link: Games/By License/Proprietary/MegaRace 2 = ../../../All Programs/Games/MegaRace 2
 # link: Games/By License/Proprietary/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By License/Proprietary/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By License/Proprietary/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
@@ -15279,6 +16168,8 @@
 # link: Games/By License/Proprietary/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By License/Proprietary/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
 # link: Games/By License/Proprietary/Sanitarium = ../../../All Programs/Games/Sanitarium
+# link: Games/By License/Proprietary/Screamer = ../../../All Programs/Games/Screamer
+# link: Games/By License/Proprietary/Screamer 2 = ../../../All Programs/Games/Screamer 2
 # link: Games/By License/Proprietary/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By License/Proprietary/Sid Meier's Colonization = ../../../All Programs/Games/Sid Meier's Colonization
 # link: Games/By License/Proprietary/SimCity 2000 - CD Collection = ../../../All Programs/Games/SimCity 2000 - CD Collection
@@ -15336,16 +16227,21 @@
 # link: Games/By Platform/DOS/D-Generation = ../../../All Programs/Games/D-Generation
 # link: Games/By Platform/DOS/Dark Legions = ../../../All Programs/Games/Dark Legions
 # link: Games/By Platform/DOS/Dark Seed = ../../../All Programs/Games/Dark Seed
+# link: Games/By Platform/DOS/Darker = ../../../All Programs/Games/Darker
 # link: Games/By Platform/DOS/Day of the Tentacle = ../../../All Programs/Games/Day of the Tentacle
 # link: Games/By Platform/DOS/Death Gate = ../../../All Programs/Games/Death Gate
 # link: Games/By Platform/DOS/Death Rally = ../../../All Programs/Games/Death Rally
+# link: Games/By Platform/DOS/Descent = ../../../All Programs/Games/Descent
+# link: Games/By Platform/DOS/Descent II = ../../../All Programs/Games/Descent II
 # link: Games/By Platform/DOS/Discworld = ../../../All Programs/Games/Discworld
 # link: Games/By Platform/DOS/Discworld II = ../../../All Programs/Games/Discworld II
 # link: Games/By Platform/DOS/Dr. Brain - Castle of Dr. Brain = ../../../All Programs/Games/Dr. Brain - Castle of Dr. Brain
 # link: Games/By Platform/DOS/Dr. Brain - The Island of Dr. Brain = ../../../All Programs/Games/Dr. Brain - The Island of Dr. Brain
+# link: Games/By Platform/DOS/EF 2000 = ../../../All Programs/Games/EF 2000
 # link: Games/By Platform/DOS/EcoQuest - Lost Secret of the Rainforest = ../../../All Programs/Games/EcoQuest - Lost Secret of the Rainforest
 # link: Games/By Platform/DOS/EcoQuest - The Search for Cetus = ../../../All Programs/Games/EcoQuest - The Search for Cetus
 # link: Games/By Platform/DOS/Electroman = ../../../All Programs/Games/Electroman
+# link: Games/By Platform/DOS/F-22 Lightning II = ../../../All Programs/Games/F-22 Lightning II
 # link: Games/By Platform/DOS/Fade to Black = ../../../All Programs/Games/Fade to Black
 # link: Games/By Platform/DOS/Fallout = ../../../All Programs/Games/Fallout
 # link: Games/By Platform/DOS/Flashback = ../../../All Programs/Games/Flashback
@@ -15379,6 +16275,8 @@
 # link: Games/By Platform/DOS/Magic Carpet 2 - The Netherworlds = ../../../All Programs/Games/Magic Carpet 2 - The Netherworlds
 # link: Games/By Platform/DOS/Magic Carpet Plus = ../../../All Programs/Games/Magic Carpet Plus
 # link: Games/By Platform/DOS/Mega Man X = ../../../All Programs/Games/Mega Man X
+# link: Games/By Platform/DOS/MegaRace = ../../../All Programs/Games/MegaRace
+# link: Games/By Platform/DOS/MegaRace 2 = ../../../All Programs/Games/MegaRace 2
 # link: Games/By Platform/DOS/Mission Critical = ../../../All Programs/Games/Mission Critical
 # link: Games/By Platform/DOS/Monkey Island - The Secret of Monkey Island = ../../../All Programs/Games/Monkey Island - The Secret of Monkey Island
 # link: Games/By Platform/DOS/Monkey Island 2 - LeChuck's Revenge = ../../../All Programs/Games/Monkey Island 2 - LeChuck's Revenge
@@ -15393,6 +16291,9 @@
 # link: Games/By Platform/DOS/Return to Zork = ../../../All Programs/Games/Return to Zork
 # link: Games/By Platform/DOS/Robbo = ../../../All Programs/Games/Robbo
 # link: Games/By Platform/DOS/Sam & Max Hit the Road = ../../../All Programs/Games/Sam & Max Hit the Road
+# link: Games/By Platform/DOS/Screamer = ../../../All Programs/Games/Screamer
+# link: Games/By Platform/DOS/Screamer 2 = ../../../All Programs/Games/Screamer 2
+# link: Games/By Platform/DOS/Screamer Rally = ../../../All Programs/Games/Screamer Rally
 # link: Games/By Platform/DOS/Shannara = ../../../All Programs/Games/Shannara
 # link: Games/By Platform/DOS/Silent Hunter = ../../../All Programs/Games/Silent Hunter
 # link: Games/By Platform/DOS/SimCity = ../../../All Programs/Games/SimCity

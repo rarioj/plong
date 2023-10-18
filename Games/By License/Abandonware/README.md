@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (47)
+# 🗂️ Games ‣ By License ‣ Abandonware (53)
 
 > <table><tr><td width="255">
 >
@@ -13,6 +13,25 @@
 > 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Sports ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Cracked** 
 >
 > ❝ Good evening, ladies and gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/Thumbnail.png "ABC Wide World of Sports Boxing")
+>
+> </td>
+>
+> <td>
+>
+> ## [ABC Wide World of Sports Boxing](../../../All%20Programs/Games/ABC%20Wide%20World%20of%20Sports%20Boxing/README.md)
+>
+> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+>
+> ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
 >
 >
 > </td></tr></table>
@@ -253,6 +272,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/Darker/Thumbnail.png "Darker")
+>
+> </td>
+>
+> <td>
+>
+> ## [Darker](../../../All%20Programs/Games/Darker/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Your side of the planet is constantly in total darkness, but the Delphins have adapted to this life. The Halons used to live in the light, but recent events have caused their side of the planet to fall dark, and now they are attacking you to take over your technology. Your job as a Delphin pilot is to stop them and take down their attacking ships. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/Discworld/Thumbnail.png "Discworld")
 >
 > </td>
@@ -386,6 +424,25 @@
 
 > <table><tr><td width="255">
 >
+> ![](../../../All%20Programs/Games/EF%202000/Thumbnail.png "EF 2000")
+>
+> </td>
+>
+> <td>
+>
+> ## [EF 2000](../../../All%20Programs/Games/EF%202000/README.md)
+>
+> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+>
+> ❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
 > ![](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")
 >
 > </td>
@@ -416,6 +473,25 @@
 > 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Set out on a challenging undersea odyssey as you discover a delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the environmental issues facing each of us today. You'll also have the adventure of your life. Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the ruins of ancient civilizations and rescue sea creatures that got hurt or poisoned by pollution. Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/F-22%20Lightning%20II/Thumbnail.png "F-22 Lightning II")
+>
+> </td>
+>
+> <td>
+>
+> ## [F-22 Lightning II](../../../All%20Programs/Games/F-22%20Lightning%20II/README.md)
+>
+> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ Roam through the blood-red skies over a vast terrain. Play with life and death. Preferably engage your opponent from behind. You've never experienced anything like this. You'll be amazed by the gameplay of F22 Lightning II, be speechless by the unique graphics and witness it in digital stereo sound. ❞
 >
 >
 > </td></tr></table>
@@ -530,6 +606,27 @@
 > 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 >
 > ❝ Iron Helix is a science fiction thriller that immerses you in a fast-paced virtual reality filled with danger and intrigue. Control a robot probe whose mission is to stop a renegade starship on an automated course of destruction. Prevent intergalactic war and the spread of a deadly virus by destroying the doomsday weapon - code name Iron Helix. Navigate through dozens of condors and rooms. Search for ways to stop the looming annihilation while eluding the ship's deadly defender robot. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
+>
+> </td>
+>
+> <td>
+>
+> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
+>
+> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
+>
+> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction become fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
+>
+> ❝ A collection of Cinemaware games is available as **Cinemaware Anthology: 1986-1991** release on [Steam 💰](https://store.steampowered.com/app/326590/Cinemaware_Anthology_19861991/). ❞
 >
 >
 > </td></tr></table>
@@ -703,6 +800,25 @@
 > 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
 >
 > ❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞
+>
+>
+> </td></tr></table>
+
+&nbsp;
+
+> <table><tr><td width="255">
+>
+> ![](../../../All%20Programs/Games/Screamer%20Rally/Thumbnail.png "Screamer Rally")
+>
+> </td>
+>
+> <td>
+>
+> ## [Screamer Rally](../../../All%20Programs/Games/Screamer%20Rally/README.md)
+>
+> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
+>
+> ❝ Screamer Rally is a challenge for every racing fan. Five powerful vehicles and seven nerve-racking race tracks demand total concentration and all your skills. Because even the tiniest mistake can mean the end: sudden direction changes, merciless bumps, unexpected slides, spins, and jumps - can put even experienced drivers in a tricky situation. But with the proper technique and the necessary courage, you can master it. Well then, have a good trip! ❞
 >
 >
 > </td></tr></table>

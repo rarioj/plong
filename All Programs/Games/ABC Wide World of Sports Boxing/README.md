@@ -7,7 +7,7 @@
 > ❝ Spanning the globe for 30 years, ABC's Wide World of Sports has brought billions of sports fans up close and personal for boxing duels. But boxing is much more than just throwing punches. It's a sport that tests the core of your being. Spirit, heart, desire, strength and stamina are all stretched beyond their breaking points and then asked to go just one more round. ABC's Wide World of Sports Boxing is far more than the typical punching games. Our detailed attention to creating a premier simulation and role-playing environment delivers a knock-out gaming combination that challenges the rest. ❞
 >
 
-📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
+📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Action • Sports • Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟨 • Missing Sound FX ┃ **[DOSBox Staging](https://dosbox-staging.github.io/)** ‣ 0.80.1 🟨 • Missing Sound FX ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
