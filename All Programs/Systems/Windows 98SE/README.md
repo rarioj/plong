@@ -7,7 +7,7 @@
 > ❝ Windows 98 was a discontinued and unsupported operating system by Microsoft. Running Windows 98 for the sole purpose of playing nostalgic games or for non-commercial, offline use is generally acceptable. ❞ — *ChatGPT*
 >
 
-📌 ┃ **Year** ‣ 1998 ┃ **Type** ‣ Operating System ┃ **License** ‣ Discontinued ┃ **Media** ‣ CD-ROM ┃ **Extras** ‣ 7-zip • Adobe Reader • DirectX 
+📌 ┃ **Year** ‣ 1998 ┃ **Type** ‣ Operating System ┃ **License** ‣ Discontinued ┃ **Media** ‣ CD-ROM ┃ **Extras** ‣ 7-zip 9.2 • DirectX 9C 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
@@ -39,12 +39,9 @@
 - Adjusting colors and screen size
   - Right-click on the desktop and select *Properties*. Click the *Settings* tab. Set **High Color (16 bit)** for colors and **640 by 480 pixels** for screen area. Click *Apply*.
   - Restart Windows if asked.
-- Installing **7-zip**.
+- Installing [7-zip](https://en.wikipedia.org/wiki/7-Zip).
   - Open *My Computer > C: > Temp*, double-click on `7z920.exe` file.
-- Installing **Adobe Reader**.
-  - Open *My Computer > C: > Temp*, right-click on `acrobat.zip` file: **7-Zip > Extract Here**.
-  - Open extracted *Acrobat > 32bit* directory, double-click on `setup.exe`.
-- Installing **DirectX**.
+- Installing [DirectX](https://en.wikipedia.org/wiki/DirectX).
   - Open *My Computer > C: > Temp*, double-click on `dx9c.exe` file.
   - Location where you want to place the extracted files: Enter `C:\TEMP` and click **OK**.
   - Double-click on the extracted `DXSETUP.EXE` file.

@@ -1,1306 +1,400 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (64)
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/Thumbnail.png "3 Skulls of the Toltecs")
->
-> </td>
->
-> <td>
->
-> ## [3 Skulls of the Toltecs](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Saddle up and mosey on into town for one of the most challenging, hilarious and exciting adventures this side of Texas! The treasures of the Toltecs are within your reach - riches beyond your wildest dreams. But first, you must locate the three skulls. And believe me - it isn't that easy. You must travel through the Wild West and encounter multiple characters, the good, the bad and the downright ugly! ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs) and [Steam 💰](https://store.steampowered.com/app/977300/Fenimore_Fillmore_3_Skulls_of_the_Toltecs/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/Thumbnail.png "Amazon: Guardians of Eden")
->
-> </td>
->
-> <td>
->
-> ## [Amazon: Guardians of Eden](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/README.md)
->
-> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Journey back to 1957 on an expedition to the dark heart of the Amazon Basin. A desperate, crazed message sends you on a perilous search through a land where legends come to life, danger hides behind every corner, and incredible treasures await. The plot follows the adventure of Jason Roberts. Roberts starts his expedition to help find his brother and eventually races for a lost treasure. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Are%20You%20Afraid%20of%20the%20Dark%3F%20The%20Tale%20of%20Orpheo%27s%20Curse/Thumbnail.png "Are You Afraid of the Dark? The Tale of Orpheo's Curse")
->
-> </td>
->
-> <td>
->
-> ## [Are You Afraid of the Dark? The Tale of Orpheo's Curse](../../../All%20Programs/Games/Are%20You%20Afraid%20of%20the%20Dark%3F%20The%20Tale%20of%20Orpheo%27s%20Curse/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ You are a brother and sister team trapped inside a haunted theatre. You discover Orpheo, the Mad Magician, has put an evil curse on it, or so you think. Dare to explore this ghoulish theatre as you search for clues to unlock the mystery. Remember, surprises await you at every turn. Watch out! You'll encounter strange and twisted characters. Listen closely to the talking ghosts. Search for clues as you solve dozens of puzzles. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Bad%20Mojo/Thumbnail.png "Bad Mojo")
->
-> </td>
->
-> <td>
->
-> ## [Bad Mojo](../../../All%20Programs/Games/Bad%20Mojo/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, magic suddenly seized you, and your transformation begins. You emerge as a cockroach from within the damp walls of Eddie's bar. Enter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out as a person at all. ❞
->
-> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/Thumbnail.png "Beneath a Steel Sky")
->
-> </td>
->
-> <td>
->
-> ## [Beneath a Steel Sky](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone with a robot circuit board, Foster must fight for survival and discover the sinister truth behind this abduction. ❞
->
-> ❝ The game was made available as freeware – and with the source code released – for PC platforms in 2003. ❞ — *Wikipedia*
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Beyond%20Time/Thumbnail.png "Beyond Time")
->
-> </td>
->
-> <td>
->
-> ## [Beyond Time](../../../All%20Programs/Games/Beyond%20Time/README.md)
->
-> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Step through the gateway into a 3D world of puzzles and adventure. Beyond the Mayan city, the Temple of Osiris, the Tibetan Palace, and the ruins of Atlantis. Explore every world and unlock the secrets to this fascinating mystery. The intrigue will guide you on an epic adventure. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/Thumbnail.png "Broken Sword: The Shadow of the Templars")
->
-> </td>
->
-> <td>
->
-> ## [Broken Sword: The Shadow of the Templars](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Extra Command** 
->
-> ❝ Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life. ❞
->
-> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/Thumbnail.png "Broken Sword II: The Smoking Mirror")
->
-> </td>
->
-> <td>
->
-> ## [Broken Sword II: The Smoking Mirror](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/README.md)
->
-> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Plunge into a shadowy conspiracy world where the schemes of a mad drug kingpin and the prophesized return of an ancient Mayan god clash in what could be the end of the world. Race around the globe with George as he frantically attempts to free Nico, his investigative reporter girlfriend, from the clutches of Karzac's crime cartel. Guide Nico and George as they unravel the dark mysteries that lead them closer and closer to an ancient horror best left buried in the steamy jungles of Central America. Gather clues and make friends, but beware - a smiling face can hide a deadly obstacle in your quest to stop the return of "he who devours the sun and consumes the flesh of all mankind", the mighty Mayan God, Tezcatlipoca. ❞
->
-> ❝ This game **is not abandonware 🚫**. The **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) and [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/Thumbnail.png "Call of Cthulhu: Prisoner of Ice")
->
-> </td>
->
-> <td>
->
-> ## [Call of Cthulhu: Prisoner of Ice](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Compressed Package ┃ **Extra Command** 
->
-> ❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action adventure will pique your obsession with horror and intrigue. You are in charge of your destiny. But beware, the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/Thumbnail.png "Call of Cthulhu: Shadow of the Comet")
->
-> </td>
->
-> <td>
->
-> ## [Call of Cthulhu: Shadow of the Comet](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/Thumbnail.png "Callahan's Crosstime Saloon")
->
-> </td>
->
-> <td>
->
-> ## [Callahan's Crosstime Saloon](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/README.md)
->
-> 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0.1 
->
-> ❝ The Gods have decided that our very Universe is closing. The regulars in Callahan's Crosstime Saloon can either drink up and go home or do something about it. But Callahan's is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Dark%20Seed/Thumbnail.png "Dark Seed")
->
-> </td>
->
-> <td>
->
-> ## [Dark Seed](../../../All%20Programs/Games/Dark%20Seed/README.md)
->
-> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ You are Mike Dawson, a science fiction writer who purchased an old Victorian house. As you explore your new home, you soon discover you have bought more than you bargained for. Control the fate of two worlds: The world as we know it and the dark world of an ancient and dying civilization. Unlock the secret of a sinister plot and discover the dark passage to their world, a place more terrifying than your darkest nightmare. Time is running out. You are on a collision course with destiny, and only you can save yourself and the world from a cruel fate. All of humanity depends on you. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Dark%20Seed%20II/Thumbnail.png "Dark Seed II")
->
-> </td>
->
-> <td>
->
-> ## [Dark Seed II](../../../All%20Programs/Games/Dark%20Seed%20II/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ In his hometown, Mike's high school sweetheart, Rita, is found murdered after the high school reunion. Unfortunately, Mike has no recollection of the events that night, even though he was with Rita. Mike becomes the prime suspect and now must work to clear his name. In digging up the dirty little secrets of his neighbours, Mike unwittingly stumbles into the Dark World, a place he thought he would never see again. The ancients have returned to exact revenge on Mike and unleash an evil entity into the Normal World. As Mike Dawson, you must clear your name and stop the ancients from carrying out their most ingenious scheme yet. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/Thumbnail.png "Day of the Tentacle")
->
-> </td>
->
-> <td>
->
-> ## [Day of the Tentacle](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure featuring cartoon-style animation and over 100 zany sound effects. ❞
->
-> ❝ This version is the original/legacy release for DOS. A **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/day_of_the_tentacle_remastered). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Death%20Gate/Thumbnail.png "Death Gate")
->
-> </td>
->
-> <td>
->
-> ## [Death Gate](../../../All%20Programs/Games/Death%20Gate/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Long ago, the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labyrinth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people into independence. ❞
->
-> ❝ GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later. ❞ — *Wikipedia*
->
-> ❝ This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate) ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Discworld/Thumbnail.png "Discworld")
->
-> </td>
->
-> <td>
->
-> ## [Discworld](../../../All%20Programs/Games/Discworld/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.04 
->
-> ❝ You will find wizards, dragons, heroes, and household hygiene specialists. There is danger here, but there is also custard around the place. Discworld is a fantasy world with a low reality threshold. The real world keeps on breaking through, but Discworld changes it. However, because it is a fantasy world, there are some things that it has to have, and one of them is a certain tendency to experience some trouble with dragons. Unfortunately, a dragon is now ravaging Ankh-Morpork, the world's leading city. Many people consider this a civic improvement, but Ankh-Morpork needs a hero. All they have, however, is Rincewind, a wizard whose only talent is that he is not, in fact, dead yet. He also has the Luggage, the nastiest piece of travelware in the universe. With that at his side, there is probably no limit to things he can fail to do. Oh, did I say he? I meant you. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Discworld%20II/Thumbnail.png "Discworld II: Missing presumed...!?")
->
-> </td>
->
-> <td>
->
-> ## [Discworld II: Missing presumed...!?](../../../All%20Programs/Games/Discworld%20II/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ #3 
->
-> ❝ Death has gone missing. It means those whose time is up are faltering around in limbo. A hero is needed to bring him back. But there's only Rincewind, an incompetent wizard and highly trained coward. You won't catch Rincewind running away. He is too fast. Unfortunately, he is all standing between people and the horrible prospect of immortality. No one wants that, do they? ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/Thumbnail.png "Dust: A Tale of the Wired West")
->
-> </td>
->
-> <td>
->
-> ## [Dust: A Tale of the Wired West](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ You are stranded somewhere on the digital frontier. On the run, without a friend, a gun, or a past. Just over the horizon is the key to your survival, in the form of Diamondback, a scruffy Old West outpost in 1882 New Mexico. Stroll down Main Street, belly up in the bar, battle gunslingers, or help Native Americans recover their stolen heritage. Whatever you do is up to you. But when rumours surface of lost Spanish silver, mayhem follows. Can you save a hardscrabble band of pioneers from themselves? Or will you succumb to temptation in a town where you are the only law? Boot up and find out. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")
->
-> </td>
->
-> <td>
->
-> ## [Lost Secret of the Rainforest](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package 
->
-> ❝ Lost Secret of the Rainforest is a trek through lush jungles, mysterious caverns, and ancient ruins atop craggy, mist-covered peaks. This adventure requires that you defeat the real-life dangers threatening the rainforests of South America. As you explore this exotic ecosystem, you will encounter endangered animal species, rare flora, and remote native cultures. Your challenge is to prevent their extinction by poachers and other outlaws who would destroy the environment to satisfy their greed. If you're successful, you will learn the truth behind the enigmatic face of the rainforest. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/Thumbnail.png "EcoQuest: The Search for Cetus")
->
-> </td>
->
-> <td>
->
-> ## [EcoQuest: The Search for Cetus](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/README.md)
->
-> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Set out on a challenging undersea odyssey as you discover a delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the environmental issues facing each of us today. You'll also have the adventure of your life. Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the ruins of ancient civilizations and rescue sea creatures that got hurt or poisoned by pollution. Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png "Flight of the Amazon Queen")
->
-> </td>
->
-> <td>
->
-> ## [Flight of the Amazon Queen](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel, only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crashland in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞
->
-> ❝ In March 2004, the game was released as freeware, and support for it was added to ScummVM, allowing it to be played on Linux, Mac OS X, Windows, and many other operating systems and consoles. ❞ — *Wikipedia*
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/Thumbnail.png "Frankenstein: Through the Eyes of the Monster")
->
-> </td>
->
-> <td>
->
-> ## [Frankenstein: Through the Eyes of the Monster](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Between life and death, man and monster, lies the test of the human heart. With a crash of lightning, you are reborn to a world of haunted memories and science pushed beyond the bounds of nature. Your thoughts come slowly like distant echoes. The mystery of your existence pulls at your mind: An ancient castle of dark secrets and hidden terrors; A strange crystal glows with life itself. The burning memory of a child long thought dead and a discovery that crosses the boundaries between life and death. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Full%20Throttle/Thumbnail.png "Full Throttle")
->
-> </td>
->
-> <td>
->
-> ## [Full Throttle](../../../All%20Programs/Games/Full%20Throttle/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ You're Ben. You're on the road. You're indestructible. You'll do whatever it takes to clear your name from a bum murder rap - Like fighting ugly gangs with futuristic bikes and Neolithic weapons, running big rigs off the road at 100 mph, making people pay. But that is what happens when you live your life at Full Throttle. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/full_throttle_remastered). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/Thumbnail.png "Future Wars: Adventures in Time")
->
-> </td>
->
-> <td>
->
-> ## [Future Wars: Adventures in Time](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/README.md)
->
-> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ In the 43rd century, an alien race is attacking Earth. The planet is well-protected by a formidable SDI defence that the aliens cannot penetrate. Until they hit a plan, sabotage the defences before they are built by travelling back in time to plant delayed-action bombs at strategic places! Your adventure starts in the present day when, innocently attempting to avoid your boss at work, you stumble across a secret passage that transports you ‘back in time' to the start of a quest that takes you into the Middle Ages, Prehistoric Times, and the distant future. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/Thumbnail.png "Gabriel Knight: Sins of the Fathers")
->
-> </td>
->
-> <td>
->
-> ## [Gabriel Knight: Sins of the Fathers](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0a 
->
-> ❝ He started out writing a book on voodoo. Now, he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/Thumbnail.png "Gabriel Knight 2: The Beast Within")
->
-> </td>
->
-> <td>
->
-> ## [Gabriel Knight 2: The Beast Within](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Now we find Schattenjäger, or shadow hunter, Gabriel and his assistant Grace deeply embroiled in a murder mystery that unravels half a world away. Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his demons while Grace traces a historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted, and the only hope for deliverance lies in the most desperate schemes. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within) and [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/Thumbnail.png "I Have No Mouth, and I Must Scream")
->
-> </td>
->
-> <td>
->
-> ## [I Have No Mouth, and I Must Scream](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the Earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/In%20the%201st%20Degree/Thumbnail.png "In the 1st Degree")
->
-> </td>
->
-> <td>
->
-> ## [In the 1st Degree](../../../All%20Programs/Games/In%20the%201st%20Degree/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
->
-> ❝ Someone is dead. Someone is lying. Can you prove Murder One? Some artists die for their art. James Tobin killed, or did he? As a D.A. in San Francisco, you must prove that he did. It has become the most sensational murder case to hit the Bay Area in years. Who will lead you to the truth? The passionate girlfriend of the accused? The socially connected wife of the victim? Perhaps his bitter apprentice? Every reluctant witness and shred of evidence may paint a homicidal portrait as chilling and surreal as one of Tobin's paintings. And as if that were not enough, everyone will be watching you on this one, especially the media. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/Thumbnail.png "Indiana Jones and the Fate of Atlantis")
->
-> </td>
->
-> <td>
->
-> ## [Indiana Jones and the Fate of Atlantis](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/README.md)
->
-> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Plato knew about Atlantis. In a lost dialogue, he wrote about the famed city and orichalcum, the mysterious element that powered the Atlanteans' stunning machinery. The Nazis know about Atlantis. They tracked down the lost dialogue and realized orichalcum would yield them the ultimate weapon of the age. Sophia knows about Atlantis. She unearthed a mysterious necklace and beads of orichalcum during an Icelandic archeological dig with Indy. Their magical properties made her a psychic. Everyone knows except Indy, and he has got to learn fast. The Nazis are one step ahead of him - from Iceland to North Africa and the Azores to Atlantis. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis) and [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/Thumbnail.png "Indiana Jones and the Last Crusade: The Graphic Adventure")
->
-> </td>
->
-> <td>
->
-> ## [Indiana Jones and the Last Crusade: The Graphic Adventure](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/README.md)
->
-> 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk 
->
-> ❝ Europe, 1938. The Lost Ark was just a warm-up! Now, Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")
->
-> </td>
->
-> <td>
->
-> ## [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md)
->
-> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction become fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞
->
-> ❝ A collection of Cinemaware games is available as **Cinemaware Anthology: 1986-1991** release on [Steam 💰](https://store.steampowered.com/app/326590/Cinemaware_Anthology_19861991/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia//Thumbnail.png "The Legend of Kyrandia - Book One")
->
-> </td>
->
-> <td>
->
-> ## [The Legend of Kyrandia - Book One](../../../All%20Programs/Games/Legend%20of%20Kyrandia//README.md)
->
-> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia. The Legend of Kyrandia awaits you. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/Thumbnail.png "The Legend of Kyrandia - Book Two: Hand of Fate")
->
-> </td>
->
-> <td>
->
-> ## [The Legend of Kyrandia - Book Two: Hand of Fate](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Now you see it. Now you don't. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/Thumbnail.png "The Legend of Kyrandia - Book Three: Malcolm's Revenge")
->
-> </td>
->
-> <td>
->
-> ## [The Legend of Kyrandia - Book Three: Malcolm's Revenge](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ As punishment for the murder of Kyrandia's King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/Thumbnail.png "Lighthouse: The Dark Being")
->
-> </td>
->
-> <td>
->
-> ## [Lighthouse: The Dark Being](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 2.0 
->
-> ❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. Dark Being terrorized a parallel universe. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. Lives and worlds hang in the balance. Dr. Jeremiah Krick summoned you on a rescue mission. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and barren world. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Loom/Thumbnail.png "Loom")
->
-> </td>
->
-> <td>
->
-> ## [Loom](../../../All%20Programs/Games/Loom/README.md)
->
-> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Long after the passing of the Second Shadow, when dragons ruled the twilight sky and the stars were bright and numerous, came the Age of the Great Guilds. Blacksmiths, Shepherds, Clerics. Each dedicates themself to the absolute control of secret knowledge. Another such Guild was the Weavers. Over the centuries, their craft transcended the limits of physical cloth - until they wove the very fabric of reality itself. Now, a strange power has swept the Weavers into oblivion, leaving behind one Weaver boy to unravel the mystery. Help young Bobbin rescue his Guild. You might save the Universe from an unspeakable catastrophe. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/loom) and [Steam 💰](https://store.steampowered.com/app/32340/LOOM/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png "Lure of the Temptress")
->
-> </td>
->
-> <td>
->
-> ## [Lure of the Temptress](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/README.md)
->
-> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM 
->
-> ❝ You play Diermot, who finds himself imprisoned in a depressing cell. Meanwhile, life in the village of Turnvale goes on as ever, just an ordinary day. Well, as normal as you could hope for, considering the Skorl are in town. They're big, ugly, and not particularly pleasant! Will they overpower Diermot? Or can he escape from his cell and bring peace back to the land? It depends on you. ❞
->
-> ❝ The game was well-received and re-released as freeware on April 1, 2003. ❞ — *Wikipedia*
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Milo/Thumbnail.png "Milo")
->
-> </td>
->
-> <td>
->
-> ## [Milo](../../../All%20Programs/Games/Milo/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Long ago, an advanced Alien race discovered the key to the universe, a secret beyond human comprehension. What is left is a few incredible ruins and Milo, the android caretaker of the lost worlds. Milo has kept the ruins in good condition thanks to his advanced hyper-intelligent neural net. But he cannot go on forever. His artificial intelligence circuitry will fail if not challenged, and he's been left alone for too long. You have been brought to this place to challenge Milo. You must solve his tests and defeat him. Only then will he grant you the treasured keys to the universe? ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Mission%20Critical/Thumbnail.png "Mission Critical")
->
-> </td>
->
-> <td>
->
-> ## [Mission Critical](../../../All%20Programs/Games/Mission%20Critical/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0.0 11-01-1995 
->
-> ❝ After a savage battle in deep space, you are the only survivor aboard the USS Lexington, a badly damaged heavy cruiser. Your mission is to repair the hobbled ship and fend off the upcoming onslaught. Only then can you venture to an unexplored world 68 light years from Earth and discover the secret that could save the universe from interplanetary war. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/mission_critical) and [Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/Thumbnail.png "The Secret of Monkey Island")
->
-> </td>
->
-> <td>
->
-> ## [The Secret of Monkey Island](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/README.md)
->
-> 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Compressed Package 
->
-> ❝ Welcome to the Port of Melee, Mr. Guybrush Threepwood. So you think you've got what it takes to be a swashbucklin', bloodthirsty pirate like the rest of us? Do you think a young swabby like yourself to be the first to tame mysterious Monkey Island? Well, laddy, there's more to being a buccaneer than just swinging a sword and swillin' gallons of Grog. First, you have to pass the Seadog test. Good luck! You are going to need it. ❞
->
-> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/Thumbnail.png "Monkey Island 2: LeChuck's Revenge")
->
-> </td>
->
-> <td>
->
-> ## [Monkey Island 2: LeChuck's Revenge](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/README.md)
->
-> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Compressed Package 
->
-> ❝ I thought I had killed the Ghost Pirate LeChuck for good. Wrong. How many times can that bloated old fool die? Other pirates tell me there's no escape. "When LeChuck wants you dead, you're dead", they say. Legend has it that the treasure of Big Whoop holds the key to great power. I must find it before LeChuck finds me. ❞
->
-> ❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Myst/Thumbnail.png "Myst")
->
-> </td>
->
-> <td>
->
-> ## [Myst](../../../All%20Programs/Games/Myst/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Journey to an island world surrealistically tinged with mystery, where every vibrant rock, a scrap of paper, and sound may hold vital clues to your unravelling a chilling tale of intrigue and injustice that defies all boundaries of time and space. Only your wits and imagination will serve to stay the course and unlock the ancient betrayal of ages past. ❞
->
-> ❝ This game **is not abandonware 🚫**. A **Masterpiece Edition** release is available on [GOG 💰](https://www.gog.com/en/game/myst_masterpiece_edition) and [Steam 💰](https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Panic%20in%20the%20Park/Thumbnail.png "Panic in the Park")
->
-> </td>
->
-> <td>
->
-> ## [Panic in the Park](../../../All%20Programs/Games/Panic%20in%20the%20Park/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual** 
->
-> ❝ A set of twins - one virtuous, one diabolical, both beautiful - are fighting for the fate of the aging Skyview amusement park, operated by the twin's father until his recent death. But there's more behind the park's gates than first meets the eye. As a reporter, you must navigate a complex web of intrigue to get to the heart of the mystery. It's up to you to help the twins find the park's missing deed by morning to save it from destruction. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/Thumbnail.png "Pepper's Adventures in Time")
->
-> </td>
->
-> <td>
->
-> ## [Pepper's Adventures in Time](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package 
->
-> ❝ Pepper has a big problem. Her Uncle Fred, the family's scientist, has scrambled colonial America into one big hysterical, historical omelette! The British are about to win the war this time unless you can set the facts straight! If you want help with this sticky situation, talk to Ben Franklin, but be careful! Uncle Fred's confused him, too! You'll have to help Ben out, or the world will never know Ben. You'll be amazed by his wisdom and cracked up by his sense of humour! It is too much for one kid to handle, so Pepper brought some backup - her mischievous mutt, Lockjaw. You'll get to play as a dog! Do all the doggie things you've always wanted to try. Sniff out mysteries. Dig holes. Chew things up. BITE PEOPLE! ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Phantasmagoria/Thumbnail.png "Phantasmagoria")
->
-> </td>
->
-> <td>
->
-> ## [Phantasmagoria](../../../All%20Programs/Games/Phantasmagoria/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1 
->
-> ❝ It seemed like a dream come true for Adrienne Delaney and Don Gordon. A beautiful mansion on its private island. The perfect place to build a life together. But an ominous presence lurks within the halls, the rooms, and every passageway of this mysterious home. The previous owner, a 19th-century master illusionist, left behind a twisted trail of terror. Quickly, the blissful life Adrienne and Don hoped for begins to unravel into a terrible nightmare. With your help, Adrienne must uncover the clues and gather the objects she needs in a desperate attempt to save her husband from an insidious evil that holds him in its ever-tightening grip. Discover the mansion's hidden rooms, explore the island, and try to find the mystery man with the secret to the past. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria) and [Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria 2: A Puzzle of Flesh")
->
-> </td>
->
-> <td>
->
-> ## [Phantasmagoria 2: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Windows 95 to DOS 
->
-> ❝ Curtis Craig is a quiet young man. He has a steady job and a lovely girlfriend. He's been out of the mental hospital for exactly one year. All Curtis wants is to live a decent life, but something seems to have other plans. Strange, inexplicable, and terrifying events start happening, making him doubt his sanity. Then, the murders start, with evidence pointing directly to Curtis. Propelled by desperation and ravening madness, he will discover a bizarre secret beyond human comprehension. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria_2) and [Steam 💰](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Private%20Eye/Thumbnail.png "Private Eye")
->
-> </td>
->
-> <td>
->
-> ## [Private Eye](../../../All%20Programs/Games/Private%20Eye/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Humphrey Bogart played him. Robert Mitchum played him. Now it's your turn to become Philip Marlowe, the world's most famous private eye! All other private eye games are imitations. It is the real thing, the first interactive murder mystery based on Raymond Chandler's legendary detective. Meet starlets, confront a manic mobster, and search Hollywood for clues you can take. Hundreds of interactive decisions are yours! It all starts with an innocent girl who hires you to find her missing brother, but it soon leads to a trail of greed, blackmail, revenge, deceit and murder! ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Return%20to%20Zork/Thumbnail.png "Return to Zork")
->
-> </td>
->
-> <td>
->
-> ## [Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/Thumbnail.png "SPQR: The Empire's Darkest Hour")
->
-> </td>
->
-> <td>
->
-> ## [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/Thumbnail.png "Sam & Max: Hit the Road")
->
-> </td>
->
-> <td>
->
-> ## [Sam & Max: Hit the Road](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/README.md)
->
-> 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Grab your nightstick, squeal like a siren, and Hit the Road with Sam & Max, Freelance Police, as they attempt to crack their case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure. Help our frightening, furry flatfoots find the fugitive freak! ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Sanitarium/Thumbnail.png "Sanitarium")
->
-> </td>
->
-> <td>
->
-> ## [Sanitarium](../../../All%20Programs/Games/Sanitarium/README.md)
->
-> 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Multiple files 
->
-> ❝ Spiralling upwards out of the vacuum, you open your eyes and struggle to comprehend your environment. Underneath you, the springs of an institutional cot sink almost to the floor. The mattress is roughly the thickness of a paper towel and reeks of affliction. Vague memories assault you, a hurried phone call, a message of utmost importance, and a car losing control. As you wake up with a throbbing head, you hear people screaming, sobbing, laughing manically in the background. Is it a nightmare? Are you insane? Is it a reality? Maybe this is death. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sanitarium) and [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Shannara/Thumbnail.png "Shannara")
->
-> </td>
->
-> <td>
->
-> ## [Shannara](../../../All%20Programs/Games/Shannara/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Brona, the ancient Warlock King, has returned! Slain decades ago, Brona's evil spirit has returned to wreak revenge upon those who killed him. Now, only the combined magic of the races can destroy him. You are Jak Ohmsford. Only you can overcome the ancestral hatreds that divide the Four Lands. And only you can wield the magic that will defeat Brona. It is your destiny to save your homeland-but the price is far higher than you could have ever imagined. ❞
->
-> ❝ This game **is not abandonware 🚫** and used to be for sale on **Ziggurat**. However, it is no longer available digitally anymore. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Superhero%20League%20of%20Hoboken/Thumbnail.png "Superhero League of Hoboken")
->
-> </td>
->
-> <td>
->
-> ## [Superhero League of Hoboken](../../../All%20Programs/Games/Superhero%20League%20of%20Hoboken/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure • Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ The United States is a nightmare land of toxic waste, melted ice caps, and desperate shortages of oat bran. Horrible mutations roam the countryside, monsters spawned by radiation, environmental toxins, and unregulated bioengineering. But in a tiny corner of New Jersey, a small group of Superheroes has banded together. Their mission is to nurture the rebirth of a new society, to ease the suffering of the dark age, and to provide a place where Superheroes can always find a date on Saturday night. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken) and [Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Teen%20Agent/Thumbnail.png "Teen Agent")
->
-> </td>
->
-> <td>
->
-> ## [Teen Agent](../../../All%20Programs/Games/Teen%20Agent/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Compressed Package ┃ **No Manual** 
->
-> ❝ One day, two men in dark glasses and long coats captured a teenager; this could be the start of a very long day! Get ready for a wonderfully humorous adventure. Teen Agent is a point-and-click animated graphic adventure that features dozens of detailed hand-painted backgrounds. ❞
->
-> ❝ When the game was originally released, "The Three Tasks" was shareware, and the remaining two sections could be obtained by registering the game. However, the game was later released as freeware. ❞ — *Wikipedia*
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Tex%20Murphy%20-%20Martian%20Memorandum/Thumbnail.png "Tex Murphy: Martian Memorandum")
->
-> </td>
->
-> <td>
->
-> ## [Tex Murphy: Martian Memorandum](../../../All%20Programs/Games/Tex%20Murphy%20-%20Martian%20Memorandum/README.md)
->
-> 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk 
->
-> ❝ It's 2039, six years after solving the Linsky murder case. The years have been less than kind to Tex Murphy. In post-holocaust San Francisco, he has been into constant radiation, but what's put the lines in his face are the years trying to stay afloat and recapture the glory of his first big case. While working on his first case, Tex stumbled into - and foiled - a conspiracy to dominate the world. Since then, he's been high and dry, trying to keep from being broke. Understandably, he jumps at an offer by the powerful Marshall Alexander. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/302340/Tex_Murphy_Martian_Memorandum/) and [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) (**Mean Streets + Martian Memorandum**). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Tex%20Murphy%20-%20Mean%20Streets/Thumbnail.png "Tex Murphy: Mean Streets")
->
-> </td>
->
-> <td>
->
-> ## [Tex Murphy: Mean Streets](../../../All%20Programs/Games/Tex%20Murphy%20-%20Mean%20Streets/README.md)
->
-> 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk ┃ **Patched** ‣ 1.4 
->
-> ❝ It's the year 2033. Your name is Tex Murphy, a private investigator in San Francisco. A beautiful daughter of a university professor hired you to uncover the facts about her father's death. As the investigation begins, you expose the deaths of several prominent scientific community members. Are these deaths coincidental? Or is there something more sinister going on? And which characters could have a motive? Could it be J. Saint Gideon, the former head of British Intelligence? Could Frank Schimming, the President of the world's largest surveillance firm, be hiding something? Or what about Sylvia, the professor's daughter? Is she as innocent as she seems? And why is an infamous Detroit hitman in town? ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/302330/Tex_Murphy_Mean_Streets/) and [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) (**Mean Streets + Martian Memorandum**). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Tex%20Murphy%20-%20The%20Pandora%20Directive/Thumbnail.png "Tex Murphy: The Pandora Directive")
->
-> </td>
->
-> <td>
->
-> ## [Tex Murphy: The Pandora Directive](../../../All%20Programs/Games/Tex%20Murphy%20-%20The%20Pandora%20Directive/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ The government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes – find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/Thumbnail.png "Tex Murphy: Under a Killing Moon")
->
-> </td>
->
-> <td>
->
-> ## [Tex Murphy: Under a Killing Moon](../../../All%20Programs/Games/Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/README.md)
->
-> 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.04 
->
-> ❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/The%20Dig/Thumbnail.png "The Dig")
->
-> </td>
->
-> <td>
->
-> ## [The Dig](../../../All%20Programs/Games/The%20Dig/README.md)
->
-> 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink. Once the wayward asteroid is in a safe orbit, they examine the asteroid's rocky surface. What they uncover is anything but routine. Low, Brink, and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The spacecraft transported them across the galaxy to a desolate planet, Cocytus, after the 9th circle of Hell in Dante's Inferno. The bleak landscape was once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels. But no Cocytans. Who were the original inhabitants of this once rich-empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins and Brink been brought to this place? And how can Low keep his team from unravelling in the face of such uncertainty? To return to Earth, they must dig for answers on the planet's surface and deep within themselves. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_dig) and [Steam 💰](https://store.steampowered.com/app/6040/The_Dig/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/The%20Gene%20Machine/Thumbnail.png "The Gene Machine")
->
-> </td>
->
-> <td>
->
-> ## [The Gene Machine](../../../All%20Programs/Games/The%20Gene%20Machine/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.07 
->
-> ❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire was expanding throughout the globe, bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/Thumbnail.png "The Lost Adventures of Legend")
->
-> </td>
->
-> <td>
->
-> ## [The Lost Adventures of Legend](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Year (Companions of Xanth)** ‣ 1993 ┃ **Year (Eric the Unready)** ‣ 1993 ┃ **Year (Spellcasting 101: Sorcerers get all the Girls)** ‣ 1990 ┃ **Year (Spellcasting 201: The Sorcerer's Appliance)** ‣ 1991 ┃ **Year (Spellcasting 301: Spring Break)** ‣ 1992 ┃ **Year (Gateway)** ‣ 1992 ┃ **Year (Gateway II: Homeworld)** ‣ 1993 ┃ **Year (Timequest)** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **License (Gateway)** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
->
-> ❝ The Lost Adventures is a compilation of eight award-winning adventures spanning the sci-fi, fantasy and comedy categories. ❞
->
-> ❝ Besides **Gateway**, all the games in this compilation **are not abandonware 🚫**. Two games, **Companions of Xanth** and **Gateway II: Homeworld**, are no longer available digitally. Other games are available on *GOG 💰* and *Steam 💰*. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/Thumbnail.png "The Lost Files of Sherlock Holmes: Case of the Rose Tattoo")
->
-> </td>
->
-> <td>
->
-> ## [The Lost Files of Sherlock Holmes: Case of the Rose Tattoo](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation, you will unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It's all in a day's work for the world's most famous detective. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/Thumbnail.png "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel")
->
-> </td>
->
-> <td>
->
-> ## [The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md)
->
-> 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM 
->
-> ❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion, Dr Watson, to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞
->
->
-> </td></tr></table>
-
-&nbsp;
-
-> <table><tr><td width="255">
->
-> ![](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/Thumbnail.png "Titanic: Adventure Out of Time")
->
-> </td>
->
-> <td>
->
-> ## [Titanic: Adventure Out of Time](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/README.md)
->
-> 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM 
->
-> ❝ Intrigue and adventure await you on board the Titanic, the most famous ocean liner in history. As a British secret agent on a vital mission, it is up to you to change the course of history as you explore the world's most luxurious ocean vessel in all its original splendour. Navigate the amazingly detailed 3D reconstruction of the doomed ocean liner and rub elbows with high society from the turn of the century, searching for clues and solving challenging puzzles that could alter world history. Then, on the night of April 14, 1912, you plunge into a race against time. Both spectator and participant in a multi-tiered drama, your survival and the fate of millions hinge on your actions during the last hours of the sinking ocean liner. ❞
->
-> ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/). ❞
->
->
-> </td></tr></table>
-
-&nbsp;
+# 🗂️ Games ‣ By Genre ‣ Adventure (66)
+
+---
+
+| [3 Skulls of the Toltecs](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![3 Skulls of the Toltecs](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/Thumbnail.png "3 Skulls of the Toltecs")](../../../All%20Programs/Games/3%20Skulls%20of%20the%20Toltecs/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Saddle up and mosey on into town for one of the most challenging, hilarious and exciting adventures this side of Texas! The treasures of the Toltecs are within your reach - riches beyond your wildest dreams. But first, you must locate the three skulls. And believe me - it isn't that easy. You must travel through the Wild West and encounter multiple characters, the good, the bad and the downright ugly! ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/fenimore_fillmore_3_skulls_of_the_toltecs) and [Steam 💰](https://store.steampowered.com/app/977300/Fenimore_Fillmore_3_Skulls_of_the_Toltecs/). ❞<br> |
+
+---
+
+| [Amazon: Guardians of Eden](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Amazon: Guardians of Eden](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/Thumbnail.png "Amazon: Guardians of Eden")](../../../All%20Programs/Games/Amazon%20-%20Guardians%20of%20Eden/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Journey back to 1957 on an expedition to the dark heart of the Amazon Basin. A desperate, crazed message sends you on a perilous search through a land where legends come to life, danger hides behind every corner, and incredible treasures await. The plot follows the adventure of Jason Roberts. Roberts starts his expedition to help find his brother and eventually races for a lost treasure. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/amazon_guardians_of_eden). ❞<br> |
+
+---
+
+| [Are You Afraid of the Dark? The Tale of Orpheo's Curse](../../../All%20Programs/Games/Are%20You%20Afraid%20of%20the%20Dark%3F%20The%20Tale%20of%20Orpheo%27s%20Curse/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Are You Afraid of the Dark? The Tale of Orpheo's Curse](../../../All%20Programs/Games/Are%20You%20Afraid%20of%20the%20Dark%3F%20The%20Tale%20of%20Orpheo%27s%20Curse/Thumbnail.png "Are You Afraid of the Dark? The Tale of Orpheo's Curse")](../../../All%20Programs/Games/Are%20You%20Afraid%20of%20the%20Dark%3F%20The%20Tale%20of%20Orpheo%27s%20Curse/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ You are a brother and sister team trapped inside a haunted theatre. You discover Orpheo, the Mad Magician, has put an evil curse on it, or so you think. Dare to explore this ghoulish theatre as you search for clues to unlock the mystery. Remember, surprises await you at every turn. Watch out! You'll encounter strange and twisted characters. Listen closely to the talking ghosts. Search for clues as you solve dozens of puzzles. ❞<br> |
+
+---
+
+| [Bad Mojo](../../../All%20Programs/Games/Bad%20Mojo/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Bad Mojo](../../../All%20Programs/Games/Bad%20Mojo/Thumbnail.png "Bad Mojo")](../../../All%20Programs/Games/Bad%20Mojo/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Inside a seedy, dilapidated bar in San Fransisco, your dreams of escape are about to be realized. But remembering one last keepsake, magic suddenly seized you, and your transformation begins. You emerge as a cockroach from within the damp walls of Eddie's bar. Enter a world of perilous puzzles and bizarre perspectives. What you discover may shock you. What you don't may kill you. Either way, you won't come out the same person. You may not even come out as a person at all. ❞<br><br>❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Redux** release is available on [Steam 💰](https://store.steampowered.com/app/255960/Bad_Mojo_Redux/). ❞<br> |
+
+---
+
+| [Beneath a Steel Sky](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Beneath a Steel Sky](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/Thumbnail.png "Beneath a Steel Sky")](../../../All%20Programs/Games/Beneath%20a%20Steel%20Sky/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Robert Foster is an innocent outsider stranded in a vast city where oppressed civilians live and work in soaring tower blocks. All while the corrupt, covetous and wealthy lie underground, shielded from all pollution. Alone with a robot circuit board, Foster must fight for survival and discover the sinister truth behind this abduction. ❞<br><br>❝ The game was made available as freeware – and with the source code released – for PC platforms in 2003. ❞ — *Wikipedia*<br> |
+
+---
+
+| [Beyond Time](../../../All%20Programs/Games/Beyond%20Time/README.md) | 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Beyond Time](../../../All%20Programs/Games/Beyond%20Time/Thumbnail.png "Beyond Time")](../../../All%20Programs/Games/Beyond%20Time/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Step through the gateway into a 3D world of puzzles and adventure. Beyond the Mayan city, the Temple of Osiris, the Tibetan Palace, and the ruins of Atlantis. Explore every world and unlock the secrets to this fascinating mystery. The intrigue will guide you on an epic adventure. ❞<br> |
+
+---
+
+| [Broken Sword: The Shadow of the Templars](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Extra Command**  |
+|:---:|:---|
+|  [![Broken Sword: The Shadow of the Templars](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/Thumbnail.png "Broken Sword: The Shadow of the Templars")](../../../All%20Programs/Games/Broken%20Sword%20-%20The%20Shadow%20of%20the%20Templars/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Uncover the identity of a jester assassin. Unlock the legend of the Knights Templar. Unravel a plot as twisted as the catacombs you will be wandering. As an American in Paris, George Stobbart, you find it odd when an accordion-playing clown darts out of a cafe clutching a briefcase. Moments later, a force of massive explosion sent you flying right into a sinister world of intrigue. What are the coveted contents of that briefcase? A fiercely guarded manuscript penned by a clandestine medieval order - the Knights Templar. Steal it back before a group of Megalomaniacs fathoms its mysteries and overturns the very balance of life. ❞<br><br>❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Director's Cut** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut). ❞<br> |
+
+---
+
+| [Broken Sword II: The Smoking Mirror](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/README.md) | 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Broken Sword II: The Smoking Mirror](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/Thumbnail.png "Broken Sword II: The Smoking Mirror")](../../../All%20Programs/Games/Broken%20Sword%20II%20-%20The%20Smoking%20Mirror/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Plunge into a shadowy conspiracy world where the schemes of a mad drug kingpin and the prophesized return of an ancient Mayan god clash in what could be the end of the world. Race around the globe with George as he frantically attempts to free Nico, his investigative reporter girlfriend, from the clutches of Karzac's crime cartel. Guide Nico and George as they unravel the dark mysteries that lead them closer and closer to an ancient horror best left buried in the steamy jungles of Central America. Gather clues and make friends, but beware - a smiling face can hide a deadly obstacle in your quest to stop the return of "he who devours the sun and consumes the flesh of all mankind", the mighty Mayan God, Tezcatlipoca. ❞<br><br>❝ This game **is not abandonware 🚫**. The **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) and [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/). ❞<br> |
+
+---
+
+| [Call of Cthulhu: Prisoner of Ice](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Compressed Package ┃ **Extra Command**  |
+|:---:|:---|
+|  [![Call of Cthulhu: Prisoner of Ice](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/Thumbnail.png "Call of Cthulhu: Prisoner of Ice")](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Prisoner%20of%20Ice/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Board the H.M.S. Victoria for a voyage to places beyond your wildest imagination! From the icy wastelands of Antarctica to secret German military camps and espionage in Buenos Aires, this supernatural action adventure will pique your obsession with horror and intrigue. You are in charge of your destiny. But beware, the twisted events of your voyage will take you to task at every turn. Take the risk. Teleport yourself across the globe to a Socerers cave, unleash the secrets of aliens frozen in ice or solve the case of smuggled Top Secret cargo. Prepare to face the most chilling adventure on ice. Remember, you are one step ahead of capture, one step behind horror! ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/call_of_cthulhu_prisoner_of_ice) and [Steam 💰](https://store.steampowered.com/app/359620/Call_of_Cthulhu_Prisoner_of_Ice/). ❞<br> |
+
+---
+
+| [Call of Cthulhu: Shadow of the Comet](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Call of Cthulhu: Shadow of the Comet](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/Thumbnail.png "Call of Cthulhu: Shadow of the Comet")](../../../All%20Programs/Games/Call%20of%20Cthulhu%20-%20Shadow%20of%20the%20Comet/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The year is 1910. Bathed in pale Spring sunlight, the small fishing port of Illsmouth is a sleepy New England town where time seems to stand still. Appearances can be very deceiving, however. Beneath the peaceful tranquillity of this small village, a horrifying truth lingers. Whispers in a dusty, secluded library ripple with fear as questions of the past into the present. Is there a link between the return of Halley Comet and the resurgence of the Great Ancients who once dominated the land in a reign of terror? Legend tells tales of an ancient ritual ground, hidden deep in the shadows of the tangled forest, marked by an ornate and mysterious cross. Once, long ago, this site was the stage for wild and terrifying rites that no one speaks of, lest they suffer the wrath of the Ancients. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/call_of_cthulhu_shadow_of_the_comet) and [Steam 💰](https://store.steampowered.com/app/389470/Call_of_Cthulhu_Shadow_of_the_Comet/). ❞<br> |
+
+---
+
+| [Callahan's Crosstime Saloon](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/README.md) | 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0.1  |
+|:---:|:---|
+|  [![Callahan's Crosstime Saloon](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/Thumbnail.png "Callahan's Crosstime Saloon")](../../../All%20Programs/Games/Callahan%27s%20Crosstime%20Saloon/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The Gods have decided that our very Universe is closing. The regulars in Callahan's Crosstime Saloon can either drink up and go home or do something about it. But Callahan's is no ordinary neighbourhood bar. Think of it as a cross between Cheers and the Star Wars Cantina. It is where every being knows your name, even if you are from another time or another universe. ❞<br> |
+
+---
+
+| [Dark Seed](../../../All%20Programs/Games/Dark%20Seed/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Dark Seed](../../../All%20Programs/Games/Dark%20Seed/Thumbnail.png "Dark Seed")](../../../All%20Programs/Games/Dark%20Seed/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ You are Mike Dawson, a science fiction writer who purchased an old Victorian house. As you explore your new home, you soon discover you have bought more than you bargained for. Control the fate of two worlds: The world as we know it and the dark world of an ancient and dying civilization. Unlock the secret of a sinister plot and discover the dark passage to their world, a place more terrifying than your darkest nightmare. Time is running out. You are on a collision course with destiny, and only you can save yourself and the world from a cruel fate. All of humanity depends on you. ❞<br> |
+
+---
+
+| [Dark Seed II](../../../All%20Programs/Games/Dark%20Seed%20II/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Dark Seed II](../../../All%20Programs/Games/Dark%20Seed%20II/Thumbnail.png "Dark Seed II")](../../../All%20Programs/Games/Dark%20Seed%20II/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ In his hometown, Mike's high school sweetheart, Rita, is found murdered after the high school reunion. Unfortunately, Mike has no recollection of the events that night, even though he was with Rita. Mike becomes the prime suspect and now must work to clear his name. In digging up the dirty little secrets of his neighbours, Mike unwittingly stumbles into the Dark World, a place he thought he would never see again. The ancients have returned to exact revenge on Mike and unleash an evil entity into the Normal World. As Mike Dawson, you must clear your name and stop the ancients from carrying out their most ingenious scheme yet. ❞<br> |
+
+---
+
+| [Day of the Tentacle](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Day of the Tentacle](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/Thumbnail.png "Day of the Tentacle")](../../../All%20Programs/Games/Day%20of%20the%20Tentacle/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure featuring cartoon-style animation and over 100 zany sound effects. ❞<br><br>❝ This version is the original/legacy release for DOS. A **Remastered** release is available on [GOG 💰](https://www.gog.com/en/game/day_of_the_tentacle_remastered). ❞<br> |
+
+---
+
+| [Death Gate](../../../All%20Programs/Games/Death%20Gate/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Death Gate](../../../All%20Programs/Games/Death%20Gate/Thumbnail.png "Death Gate")](../../../All%20Programs/Games/Death%20Gate/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Long ago, the powerful Sartans broke the World Seal and sundered the planet into five magical realms. Since then, generations of defeated Patryns have survived bleak existence in the nightmarish prison of the Labyrinth. But now, one man discovers the Death Gate, a treacherous crossing that leads to freedom. His quest: to recover the scattered pieces of the World Seal, wreak his revenge and deliver his people into independence. ❞<br><br>❝ GOG.com released an emulated version for Microsoft Windows, macOS, and Linux in January 2018. It was removed from sale two months later. ❞ — *Wikipedia*<br><br>❝ This game **is not abandonware 🚫** and used to be for sale on **GOG**. However, it is no longer available digitally anymore. [What happened to 'Death Gate'?](https://www.gog.com/forum/death_gate/what_happened_to_death_gate) ❞<br> |
+
+---
+
+| [Discworld](../../../All%20Programs/Games/Discworld/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.04  |
+|:---:|:---|
+|  [![Discworld](../../../All%20Programs/Games/Discworld/Thumbnail.png "Discworld")](../../../All%20Programs/Games/Discworld/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ You will find wizards, dragons, heroes, and household hygiene specialists. There is danger here, but there is also custard around the place. Discworld is a fantasy world with a low reality threshold. The real world keeps on breaking through, but Discworld changes it. However, because it is a fantasy world, there are some things that it has to have, and one of them is a certain tendency to experience some trouble with dragons. Unfortunately, a dragon is now ravaging Ankh-Morpork, the world's leading city. Many people consider this a civic improvement, but Ankh-Morpork needs a hero. All they have, however, is Rincewind, a wizard whose only talent is that he is not, in fact, dead yet. He also has the Luggage, the nastiest piece of travelware in the universe. With that at his side, there is probably no limit to things he can fail to do. Oh, did I say he? I meant you. ❞<br> |
+
+---
+
+| [Discworld II: Missing presumed...!?](../../../All%20Programs/Games/Discworld%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ #3  |
+|:---:|:---|
+|  [![Discworld II: Missing presumed...!?](../../../All%20Programs/Games/Discworld%20II/Thumbnail.png "Discworld II: Missing presumed...!?")](../../../All%20Programs/Games/Discworld%20II/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Death has gone missing. It means those whose time is up are faltering around in limbo. A hero is needed to bring him back. But there's only Rincewind, an incompetent wizard and highly trained coward. You won't catch Rincewind running away. He is too fast. Unfortunately, he is all standing between people and the horrible prospect of immortality. No one wants that, do they? ❞<br> |
+
+---
+
+| [Dust: A Tale of the Wired West](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Dust: A Tale of the Wired West](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/Thumbnail.png "Dust: A Tale of the Wired West")](../../../All%20Programs/Games/Dust%20-%20A%20Tale%20of%20the%20Wired%20West/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ You are stranded somewhere on the digital frontier. On the run, without a friend, a gun, or a past. Just over the horizon is the key to your survival, in the form of Diamondback, a scruffy Old West outpost in 1882 New Mexico. Stroll down Main Street, belly up in the bar, battle gunslingers, or help Native Americans recover their stolen heritage. Whatever you do is up to you. But when rumours surface of lost Spanish silver, mayhem follows. Can you save a hardscrabble band of pioneers from themselves? Or will you succumb to temptation in a town where you are the only law? Boot up and find out. ❞<br> |
+
+---
+
+| [Lost Secret of the Rainforest](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package  |
+|:---:|:---|
+|  [![Lost Secret of the Rainforest](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/Thumbnail.png "Lost Secret of the Rainforest")](../../../All%20Programs/Games/EcoQuest%20-%20Lost%20Secret%20of%20the%20Rainforest/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Lost Secret of the Rainforest is a trek through lush jungles, mysterious caverns, and ancient ruins atop craggy, mist-covered peaks. This adventure requires that you defeat the real-life dangers threatening the rainforests of South America. As you explore this exotic ecosystem, you will encounter endangered animal species, rare flora, and remote native cultures. Your challenge is to prevent their extinction by poachers and other outlaws who would destroy the environment to satisfy their greed. If you're successful, you will learn the truth behind the enigmatic face of the rainforest. ❞<br> |
+
+---
+
+| [EcoQuest: The Search for Cetus](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/README.md) | 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![EcoQuest: The Search for Cetus](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/Thumbnail.png "EcoQuest: The Search for Cetus")](../../../All%20Programs/Games/EcoQuest%20-%20The%20Search%20for%20Cetus/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Set out on a challenging undersea odyssey as you discover a delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the environmental issues facing each of us today. You'll also have the adventure of your life. Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the ruins of ancient civilizations and rescue sea creatures that got hurt or poisoned by pollution. Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards. ❞<br> |
+
+---
+
+| [Flight of the Amazon Queen](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Flight of the Amazon Queen](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/Thumbnail.png "Flight of the Amazon Queen")](../../../All%20Programs/Games/Flight%20of%20the%20Amazon%20Queen/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Joe King, a pilot for hire and owner of the Amazon Queen aeroplane, arrives at a hotel in Rio de Janeiro to transport his next customer, famous film actress Faye Russel, only to be ambushed by his Dutch rival Anderson. When Joe pilots the Amazon Queen towards the location of Faye's shoot, a storm causes him to crashland in the Amazon jungle. Joe begins searching the jungle, encountering an entire tribe of Amazon women who capture him and take in Faye. ❞<br><br>❝ In March 2004, the game was released as freeware, and support for it was added to ScummVM, allowing it to be played on Linux, Mac OS X, Windows, and many other operating systems and consoles. ❞ — *Wikipedia*<br> |
+
+---
+
+| [Frankenstein: Through the Eyes of the Monster](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Frankenstein: Through the Eyes of the Monster](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/Thumbnail.png "Frankenstein: Through the Eyes of the Monster")](../../../All%20Programs/Games/Frankenstein%20-%20Through%20the%20Eyes%20of%20the%20Monster/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Between life and death, man and monster, lies the test of the human heart. With a crash of lightning, you are reborn to a world of haunted memories and science pushed beyond the bounds of nature. Your thoughts come slowly like distant echoes. The mystery of your existence pulls at your mind: An ancient castle of dark secrets and hidden terrors; A strange crystal glows with life itself. The burning memory of a child long thought dead and a discovery that crosses the boundaries between life and death. ❞<br> |
+
+---
+
+| [Full Throttle](../../../All%20Programs/Games/Full%20Throttle/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Full Throttle](../../../All%20Programs/Games/Full%20Throttle/Thumbnail.png "Full Throttle")](../../../All%20Programs/Games/Full%20Throttle/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ You're Ben. You're on the road. You're indestructible. You'll do whatever it takes to clear your name from a bum murder rap - Like fighting ugly gangs with futuristic bikes and Neolithic weapons, running big rigs off the road at 100 mph, making people pay. But that is what happens when you live your life at Full Throttle. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/full_throttle_remastered). ❞<br> |
+
+---
+
+| [Future Wars: Adventures in Time](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Future Wars: Adventures in Time](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/Thumbnail.png "Future Wars: Adventures in Time")](../../../All%20Programs/Games/Future%20Wars%20-%20Adventures%20in%20Time/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ In the 43rd century, an alien race is attacking Earth. The planet is well-protected by a formidable SDI defence that the aliens cannot penetrate. Until they hit a plan, sabotage the defences before they are built by travelling back in time to plant delayed-action bombs at strategic places! Your adventure starts in the present day when, innocently attempting to avoid your boss at work, you stumble across a secret passage that transports you ‘back in time' to the start of a quest that takes you into the Middle Ages, Prehistoric Times, and the distant future. ❞<br> |
+
+---
+
+| [Gabriel Knight: Sins of the Fathers](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0a  |
+|:---:|:---|
+|  [![Gabriel Knight: Sins of the Fathers](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/Thumbnail.png "Gabriel Knight: Sins of the Fathers")](../../../All%20Programs/Games/Gabriel%20Knight%20-%20Sins%20of%20the%20Fathers/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ He started out writing a book on voodoo. Now, he's fighting for his very soul. Gabriel Knight is the last in a long line of Shadow Hunters, those fated to fight the dark forces of the supernatural. Haunted by a centuries-old curse, terrifying nightmares torment him. Now, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. And when he sleeps - the nightmare begins. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) and [Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/). ❞<br> |
+
+---
+
+| [Gabriel Knight 2: The Beast Within](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Gabriel Knight 2: The Beast Within](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/Thumbnail.png "Gabriel Knight 2: The Beast Within")](../../../All%20Programs/Games/Gabriel%20Knight%202%20-%20The%20Beast%20Within/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Now we find Schattenjäger, or shadow hunter, Gabriel and his assistant Grace deeply embroiled in a murder mystery that unravels half a world away. Play as both Gabriel and Grace as they are dispatched to Munich to solve a series of mutilation murders thought to be the work of werewolves. Gabriel confronts his demons while Grace traces a historical mystery, that of the strange demise of Mad King Ludwig II. The hunters become the hunted, and the only hope for deliverance lies in the most desperate schemes. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within) and [Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/). ❞<br> |
+
+---
+
+| [I Have No Mouth, and I Must Scream](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![I Have No Mouth, and I Must Scream](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/Thumbnail.png "I Have No Mouth, and I Must Scream")](../../../All%20Programs/Games/I%20Have%20No%20Mouth%2C%20and%20I%20Must%20Scream/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Assume the roles of five different characters, each in a unique environment. Challenging dilemma dealing with powerfully charged emotional issues. Provocative psychological and adult-oriented themes. Based on Harlan Ellison's short story "I Have No Mouth, and I Must Scream", one of the ten most reprinted stories in the English language. Buried deep within the centre of the Earth, trapped in the bowels of an insane computer for the past hundred and nine years: Gorrister the suicidal loner, Benny the mutilated brute, Ellen the hysterical phobic, Nimdok the secretive sadist, and Ted the cynical paranoid. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/i_have_no_mouth_and_i_must_scream) and [Steam 💰](https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/). ❞<br> |
+
+---
+
+| [In the 1st Degree](../../../All%20Programs/Games/In%20the%201st%20Degree/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual**  |
+|:---:|:---|
+|  [![In the 1st Degree](../../../All%20Programs/Games/In%20the%201st%20Degree/Thumbnail.png "In the 1st Degree")](../../../All%20Programs/Games/In%20the%201st%20Degree/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Someone is dead. Someone is lying. Can you prove Murder One? Some artists die for their art. James Tobin killed, or did he? As a D.A. in San Francisco, you must prove that he did. It has become the most sensational murder case to hit the Bay Area in years. Who will lead you to the truth? The passionate girlfriend of the accused? The socially connected wife of the victim? Perhaps his bitter apprentice? Every reluctant witness and shred of evidence may paint a homicidal portrait as chilling and surreal as one of Tobin's paintings. And as if that were not enough, everyone will be watching you on this one, especially the media. ❞<br> |
+
+---
+
+| [Indiana Jones and the Fate of Atlantis](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Indiana Jones and the Fate of Atlantis](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/Thumbnail.png "Indiana Jones and the Fate of Atlantis")](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Fate%20of%20Atlantis/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Plato knew about Atlantis. In a lost dialogue, he wrote about the famed city and orichalcum, the mysterious element that powered the Atlanteans' stunning machinery. The Nazis know about Atlantis. They tracked down the lost dialogue and realized orichalcum would yield them the ultimate weapon of the age. Sophia knows about Atlantis. She unearthed a mysterious necklace and beads of orichalcum during an Icelandic archeological dig with Indy. Their magical properties made her a psychic. Everyone knows except Indy, and he has got to learn fast. The Nazis are one step ahead of him - from Iceland to North Africa and the Azores to Atlantis. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/indiana_jones_and_the_fate_of_atlantis) and [Steam 💰](https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/). ❞<br> |
+
+---
+
+| [Indiana Jones and the Last Crusade: The Graphic Adventure](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/README.md) | 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk  |
+|:---:|:---|
+|  [![Indiana Jones and the Last Crusade: The Graphic Adventure](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/Thumbnail.png "Indiana Jones and the Last Crusade: The Graphic Adventure")](../../../All%20Programs/Games/Indiana%20Jones%20and%20the%20Last%20Crusade%20-%20The%20Graphic%20Adventure/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Europe, 1938. The Lost Ark was just a warm-up! Now, Adolph Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones, and he has his dad with him. The bad guys are in your face - mercenaries, traitors, and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you might earn a higher IQ (Indy Quotient) than the man with the whip and the hat. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/indiana_jones_and_the_last_crusade) and [Steam 💰](https://store.steampowered.com/app/32310/Indiana_Jones_and_the_Last_Crusade/). ❞<br> |
+
+---
+
+| [It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![It Came from the Desert](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/Thumbnail.png "It Came from the Desert")](../../../All%20Programs/Games/It%20Came%20from%20the%20Desert/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ A crawling terror whose towering fury no one can escape. A new dimension in terror that will have you screaming for mercy. Ants, twenty feet tall, go marching one by one, using your hometown as a human picnic basket! Panic grips the city as these monster-sized mutations strike terror all over again. Witness science fiction become fact as the unimaginable becomes real and the impossible becomes true! You will marvel as the screen explodes with action so real you can feel the desert wind chap your parched lips. Sound effects are so eerie you can hear the distant marching of giant harvester ants on the prowl! ❞<br><br>❝ A collection of Cinemaware games is available as **Cinemaware Anthology: 1986-1991** release on [Steam 💰](https://store.steampowered.com/app/326590/Cinemaware_Anthology_19861991/). ❞<br> |
+
+---
+
+| [The Legend of Kyrandia - Book One](../../../All%20Programs/Games/Legend%20of%20Kyrandia//README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![The Legend of Kyrandia - Book One](../../../All%20Programs/Games/Legend%20of%20Kyrandia//Thumbnail.png "The Legend of Kyrandia - Book One")](../../../All%20Programs/Games/Legend%20of%20Kyrandia//README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Kyrandia is a land of mysterious forests and sleeping dragons. A fantasy land where rubies grow on trees and magic abounds. Who would imagine a land so idyllic would spawn a murderer so demented? Some say that court jester Malcolm was mad, to begin with. His burning desire to possess the precious Kyragem slowly drove him to slay the peaceful King William. As the rightful prince of Kyrandia, you must pursue the elusive Malcolm to recover the powerful gemstone. Only then will you be able to reclaim the throne and restore harmony to the land of Kyrandia. The Legend of Kyrandia awaits you. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia). ❞<br> |
+
+---
+
+| [The Legend of Kyrandia - Book Two: Hand of Fate](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![The Legend of Kyrandia - Book Two: Hand of Fate](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/Thumbnail.png "The Legend of Kyrandia - Book Two: Hand of Fate")](../../../All%20Programs/Games/Legend%20of%20Kyrandia%202%20-%20Hand%20of%20fate/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Now you see it. Now you don't. The land of Kyrandia is disappearing piece by piece. You are the offbeat, young mystic who must voyage to the centre of the world to break the curse and save it. Your surreal journey will twist even the sharpest of minds. Travelling through a vast, weirdly beautiful terrain, you must concoct potions, cast spells, and lure the help of some very bizarre inhabitants to uncover the secrets that doom Kyrandia. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/legend_of_kyrandia_hand_of_fate). ❞<br> |
+
+---
+
+| [The Legend of Kyrandia - Book Three: Malcolm's Revenge](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![The Legend of Kyrandia - Book Three: Malcolm's Revenge](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/Thumbnail.png "The Legend of Kyrandia - Book Three: Malcolm's Revenge")](../../../All%20Programs/Games/Legend%20of%20Kyrandia%203%20-%20Malcolm%27s%20Revenge/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ As punishment for the murder of Kyrandia's King and Queen, Malcolm, the warped court jester, was turned to stone. Years later, a freak accident has set him free to exact his sweet revenge, and you need to help him. Use magic, guile, cunning and devious disguises to explore the island of Kyrandia and beyond, from the Ends of the Earth to the Underworld. Discover the secrets of the Isle of Cats and the Cave of Wonder, and meet a cast of quirky characters: pugnacious pirates, the foolish Fish Cream Jerk, and the dead Queen Katherine. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/legend_of_kyrandia_malcolms_revenge). ❞<br> |
+
+---
+
+| [Lighthouse: The Dark Being](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 2.0  |
+|:---:|:---|
+|  [![Lighthouse: The Dark Being](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/Thumbnail.png "Lighthouse: The Dark Being")](../../../All%20Programs/Games/Lighthouse%20-%20The%20Dark%20Being/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Pass through a shimmering portal into a world teeming with invention, discovery, and evil. Dark Being terrorized a parallel universe. Alien technology, unearthly treachery, and brain-twisting danger skulk around every craggy cliff and corner. Lives and worlds hang in the balance. Dr. Jeremiah Krick summoned you on a rescue mission. Do you have the courage and the imagination to leave your world and enter the unknown? You are the beacon of hope in a strange and barren world. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/lighthouse_the_dark_being). ❞<br> |
+
+---
+
+| [Little Big Adventure](../../../All%20Programs/Games/Little%20Big%20Adventure/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Little Big Adventure](../../../All%20Programs/Games/Little%20Big%20Adventure/Thumbnail.png "Little Big Adventure")](../../../All%20Programs/Games/Little%20Big%20Adventure/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Chilling dreams of destruction and doom fill your mind. You feel compelled to warn the world. In doing so, the tyrannous Dr. Funfrock imprisoned you. Are you in prison because of a dream? You know in your soul that you must escape somehow and discover the meaning behind this mystery. As Twinsen, prophet and saviour, you embark on a surreal and suspenseful journey. You cross continents to save the world and stop your evil nemesis. Your enemies may overtake you at any moment. Relentless you must be, for only those who remain pure can overcome the peril that awaits. ❞<br><br>❝ In October 2021 both Little Big Adventure 1 and 2 engines source code were released under the GPL. ❞ — *Wikipedia*<br><br>❝ The free original version is available on [GOG 🆓](https://www.gog.com/en/game/twinsens_little_big_adventure_classic_original_edition) and [Steam 🆓](https://store.steampowered.com/app/1857700/Twinsens_Little_Big_Adventure_Classic__Original_Edition/). The updated and enhanced version is available on [GOG 💰](https://www.gog.com/en/game/little_big_adventure) and [Steam 💰](https://store.steampowered.com/app/397330/Twinsens_Little_Big_Adventure_Classic/). ❞<br> |
+
+---
+
+| [Little Big Adventure 2](../../../All%20Programs/Games/Little%20Big%20Adventure%202/README.md) | 📌 ┃ **Year** ‣ 1997 ┃ **Genre** ‣ Action • Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Little Big Adventure 2](../../../All%20Programs/Games/Little%20Big%20Adventure%202/Thumbnail.png "Little Big Adventure 2")](../../../All%20Programs/Games/Little%20Big%20Adventure%202/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Twinsen, the plucky hero of Relentless, returns to face his greatest challenge ever. When strange aliens arrive from a neighbouring planet and begin kidnapping magicians and children, Twinsen uncovers an evil plot to obliterate his homeworld. In an epic adventure that will propel him across the galaxy, Twinsen must defeat the aliens and their evil god, the Dark Monk, and save his planet. ❞<br><br>❝ In October 2021 both Little Big Adventure 1 and 2 engines source code were released under the GPL. ❞ — *Wikipedia*<br><br>❝ The free original version is available on [GOG 🆓](https://www.gog.com/en/game/twinsens_little_big_adventure_2_classic_original_edition) and [Steam 🆓](https://store.steampowered.com/app/1857710/Twinsens_Little_Big_Adventure_2_Classic__Original_Edition/). The updated and enhanced version is available on [GOG 💰](https://www.gog.com/en/game/little_big_adventure_2) and [Steam 💰](https://store.steampowered.com/app/398000/Twinsens_Little_Big_Adventure_2_Classic/). ❞<br> |
+
+---
+
+| [Loom](../../../All%20Programs/Games/Loom/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Loom](../../../All%20Programs/Games/Loom/Thumbnail.png "Loom")](../../../All%20Programs/Games/Loom/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Long after the passing of the Second Shadow, when dragons ruled the twilight sky and the stars were bright and numerous, came the Age of the Great Guilds. Blacksmiths, Shepherds, Clerics. Each dedicates themself to the absolute control of secret knowledge. Another such Guild was the Weavers. Over the centuries, their craft transcended the limits of physical cloth - until they wove the very fabric of reality itself. Now, a strange power has swept the Weavers into oblivion, leaving behind one Weaver boy to unravel the mystery. Help young Bobbin rescue his Guild. You might save the Universe from an unspeakable catastrophe. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/loom) and [Steam 💰](https://store.steampowered.com/app/32340/LOOM/). ❞<br> |
+
+---
+
+| [Lure of the Temptress](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Lure of the Temptress](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/Thumbnail.png "Lure of the Temptress")](../../../All%20Programs/Games/Lure%20of%20the%20Temptress/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ You play Diermot, who finds himself imprisoned in a depressing cell. Meanwhile, life in the village of Turnvale goes on as ever, just an ordinary day. Well, as normal as you could hope for, considering the Skorl are in town. They're big, ugly, and not particularly pleasant! Will they overpower Diermot? Or can he escape from his cell and bring peace back to the land? It depends on you. ❞<br><br>❝ The game was well-received and re-released as freeware on April 1, 2003. ❞ — *Wikipedia*<br> |
+
+---
+
+| [Milo](../../../All%20Programs/Games/Milo/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Milo](../../../All%20Programs/Games/Milo/Thumbnail.png "Milo")](../../../All%20Programs/Games/Milo/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Long ago, an advanced Alien race discovered the key to the universe, a secret beyond human comprehension. What is left is a few incredible ruins and Milo, the android caretaker of the lost worlds. Milo has kept the ruins in good condition thanks to his advanced hyper-intelligent neural net. But he cannot go on forever. His artificial intelligence circuitry will fail if not challenged, and he's been left alone for too long. You have been brought to this place to challenge Milo. You must solve his tests and defeat him. Only then will he grant you the treasured keys to the universe? ❞<br> |
+
+---
+
+| [Mission Critical](../../../All%20Programs/Games/Mission%20Critical/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.0.0 11-01-1995  |
+|:---:|:---|
+|  [![Mission Critical](../../../All%20Programs/Games/Mission%20Critical/Thumbnail.png "Mission Critical")](../../../All%20Programs/Games/Mission%20Critical/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ After a savage battle in deep space, you are the only survivor aboard the USS Lexington, a badly damaged heavy cruiser. Your mission is to repair the hobbled ship and fend off the upcoming onslaught. Only then can you venture to an unexplored world 68 light years from Earth and discover the secret that could save the universe from interplanetary war. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/mission_critical) and [Steam 💰](https://store.steampowered.com/app/1006460/Mission_Critical/). ❞<br> |
+
+---
+
+| [The Secret of Monkey Island](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Compressed Package  |
+|:---:|:---|
+|  [![The Secret of Monkey Island](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/Thumbnail.png "The Secret of Monkey Island")](../../../All%20Programs/Games/Monkey%20Island%20-%20The%20Secret%20of%20Monkey%20Island/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Welcome to the Port of Melee, Mr. Guybrush Threepwood. So you think you've got what it takes to be a swashbucklin', bloodthirsty pirate like the rest of us? Do you think a young swabby like yourself to be the first to tame mysterious Monkey Island? Well, laddy, there's more to being a buccaneer than just swinging a sword and swillin' gallons of Grog. First, you have to pass the Seadog test. Good luck! You are going to need it. ❞<br><br>❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition). ❞<br> |
+
+---
+
+| [Monkey Island 2: LeChuck's Revenge](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/README.md) | 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Compressed Package  |
+|:---:|:---|
+|  [![Monkey Island 2: LeChuck's Revenge](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/Thumbnail.png "Monkey Island 2: LeChuck's Revenge")](../../../All%20Programs/Games/Monkey%20Island%202%20-%20LeChuck%27s%20Revenge/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ I thought I had killed the Ghost Pirate LeChuck for good. Wrong. How many times can that bloated old fool die? Other pirates tell me there's no escape. "When LeChuck wants you dead, you're dead", they say. Legend has it that the treasure of Big Whoop holds the key to great power. I must find it before LeChuck finds me. ❞<br><br>❝ This version is the original/legacy release for DOS. This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/monkey_island_2_special_edition_lechucks_revenge). ❞<br> |
+
+---
+
+| [Myst](../../../All%20Programs/Games/Myst/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Myst](../../../All%20Programs/Games/Myst/Thumbnail.png "Myst")](../../../All%20Programs/Games/Myst/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Journey to an island world surrealistically tinged with mystery, where every vibrant rock, a scrap of paper, and sound may hold vital clues to your unravelling a chilling tale of intrigue and injustice that defies all boundaries of time and space. Only your wits and imagination will serve to stay the course and unlock the ancient betrayal of ages past. ❞<br><br>❝ This game **is not abandonware 🚫**. A **Masterpiece Edition** release is available on [GOG 💰](https://www.gog.com/en/game/myst_masterpiece_edition) and [Steam 💰](https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/). ❞<br> |
+
+---
+
+| [Panic in the Park](../../../All%20Programs/Games/Panic%20in%20the%20Park/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **No Manual**  |
+|:---:|:---|
+|  [![Panic in the Park](../../../All%20Programs/Games/Panic%20in%20the%20Park/Thumbnail.png "Panic in the Park")](../../../All%20Programs/Games/Panic%20in%20the%20Park/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ A set of twins - one virtuous, one diabolical, both beautiful - are fighting for the fate of the aging Skyview amusement park, operated by the twin's father until his recent death. But there's more behind the park's gates than first meets the eye. As a reporter, you must navigate a complex web of intrigue to get to the heart of the mystery. It's up to you to help the twins find the park's missing deed by morning to save it from destruction. ❞<br> |
+
+---
+
+| [Pepper's Adventures in Time](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure • Educational ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Compressed Package  |
+|:---:|:---|
+|  [![Pepper's Adventures in Time](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/Thumbnail.png "Pepper's Adventures in Time")](../../../All%20Programs/Games/Pepper%27s%20Adventures%20in%20Time/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Pepper has a big problem. Her Uncle Fred, the family's scientist, has scrambled colonial America into one big hysterical, historical omelette! The British are about to win the war this time unless you can set the facts straight! If you want help with this sticky situation, talk to Ben Franklin, but be careful! Uncle Fred's confused him, too! You'll have to help Ben out, or the world will never know Ben. You'll be amazed by his wisdom and cracked up by his sense of humour! It is too much for one kid to handle, so Pepper brought some backup - her mischievous mutt, Lockjaw. You'll get to play as a dog! Do all the doggie things you've always wanted to try. Sniff out mysteries. Dig holes. Chew things up. BITE PEOPLE! ❞<br> |
+
+---
+
+| [Phantasmagoria](../../../All%20Programs/Games/Phantasmagoria/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1  |
+|:---:|:---|
+|  [![Phantasmagoria](../../../All%20Programs/Games/Phantasmagoria/Thumbnail.png "Phantasmagoria")](../../../All%20Programs/Games/Phantasmagoria/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ It seemed like a dream come true for Adrienne Delaney and Don Gordon. A beautiful mansion on its private island. The perfect place to build a life together. But an ominous presence lurks within the halls, the rooms, and every passageway of this mysterious home. The previous owner, a 19th-century master illusionist, left behind a twisted trail of terror. Quickly, the blissful life Adrienne and Don hoped for begins to unravel into a terrible nightmare. With your help, Adrienne must uncover the clues and gather the objects she needs in a desperate attempt to save her husband from an insidious evil that holds him in its ever-tightening grip. Discover the mansion's hidden rooms, explore the island, and try to find the mystery man with the secret to the past. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria) and [Steam 💰](https://store.steampowered.com/app/501990/Phantasmagoria/). ❞<br> |
+
+---
+
+| [Phantasmagoria 2: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Windows 95 to DOS  |
+|:---:|:---|
+|  [![Phantasmagoria 2: A Puzzle of Flesh](../../../All%20Programs/Games/Phantasmagoria%202/Thumbnail.png "Phantasmagoria 2: A Puzzle of Flesh")](../../../All%20Programs/Games/Phantasmagoria%202/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Curtis Craig is a quiet young man. He has a steady job and a lovely girlfriend. He's been out of the mental hospital for exactly one year. All Curtis wants is to live a decent life, but something seems to have other plans. Strange, inexplicable, and terrifying events start happening, making him doubt his sanity. Then, the murders start, with evidence pointing directly to Curtis. Propelled by desperation and ravening madness, he will discover a bizarre secret beyond human comprehension. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/phantasmagoria_2) and [Steam 💰](https://store.steampowered.com/app/501970/Phantasmagoria_2_A_Puzzle_of_Flesh/). ❞<br> |
+
+---
+
+| [Private Eye](../../../All%20Programs/Games/Private%20Eye/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Private Eye](../../../All%20Programs/Games/Private%20Eye/Thumbnail.png "Private Eye")](../../../All%20Programs/Games/Private%20Eye/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Humphrey Bogart played him. Robert Mitchum played him. Now it's your turn to become Philip Marlowe, the world's most famous private eye! All other private eye games are imitations. It is the real thing, the first interactive murder mystery based on Raymond Chandler's legendary detective. Meet starlets, confront a manic mobster, and search Hollywood for clues you can take. Hundreds of interactive decisions are yours! It all starts with an innocent girl who hires you to find her missing brother, but it soon leads to a trail of greed, blackmail, revenge, deceit and murder! ❞<br> |
+
+---
+
+| [Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/Thumbnail.png "Return to Zork")](../../../All%20Programs/Games/Return%20to%20Zork/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞<br> |
+
+---
+
+| [SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![SPQR: The Empire's Darkest Hour](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/Thumbnail.png "SPQR: The Empire's Darkest Hour")](../../../All%20Programs/Games/SPQR%20-%20The%20Empire%27s%20Darkest%20Hour/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ This game challenges you to learn how the Roman Empire works: structurally, mechanically, economically, culturally, and politically. Given one year to investigate five equally suspicious suspects, you must solve the ultimate mystery: Who is plotting to destroy Rome? How will they do it? Explore the streets, temples, and secret labyrinths of the Roman Forum to save the Roman Empire. ❞<br> |
+
+---
+
+| [Sam & Max: Hit the Road](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Sam & Max: Hit the Road](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/Thumbnail.png "Sam & Max: Hit the Road")](../../../All%20Programs/Games/Sam%20%26%20Max%20Hit%20the%20Road/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Grab your nightstick, squeal like a siren, and Hit the Road with Sam & Max, Freelance Police, as they attempt to crack their case. Sam (a shamus canine) and Max (a hyperkinetic rabbity thing) are hot on the trail of a runaway carnival bigfoot across America's quirky underbelly in this deranged animated adventure. Help our frightening, furry flatfoots find the fugitive freak! ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sam_max_hit_the_road). ❞<br> |
+
+---
+
+| [Sanitarium](../../../All%20Programs/Games/Sanitarium/README.md) | 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Multiple files  |
+|:---:|:---|
+|  [![Sanitarium](../../../All%20Programs/Games/Sanitarium/Thumbnail.png "Sanitarium")](../../../All%20Programs/Games/Sanitarium/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Spiralling upwards out of the vacuum, you open your eyes and struggle to comprehend your environment. Underneath you, the springs of an institutional cot sink almost to the floor. The mattress is roughly the thickness of a paper towel and reeks of affliction. Vague memories assault you, a hurried phone call, a message of utmost importance, and a car losing control. As you wake up with a throbbing head, you hear people screaming, sobbing, laughing manically in the background. Is it a nightmare? Are you insane? Is it a reality? Maybe this is death. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/sanitarium) and [Steam 💰](https://store.steampowered.com/app/284050/Sanitarium/). ❞<br> |
+
+---
+
+| [Shannara](../../../All%20Programs/Games/Shannara/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Shannara](../../../All%20Programs/Games/Shannara/Thumbnail.png "Shannara")](../../../All%20Programs/Games/Shannara/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Brona, the ancient Warlock King, has returned! Slain decades ago, Brona's evil spirit has returned to wreak revenge upon those who killed him. Now, only the combined magic of the races can destroy him. You are Jak Ohmsford. Only you can overcome the ancestral hatreds that divide the Four Lands. And only you can wield the magic that will defeat Brona. It is your destiny to save your homeland-but the price is far higher than you could have ever imagined. ❞<br><br>❝ This game **is not abandonware 🚫** and used to be for sale on **Ziggurat**. However, it is no longer available digitally anymore. ❞<br> |
+
+---
+
+| [Superhero League of Hoboken](../../../All%20Programs/Games/Superhero%20League%20of%20Hoboken/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure • Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Superhero League of Hoboken](../../../All%20Programs/Games/Superhero%20League%20of%20Hoboken/Thumbnail.png "Superhero League of Hoboken")](../../../All%20Programs/Games/Superhero%20League%20of%20Hoboken/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The United States is a nightmare land of toxic waste, melted ice caps, and desperate shortages of oat bran. Horrible mutations roam the countryside, monsters spawned by radiation, environmental toxins, and unregulated bioengineering. But in a tiny corner of New Jersey, a small group of Superheroes has banded together. Their mission is to nurture the rebirth of a new society, to ease the suffering of the dark age, and to provide a place where Superheroes can always find a date on Saturday night. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/superhero_league_of_hoboken) and [Steam 💰](https://store.steampowered.com/app/1104470/Super_Hero_League_of_Hoboken/). ❞<br> |
+
+---
+
+| [Teen Agent](../../../All%20Programs/Games/Teen%20Agent/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Compressed Package ┃ **No Manual**  |
+|:---:|:---|
+|  [![Teen Agent](../../../All%20Programs/Games/Teen%20Agent/Thumbnail.png "Teen Agent")](../../../All%20Programs/Games/Teen%20Agent/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ One day, two men in dark glasses and long coats captured a teenager; this could be the start of a very long day! Get ready for a wonderfully humorous adventure. Teen Agent is a point-and-click animated graphic adventure that features dozens of detailed hand-painted backgrounds. ❞<br><br>❝ When the game was originally released, "The Three Tasks" was shareware, and the remaining two sections could be obtained by registering the game. However, the game was later released as freeware. ❞ — *Wikipedia*<br> |
+
+---
+
+| [Tex Murphy: Martian Memorandum](../../../All%20Programs/Games/Tex%20Murphy%20-%20Martian%20Memorandum/README.md) | 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk  |
+|:---:|:---|
+|  [![Tex Murphy: Martian Memorandum](../../../All%20Programs/Games/Tex%20Murphy%20-%20Martian%20Memorandum/Thumbnail.png "Tex Murphy: Martian Memorandum")](../../../All%20Programs/Games/Tex%20Murphy%20-%20Martian%20Memorandum/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ It's 2039, six years after solving the Linsky murder case. The years have been less than kind to Tex Murphy. In post-holocaust San Francisco, he has been into constant radiation, but what's put the lines in his face are the years trying to stay afloat and recapture the glory of his first big case. While working on his first case, Tex stumbled into - and foiled - a conspiracy to dominate the world. Since then, he's been high and dry, trying to keep from being broke. Understandably, he jumps at an offer by the powerful Marshall Alexander. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/302340/Tex_Murphy_Martian_Memorandum/) and [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) (**Mean Streets + Martian Memorandum**). ❞<br> |
+
+---
+
+| [Tex Murphy: Mean Streets](../../../All%20Programs/Games/Tex%20Murphy%20-%20Mean%20Streets/README.md) | 📌 ┃ **Year** ‣ 1989 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ Floppy Disk ┃ **Patched** ‣ 1.4  |
+|:---:|:---|
+|  [![Tex Murphy: Mean Streets](../../../All%20Programs/Games/Tex%20Murphy%20-%20Mean%20Streets/Thumbnail.png "Tex Murphy: Mean Streets")](../../../All%20Programs/Games/Tex%20Murphy%20-%20Mean%20Streets/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ It's the year 2033. Your name is Tex Murphy, a private investigator in San Francisco. A beautiful daughter of a university professor hired you to uncover the facts about her father's death. As the investigation begins, you expose the deaths of several prominent scientific community members. Are these deaths coincidental? Or is there something more sinister going on? And which characters could have a motive? Could it be J. Saint Gideon, the former head of British Intelligence? Could Frank Schimming, the President of the world's largest surveillance firm, be hiding something? Or what about Sylvia, the professor's daughter? Is she as innocent as she seems? And why is an infamous Detroit hitman in town? ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/302330/Tex_Murphy_Mean_Streets/) and [GOG 💰](https://www.gog.com/en/game/tex_murphy_1_2) (**Mean Streets + Martian Memorandum**). ❞<br> |
+
+---
+
+| [Tex Murphy: The Pandora Directive](../../../All%20Programs/Games/Tex%20Murphy%20-%20The%20Pandora%20Directive/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Tex Murphy: The Pandora Directive](../../../All%20Programs/Games/Tex%20Murphy%20-%20The%20Pandora%20Directive/Thumbnail.png "Tex Murphy: The Pandora Directive")](../../../All%20Programs/Games/Tex%20Murphy%20-%20The%20Pandora%20Directive/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The government has covered up the greatest secret of the 20th century. Tex doesn't like secrets. It's April 2043. You, Tex Murphy, the last of the old-style gumshoes – find yourself racing against time in the most dangerous game of your life. What is the truth behind the rumoured UFO crash at Roswell, New Mexico? Why did the military suddenly shut down and seal off the Roswell complex? And why the frequent references to the lost Mayan civilization? ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/tex_murphy_the_pandora_directive) and [Steam 💰](https://store.steampowered.com/app/302360/Tex_Murphy_The_Pandora_Directive/). ❞<br> |
+
+---
+
+| [Tex Murphy: Under a Killing Moon](../../../All%20Programs/Games/Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.04  |
+|:---:|:---|
+|  [![Tex Murphy: Under a Killing Moon](../../../All%20Programs/Games/Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/Thumbnail.png "Tex Murphy: Under a Killing Moon")](../../../All%20Programs/Games/Tex%20Murphy%20-%20Under%20a%20Killing%20Moon/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ In December 2042, Tex Murphy, the last of the old-style PIs, hit rock bottom. From the shadowy back streets of post-apocalyptic San Francisco come rumours that an ancient evil, foretold by prophecy and worshipped by an ancient blood cult, has mysteriously reawakened. Hired to find the stolen statuette, he plunged into a labyrinth of deceit, manipulation, and murder. He will need his PI instincts and every ounce of his savoir-faire to resist the seduction of darkness and stop the forces of evil - before the terrifying prophecies turn into reality. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/tex_murphy_under_a_killing_moon) and [Steam 💰](https://store.steampowered.com/app/302350/Tex_Murphy_Under_a_Killing_Moon/). ❞<br> |
+
+---
+
+| [The Dig](../../../All%20Programs/Games/The%20Dig/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![The Dig](../../../All%20Programs/Games/The%20Dig/Thumbnail.png "The Dig")](../../../All%20Programs/Games/The%20Dig/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ An asteroid the size of a small moon is on a crash course toward Earth, and only NASA veteran Boston Low has the expertise to stop it. Along for the ride are award-winning journalist Maggie Robbins and internationally renowned geologist Ludger Brink. Once the wayward asteroid is in a safe orbit, they examine the asteroid's rocky surface. What they uncover is anything but routine. Low, Brink, and Robbins unwittingly trigger a mechanism that transforms the asteroid into a crystal-like spacecraft. The spacecraft transported them across the galaxy to a desolate planet, Cocytus, after the 9th circle of Hell in Dante's Inferno. The bleak landscape was once home to a highly evolved civilization, with remnants of sophisticated architecture, advanced technology and an intricate network of underground tunnels. But no Cocytans. Who were the original inhabitants of this once rich-empire-turned-wasteland? What are those apparitions that mysteriously appear from time to time? Why have Low, Robbins and Brink been brought to this place? And how can Low keep his team from unravelling in the face of such uncertainty? To return to Earth, they must dig for answers on the planet's surface and deep within themselves. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_dig) and [Steam 💰](https://store.steampowered.com/app/6040/The_Dig/). ❞<br> |
+
+---
+
+| [The Gene Machine](../../../All%20Programs/Games/The%20Gene%20Machine/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.07  |
+|:---:|:---|
+|  [![The Gene Machine](../../../All%20Programs/Games/The%20Gene%20Machine/Thumbnail.png "The Gene Machine")](../../../All%20Programs/Games/The%20Gene%20Machine/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ It is the age of England. Under the stern rule of Queen Victoria, the British Empire was expanding throughout the globe, bringing the bright light of civilization to the darkest reaches of the wild. Wherever there is poverty and heathen ritual, wherever people drop their H's or don't take afternoon tea, there is at least one garrison of Her Majesty's Army ready to shoot anyone with bare feet. It is a time of adventure and discovery. It is the most exciting of times. Those born to the correct families can look forward to working at the forefront of modern technology as the world succumbs to the power of steam. ❞<br> |
+
+---
+
+| [The Lost Adventures of Legend](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Companions of Xanth)** ‣ 1993 ┃ **Year (Eric the Unready)** ‣ 1993 ┃ **Year (Spellcasting 101: Sorcerers get all the Girls)** ‣ 1990 ┃ **Year (Spellcasting 201: The Sorcerer's Appliance)** ‣ 1991 ┃ **Year (Spellcasting 301: Spring Break)** ‣ 1992 ┃ **Year (Gateway)** ‣ 1992 ┃ **Year (Gateway II: Homeworld)** ‣ 1993 ┃ **Year (Timequest)** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **License (Gateway)** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation**  |
+|:---:|:---|
+|  [![The Lost Adventures of Legend](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/Thumbnail.png "The Lost Adventures of Legend")](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The Lost Adventures is a compilation of eight award-winning adventures spanning the sci-fi, fantasy and comedy categories. ❞<br><br>❝ Besides **Gateway**, all the games in this compilation **are not abandonware 🚫**. Two games, **Companions of Xanth** and **Gateway II: Homeworld**, are no longer available digitally. Other games are available on *GOG 💰* and *Steam 💰*. ❞<br> |
+
+---
+
+| [The Lost Files of Sherlock Holmes: Case of the Rose Tattoo](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![The Lost Files of Sherlock Holmes: Case of the Rose Tattoo](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/Thumbnail.png "The Lost Files of Sherlock Holmes: Case of the Rose Tattoo")](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Rose%20Tattoo/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Test your sleuthing skills as you assume the role of Sherlock Holmes, master detective. An explosion sets off a criminal chain of events - theft, treason, and murder. Thrill to the chase as you investigate a sensitive case, immersing yourself in the sights and sounds of Victorian England. During the investigation, you will unravel heinous crimes, maintain national security, save the government from public ridicule and impeachment, and protect the honour of the Royal family. It's all in a day's work for the world's most famous detective. ❞<br> |
+
+---
+
+| [The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/Thumbnail.png "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel")](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion, Dr Watson, to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞<br> |
+
+---
+
+| [Titanic: Adventure Out of Time](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Titanic: Adventure Out of Time](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/Thumbnail.png "Titanic: Adventure Out of Time")](../../../All%20Programs/Games/Titanic%20-%20Adventure%20Out%20of%20Time/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Intrigue and adventure await you on board the Titanic, the most famous ocean liner in history. As a British secret agent on a vital mission, it is up to you to change the course of history as you explore the world's most luxurious ocean vessel in all its original splendour. Navigate the amazingly detailed 3D reconstruction of the doomed ocean liner and rub elbows with high society from the turn of the century, searching for clues and solving challenging puzzles that could alter world history. Then, on the night of April 14, 1912, you plunge into a race against time. Both spectator and participant in a multi-tiered drama, your survival and the fate of millions hinge on your actions during the last hours of the sinking ocean liner. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/titanic_adventure_out_of_time) and [Steam 💰](https://store.steampowered.com/app/785480/Titanic_Adventure_Out_Of_Time/). ❞<br> |
+
+---
 
