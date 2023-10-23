@@ -9,7 +9,7 @@
 > ❝ To mark the 13th anniversary of Command and Conquer and the announcement of Red Alert 3, EA released Command and Conquer: Red Alert as freeware. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Year (Counterstrike & The Aftermath)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched • Compilation** 
+📌 ┃ **Year** ‣ 1996 ┃ **Year (Counterstrike & The Aftermath)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Red Alert - The Aftermath mission bugfix ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

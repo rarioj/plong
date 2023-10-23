@@ -7,7 +7,7 @@
 > ❝ Road & Track presents Need for Speed Special Edition with 8 Purebred Exotics: Lamborghini Diablo VT, Chevrolet Corvette ZR-1, Porsche 911 Carrera, Ferrari 512TR, Acura NSX, Mazda RX-7, Dodge Viper RT/10, and Toyota Supra Turbo. ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Video glitch 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Video glitch bugfix 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

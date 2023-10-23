@@ -20,7 +20,7 @@
 
 ---
 
-| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Conflicts in Civilization)** ‣ 1996 ┃ **Year (Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization ┃ **Compilation**  |
+| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Conflicts in Civilization)** ‣ 1996 ┃ **Year (Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization scenarios ┃ **Add-on**  |
 |:---:|:---|
 |  [![Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Sid Meier's Civilization II")](../../../All%20Programs/Games/Civilization%20II/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully. ❞<br> |
 
@@ -116,9 +116,9 @@
 
 ---
 
-| [SimCity 2000](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
+| [SimCity 2000: CD Collection](../../../All%20Programs/Games/SimCity%202000/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
-|  [![SimCity 2000](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/Thumbnail.png "SimCity 2000")](../../../All%20Programs/Games/SimCity%202000%20-%20CD%20Collection/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞<br><br>❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞<br> |
+|  [![SimCity 2000: CD Collection](../../../All%20Programs/Games/SimCity%202000/Thumbnail.png "SimCity 2000: CD Collection")](../../../All%20Programs/Games/SimCity%202000/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞<br><br>❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞<br> |
 
 ---
 

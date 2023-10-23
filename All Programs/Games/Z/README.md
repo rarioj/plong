@@ -2,7 +2,7 @@
 
 # Z
 
-> ❝ Z is a riotous race for supremacy between armies of space-faring robots. Your one aim in life as the commander of your forces is to conquer planets and wipe out the enemy forces. You’ll have to take charge of your robot units and direct them in battle. The action is fast and furious. Be prepared to make life-and-death decisions on the spur of the moment. Remember, in Z, if you hesitate, you’ve had it! ❞
+> ❝ Z is a riotous race for supremacy between armies of space-faring robots. Your one aim in life as the commander of your forces is to conquer planets and wipe out the enemy forces. You'll have to take charge of your robot units and direct them in battle. The action is fast and furious. Be prepared to make life-and-death decisions on the spur of the moment. Remember, in Z, if you hesitate, you've had it! ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/z), [Steam 💰](https://store.steampowered.com/app/275530/Z/), and [Zoom 💰](https://www.zoom-platform.com/product/z-the-game). ❞
 >

@@ -19,7 +19,7 @@
 - Use the default **drive** and **directory** for the installation location.
 - Press `1` to **Install**.
 - Sound Card Configuration:
-  - FM - Music: **Roland MT-32 or compatible with Roland MPU MIDI Interface**. Switch the toggle under the settings to **ON**.
+  - FM - Music: **Creative Labs Sound Blaster(TM) FM Sound**. Switch the toggle under the settings to **ON**.
   - FX - Effects: **Creative Labs Sound Blaster(TM) Digital Sound**. Switch the toggle under the settings to **ON**.
   - Select **OK** to quit and save data.
 - Press `ESC` to exit the configuration.

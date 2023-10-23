@@ -4,7 +4,7 @@
 
 「**M.A.X.**」「**M.A.X.: Mechanized Assault & Exploration**」
 
-> ❝ Your mission: colonize new worlds on distant planets. As the Mission Commander of the Mechanized Assault & Exploration (M.A.X.) force, you are the first. Mining stations, power plants, tactical combat vehicle factories, habitats – it’s up to you to plan and construct them. You create an entire new colony. You control the resources you find there. Enemies? Crush them! And there will be enemies. You’re not the only Mission Commander trying to colonize the planets. You’ll have to push yourself to the limit to survive the ultimate showdown in strategic warfare. It’s espionage, heavy artillery, offensives, counter-offensives and intelligence, all with maximum consequences. ❞
+> ❝ Your mission: colonize new worlds on distant planets. As the Mission Commander of the Mechanized Assault & Exploration (M.A.X.) force, you are the first. Mining stations, power plants, tactical combat vehicle factories, habitats – it's up to you to plan and construct them. You create an entire new colony. You control the resources you find there. Enemies? Crush them! And there will be enemies. You're not the only Mission Commander trying to colonize the planets. You'll have to push yourself to the limit to survive the ultimate showdown in strategic warfare. It's espionage, heavy artillery, offensives, counter-offensives and intelligence, all with maximum consequences. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [Steam 💰](https://store.steampowered.com/app/615250/MAX_Mechanized_Assault__Exploration/). A **M.A.X. + M.A.X. 2** bundle is available on [GOG 💰](https://www.gog.com/en/game/m_a_x_m_a_x_2). ❞
 >

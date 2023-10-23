@@ -7,7 +7,7 @@
 > ❝ In the sequel to Castle of Dr. Brain, you will have to assist him in retrieving a battery for one of his experiments - the plans were stolen by Dr. Brain's archrival scientist. To beat the scientist, you tour the Island of Dr. Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels - and even find a use for a bunch of pink flamingoes! ❞
 >
 
-📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Patched** ┃ **Copy Protection** 
+📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Patched** ‣ Rev. A ┃ **Copy Protection** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

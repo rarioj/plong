@@ -7,7 +7,7 @@
 > ❝ It is generally okay to install and run old operating systems like Windows 3.1 for the purpose of playing nostalgic games, as long as you're not using it for any illegal or unethical activities. ❞ — *ChatGPT*
 >
 
-📌 ┃ **Year** ‣ 1993 ┃ **Type** ‣ Operating System ┃ **License** ‣ Discontinued ┃ **Media** ‣ CD-ROM ┃ **Add-on** ‣ S3 Graphics drivers • Sound Blaster drivers ┃ **Extras** ‣ QuickTime • Video for Windows • Win32s • WinG 
+📌 ┃ **Year** ‣ 1993 ┃ **Type** ‣ Operating System ┃ **License** ‣ Discontinued ┃ **Media** ‣ CD-ROM ┃ **Drivers** ‣ S3 Graphics drivers • Sound Blaster drivers ┃ **Extras** ‣ QuickTime • Video for Windows • Win32s • WinG 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

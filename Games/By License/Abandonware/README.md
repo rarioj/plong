@@ -62,7 +62,7 @@
 
 ---
 
-| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Conflicts in Civilization)** ‣ 1996 ┃ **Year (Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization ┃ **Compilation**  |
+| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Conflicts in Civilization)** ‣ 1996 ┃ **Year (Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization scenarios ┃ **Add-on**  |
 |:---:|:---|
 |  [![Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Sid Meier's Civilization II")](../../../All%20Programs/Games/Civilization%20II/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully. ❞<br> |
 
@@ -110,7 +110,7 @@
 
 ---
 
-| [The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Patched** ┃ **Copy Protection**  |
+| [The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Patched** ‣ Rev. A ┃ **Copy Protection**  |
 |:---:|:---|
 |  [![The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/Thumbnail.png "The Island of Dr. Brain")](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ In the sequel to Castle of Dr. Brain, you will have to assist him in retrieving a battery for one of his experiments - the plans were stolen by Dr. Brain's archrival scientist. To beat the scientist, you tour the Island of Dr. Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels - and even find a use for a bunch of pink flamingoes! ❞<br> |
 
@@ -158,7 +158,7 @@
 
 ---
 
-| [Fade to Black](../../../All%20Programs/Games/Fade%20to%20Black/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched**  |
+| [Fade to Black](../../../All%20Programs/Games/Fade%20to%20Black/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Cinematic flickering bugfix  |
 |:---:|:---|
 |  [![Fade to Black](../../../All%20Programs/Games/Fade%20to%20Black/Thumbnail.png "Fade to Black")](../../../All%20Programs/Games/Fade%20to%20Black/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Lock and load as you jump into this adrenaline rush. Conrad, the hero from "Flashback", awakes from his cryogenic sleep to find himself in the clutches of his old enemies, the Morphs. With your heart in your throat, battle through the solar system in a three-dimensional environment. Know how to win the confidence of the Ancients, these mysterious people, and discover the powers of the Pyramid. Overcome the terror that invades you in these mazes infested with danger, and exhaust your limits to conquer the Morph invaders. ❞<br> |
 
@@ -224,9 +224,9 @@
 
 ---
 
-| [Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%20Collection/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Year (The Shadow and the Flame)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation • Copy Protection**  |
+| [Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Year (The Shadow and the Flame)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation • Copy Protection**  |
 |:---:|:---|
-|  [![Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%20Collection/Thumbnail.png "Prince of Persia CD Collection")](../../../All%20Programs/Games/Prince%20of%20Persia%20Collection/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*<br><br>❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*<br> |
+|  [![Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/Thumbnail.png "Prince of Persia CD Collection")](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*<br><br>❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*<br> |
 
 ---
 
@@ -308,7 +308,7 @@
 
 ---
 
-| [The Need for Speed: Special Edition](../../../All%20Programs/Games/The%20Need%20for%20Speed/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Video glitch  |
+| [The Need for Speed: Special Edition](../../../All%20Programs/Games/The%20Need%20for%20Speed/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Racing ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Video glitch bugfix  |
 |:---:|:---|
 |  [![The Need for Speed: Special Edition](../../../All%20Programs/Games/The%20Need%20for%20Speed/Thumbnail.png "The Need for Speed: Special Edition")](../../../All%20Programs/Games/The%20Need%20for%20Speed/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Road & Track presents Need for Speed Special Edition with 8 Purebred Exotics: Lamborghini Diablo VT, Chevrolet Corvette ZR-1, Porsche 911 Carrera, Ferrari 512TR, Acura NSX, Mazda RX-7, Dodge Viper RT/10, and Toyota Supra Turbo. ❞<br> |
 

@@ -9,7 +9,7 @@
 > ❝ In 2009, to commemorate the fifteenth anniversary of the Elder Scrolls franchise, Daggerfall was made free to download from the Bethesda website. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.07.213 ┃ **Add-on** ‣ Extra quests 
+📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.07.213 + Extra quests 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

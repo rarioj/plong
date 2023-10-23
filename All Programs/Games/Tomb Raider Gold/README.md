@@ -2,7 +2,7 @@
 
 # Tomb Raider Gold
 
-「**Tomb Raider 1**」「**Tomb Raider: Unfinished Business**」「**Tomb Raider featuring Lara Croft**」
+「**Tomb Raider** (Base)」「**Tomb Raider: Unfinished Business** (Add-on)」「**Tomb Raider featuring Lara Croft**」
 
 > ❝ Adventurer Lara Croft is on a quest to recover the pieces of an ancient artifact known as the Scion. With her fearless acrobatic style, she runs, jumps, swims and climbs her way toward the truth of its origins and powers - leaving only a trail of empty tombs and gun cartridges in her wake. Get ready to cross the globe and take on impossible odds while exploring Incan ruins, Ancient Rome, Egyptian Pyramids, and the Lost City of Atlantis in search of the fabled Scion. ❞
 >

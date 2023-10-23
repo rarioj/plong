@@ -8,7 +8,7 @@
 
 ---
 
-| [The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Patched** ┃ **Copy Protection**  |
+| [The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Educational • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Patched** ‣ Rev. A ┃ **Copy Protection**  |
 |:---:|:---|
 |  [![The Island of Dr. Brain](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/Thumbnail.png "The Island of Dr. Brain")](../../../All%20Programs/Games/Dr.%20Brain%20-%20The%20Island%20of%20Dr.%20Brain/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ In the sequel to Castle of Dr. Brain, you will have to assist him in retrieving a battery for one of his experiments - the plans were stolen by Dr. Brain's archrival scientist. To beat the scientist, you tour the Island of Dr. Brain to search for the elusive battery. On your way, you will have to solve puzzles with various difficulty levels - and even find a use for a bunch of pink flamingoes! ❞<br> |
 

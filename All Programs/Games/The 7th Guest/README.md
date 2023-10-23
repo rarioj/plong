@@ -4,7 +4,7 @@
 
 「**T7G**」
 
-> ❝ The mansion of the master Toy Maker, Henry Stauf, has been abandoned for as long as anyone can remember, rotting ever since the children started dying, ever since the six guests came. There are only the eerie lights. The terrifying screams. The unearthly wailing. Now, there is only you. As you move from room to haunted room, scenes from that night of horror come to life. There was another guest. Stauf’s game is not over. Only you can end the nightmare and discover the secret of The Seventh Guest. ❞
+> ❝ The mansion of the master Toy Maker, Henry Stauf, has been abandoned for as long as anyone can remember, rotting ever since the children started dying, ever since the six guests came. There are only the eerie lights. The terrifying screams. The unearthly wailing. Now, there is only you. As you move from room to haunted room, scenes from that night of horror come to life. There was another guest. Stauf's game is not over. Only you can end the nightmare and discover the secret of The Seventh Guest. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_7th_guest_25th_anniversary_edition) and [Steam 💰](https://store.steampowered.com/app/255920/The_7th_Guest/). ❞
 >

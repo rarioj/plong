@@ -4,7 +4,7 @@
 
 「**The 11th Hour: The sequel to The 7th Guest**」「**11H**」
 
-> ❝ In the 70 desolate years since the horrifying murders chronicled in The 7th Guest, the town of Harley has been ominously silent. Only when journalist Robin Morales vanishes while investigating the rotting, abandoned mansion of legendary toy maker Henry Stauf, events resurrect the malignant past. As Robin’s colleague and lover, Carl Denning, you come to the ravaged estate to find her. What you uncover in its decaying chambers embroils the entire town in a deadly legacy of madness. ❞
+> ❝ In the 70 desolate years since the horrifying murders chronicled in The 7th Guest, the town of Harley has been ominously silent. Only when journalist Robin Morales vanishes while investigating the rotting, abandoned mansion of legendary toy maker Henry Stauf, events resurrect the malignant past. As Robin's colleague and lover, Carl Denning, you come to the ravaged estate to find her. What you uncover in its decaying chambers embroils the entire town in a deadly legacy of madness. ❞
 >
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/the_11th_hour) and [Steam 💰](https://store.steampowered.com/app/255940/The_11th_Hour/). ❞
 >

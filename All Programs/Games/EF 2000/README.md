@@ -2,7 +2,7 @@
 
 # EF 2000
 
-「**Eurofighter 2000**」「**EF 2000: TACTCOM**」「**EF 2000: V2.0**」
+「**Eurofighter 2000**」「**EF 2000: TACTCOM** (Add-on)」「**EF 2000: V2.0**」
 
 > ❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞
 >
