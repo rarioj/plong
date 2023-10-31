@@ -3,7 +3,7 @@
 ###### Library properties
 # library-name: PLoNG
 # library-source: https://raw.githubusercontent.com/rarioj/plong/main/Library.txt
-# library-version: 23.10f
+# library-version: 23.10g
 # script-export-file: 0
 # script-include-text: 0
 # montage-grid: 10
@@ -6013,8 +6013,8 @@
 # file: All Programs/Games/Dungeon Keeper/Program.txt = # text: ## Installation Notes
 # file: All Programs/Games/Dungeon Keeper/Program.txt = # text: - Installing **Dungeon Keeper**
 # file: All Programs/Games/Dungeon Keeper/Program.txt = # text:   - Select your preferred language.
-# file: All Programs/Games/Dungeon Keeper/Program.txt = # text:   - Select **Audio Setup** > **Select SFX Card**:
-# file: All Programs/Games/Dungeon Keeper/Program.txt = # text:     - Select **Creative Labs Sound Blaster 16 or AWE32** > **Configure Automatically**.
+# file: All Programs/Games/Dungeon Keeper/Program.txt = # text:   - Select **Audio Setup** ‣ **Select SFX Card**:
+# file: All Programs/Games/Dungeon Keeper/Program.txt = # text:     - Select **Creative Labs Sound Blaster 16 or AWE32** ‣ **Configure Automatically**.
 # file: All Programs/Games/Dungeon Keeper/Program.txt = # text:   - Select **Install**.
 # file: All Programs/Games/Dungeon Keeper/Program.txt = # text:   - Use the default **drive** and **directory** for the installation location.
 # file: All Programs/Games/Dungeon Keeper/Program.txt = # text:   - Select **Quit Setup** to begin *Dungeon Keeper: The Deeper* Dungeons installation.
@@ -12082,7 +12082,7 @@
 # file: All Programs/Games/RollerCoaster Tycoon/Program.txt = # text: - Mounted CD-ROM images at launch:
 # file: All Programs/Games/RollerCoaster Tycoon/Program.txt = # text:   1. RollerCoaster Tycoon Base
 # file: All Programs/Games/RollerCoaster Tycoon/Program.txt = # text:   2. RollerCoaster Tycoon Expansion Packs
-# file: All Programs/Games/RollerCoaster Tycoon/Program.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+# file: All Programs/Games/RollerCoaster Tycoon/Program.txt = # text: - Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS ‣ Swap CD drive**.
 # file: All Programs/Games/RollerCoaster Tycoon/Program.txt
 # file: All Programs/Games/RollerCoaster Tycoon/Program.txt = [sdl]
 # file: All Programs/Games/RollerCoaster Tycoon/Program.txt = autolock = true
@@ -13407,7 +13407,7 @@
 # file: All Programs/Games/Spycraft - The Great Game/Program.txt = # text: ### How to swap CD-ROM images?
 # file: All Programs/Games/Spycraft - The Great Game/Program.txt = # text: - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
 # file: All Programs/Games/Spycraft - The Great Game/Program.txt = # text: - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-# file: All Programs/Games/Spycraft - The Great Game/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+# file: All Programs/Games/Spycraft - The Great Game/Program.txt = # text: - [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS ‣ Swap CD drive.
 # file: All Programs/Games/Spycraft - The Great Game/Program.txt
 # file: All Programs/Games/Spycraft - The Great Game/Program.txt = [sdl]
 # file: All Programs/Games/Spycraft - The Great Game/Program.txt = autolock = true

@@ -25,7 +25,7 @@
 - Mounted CD-ROM images at launch:
   1. RollerCoaster Tycoon Base
   2. RollerCoaster Tycoon Expansion Packs
-- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS ‣ Swap CD drive**.
 
 ![](Montage.png "RollerCoaster Tycoon: Gold Edition")
 

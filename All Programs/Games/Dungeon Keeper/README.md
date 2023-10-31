@@ -18,8 +18,8 @@
 ## Installation Notes
 - Installing **Dungeon Keeper**
   - Select your preferred language.
-  - Select **Audio Setup** > **Select SFX Card**:
-    - Select **Creative Labs Sound Blaster 16 or AWE32** > **Configure Automatically**.
+  - Select **Audio Setup** ‣ **Select SFX Card**:
+    - Select **Creative Labs Sound Blaster 16 or AWE32** ‣ **Configure Automatically**.
   - Select **Install**.
   - Use the default **drive** and **directory** for the installation location.
   - Select **Quit Setup** to begin *Dungeon Keeper: The Deeper* Dungeons installation.
