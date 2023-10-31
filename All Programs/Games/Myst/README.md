@@ -16,7 +16,7 @@
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
 - Do not install *QuickTime*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "Myst")
 

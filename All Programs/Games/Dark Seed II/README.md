@@ -16,7 +16,7 @@
 - Use the default **drive** and **directory** for the installation location.
 - Select **Medium: scene data files, 40MB** installation level.
 - Do not install *Video for Windows*. Click **Exit** when prompted. Your Windows 3.1x has the most recent version.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ## Additional Notes
 - In the game **Options**:

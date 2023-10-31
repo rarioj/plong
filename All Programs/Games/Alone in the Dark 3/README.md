@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)** ┃ **[MobyGames](https://www.mobygames.com/game/908/alone-in-the-dark-3/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-3-2y6)** ┃ **[Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_3)** ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_3)** ┃ **[MobyGames](https://www.mobygames.com/game/908/alone-in-the-dark-3/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-3-2y6)** ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
 
 ## Installation Notes
 - Select **Install**.

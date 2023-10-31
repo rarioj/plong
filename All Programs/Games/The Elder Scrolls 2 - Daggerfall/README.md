@@ -13,12 +13,12 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall)** ┃ **[MobyGames](https://www.mobygames.com/game/778/the-elder-scrolls-chapter-ii-daggerfall/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-chapter-ii-daggerfall-3zw)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Steam 🆓](https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/)** ┃ **[Bethesda](https://elderscrolls.bethesda.net/en/daggerfall)** ┃ **[Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Daggerfall:Daggerfall)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Elder_Scrolls_II:_Daggerfall)** ┃ **[MobyGames](https://www.mobygames.com/game/778/the-elder-scrolls-chapter-ii-daggerfall/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-elder-scrolls-chapter-ii-daggerfall-3zw)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Steam 🆓](https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/)** ┃ **[Bethesda](https://elderscrolls.bethesda.net/en/daggerfall)** ┃ **[Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Daggerfall:Daggerfall)** 
 
 ## Installation Notes
 - Change the install size: **Medium installation (95MB)**.
   - Use the default **drive** and **directory** for the installation location.
-- Configure sound:
+- Audio configuration:
   - Select Digital: **Sound Blaster 16/AWE32**; Port: **220**; DMA: **1**; IRQ: **7**.
   - Select MIDI: **MPU-401**; Port: **330**.
 - Proceed with patching the game by pressing `Y` to confirm all the questions.

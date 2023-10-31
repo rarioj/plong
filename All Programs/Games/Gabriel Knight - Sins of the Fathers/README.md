@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers)** ┃ **[MobyGames](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m)** ┃ **[Fandom](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_(CD-ROM))** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers)** ┃ **[Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers)** ┃ **[MobyGames](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m)** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers)** ┃ **[Steam 💰](https://store.steampowered.com/app/495700/Gabriel_Knight_Sins_of_the_Father/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.

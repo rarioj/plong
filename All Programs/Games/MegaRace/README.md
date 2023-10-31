@@ -20,8 +20,8 @@
 - Game configuration:
   - Language: **English subtitles**.
   - Graphics: **256 colors VGA**.
-  - Music: **Sound Blaster 16** > **Auto**.
-  - Sound: **Sound Blaster 16** > **Auto**.
+  - Music: **Sound Blaster 16** ‣ **Auto**.
+  - Sound: **Sound Blaster 16** ‣ **Auto**.
   - Extra memory: **Expanded Memory (EMS)**.
 - Select **I want to start the game now.**
 

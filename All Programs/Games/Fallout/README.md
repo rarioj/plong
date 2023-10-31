@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Fallout_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/223/fallout/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/fallout-br3)** ┃ **[Fandom](https://fallout.fandom.com/wiki/Fallout)** ┃ **[Series](https://en.wikipedia.org/wiki/Fallout_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/fallout)** ┃ **[Steam 💰](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Fallout_(video_game))** ┃ **[MobyGames](https://www.mobygames.com/game/223/fallout/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/fallout-br3)** ┃ **[Series](https://en.wikipedia.org/wiki/Fallout_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/fallout)** ┃ **[Steam 💰](https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/)** 
 
 ## Installation Notes
 - Select **HUMONGOUS INSTALLATION** for the installation type.

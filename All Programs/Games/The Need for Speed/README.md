@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Need_for_Speed)** ┃ **[MobyGames](https://www.mobygames.com/game/654/the-need-for-speed-special-edition/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-need-for-speed-special-edition-7q5)** ┃ **[Fandom](https://nfs.fandom.com/wiki/The_Need_for_Speed:_Special_Edition)** ┃ **[Series](https://en.wikipedia.org/wiki/Need_for_Speed)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Need_for_Speed)** ┃ **[MobyGames](https://www.mobygames.com/game/654/the-need-for-speed-special-edition/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-need-for-speed-special-edition-7q5)** ┃ **[Series](https://en.wikipedia.org/wiki/Need_for_Speed)** 
 
 ## Installation Notes
 - Sound Card: **Sound Blaster 16/32/AWE 32**.

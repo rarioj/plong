@@ -9,7 +9,7 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent) and [Steam 💰](https://store.steampowered.com/app/273570/Descent/). ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+📌 ┃ **Year (Descent)** ‣ 1995 ┃ **Year (Descent: Levels of the World)** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
@@ -20,7 +20,7 @@
 - Do you have the shareware version of Descent installed on this machine? Select **Don't Copy Data Files**.
 - Select **Install Descent**.
 - Main menu:
-  - Select **Auto Detect Sound Hardware** • **Continue with Auto Detection** • **Select this sound card**.
+  - Select **Auto Detect Sound Hardware ‣ Continue with Auto Detection ‣ Select this sound card**.
   - Select **Exit**.
 
 ![](Montage.png "Descent: Anniversary Edition")

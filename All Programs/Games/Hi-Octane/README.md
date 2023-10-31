@@ -18,7 +18,7 @@
 - When prompted to install the introduction, press `Y`.
 
 ## Additional Notes
-- For high-resolution graphics, go to *Options > Detail Options > Screen Resolution*, and select **640 x 480 256 Colours**.
+- For high-resolution graphics, go to *Options ‣ Detail Options ‣ Screen Resolution*, and select **640 x 480 256 Colours**.
 
 ![](Montage.png "Hi-Octane")
 

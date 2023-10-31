@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/)** ‣ 0.74-3 🟨 • Vertical line glitches ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Oddworld:_Abe%27s_Oddysee)** ┃ **[MobyGames](https://www.mobygames.com/game/1058/oddworld-abes-oddysee/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/oddworld-abe-s-oddysee-cqh)** ┃ **[Fandom](https://oddworld.fandom.com/wiki/Oddworld:_Abe%27s_Oddysee)** ┃ **[Series](https://en.wikipedia.org/wiki/Oddworld)** ┃ **[GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee)** ┃ **[Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/)** ┃ **[Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Oddworld:_Abe%27s_Oddysee)** ┃ **[MobyGames](https://www.mobygames.com/game/1058/oddworld-abes-oddysee/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/oddworld-abe-s-oddysee-cqh)** ┃ **[Series](https://en.wikipedia.org/wiki/Oddworld)** ┃ **[GOG 💰](https://www.gog.com/en/game/oddworld_abes_oddysee)** ┃ **[Steam 💰](https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/)** ┃ **[Zoom 💰](https://www.zoom-platform.com/product/oddworld-abes-oddysee)** 
 
 ## Installation Notes
 - Sound Configuration Utility:

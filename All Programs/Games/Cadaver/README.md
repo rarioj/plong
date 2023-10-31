@@ -9,7 +9,7 @@
 > ❝ Dianos is dead. Karadoc has fulfilled The Cadaver contract. But collecting the reward will be more challenging than you had ever imagined. ❞ — *Cadaver: The Payoff*
 >
 
-📌 ┃ **Year** ‣ 1990 ┃ **Year (The Payoff)** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Add-on** 
+📌 ┃ **Year (Cadaver)** ‣ 1990 ┃ **Year (Cadaver: The Payoff)** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 

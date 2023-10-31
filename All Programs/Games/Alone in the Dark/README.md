@@ -9,11 +9,11 @@
 > ❝ This game **is not abandonware 🚫**. **The Trilogy 1+2+3** release is available on [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123). ❞
 >
 
-📌 ┃ **Year** ‣ 1992 ┃ **Year (Jack in the Dark)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
+📌 ┃ **Year (Alone in the Dark)** ‣ 1992 ┃ **Year (Jack in the Dark)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **Alone in the Dark** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)) • [MobyGames](https://www.mobygames.com/game/325/alone-in-the-dark/) • [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-1rg) • [Fandom](https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(1992)) ┃ **Jack in the Dark** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark#Jack_in_the_Dark_(1993)) • [MobyGames](https://www.mobygames.com/game/1231/jack-in-the-dark/) • [MyAbandonware](https://www.myabandonware.com/game/jack-in-the-dark-2ab) • [Fandom](https://aloneinthedark.fandom.com/wiki/Jack_In_The_Dark) ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
+📎 ┃ **Alone in the Dark** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark_(1992_video_game)) • [MobyGames](https://www.mobygames.com/game/325/alone-in-the-dark/) • [MyAbandonware](https://www.myabandonware.com/game/alone-in-the-dark-1rg) ┃ **Jack in the Dark** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Alone_in_the_Dark#Jack_in_the_Dark_(1993)) • [MobyGames](https://www.mobygames.com/game/1231/jack-in-the-dark/) • [MyAbandonware](https://www.myabandonware.com/game/jack-in-the-dark-2ab) ┃ **[Series](https://en.wikipedia.org/wiki/Alone_in_the_Dark)** ┃ **Alone in the Dark: The Trilogy 1+2+3** ‣ [GOG 💰](https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123) 
 
 ## Installation Notes
 - Select *language* and then **Install**.

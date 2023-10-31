@@ -14,7 +14,7 @@
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
 - Ignore pop-up error: *Setup Initialization Error*. It will not affect gameplay.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "The Incredible Toon Machine")
 

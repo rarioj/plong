@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Genre ‣ Adventure (66)
+# 🗂️ Games ‣ By Genre ‣ Adventure (70)
 
 ---
 
@@ -296,9 +296,21 @@
 
 ---
 
+| [Return of the Phantom](../../../All%20Programs/Games/Return%20of%20the%20Phantom/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Return of the Phantom](../../../All%20Programs/Games/Return%20of%20the%20Phantom/Thumbnail.png "Return of the Phantom")](../../../All%20Programs/Games/Return%20of%20the%20Phantom/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The story begins in the summer of 1993. You are Inspector Raoul Montand, visiting the famed Paris Opera House to attend the premiere of the legendary Don Juan Triumphant, supposedly composed by Erik, the Phantom of the Opera. But a ghastly accident stops the production before it starts, and all the evidence seems to indicate the Phantom himself is still alive! Then things take a truly bizarre twist. While investigating the crime, you are pushed from a catwalk by an unseen assailant and plunged backward in time to 1881! Suddenly, everyone believes you are Raoul de Chagny, lover of the beautiful opera singer Christine Daae, and rival to the real Phantom of the Opera. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/game/return_of_the_phantom) and [Steam 💰](https://store.steampowered.com/app/1299710/Return_of_the_Phantom/). ❞<br> |
+
+---
+
 | [Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
 |  [![Return to Zork](../../../All%20Programs/Games/Return%20to%20Zork/Thumbnail.png "Return to Zork")](../../../All%20Programs/Games/Return%20to%20Zork/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Seven hundred years before the action in Return to Zork unfolds, the Great Underground Empire and all evil magic are no more. However, the mythical dark recesses beneath the Valley of the Sparrow are back. As a wayward adventurer, you must save the human race from Morphius, the evil ruler of the Great Underground Empire. You roam from the Eastlands to the Westlands, gathering clues and solving puzzles by receiving hints from quirky characters you meet. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://gog.com/en/game/return_to_zork) and [Steam 💰](https://store.steampowered.com/app/585240/Return_to_Zork/). ❞<br> |
+
+---
+
+| [Ringworld: Revenge of the Patriarch](../../../All%20Programs/Games/Ringworld%20-%20Revenge%20of%20the%20Patriarch/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Ringworld: Revenge of the Patriarch](../../../All%20Programs/Games/Ringworld%20-%20Revenge%20of%20the%20Patriarch/Thumbnail.png "Ringworld: Revenge of the Patriarch")](../../../All%20Programs/Games/Ringworld%20-%20Revenge%20of%20the%20Patriarch/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ It never mentioned an insane Patriarch, Kzinti assassins, Puppeteer genocide, or the fact that a world so immense it could hold a million earths is the only hope for the future of the universe. A tangled web of intrigue brings together a vengeful Kzin, a kidnapped engineer and a mercenary - alone against a plot that could plunge all of Known Space into chaos. The Kzinti are on the warpath, the Puppeteers claim innocence, and Ringworld holds the answer. If only you can find it in time. ❞<br> |
 
 ---
 
@@ -323,6 +335,12 @@
 | [Shannara](../../../All%20Programs/Games/Shannara/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
 |  [![Shannara](../../../All%20Programs/Games/Shannara/Thumbnail.png "Shannara")](../../../All%20Programs/Games/Shannara/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Brona, the ancient Warlock King, has returned! Slain decades ago, Brona's evil spirit has returned to wreak revenge upon those who killed him. Now, only the combined magic of the races can destroy him. You are Jak Ohmsford. Only you can overcome the ancestral hatreds that divide the Four Lands. And only you can wield the magic that will defeat Brona. It is your destiny to save your homeland-but the price is far higher than you could have ever imagined. ❞<br><br>❝ This game **is not abandonware 🚫** and used to be for sale on **Ziggurat**. However, it is no longer available digitally anymore. ❞<br> |
+
+---
+
+| [Spycraft: The Great Game](../../../All%20Programs/Games/Spycraft%20-%20The%20Great%20Game/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary  |
+|:---:|:---|
+|  [![Spycraft: The Great Game](../../../All%20Programs/Games/Spycraft%20-%20The%20Great%20Game/Thumbnail.png "Spycraft: The Great Game")](../../../All%20Programs/Games/Spycraft%20-%20The%20Great%20Game/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Enter the world of international intrigue. It's you against faceless enemies in a rush to unravel a high-level assassination plot. Arm yourself with authentic spy tools, high-tech weapons and professional CIA operation skills. Confront realistic global scenarios where decisions you make determine the balance of world power. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/game/spycraft_the_great_game) and [Steam 💰](https://store.steampowered.com/app/569220/Spycraft_The_Great_Game/). ❞<br> |
 
 ---
 
@@ -374,7 +392,7 @@
 
 ---
 
-| [The Lost Adventures of Legend](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Companions of Xanth)** ‣ 1993 ┃ **Year (Eric the Unready)** ‣ 1993 ┃ **Year (Spellcasting 101: Sorcerers get all the Girls)** ‣ 1990 ┃ **Year (Spellcasting 201: The Sorcerer's Appliance)** ‣ 1991 ┃ **Year (Spellcasting 301: Spring Break)** ‣ 1992 ┃ **Year (Gateway)** ‣ 1992 ┃ **Year (Gateway II: Homeworld)** ‣ 1993 ┃ **Year (Timequest)** ‣ 1991 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **License (Gateway)** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation**  |
+| [The Lost Adventures of Legend](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/README.md) | 📌 ┃ **Year (Companions of Xanth)** ‣ 1993 ┃ **Year (Eric the Unready)** ‣ 1993 ┃ **Year (Spellcasting 101: Sorcerers get all the Girls)** ‣ 1990 ┃ **Year (Spellcasting 201: The Sorcerer's Appliance)** ‣ 1991 ┃ **Year (Spellcasting 301: Spring Break)** ‣ 1992 ┃ **Year (Gateway)** ‣ 1992 ┃ **Year (Gateway II: Homeworld)** ‣ 1993 ┃ **Year (Timequest)** ‣ 1991 ┃ **Year (The Lost Adventures of Legend)** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **License (Gateway)** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation**  |
 |:---:|:---|
 |  [![The Lost Adventures of Legend](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/Thumbnail.png "The Lost Adventures of Legend")](../../../All%20Programs/Games/The%20Lost%20Adventures%20of%20Legend/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ The Lost Adventures is a compilation of eight award-winning adventures spanning the sci-fi, fantasy and comedy categories. ❞<br><br>❝ Besides **Gateway**, all the games in this compilation **are not abandonware 🚫**. Two games, **Companions of Xanth** and **Gateway II: Homeworld**, are no longer available digitally. Other games are available on *GOG 💰* and *Steam 💰*. ❞<br> |
 
@@ -389,6 +407,12 @@
 | [The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
 |  [![The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/Thumbnail.png "The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel")](../../../All%20Programs/Games/The%20Lost%20Files%20of%20Sherlock%20Holmes%20-%20The%20Case%20of%20the%20Serrated%20Scalpel/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ London, 1888. Scotland Yard summoned Sherlock Holmes, the world's most famous private investigator, and his faithful companion, Dr Watson, to the scene of a gruesome crime - A young actress was found dead in an alley behind her theatre. Not surprisingly, Scotland Yard's Inspector Lestrade is clueless. Was it the work of the Ripper? Sherlock Holmes is unsure, as the circumstantial evidence indicates a much more intricate crime. The shrewd detective begins the hunt. ❞<br> |
+
+---
+
+| [Timelapse](../../../All%20Programs/Games/Timelapse/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Timelapse](../../../All%20Programs/Games/Timelapse/Thumbnail.png "Timelapse")](../../../All%20Programs/Games/Timelapse/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Embark on an adventure through time and space to find a missing archaeologist and discover the alien secret of the fabled sunken lost city of Atlantis and its link to the ancient civilizations of the Egyptians, Maya, Anasazi, and Easter Island. Prepare yourself for the journey as the time gate has re-opened. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](http://gog.com/game/timelapse) and [Steam 💰](https://store.steampowered.com/app/433580/Timelapse/). ❞<br> |
 
 ---
 

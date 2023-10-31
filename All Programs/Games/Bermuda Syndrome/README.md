@@ -17,7 +17,7 @@
 - Select **Yes, I have a giant harddisk!** option.
 - Use the default **drive** and **directory** for the installation location.
 - Leave the Setup screen as is and **Save Settings**.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "Bermuda Syndrome")
 

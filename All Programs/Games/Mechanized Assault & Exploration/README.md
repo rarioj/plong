@@ -21,7 +21,7 @@
 - Use the default **drive** and **directory** for the installation location.
 - Select **Install MAX**.
 - Main menu:
-  - Select **Auto Detect Sound Hardware** • **Continue with Auto Detection** • **Select this sound card**.
+  - Select **Auto Detect Sound Hardware ‣ Continue with Auto Detection ‣ Select this sound card**.
   - Select **Exit**. Save changes? **Yes**.
 - Unskippable game trailer will play before the actual game starts.
 

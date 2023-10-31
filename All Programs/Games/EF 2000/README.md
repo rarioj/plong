@@ -1,13 +1,13 @@
 ![](Thumbnail.png "application-thumbnail")
 
-# EF 2000
+# EF 2000: V2.0
 
-「**Eurofighter 2000**」「**EF 2000: TACTCOM** (Add-on)」「**EF 2000: V2.0**」
+「**EF 2000** (Base)」「**EF 2000: TACTCOM** (Add-on)」「**Eurofighter 2000**」
 
 > ❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+📌 ┃ **Year (EF 2000)** ‣ 1995 ┃ **Year (EF 2000: TACTCOM)** ‣ 1996 ┃ **Year (EF 2000: V2.0)** ‣ 1997 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
@@ -28,7 +28,7 @@
   - **Save**.
 - Select **EXIT CONFIG** and **Quit Installation**.
 
-![](Montage.png "EF 2000")
+![](Montage.png "EF 2000: V2.0")
 
 ---
 

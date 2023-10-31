@@ -17,12 +17,12 @@
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
-- Main Menu > **Sound Setup**.
+- Main Menu ‣ **Sound Setup**.
   - Do you want to auto-detect for the presence of a SoundBlaster? (y/n). Press `Y`.
   - Sound Capabilities: **Sound Blaster 16**.
   - Are you ready to test the sound driver you have selected? (y/n). Press `Y`.
   - Did the sound play ok? (y/n). Press `Y`.
-- Main Menu > **Save and launch TV**.
+- Main Menu ‣ **Save and launch TV**.
 
 ## Additional Notes
 - In-game *Sound Options* offer several adjustments to provide better-quality sound:

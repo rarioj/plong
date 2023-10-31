@@ -17,7 +17,7 @@
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
-- Abuse Soundcard configuration:
+- Audio configuration:
   - Select Digital: **Sound Blaster 16**; Port: **220**; DMA: **1**; IRQ: **7**.
   - Select MIDI: **MPU-401**; Port: **330**.
 

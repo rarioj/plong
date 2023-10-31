@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_3.1x)** ┃ **[Fandom](https://microsoft.fandom.com/wiki/Windows_3.1)** ┃ **[Windows 3.1x in DOSBox-Staging](https://github.com/dosbox-staging/dosbox-staging/wiki/Windows-3.1x)** ┃ **[Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)** ┃ **[SierraHelp - Graphics Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallGraphicsDrivers.html)** ┃ **[SierraHelp - Soundblaster 16 Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallSB.html)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_3.1x)** ┃ **[Windows 3.1x in DOSBox-Staging](https://github.com/dosbox-staging/dosbox-staging/wiki/Windows-3.1x)** ┃ **[Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)** ┃ **[SierraHelp - Graphics Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallGraphicsDrivers.html)** ┃ **[SierraHelp - Soundblaster 16 Drivers for Windows 3.1x 🔓](http://www.sierrahelp.com/Utilities/Emulators/DOSBox/3x_InstallSB.html)** 
 
 ## Installation Notes
 - Step 1: Installing Windows 3.1x
@@ -38,10 +38,10 @@
 
 ## Additional Notes
 - Audio configuration:
-  - Open **Main > Control Panel > MIDI Mapper**, change the *Name* dropdown to **SB16 All MIDI** and click **Close**.
-  - Open **Main > Control Panel > Drivers**, add new **[MCI] CD Audio** driver to the list, replace `A:\` with `C:\WIN31`, click **OK**, and click **Close**.
+  - Open **Main ‣ Control Panel ‣ MIDI Mapper**, change the *Name* dropdown to **SB16 All MIDI** and click **Close**.
+  - Open **Main ‣ Control Panel ‣ Drivers**, add new **[MCI] CD Audio** driver to the list, replace `A:\` with `C:\WIN31`, click **OK**, and click **Close**.
 - Install essential programs:
-  - Open **Main > File Manager** and go to the `C:\APPS` directory. Double-click on each of these filenames listed:
+  - Open **Main ‣ File Manager** and go to the `C:\APPS` directory. Double-click on each of these filenames listed:
     - `C:\APPS\QTIME\QT16.EXE` to install [QuickTime](https://en.wikipedia.org/wiki/QuickTime).
     - `C:\APPS\VFW\SETUP.EXE` to install [Video for Windows](https://en.wikipedia.org/wiki/Video_for_Windows).
     - `C:\APPS\WIN32S\SETUP.EXE` to install [Win32s](https://en.wikipedia.org/wiki/Win32s).

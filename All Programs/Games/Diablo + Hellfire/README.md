@@ -11,11 +11,11 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/diablo). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.09 (Diablo) ┃ **Patched** ‣ 1.01 (Hellfire) ┃ **Add-on** 
+📌 ┃ **Year (Diablo)** ‣ 1996 ┃ **Year (Hellfire)** ‣ 1997 ┃ **Genre** ‣ Role-playing ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.09 (Diablo) ┃ **Patched** ‣ 1.01 (Hellfire) ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **Diablo** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game)) • [MobyGames](https://www.mobygames.com/game/339/diablo/) • [MyAbandonware](https://www.myabandonware.com/game/diablo-3it) • [Fandom](https://diablo.fandom.com/wiki/Diablo_(Game)) ┃ **Hellfire** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Diablo:_Hellfire) • [MobyGames](https://www.mobygames.com/game/1462/hellfire/) • [MyAbandonware](https://www.myabandonware.com/game/hellfire-9z8) • [Fandom](https://diablo.fandom.com/wiki/Diablo:_Hellfire) ┃ **Diablo + Hellfire** ‣ [MobyGames](https://www.mobygames.com/game/1853/diablo-hellfire/) ┃ **[Series](https://en.wikipedia.org/wiki/Diablo_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/diablo)** 
+📎 ┃ **Diablo** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Diablo_(video_game)) • [MobyGames](https://www.mobygames.com/game/339/diablo/) • [MyAbandonware](https://www.myabandonware.com/game/diablo-3it) ┃ **Hellfire** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Diablo:_Hellfire) • [MobyGames](https://www.mobygames.com/game/1462/hellfire/) • [MyAbandonware](https://www.myabandonware.com/game/hellfire-9z8) ┃ **Diablo + Hellfire** ‣ [MobyGames](https://www.mobygames.com/game/1853/diablo-hellfire/) ┃ **[Series](https://en.wikipedia.org/wiki/Diablo_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/diablo)** 
 
 ## Host Requirements
 - Download a *Diablo* patch file manually from [MyAbandonware](https://www.myabandonware.com/game/diablo-3it) labeled *"Patch 1.09 English version 2 MB (Windows)"*, rename it to `pdiablo.zip`, and place it in the `Assets` directory.
@@ -35,7 +35,7 @@
 - Mounted CD-ROM images at launch:
   1. Diablo (required to be in the CD-ROM drive to play *Diablo* or *Hellfire*)
   2. Hellfire (installation data only)
-- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS ‣ Swap CD drive**.
 
 ![](Montage.png "Diablo + Hellfire")
 

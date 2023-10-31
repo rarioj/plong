@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)** ┃ **[MobyGames](https://www.mobygames.com/game/141074/the-secret-of-monkey-island-enhanced-version/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-secret-of-monkey-island-1ni)** ┃ **[Fandom](https://monkeyisland.fandom.com/wiki/The_Secret_of_Monkey_Island)** ┃ **[Series](https://en.wikipedia.org/wiki/Monkey_Island)** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)** ┃ **[MobyGames](https://www.mobygames.com/game/616/the-secret-of-monkey-island/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-secret-of-monkey-island-1ni)** ┃ **[Series](https://en.wikipedia.org/wiki/Monkey_Island)** ┃ **Special Edition** ‣ [GOG 💰](https://www.gog.com/en/game/the_secret_of_monkey_island_special_edition) 
 
 ## Additional Notes
 - Hotkey: CTRL+T to switch between Voice only, Voice + Text, and Text only.

@@ -9,11 +9,11 @@
 > ❝ To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1995 ┃ **Year (The Covert Operations)** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+📌 ┃ **Year (Tiberian Dawn)** ‣ 1995 ┃ **Year (The Covert Operations)** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **Command & Conquer (Tiberian Dawn)** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)) • [MobyGames](https://www.mobygames.com/game/338/command-conquer/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-2r7) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer_(1995)) ┃ **Command & Conquer: The Covert Operations** ‣ [MobyGames](https://www.mobygames.com/game/883/command-conquer-the-covert-operations/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-the-covert-operations-arg) • [Fandom](https://cnc.fandom.com/wiki/Command_%26_Conquer:_The_Covert_Operations) ┃ **[Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)** ┃ **Remastered Collection** ‣ [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/) 
+📎 ┃ **Command & Conquer (Tiberian Dawn)** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)) • [MobyGames](https://www.mobygames.com/game/338/command-conquer/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-2r7) ┃ **Command & Conquer: The Covert Operations** ‣ [MobyGames](https://www.mobygames.com/game/883/command-conquer-the-covert-operations/) • [MyAbandonware](https://www.myabandonware.com/game/command-conquer-the-covert-operations-arg) ┃ **[Series](https://en.wikipedia.org/wiki/Command_%26_Conquer)** ┃ **Remastered Collection** ‣ [Steam 💰](https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/) 
 
 ## Installation Notes
 - Installing **Command & Conquer**:
@@ -31,7 +31,7 @@
 ### How to swap CD-ROM images?
 - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
 - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS ‣ Swap CD drive.
 
 ![](Montage.png "Command & Conquer")
 

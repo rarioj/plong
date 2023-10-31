@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By License ‣ Freeware (26)
+# 🗂️ Games ‣ By License ‣ Freeware (27)
 
 ---
 
@@ -44,13 +44,13 @@
 
 ---
 
-| [Command & Conquer](../../../All%20Programs/Games/Command%20%26%20Conquer/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Year (The Covert Operations)** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
+| [Command & Conquer](../../../All%20Programs/Games/Command%20%26%20Conquer/README.md) | 📌 ┃ **Year (Tiberian Dawn)** ‣ 1995 ┃ **Year (The Covert Operations)** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
 |:---:|:---|
 |  [![Command & Conquer](../../../All%20Programs/Games/Command%20%26%20Conquer/Thumbnail.png "Command & Conquer")](../../../All%20Programs/Games/Command%20%26%20Conquer/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Welcome to the New World Order, a world where the art of electronic intelligence and covert surveillance reign supreme. Guerrilla strategies and savage combat are the norms. In the hyper-real combat/strategy experience of Command & Conquer, you're thrust dead-on into the heat of an all-out race for global control. Will you side with the humanistic Global Defense Initiative? Or bring the world to its knees with the terroristic Brotherhood of Nod? Decide fast. Your adversaries are without mercy. Spread your web of power via electronic and physical aggression. Build bases, muster forces and lacerate your enemies to the bone. All for the love of power. ❞<br><br>❝ To mark the 12th anniversary of the franchise, Electronic Arts, the current publisher and owner of the series, released the game for free in 2007. ❞ — *Wikipedia*<br> |
 
 ---
 
-| [Command & Conquer: Red Alert](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Counterstrike & The Aftermath)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Red Alert - The Aftermath mission bugfix ┃ **Add-on**  |
+| [Command & Conquer: Red Alert](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/README.md) | 📌 ┃ **Year (Red Alert)** ‣ 1996 ┃ **Year (Red Alert - Counterstrike)** ‣ 1997 ┃ **Year (Red Alert - The Aftermath)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Red Alert - The Aftermath mission bugfix ┃ **Add-on**  |
 |:---:|:---|
 |  [![Command & Conquer: Red Alert](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/Thumbnail.png "Command & Conquer: Red Alert")](../../../All%20Programs/Games/Command%20%26%20Conquer%20-%20Red%20Alert/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Dark experiments have permanently altered time. Or have they? Now, Soviet tanks crush city after city while Allied cruisers shell bases. Spies lurk, land mines wait, and strange new technologies aid both sides in their struggle for ultimate control. ❞<br><br>❝ To mark the 13th anniversary of Command and Conquer and the announcement of Red Alert 3, EA released Command and Conquer: Red Alert as freeware. ❞ — *Wikipedia*<br> |
 
@@ -110,7 +110,7 @@
 
 ---
 
-| [StarCraft: Anthology](../../../All%20Programs/Games/StarCraft/README.md) | 📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
+| [StarCraft: Anthology](../../../All%20Programs/Games/StarCraft/README.md) | 📌 ┃ **Year (StarCraft)** ‣ 1998 ┃ **Year (StarCraft: Brood War)** ‣ 1998 ┃ **Year (StarCraft: Anthology)** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
 |:---:|:---|
 |  [![StarCraft: Anthology](../../../All%20Programs/Games/StarCraft/Thumbnail.png "StarCraft: Anthology")](../../../All%20Programs/Games/StarCraft/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ In the distant future, a small group of human exiles are fighting for survival on the galaxy's edge. A unified Terran government has maintained an uneasy peace through military strength, espionage, and deceit. But as resources and fuel run short, the Confederate nations are looking towards the rich worlds of their alien neighbours, the enigmatic Protoss. To further complicate matters, it seems that a previously unknown species, the Zerg, has entered Protoss space and is destroying everything in its path. The time for war has come. As the military leader for your species, you must gather the resources you need to train and expand your military and lead them to victory. ❞<br><br>❝ The original game, along with the expansion, was released for free in April 2017. ❞ — *Wikipedia*<br> |
 
@@ -149,6 +149,12 @@
 | [The Lost Vikings](../../../All%20Programs/Games/The%20Lost%20Vikings/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Action • Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Freeware ┃ **Media** ‣ Floppy Disk ┃ **Copy Protection**  |
 |:---:|:---|
 |  [![The Lost Vikings](../../../All%20Programs/Games/The%20Lost%20Vikings/Thumbnail.png "The Lost Vikings")](../../../All%20Programs/Games/The%20Lost%20Vikings/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Three hairy Norsemen set the stage for a decade of legendary adventure. Meet Erik the Swift, Baleog the Fierce, and Olaf the Stout - your typical, borderline-insane Vikings who happen to get abducted by aliens. Now it's up to you to slash, smash and solve their way home, an intense arcade action. Pillage and plunder your way through 35 levels of mind-bending arcade action. Combine the unique skills of three distinct Viking personalities to conquer dozens of marauding foes. ❞<br><br>❝ In 2014, the game was added to Battle.net as a free download emulated through DOSBox. ❞ — *Wikipedia*<br> |
+
+---
+
+| [War Wind](../../../All%20Programs/Games/War%20Wind/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.2  |
+|:---:|:---|
+|  [![War Wind](../../../All%20Programs/Games/War%20Wind/Thumbnail.png "War Wind")](../../../All%20Programs/Games/War%20Wind/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Centuries of oppression have plagued the ancient world of Yavaun, and the time has come to put the tyranny to an end! Four unique races inhabit this war-torn alien world, each with its strengths, weaknesses and distinctive A.I. You will experience their epic struggle first-hand. Learn about each race's plight through dozens of spell-binding 3D cinematics and pledge your allegiance to the mentally astute Tha'Roon, the combat-driven Obblinox, the industrious Eaggra, or the mystical Shama'Li. ❞<br><br>❝ War Wind went permanently free on [GOG 🆓](https://www.gog.com/game/war_wind) on June 3, 2020. War Wind was released as a free game on [Steam 🆓](https://store.steampowered.com/app/1741140/War_Wind/) on September 16, 2021. ❞ — *Wikipedia*<br> |
 
 ---
 

@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[MobyGames](https://www.mobygames.com/game/1579/an-elder-scrolls-legend-battlespire/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/an-elder-scrolls-legend-battlespire-bkn)** ┃ **[Fandom](https://elderscrolls.fandom.com/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Battlespire:Battlespire)** ┃ **[GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/An_Elder_Scrolls_Legend:_Battlespire)** ┃ **[MobyGames](https://www.mobygames.com/game/1579/an-elder-scrolls-legend-battlespire/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/an-elder-scrolls-legend-battlespire-bkn)** ┃ **[Series](https://en.wikipedia.org/wiki/The_Elder_Scrolls)** ┃ **[Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Battlespire:Battlespire)** ┃ **[GOG 💰](https://www.gog.com/en/game/an_elder_scrolls_legend_battlespire)** 
 
 ## Installation Notes
 - Select **Install Battlespire**.

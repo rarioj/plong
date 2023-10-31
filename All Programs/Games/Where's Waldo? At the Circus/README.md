@@ -14,7 +14,7 @@
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
 - Install *Microsoft Video for Windows 1.1e* when prompted.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "Where's Waldo? At the Circus")
 

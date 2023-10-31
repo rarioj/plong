@@ -14,7 +14,7 @@
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
 - Installation type: **Partial Install - 26 megs (Recommended)**.
-- Tachyon Studios Sound Setup Utility:
+- Audio configuration:
   - Select Digital: **Sound Blaster 16**; Port: **220**; DMA: **1**; IRQ: **7**.
   - Select MIDI: **Sound Blaster 16**; Port: **388**.
 

@@ -15,7 +15,7 @@
 - Use the default **drive** and **directory** for the installation location.
 - Installation level: **Large Installation (41.6 MB)**.
 - F22 Setup Main Menu:
-  - Audio Setup - Digital sound device: **Autodetect sound device** • **Perform sound card autodetection**.
+  - Audio Setup - Digital sound device: **Autodetect sound device ‣ Perform sound card autodetection**.
   - Audio Setup - Music device: **Soundblaster 16-bit / OPL3**; I/O: **388h**.
   - Performance settings - Turn ON **Use page flipping** and **Use VESA always**.
   - Exit and save settings.

@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)** ┃ **[Fandom](https://brokensword.fandom.com/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **Director's Cut** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword:_The_Shadow_of_the_Templars)** ┃ **[MobyGames](https://www.mobygames.com/game/499/circle-of-blood/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/circle-of-blood-bok)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **Director's Cut** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_directors_cut) 
 
 ## Host Requirements
 - The [mdf2iso](https://github.com/excitoon/mdf2iso) tool is required to convert MDF CD-ROM format to ISO.
@@ -33,7 +33,7 @@
 ### How to swap CD-ROM images?
 - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
 - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS ‣ Swap CD drive.
 
 ```shell
 if [[ ! -x "$(command -v mdf2iso)" ]]; then sdc__message__error "Missing mdf2iso."; exit 1; else true; fi

@@ -1,6 +1,6 @@
 ![](Thumbnail.png "application-thumbnail")
 
-# Earthworm Jim 1+2: The Whole Can 'O Worms
+# Earthworm Jim 1 & 2: The Whole Can 'O Worms
 
 「**Earthworm Jim**」「**Earthworm Jim 2**」
 
@@ -11,17 +11,17 @@
 > ❝ This game **is not abandonware 🚫**. **Earthworm Jim** is still for sale on [GOG 💰](https://www.gog.com/en/game/earthworm_jim) and [Steam 💰](https://store.steampowered.com/app/38480/Earthworm_Jim/). **Earthworm Jim 2** is still for sale on [GOG 💰](https://www.gog.com/en/game/earthworm_jim_2) and [Steam 💰](https://store.steampowered.com/app/38490/Earthworm_Jim_2/). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
+📌 ┃ **Year (Earthworm Jim)** ‣ 1995 ┃ **Year (Earthworm Jim 2)** ‣ 1995 ┃ **Year (Earthworm Jim 1 & 2: The Whole Can 'O Worms)** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Compilation** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **Earthworm Jim** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_(video_game)) • [MobyGames](https://www.mobygames.com/game/2927/earthworm-jim/) • [MyAbandonware](https://www.myabandonware.com/game/earthworm-jim-2r1) • [Fandom](https://earthwormjim.fandom.com/wiki/Earthworm_Jim_(Game)) • [GOG 💰](https://www.gog.com/en/game/earthworm_jim) • [Steam 💰](https://store.steampowered.com/app/38480/Earthworm_Jim/) ┃ **Earthworm Jim 2** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_2) • [MobyGames](https://www.mobygames.com/game/373/earthworm-jim-2/) • [MyAbandonware](https://www.myabandonware.com/game/earthworm-jim-2-8d1) • [Fandom](https://earthwormjim.fandom.com/wiki/Earthworm_Jim_2) • [GOG 💰](https://www.gog.com/en/game/earthworm_jim_2) • [Steam 💰](https://store.steampowered.com/app/38490/Earthworm_Jim_2/) ┃ **Earthworm Jim 1+2: The Whole Can 'O Worms** ‣ [MobyGames](https://www.mobygames.com/game/5131/earthworm-jim-1-2-the-whole-can-o-worms/) ┃ **[Series](https://en.wikipedia.org/wiki/Earthworm_Jim)** 
+📎 ┃ **Earthworm Jim** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_(video_game)) • [MobyGames](https://www.mobygames.com/game/2927/earthworm-jim/) • [MyAbandonware](https://www.myabandonware.com/game/earthworm-jim-2r1) ┃ **Earthworm Jim 2** ‣ [Wikipedia](https://en.wikipedia.org/wiki/Earthworm_Jim_2) • [MobyGames](https://www.mobygames.com/game/373/earthworm-jim-2/) • [MyAbandonware](https://www.myabandonware.com/game/earthworm-jim-2-8d1) • [GOG 💰](https://www.gog.com/en/game/earthworm_jim_2) • [Steam 💰](https://store.steampowered.com/app/38490/Earthworm_Jim_2/) ┃ **Earthworm Jim 1 & 2: The Whole Can 'O Worms** ‣ [MobyGames](https://www.mobygames.com/game/5131/earthworm-jim-1-2-the-whole-can-o-worms/) ┃ **[Series](https://en.wikipedia.org/wiki/Earthworm_Jim)** 
 
 ## Additional Notes
 - Select playback device: **Sound Blaster Pro**; I/O Port: **220**; Interrupt: **IRQ 7**; DMA Channel: **DMA 1**; Quality: **High Quality**.
 - Save and exit.
 
-![](Montage.png "Earthworm Jim 1+2: The Whole Can 'O Worms")
+![](Montage.png "Earthworm Jim 1 & 2: The Whole Can 'O Worms")
 
 ---
 

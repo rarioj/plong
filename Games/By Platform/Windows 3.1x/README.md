@@ -1,4 +1,4 @@
-# 🗂️ Games ‣ By Platform ‣ Windows 3.1x (24)
+# 🗂️ Games ‣ By Platform ‣ Windows 3.1x (25)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Conflicts in Civilization)** ‣ 1996 ┃ **Year (Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization scenarios ┃ **Add-on**  |
+| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year (Civilization II)** ‣ 1996 ┃ **Year (Civilization II: Conflicts in Civilization)** ‣ 1996 ┃ **Year (Civilization II: Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization scenarios ┃ **Add-on**  |
 |:---:|:---|
 |  [![Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Sid Meier's Civilization II")](../../../All%20Programs/Games/Civilization%20II/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully. ❞<br> |
 
@@ -116,13 +116,13 @@
 
 ---
 
-| [SimCity 2000: CD Collection](../../../All%20Programs/Games/SimCity%202000/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+| [SimCity 2000: CD Collection](../../../All%20Programs/Games/SimCity%202000/README.md) | 📌 ┃ **Year (SimCity 2000)** ‣ 1993 ┃ **Year (SimCity 2000 Scenarios: Volume 1 - Great Disasters)** ‣ 1994 ┃ **Year (SimCity 2000: Urban Renewal Kit)** ‣ 1994 ┃ **Year (SimCity 2000: CD Collection)** ‣ 1994 ┃ **Genre** ‣ Simulation • Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
 |  [![SimCity 2000: CD Collection](../../../All%20Programs/Games/SimCity%202000/Thumbnail.png "SimCity 2000: CD Collection")](../../../All%20Programs/Games/SimCity%202000/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ This morning, you approved a new solar power plant, designed an underground transportation system, and jumped five points in the polls. Then you raised taxes (and lost 10 points), read two local newspapers, built a zoo, a marina and a library, and pushed your education bill through the city council. It's time for lunch - unless there's a fire, tornado, earthquake or alien invasion. ❞<br><br>❝ This game **is not abandonware 🚫**. A **Special Edition** release is available on [GOG 💰](https://www.gog.com/en/game/simcity_2000_special_edition). ❞<br> |
 
 ---
 
-| [SimTower](../../../All%20Programs/Games/SimTower/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1b  |
+| [SimTower](../../../All%20Programs/Games/SimTower/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1b  |
 |:---:|:---|
 |  [![SimTower](../../../All%20Programs/Games/SimTower/Thumbnail.png "SimTower")](../../../All%20Programs/Games/SimTower/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞<br> |
 
@@ -131,6 +131,12 @@
 | [The Incredible Toon Machine](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
 |  [![The Incredible Toon Machine](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/Thumbnail.png "The Incredible Toon Machine")](../../../All%20Programs/Games/The%20Incredible%20Toon%20Machine/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Don't try this stuff at home. These guys are professionals! Drop a piano on Al E. Cat's head! (Konk!) Entice Sid Mouse to sit on hat pins! (Boink!) Smash Al in the foot with a really HUMONGOUS ANVIL! (Crunch!). See the Toons All-Star Pros wince, howl, or get steamed as they chase each other through nearly 100 different slapstick puzzle plots. Plots written and directed by YOU! ❞<br> |
+
+---
+
+| [Timelapse](../../../All%20Programs/Games/Timelapse/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Timelapse](../../../All%20Programs/Games/Timelapse/Thumbnail.png "Timelapse")](../../../All%20Programs/Games/Timelapse/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Embark on an adventure through time and space to find a missing archaeologist and discover the alien secret of the fabled sunken lost city of Atlantis and its link to the ancient civilizations of the Egyptians, Maya, Anasazi, and Easter Island. Prepare yourself for the journey as the time gate has re-opened. ❞<br><br>❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](http://gog.com/game/timelapse) and [Steam 💰](https://store.steampowered.com/app/433580/Timelapse/). ❞<br> |
 
 ---
 

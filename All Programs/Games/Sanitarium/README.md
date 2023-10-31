@@ -33,7 +33,7 @@
   1. Sanitarium Disc #1
   2. Sanitarium Disc #2
   3. Sanitarium Disc #3
-- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS ‣ Swap CD drive**.
 
 ![](Montage.png "Sanitarium")
 

@@ -17,7 +17,7 @@
 - Use the default **drive** and **directory** for the installation location.
 - Confirm the next default settings.
 - Uncheck both **I want to view the Release Notes now.** and **I want to play Dust now.** options.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "Dust: A Tale of the Wired West")
 

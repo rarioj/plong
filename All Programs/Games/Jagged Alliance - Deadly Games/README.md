@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance:_Deadly_Games)** ┃ **[MobyGames](https://www.mobygames.com/game/2457/jagged-alliance-deadly-games/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-deadly-games-cqd)** ┃ **[Fandom](https://jaggedalliance.fandom.com/wiki/Jagged_Alliance:_Deadly_Games)** ┃ **[Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games)** ┃ **[Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games)** ┃ **Gold Edition** ‣ [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Jagged_Alliance:_Deadly_Games)** ┃ **[MobyGames](https://www.mobygames.com/game/2457/jagged-alliance-deadly-games/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/jagged-alliance-deadly-games-cqd)** ┃ **[Series](https://en.wikipedia.org/wiki/Jagged_Alliance_(series))** ┃ **[GOG 💰](https://www.gog.com/en/game/jagged_alliance_deadly_games)** ┃ **[Zoom 💰](https://www.zoom-platform.com/product/jagged-alliance-deadly-games)** ┃ **Gold Edition** ‣ [Steam 💰](https://store.steampowered.com/app/283270/Jagged_Alliance_1_Gold_Edition/) 
 
 ## Host Requirements
 - Download a patch file manually from [Soggi.org](https://soggi.org/misc/game-patches.htm) labeled *"Jagged Alliance: Deadly Games (Sir-Tech / Sir-Tech, Virgin Interactive)"*, rename it to `patch.7z`, and place it in the `Assets` directory.

@@ -14,7 +14,7 @@
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
 - Select **SoundBlaster® or AdLib® (OPL 2)** for the music device.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ## Additional Notes
 - A keyboard with *a numeric keypad* is preferred to play this game.

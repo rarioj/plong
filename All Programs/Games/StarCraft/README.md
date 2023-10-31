@@ -9,11 +9,11 @@
 > ❝ The original game, along with the expansion, was released for free in April 2017. ❞ — *Wikipedia*
 >
 
-📌 ┃ **Year** ‣ 1998 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+📌 ┃ **Year (StarCraft)** ‣ 1998 ┃ **Year (StarCraft: Brood War)** ‣ 1998 ┃ **Year (StarCraft: Anthology)** ‣ 1999 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 9x ┃ **License** ‣ Freeware ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **StarCraft** ‣ [Wikipedia](https://en.wikipedia.org/wiki/StarCraft_(video_game)) • [MobyGames](https://www.mobygames.com/game/378/starcraft/) • [MyAbandonware](https://www.myabandonware.com/game/starcraft-epy) • [Fandom](https://starcraft.fandom.com/wiki/StarCraft) ┃ **StarCraft: Brood War** ‣ [Wikipedia](https://en.wikipedia.org/wiki/StarCraft:_Brood_War) • [MobyGames](https://www.mobygames.com/game/1421/starcraft-brood-war/) • [MyAbandonware](https://www.myabandonware.com/game/starcraft-brood-war-epz) • [Fandom](https://starcraft.fandom.com/wiki/StarCraft:_Brood_War) ┃ **StarCraft: Anthology** ‣ [MobyGames](https://www.mobygames.com/game/33975/starcraft-anthology/) ┃ **[Series](https://en.wikipedia.org/wiki/StarCraft_(series))** ┃ **[Battle.net 🆓](https://us.shop.battle.net/en-us/product/starcraft)** 
+📎 ┃ **StarCraft** ‣ [Wikipedia](https://en.wikipedia.org/wiki/StarCraft_(video_game)) • [MobyGames](https://www.mobygames.com/game/378/starcraft/) • [MyAbandonware](https://www.myabandonware.com/game/starcraft-epy) ┃ **StarCraft: Brood War** ‣ [Wikipedia](https://en.wikipedia.org/wiki/StarCraft:_Brood_War) • [MobyGames](https://www.mobygames.com/game/1421/starcraft-brood-war/) • [MyAbandonware](https://www.myabandonware.com/game/starcraft-brood-war-epz) ┃ **StarCraft: Anthology** ‣ [MobyGames](https://www.mobygames.com/game/33975/starcraft-anthology/) ┃ **[Series](https://en.wikipedia.org/wiki/StarCraft_(series))** ┃ **[Battle.net 🆓](https://us.shop.battle.net/en-us/product/starcraft)** 
 
 ## Installation Notes
 - Open *My Computer* and double-click on the `D:` CD-ROM drive to start the installation.
@@ -24,7 +24,7 @@
 - Mounted CD-ROM images at launch:
   1. StarCraft
   2. StarCraft: Brood War
-- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS ‣ Swap CD drive**.
 
 ![](Montage.png "StarCraft: Anthology")
 

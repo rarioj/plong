@@ -9,7 +9,7 @@
 > ❝ This game **is not abandonware 🚫** and is still for sale on [GOG 💰](https://www.gog.com/en/game/descent_2) and [Steam 💰](https://store.steampowered.com/app/273580/Descent_2/). ❞
 >
 
-📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
+📌 ┃ **Year (Descent II)** ‣ 1996 ┃ **Year (Descent II: The Infinite Abyss)** ‣ 1996 ┃ **Year (Descent II: Vertigo Series)** ‣ 1996 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Proprietary ┃ **Media** ‣ CD-ROM ┃ **Add-on** 
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
@@ -23,7 +23,7 @@
   - Use the default **drive** and **directory** for the installation location.
   - Do you wish to install the S3 Virge version of D2? **Yes**.
   - Main menu:
-    - Select **Setup Sound/Music** • **Auto Detect Sound Hardware** • **Continue with Auto Detection** • **Select this sound card** • **Done Sound and Music**.
+    - Select **Setup Sound/Music ‣ Auto Detect Sound Hardware ‣ Continue with Auto Detection ‣ Select this sound card ‣ Done Sound and Music**.
     - Select **Exit**.
 - *Descent II: Vertigo Series* installation:
   - Use the default **drive** and **directory** for the installation location.

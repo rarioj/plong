@@ -1,8 +1,8 @@
-# 🗂️ Games ‣ By License ‣ Abandonware (53)
+# 🗂️ Games ‣ By License ‣ Abandonware (56)
 
 ---
 
-| [4D Boxing](../../../All%20Programs/Games/4D%20Boxing/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Sports ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Cracked**  |
+| [4D Boxing](../../../All%20Programs/Games/4D%20Boxing/README.md) | 📌 ┃ **Year** ‣ 1991 ┃ **Genre** ‣ Sports ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Cracked**  |
 |:---:|:---|
 |  [![4D Boxing](../../../All%20Programs/Games/4D%20Boxing/Thumbnail.png "4D Boxing")](../../../All%20Programs/Games/4D%20Boxing/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Good evening, ladies and gentlemen. Welcome to the packed car park of Mindscape Palace on this beautiful summer evening for a fabulous night of Championship Boxing. The crowd are going wild as the champion and challenger step into the glare of the TV lights. We can hardly hear the announcer as he introduces the fight to the thousands who have turned up for what promises to be a night of pure sporting genius. Let's go live to our commentary team down at the ringside for a blow-by-blow account of tonight's big fight. ❞<br> |
 
@@ -44,7 +44,7 @@
 
 ---
 
-| [Cadaver](../../../All%20Programs/Games/Cadaver/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Year (The Payoff)** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Add-on**  |
+| [Cadaver](../../../All%20Programs/Games/Cadaver/README.md) | 📌 ┃ **Year (Cadaver)** ‣ 1990 ┃ **Year (Cadaver: The Payoff)** ‣ 1991 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk ┃ **Add-on**  |
 |:---:|:---|
 |  [![Cadaver](../../../All%20Programs/Games/Cadaver/Thumbnail.png "Cadaver")](../../../All%20Programs/Games/Cadaver/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Karadoc, who is a gold-hungry dwarf and just hopes to find a treasure, is on a mission to seek out and kill the necromancer Dianos, the sole remaining inhabitant of Castle Wulf. ❞ — *Cadaver*<br><br>❝ Dianos is dead. Karadoc has fulfilled The Cadaver contract. But collecting the reward will be more challenging than you had ever imagined. ❞ — *Cadaver: The Payoff*<br> |
 
@@ -62,7 +62,7 @@
 
 ---
 
-| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Year (Conflicts in Civilization)** ‣ 1996 ┃ **Year (Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization scenarios ┃ **Add-on**  |
+| [Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/README.md) | 📌 ┃ **Year (Civilization II)** ‣ 1996 ┃ **Year (Civilization II: Conflicts in Civilization)** ‣ 1996 ┃ **Year (Civilization II: Fantastic Worlds)** ‣ 1997 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ Conflicts in Civilization scenarios ┃ **Add-on**  |
 |:---:|:---|
 |  [![Sid Meier's Civilization II](../../../All%20Programs/Games/Civilization%20II/Thumbnail.png "Sid Meier's Civilization II")](../../../All%20Programs/Games/Civilization%20II/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Introducing: Sid Meier's Civilization II. Make every critical social, economic and political decision as you build an empire to stand the test of time. Compete against some of the great leaders of all time. It's discovery. It's diplomacy. It's your destiny. So plan your every move carefully. ❞<br> |
 
@@ -89,6 +89,12 @@
 | [Darker](../../../All%20Programs/Games/Darker/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Action • Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
 |:---:|:---|
 |  [![Darker](../../../All%20Programs/Games/Darker/Thumbnail.png "Darker")](../../../All%20Programs/Games/Darker/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Your side of the planet is constantly in total darkness, but the Delphins have adapted to this life. The Halons used to live in the light, but recent events have caused their side of the planet to fall dark, and now they are attacking you to take over your technology. Your job as a Delphin pilot is to stop them and take down their attacking ships. ❞<br> |
+
+---
+
+| [Desert Strike and Jungle Strike](../../../All%20Programs/Games/Desert%20Strike%20and%20Jungle%20Strike/README.md) | 📌 ┃ **Year (Desert Strike: Return to the Gulf)** ‣ 1994 ┃ **Year (Jungle Strike)** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Desert Strike and Jungle Strike](../../../All%20Programs/Games/Desert%20Strike%20and%20Jungle%20Strike/Thumbnail.png "Desert Strike and Jungle Strike")](../../../All%20Programs/Games/Desert%20Strike%20and%20Jungle%20Strike/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ A self-proclaimed general named Kilbaba is invading one of his neighbours. Installing himself as a dictator, Kilbaba quickly begins fortifying his position with military weapons and installations, including facilities for building nuclear bombs. The United States decides to send in a single helicopter, piloted by you and aided by a co-pilot, to infiltrate and destroy Kilbaba's forces in a series of swift strikes. ❞ — *Desert Strike*<br><br>❝ Ibn Kilbaba, son of Kilbaba Sr., threatens to annihilate America. Kilbaba hires Carlos Ortega to help him set up his nuclear weapons program deep in South America. Carlos Ortega, the world's most notorious drug lord, also yearns to seek revenge. The United States sends you to fight them. You will fight Ibn Kilbaba and Carlos Ortega's private armies with the Comanche attack helicopter. ❞ — *Jungle Strike*<br> |
 
 ---
 
@@ -134,9 +140,9 @@
 
 ---
 
-| [EF 2000](../../../All%20Programs/Games/EF%202000/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
+| [EF 2000: V2.0](../../../All%20Programs/Games/EF%202000/README.md) | 📌 ┃ **Year (EF 2000)** ‣ 1995 ┃ **Year (EF 2000: TACTCOM)** ‣ 1996 ┃ **Year (EF 2000: V2.0)** ‣ 1997 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Add-on**  |
 |:---:|:---|
-|  [![EF 2000](../../../All%20Programs/Games/EF%202000/Thumbnail.png "EF 2000")](../../../All%20Programs/Games/EF%202000/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞<br> |
+|  [![EF 2000: V2.0](../../../All%20Programs/Games/EF%202000/Thumbnail.png "EF 2000: V2.0")](../../../All%20Programs/Games/EF%202000/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ No tactical jet fighter ever created can match the EF2000, NATO's answer to the future of air combat, slated for commission at decade's end. With the aid of the Royal Air Force and British Aerospace, Digital Image Design brings this futuristic aircraft to life right now! ❞<br> |
 
 ---
 
@@ -224,7 +230,7 @@
 
 ---
 
-| [Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/README.md) | 📌 ┃ **Year** ‣ 1990 ┃ **Year (The Shadow and the Flame)** ‣ 1993 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation • Copy Protection**  |
+| [Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/README.md) | 📌 ┃ **Year (Prince of Persia)** ‣ 1990 ┃ **Year (Prince of Persia 2: The Shadow and the Flame)** ‣ 1993 ┃ **Year (Prince of Persia CD Collection)** ‣ 1995 ┃ **Genre** ‣ Action ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Compilation • Copy Protection**  |
 |:---:|:---|
 |  [![Prince of Persia CD Collection](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/Thumbnail.png "Prince of Persia CD Collection")](../../../All%20Programs/Games/Prince%20of%20Persia%201%2B2/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ While the sultan is fighting a war in a foreign land, his vizier Jaffar, a wizard, seizes power. His only obstacle to the throne is the sultan's daughter. Jaffar locks her in a tower and orders her to become his wife, or she dies within 60 minutes. You are thrown prisoner into the palace dungeons. To free her, you must escape the dungeons, get to the palace tower and defeat Jaffar before time runs out. ❞ — *Prince of Persia*<br><br>❝ The evil magician Jaffar assumes your identity, steals your beloved princess, and casts you out of the palace as a beggar. With ferocious palace guards in pursuit, you flee from rooftop to rooftop, through caverns, across a desert island, passed into ruins and beyond. ❞ — *Prince of Persia 2: The Shadow and the Flame*<br> |
 
@@ -239,6 +245,12 @@
 | [Railroad Tycoon Deluxe](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/README.md) | 📌 ┃ **Year** ‣ 1993 ┃ **Genre** ‣ Strategy ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Copy Protection**  |
 |:---:|:---|
 |  [![Railroad Tycoon Deluxe](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/Thumbnail.png "Railroad Tycoon Deluxe")](../../../All%20Programs/Games/Railroad%20Tycoon%20Deluxe/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Big business. Tough decisions. Excitement, challenge and compelling attention to detail. Railroad Tycoon re-creates the Golden Age of Railroads in any of four regions in America and Europe and gives you complete control over every aspect of your industrial empire. But be careful: the world's other tycoons - like J.P. Morgan, Vanderbilt and Carnegie - are fierce competitors, determined to crush or brush you from their path. ❞<br> |
+
+---
+
+| [Ringworld: Revenge of the Patriarch](../../../All%20Programs/Games/Ringworld%20-%20Revenge%20of%20the%20Patriarch/README.md) | 📌 ┃ **Year** ‣ 1992 ┃ **Genre** ‣ Adventure ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Ringworld: Revenge of the Patriarch](../../../All%20Programs/Games/Ringworld%20-%20Revenge%20of%20the%20Patriarch/Thumbnail.png "Ringworld: Revenge of the Patriarch")](../../../All%20Programs/Games/Ringworld%20-%20Revenge%20of%20the%20Patriarch/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ It never mentioned an insane Patriarch, Kzinti assassins, Puppeteer genocide, or the fact that a world so immense it could hold a million earths is the only hope for the future of the universe. A tangled web of intrigue brings together a vengeful Kzin, a kidnapped engineer and a mercenary - alone against a plot that could plunge all of Known Space into chaos. The Kzinti are on the warpath, the Puppeteers claim innocence, and Ringworld holds the answer. If only you can find it in time. ❞<br> |
 
 ---
 
@@ -260,7 +272,13 @@
 
 ---
 
-| [SimTower](../../../All%20Programs/Games/SimTower/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1b  |
+| [Silent Hunter](../../../All%20Programs/Games/Silent%20Hunter/README.md) | 📌 ┃ **Year** ‣ 1996 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM  |
+|:---:|:---|
+|  [![Silent Hunter](../../../All%20Programs/Games/Silent%20Hunter/Thumbnail.png "Silent Hunter")](../../../All%20Programs/Games/Silent%20Hunter/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Silent Hunter is a full-featured and comprehensive look at World War II submarine warfare. Designed for a single-player, Silent Hunter lets you assume command of an American submarine in the Pacific. You have to sink as many enemy ships as possible. Do your job well to become a decorated naval hero and earn assignments on bigger and better class subs as your career progresses. ❞<br><br>❝ This game is no longer available digitally anymore. ❞<br> |
+
+---
+
+| [SimTower](../../../All%20Programs/Games/SimTower/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Simulation ┃ **Platform** ‣ Windows 3.1x ┃ **License** ‣ Abandonware ┃ **Media** ‣ CD-ROM ┃ **Patched** ‣ 1.1b  |
 |:---:|:---|
 |  [![SimTower](../../../All%20Programs/Games/SimTower/Thumbnail.png "SimTower")](../../../All%20Programs/Games/SimTower/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Reach for the sky! Start by building a small office complex - a lobby, a few offices and a cafe. Expand by adding more floors, more offices and elevators. Then diversify to hotel rooms, shops, theatres, restaurants, condos and more as you build your way to the top. Success in SimTower requires design talent, management skills, business acumen and the ability to keep your customers happy. And be on the lookout for fires, insect infestations, terrorists and more (you will find out soon enough). ❞<br> |
 
@@ -284,7 +302,7 @@
 
 ---
 
-| [The Incredible Machine 2](../../../All%20Programs/Games/The%20Incredible%20Machine%202/README.md) | 📌 ┃ **Year** ‣ 1995 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk  |
+| [The Incredible Machine 2](../../../All%20Programs/Games/The%20Incredible%20Machine%202/README.md) | 📌 ┃ **Year** ‣ 1994 ┃ **Genre** ‣ Puzzle ┃ **Platform** ‣ DOS ┃ **License** ‣ Abandonware ┃ **Media** ‣ Floppy Disk  |
 |:---:|:---|
 |  [![The Incredible Machine 2](../../../All%20Programs/Games/The%20Incredible%20Machine%202/Thumbnail.png "The Incredible Machine 2")](../../../All%20Programs/Games/The%20Incredible%20Machine%202/README.md) <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <br>❝ Get ready for more insane, crazy-good fun with the sequel to the award-winning Incredible Machine! Play 150 all-new puzzles in a world where pinwheels and dynamite, cartoon characters and cheese, when manipulating gravity and air pressure to solve fiendishly fun puzzles. A world where you can create complex machines to accomplish seemingly simple tasks. So limber up your brain and prepare to be wowed, stumped and ecstatic all at once. ❞<br> |
 

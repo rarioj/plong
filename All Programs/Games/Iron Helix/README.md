@@ -15,7 +15,7 @@
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "Iron Helix")
 

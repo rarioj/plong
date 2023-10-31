@@ -17,7 +17,7 @@
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ## Additional Notes
 ### How to play this game on a larger display resolution?

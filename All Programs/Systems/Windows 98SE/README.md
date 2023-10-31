@@ -11,7 +11,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_98#Windows_98_Second_Edition)** ┃ **[Fandom](https://microsoft.fandom.com/wiki/Windows_98#Windows_98_Second_Edition)** ┃ **[Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98)** ┃ **[Product Keys](https://forum.winworldpc.com/discussion/6677/new-serials-compilation)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Windows_98#Windows_98_Second_Edition)** ┃ **[Windows 98 in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-98)** ┃ **[Product Keys](https://forum.winworldpc.com/discussion/6677/new-serials-compilation)** 
 
 ## Installation Notes
 - The screen will freeze on the DOSBox-X splash for a few minutes (creating a new 8GB hard disk image).
@@ -32,7 +32,7 @@
 
 ## Additional Notes
 - Disable Task Scheduler
-  - Open *My Computer > Scheduled Tasks*, click the *Advanced* tab on the menu top bar and click *Stop Using Task Scheduler*.
+  - Open *My Computer ‣ Scheduled Tasks*, click the *Advanced* tab on the menu top bar and click *Stop Using Task Scheduler*.
 - Hard disk read-ahead optimization
   - Right-click *My Computer*. Select *Properties*. Click the *Performance* tab. Click *File System* in the *Advanced settings* section, click the *Hard Disk* tab, and set *Read-ahead optimization* to *None*.
   - Restart Windows if asked.
@@ -40,9 +40,9 @@
   - Right-click on the desktop and select *Properties*. Click the *Settings* tab. Set **High Color (16 bit)** for colors and **640 by 480 pixels** for screen area. Click *Apply*.
   - Restart Windows if asked.
 - Installing [7-zip](https://en.wikipedia.org/wiki/7-Zip).
-  - Open *My Computer > C: > Temp*, double-click on `7z920.exe` file.
+  - Open *My Computer ‣ C: ‣ Temp*, double-click on `7z920.exe` file.
 - Installing [DirectX](https://en.wikipedia.org/wiki/DirectX).
-  - Open *My Computer > C: > Temp*, double-click on `dx9c.exe` file.
+  - Open *My Computer ‣ C: ‣ Temp*, double-click on `dx9c.exe` file.
   - Location where you want to place the extracted files: Enter `C:\TEMP` and click **OK**.
   - Double-click on the extracted `DXSETUP.EXE` file.
     - Select **I accept the Agreement** and click **Next**.

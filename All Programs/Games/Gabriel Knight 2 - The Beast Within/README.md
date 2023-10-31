@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[MobyGames](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu)** ┃ **[Fandom](https://gabrielknight.fandom.com/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within)** ┃ **[Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/The_Beast_Within:_A_Gabriel_Knight_Mystery)** ┃ **[MobyGames](https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu)** ┃ **[Series](https://en.wikipedia.org/wiki/Gabriel_Knight)** ┃ **[GOG 💰](https://gog.com/en/game/gabriel_knight_2_the_beast_within)** ┃ **[Steam 💰](https://store.steampowered.com/app/496760/The_Beast_Within_A_Gabriel_Knight_Mystery/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
@@ -34,7 +34,7 @@
 ### How to swap CD-ROM images?
 - [DOSBox](https://www.dosbox.com/wiki/DOSBox_FAQ#Swapping_CD_images) — Hotkey: CTRL+F4
 - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging/blob/main/README) — Hotkey: CTRL+F4 (or CMD+F4 on macOS)
-- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS > Swap CD drive.
+- [DOSBox-X](https://dosbox-x.com/wiki/Guide%3AManaging-image-files-in-DOSBox%E2%80%90X#_mounting_multiple_cd_or_dvd_images) — Hotkey: F11+CTRL+C (or F12+D on macOS). Menu: DOS ‣ Swap CD drive.
 
 ![](Montage.png "Gabriel Knight 2: The Beast Within")
 

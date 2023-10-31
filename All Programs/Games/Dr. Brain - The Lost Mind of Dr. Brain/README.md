@@ -20,7 +20,7 @@
 - Use the default **drive** and **directory** for the installation location.
 - Warning popup can be ignored (we are not using in Windows 95).
 - Click **Exit** to finish installation.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "The Lost Mind of Dr. Brain")
 

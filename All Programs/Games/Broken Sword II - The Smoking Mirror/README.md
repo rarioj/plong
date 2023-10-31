@@ -13,7 +13,7 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) ⬜ • Untested** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) ⬜ • Untested** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror)** ┃ **[MobyGames](https://www.mobygames.com/game/1133/broken-sword-the-smoking-mirror/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/broken-sword-the-smoking-mirror-d3l)** ┃ **[Fandom](https://brokensword.fandom.com/wiki/Broken_Sword_II:_The_Smoking_Mirror)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **Remastered** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) ┃ **Remastered** ‣ [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/) 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Broken_Sword_II:_The_Smoking_Mirror)** ┃ **[MobyGames](https://www.mobygames.com/game/1133/broken-sword-the-smoking-mirror/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/broken-sword-the-smoking-mirror-d3l)** ┃ **[Series](https://en.wikipedia.org/wiki/Broken_Sword)** ┃ **Remastered** ‣ [GOG 💰](https://www.gog.com/en/game/broken_sword_2__the_smoking_mirror) ┃ **Remastered** ‣ [Steam 💰](https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered/) 
 
 ## Installation Notes
 - Open *My Computer* and double-click on the `D:` CD-ROM drive to start the installation.
@@ -25,7 +25,7 @@
 - Mounted CD-ROM images at launch:
   1. Broken Sword: The Smoking Mirror Disc #1
   2. Broken Sword: The Smoking Mirror Disc #2
-- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS > Swap CD drive**.
+- Swapping CD-ROM disc when multiple images are mounted: From DOSBox-X menu **DOS ‣ Swap CD drive**.
 
 ![](Montage.png "Broken Sword II: The Smoking Mirror")
 

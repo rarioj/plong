@@ -17,7 +17,7 @@
 - Select **Custom Installation (Advanced)** option.
 - Check only **SPQR**, your Windows 3.1x has both QuickTime and WinG installed.
 - Use the default **drive** and **directory** for the installation location.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ![](Montage.png "SPQR: The Empire's Darkest Hour")
 

@@ -13,11 +13,11 @@
 
 📦 ┃ **[DOSBox](https://www.dosbox.com/) 🟩** ┃ **[DOSBox Staging](https://dosbox-staging.github.io/) 🟩** ┃ **[DOSBox-X](https://dosbox-x.com/) 🟩** 
 
-📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)** ┃ **[MobyGames](https://www.mobygames.com/game/366/sid-meiers-colonization/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-colonization-28t)** ┃ **[Fandom](https://civilization.fandom.com/wiki/Sid_Meier%27s_Colonization)** ┃ **[Series](https://en.wikipedia.org/wiki/Civilization_(series))** ┃ **[GOG 💰](https://gog.com/en/game/sid_meiers_colonization)** ┃ **[Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/)** 
+📎 ┃ **[Wikipedia](https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization)** ┃ **[MobyGames](https://www.mobygames.com/game/366/sid-meiers-colonization/)** ┃ **[MyAbandonware](https://www.myabandonware.com/game/sid-meier-s-colonization-28t)** ┃ **[Series](https://en.wikipedia.org/wiki/Civilization_(series))** ┃ **[GOG 💰](https://gog.com/en/game/sid_meiers_colonization)** ┃ **[Steam 💰](https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/)** 
 
 ## Installation Notes
 - Use the default **drive** and **directory** for the installation location.
-- Exit Windows and DOSBox once the installation is complete (**Program Manager > File > Exit Windows**) and rerun the `Launch` script to start the program.
+- Exit Windows and DOSBox once the installation is complete (**Program Manager ‣ File ‣ Exit Windows**) and rerun the `Launch` script to start the program.
 
 ## Additional Notes
 ### How to play this game on a larger display resolution?
